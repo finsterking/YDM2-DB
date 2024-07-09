@@ -1,0 +1,24 @@
+{
+  "id": 501000082,
+  "name": "Shelga, the Tri-Warlord",
+  "is_illegal": true,
+  "is_custom": false,
+  "text": "The shockwaves of powerful battles have warped reality, allowing the proud valiant to emerge from the Dimensional Sea.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/501000082.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2800,
+  "species": "Psychic",
+  "ability": "",
+  "has_effect": false,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "Once per turn: You can banish 3 Psychic-Type Pendulum Monsters you control, then target 1 Pendulum Monster you control; if it attacks your opponent directly and reduces their LP to 0 this turn, you win the Match.",
+  "pendulum_scale_left_blue": 10,
+  "pendulum_scale_right_red": 10,
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
+}

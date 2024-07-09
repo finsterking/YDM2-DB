@@ -1,0 +1,20 @@
+{
+  "id": 501000015,
+  "name": "Queen Nereia the Silvercrown",
+  "is_illegal": true,
+  "is_custom": false,
+  "text": "3 Level 6 monsters\nMust be Xyz Summoned, and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their LP to 0, while it has an Xyz Material attached that was originally Plant-Type, you win the Match.\n\n(This card is always treated as a \"King\" card.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/501000015.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2400,
+  "rank": 6
+}

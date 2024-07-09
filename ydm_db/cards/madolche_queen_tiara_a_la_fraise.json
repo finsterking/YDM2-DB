@@ -1,0 +1,20 @@
+{
+  "id": 49689480,
+  "name": "Madolche Queen Tiara-a-la-Fraise",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3 Level 5 \"Madolche\" monsters\nOnce per turn, you can also Xyz Summon \"Madolche Queen Tiara-a-la-Fraise\" by using \"Madolche Queen Tiaramisu\" you control. (Transfer its materials to this card.) Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target up to 2 \"Madolche\" cards in your GY; shuffle them into the Deck, also shuffle cards your opponent controls into the Deck, up to the number of cards returned. If this card in your possession is destroyed by an opponent's card and sent to your GY: Return this card to the Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/49689480.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2600,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2500,
+  "rank": 5
+}
