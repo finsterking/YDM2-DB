@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned: You can target 1 \"Gimmick Puppet\" monster in your GY, except \"Gimmick Puppet Terror Baby\"; Special Summon it in Defense Position. You can banish this card from your GY; your opponent cannot activate cards or effects in response to the activation of your \"Gimmick Puppet\" monster effects this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/43598843.jpg"
+    "https://images.ygoprodeck.com/images/cards/43598843.jpg",
+    "https://images.ygoprodeck.com/images/cards/43598843.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 500,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

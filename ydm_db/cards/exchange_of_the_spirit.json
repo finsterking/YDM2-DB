@@ -1,11 +1,12 @@
 {
-  "id": 17484499,
+  "id": 511000820,
   "name": "Exchange of the Spirit",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "If both players have 15 or more cards in their Graveyards: Pay 1000 LP; each player swaps the cards in their Graveyard with the cards in their Deck, then shuffles their Deck. You can only activate 1 \"Exchange of the Spirit\" per Duel.",
+  "is_custom": true,
+  "text": "While there are 15 or more cards in your Graveyard: Pay 1000 LP; Both players swap the card(s) in their Graveyard with the card(s) in their Deck. Then, both players shuffle their Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17484499.jpg"
+    "https://images.ygoprodeck.com/images/cards/511000820.png",
+    "https://images.ygoprodeck.com/images/cards/511000820.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

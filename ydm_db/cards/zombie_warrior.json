@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "\"Skull Servant\" + \"Battle Warrior\"",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/31339260.jpg"
+    "https://images.ygoprodeck.com/images/cards/31339260.jpg",
+    "https://images.ygoprodeck.com/images/cards/31339260.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,
   "species": "Zombie",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 900,
   "level": 3,
   "is_tuner": false

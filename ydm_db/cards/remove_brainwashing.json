@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "The control of all monsters on the field returns to the owners.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/94739788.jpg"
+    "https://images.ygoprodeck.com/images/cards/94739788.jpg",
+    "https://images.ygoprodeck.com/images/cards/94739788.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

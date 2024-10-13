@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. If this card is destroyed: Draw 1 card.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/7736719.png",
     "https://images.ygoprodeck.com/images/cards/7736719.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 0,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 3,
   "is_tuner": false

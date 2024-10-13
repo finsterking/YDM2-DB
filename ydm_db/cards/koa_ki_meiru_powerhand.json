@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Normal Trap Card in your hand. If this card battles a LIGHT or DARK monster, any of that monster's effects that activate or apply on the field are negated during that Battle Phase, while this card remains on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/19642889.jpg"
+    "https://images.ygoprodeck.com/images/cards/19642889.jpg",
+    "https://images.ygoprodeck.com/images/cards/19642889.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

@@ -1,12 +1,13 @@
 {
-  "id": 856784,
+  "id": 511003084,
   "name": "Draw of Fate",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "If your LP are lower than your opponent's and your opponent controls a monster with the highest ATK on the field (even if it's tied): Reveal 3 cards with different names from your Deck, place them on top of your Deck in random order, then draw 1 card. For the rest of this turn after this card resolves, you cannot Set Spells/Traps, also you can only activate one more card or effect. You can only activate 1 \"Draw of Fate\" per turn.",
+  "is_custom": true,
+  "text": "When an opponent's monster declares an attack: Negate the attack, and if you do, each player draws 1 card. During this turn's End Phase, if a player(s) did not use their drawn card, that player(s) loses the Duel.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/856784.jpg"
+    "https://images.ygoprodeck.com/images/cards/511003084.png",
+    "https://images.ygoprodeck.com/images/cards/511003084.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Trap",
+  "trap_type": "Normal"
 }

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 \"Gaia Knight, the Force of Earth\" + 1 non-Effect Synchro Monster\nThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/58601383.png",
     "https://images.ygoprodeck.com/images/cards/58601383.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3500,
   "species": "Beast-Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2800,
   "level": 10,
   "is_tuner": false

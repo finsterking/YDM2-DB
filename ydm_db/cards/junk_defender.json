@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player's turn: You can have this card gain 300 DEF until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/68120130.jpg"
+    "https://images.ygoprodeck.com/images/cards/68120130.jpg",
+    "https://images.ygoprodeck.com/images/cards/68120130.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 3,
   "is_tuner": false

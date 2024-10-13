@@ -1,0 +1,13 @@
+{
+  "id": 100100507,
+  "name": "Speed Spell - Twister",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Pay 500 LP, then target 1 face-up Spell/Trap on the field; destroy that target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100507.png",
+    "https://images.ygoprodeck.com/images/cards/100100507.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

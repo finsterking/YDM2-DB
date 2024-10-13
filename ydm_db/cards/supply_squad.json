@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17626381.jpg"
+    "https://images.ygoprodeck.com/images/cards/17626381.jpg",
+    "https://images.ygoprodeck.com/images/cards/17626381.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

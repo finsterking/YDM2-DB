@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Each player can only control 1 Type of monster. Send all other face-up monsters they control to the GY.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/90846359.jpg"
+    "https://images.ygoprodeck.com/images/cards/90846359.jpg",
+    "https://images.ygoprodeck.com/images/cards/90846359.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

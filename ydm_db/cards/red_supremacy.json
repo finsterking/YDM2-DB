@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Banish 1 \"Red Dragon Archfiend\" Synchro Monster from your Graveyard, then target 1 \"Red Dragon Archfiend\" Synchro Monster you control; its name becomes the banished monster's original name, and replace its effects with the banished monster's original effects.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/50584941.jpg"
+    "https://images.ygoprodeck.com/images/cards/50584941.jpg",
+    "https://images.ygoprodeck.com/images/cards/50584941.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

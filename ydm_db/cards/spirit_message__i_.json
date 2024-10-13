@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "This card can only be placed on the field by the effect of \"Destiny Board\".",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/31893528.jpg"
+    "https://images.ygoprodeck.com/images/cards/31893528.jpg",
+    "https://images.ygoprodeck.com/images/cards/31893528.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

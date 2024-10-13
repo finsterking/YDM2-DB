@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 Tuner + 1 non-Tuner monster\nWhen this card is sent from the field to the Graveyard: All monsters your opponent currently controls lose 500 ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/37038993.jpg"
+    "https://images.ygoprodeck.com/images/cards/37038993.jpg",
+    "https://images.ygoprodeck.com/images/cards/37038993.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 800,
   "species": "Reptile",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
-  "ability": "",
+  "ability": "Synchro",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1400,
   "level": 2,
   "is_tuner": true

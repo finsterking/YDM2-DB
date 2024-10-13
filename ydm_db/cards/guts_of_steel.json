@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Select 3 \"Scrap\" monsters in your Graveyard. Your opponent picks 1 of them, you Special Summon it to either player's side of the field, and remove the rest from play.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/33970665.jpg"
+    "https://images.ygoprodeck.com/images/cards/33970665.jpg",
+    "https://images.ygoprodeck.com/images/cards/33970665.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

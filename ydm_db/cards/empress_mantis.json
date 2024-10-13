@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Queen of an army of giant mantises whose command moves legions.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/58818411.jpg"
+    "https://images.ygoprodeck.com/images/cards/58818411.jpg",
+    "https://images.ygoprodeck.com/images/cards/58818411.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2200,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 6,
   "is_tuner": false

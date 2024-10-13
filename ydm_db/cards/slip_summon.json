@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Activate only when your opponent Summons a monster. Special Summon 1 Level 4 or lower monster from your hand in face-up Defense Position. Return it to the owner's hand during the End Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/94484482.jpg"
+    "https://images.ygoprodeck.com/images/cards/94484482.jpg",
+    "https://images.ygoprodeck.com/images/cards/94484482.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

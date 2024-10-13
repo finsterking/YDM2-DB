@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Two dragons fused as one from the effects of the Big Bang.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/78984772.jpg"
+    "https://images.ygoprodeck.com/images/cards/78984772.jpg",
+    "https://images.ygoprodeck.com/images/cards/78984772.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2200,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1700,
   "level": 6,
   "is_tuner": false

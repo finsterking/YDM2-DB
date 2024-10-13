@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Flare Scarab\" from your hand or Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/16241441.jpg"
+    "https://images.ygoprodeck.com/images/cards/16241441.jpg",
+    "https://images.ygoprodeck.com/images/cards/16241441.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 300,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 2,
   "is_tuner": false

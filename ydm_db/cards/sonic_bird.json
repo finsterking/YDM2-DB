@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal or Flip Summoned: You can add 1 Ritual Spell from your Deck to your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/57617178.jpg"
+    "https://images.ygoprodeck.com/images/cards/57617178.jpg",
+    "https://images.ygoprodeck.com/images/cards/57617178.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1400,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Place 1 Ocean Counter on this card during each player's Standby Phase. When this card is removed from the field, all Fish-Type and Sea Serpent-Type monsters you control gain 200 ATK for each Ocean Counter on this card, until the End Phase.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/4404099.png",
     "https://images.ygoprodeck.com/images/cards/4404099.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

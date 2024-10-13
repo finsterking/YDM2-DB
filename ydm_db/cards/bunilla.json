@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This rabbit's got a sweet tooth! He's on a quest for the world's sweetest carrot, and just wants to nibble carrots all day today, tomorrow, and the day after that!",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/69380702.jpg"
+    "https://images.ygoprodeck.com/images/cards/69380702.jpg",
+    "https://images.ygoprodeck.com/images/cards/69380702.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 150,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2050,
   "level": 1,
   "is_tuner": false

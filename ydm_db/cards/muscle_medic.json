@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If a player would take damage from a battle involving this card, they gain that much LP, instead.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/4848423.png",
     "https://images.ygoprodeck.com/images/cards/4848423.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 4,
   "is_tuner": false

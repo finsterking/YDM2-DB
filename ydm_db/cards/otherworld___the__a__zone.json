@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "If your opponent's monster battles an \"Alien\" monster you control, the opponent's monster loses 300 ATK and DEF during damage calculation only.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/60946968.jpg"
+    "https://images.ygoprodeck.com/images/cards/60946968.jpg",
+    "https://images.ygoprodeck.com/images/cards/60946968.png"
   ],
   "type": "Spell",
   "spell_type": "Field"

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "\"Gyroid\" + \"Steamroid\"",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/5368615.png",
     "https://images.ygoprodeck.com/images/cards/5368615.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2200,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1600,
   "level": 6,
   "is_tuner": false

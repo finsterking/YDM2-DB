@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can discard 1 card; Special Summon 2 WATER Winged Beast-Type monsters, 1 from your hand and 1 from your Graveyard, except \"Blizzard Thunderbird\", then return this card from the field to the hand. You can only use this effect of \"Blizzard Thunderbird\" once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/50920465.jpg"
+    "https://images.ygoprodeck.com/images/cards/50920465.jpg",
+    "https://images.ygoprodeck.com/images/cards/50920465.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand to the opponent's field in Defense Position. This card's controller cannot Fusion, Synchro, Xyz, or Link Summon unless they use this card as material.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/87170768.jpg"
+    "https://images.ygoprodeck.com/images/cards/87170768.jpg",
+    "https://images.ygoprodeck.com/images/cards/87170768.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2200,
   "level": 6,
   "is_tuner": false

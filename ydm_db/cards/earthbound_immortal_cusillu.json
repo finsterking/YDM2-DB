@@ -2,19 +2,20 @@
   "id": 33537328,
   "name": "Earthbound Immortal Cusillu",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. If this card would be destroyed by battle, you can Tribute 1 other monster instead, and if you do, halve your opponent's LP.",
+  "is_custom": true,
+  "text": "Neither player can Summon \"Earthbound Immortal\" monsters. Once per turn, during the End Phase, if there is no face-up Field Spell on the field, destroy this card. If there is no face-up Field Spell, these effects are negated.\n\u25cf This card can attack directly.\n\u25cf Cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.\n\u25cf Unaffected by your opponent's Spell/Trap effects.\n\u25cf If this card would be destroyed by battle, you can Tribute 1 other monster instead, and if you do, halve your opponent's LP.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/33537328.jpg"
+    "https://images.ygoprodeck.com/images/cards/33537328.jpg",
+    "https://images.ygoprodeck.com/images/cards/33537328.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2800,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2400,
   "level": 10,
   "is_tuner": false

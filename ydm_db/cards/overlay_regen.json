@@ -3,9 +3,10 @@
   "name": "Overlay Regen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up Xyz Monster on the field; attach this card to it as an Xyz Material.",
+  "text": "Target 1 face-up Xyz Monster on the field; attach this card to it as material.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/27068117.jpg"
+    "https://images.ygoprodeck.com/images/cards/27068117.jpg",
+    "https://images.ygoprodeck.com/images/cards/27068117.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

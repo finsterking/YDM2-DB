@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/89904598.png",
     "https://images.ygoprodeck.com/images/cards/89904598.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 850,
   "level": 3,
   "is_tuner": false

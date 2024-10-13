@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Any cards that would be returned to the Deck from the Graveyard are removed from play instead.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/66100045.jpg"
+    "https://images.ygoprodeck.com/images/cards/66100045.jpg",
+    "https://images.ygoprodeck.com/images/cards/66100045.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Discard 2 cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/92595643.jpg"
+    "https://images.ygoprodeck.com/images/cards/92595643.jpg",
+    "https://images.ygoprodeck.com/images/cards/92595643.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

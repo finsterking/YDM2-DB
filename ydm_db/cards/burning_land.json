@@ -1,11 +1,12 @@
 {
-  "id": 24294108,
+  "id": 504700043,
   "name": "Burning Land",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "When this card is activated: If there are any Field Spell Cards on the field, destroy them. During each player's Standby Phase: The turn player takes 500 damage.",
+  "is_custom": true,
+  "text": "Destroy all Field Spell Cards on the field. Inflict 500 points of damage to each player's Life Points during his/her Standby Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/24294108.jpg"
+    "https://images.ygoprodeck.com/images/cards/504700043.png",
+    "https://images.ygoprodeck.com/images/cards/504700043.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

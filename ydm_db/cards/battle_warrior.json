@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A warrior that fights with his bare hands!!!",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/55550921.png",
     "https://images.ygoprodeck.com/images/cards/55550921.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": false

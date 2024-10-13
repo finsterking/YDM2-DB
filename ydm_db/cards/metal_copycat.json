@@ -1,11 +1,12 @@
 {
-  "id": 101206008,
+  "id": 29157292,
   "name": "Metal Copycat",
   "is_illegal": false,
   "is_custom": false,
   "text": "This card's Level is increased by 4 during your opponent's turn only. You can only use each of the following effects of \"Metal Copycat\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Metalmorph\" Trap directly from your Deck, then, if you have \"Enhanced Metalmorph\" in your GY, you can draw 1 card. You can declare 1 Monster Type; this card becomes that Type until the end of your opponent's turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/101206008.jpg"
+    "https://images.ygoprodeck.com/images/cards/29157292.png",
+    "https://images.ygoprodeck.com/images/cards/29157292.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

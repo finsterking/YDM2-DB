@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During your opponent's turn, when your opponent activates a card or effect that would inflict damage, you can remove from play this card in your Graveyard to change that effect so it increases Life Points by the same amount instead.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/60741115.png",
     "https://images.ygoprodeck.com/images/cards/60741115.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 2,
   "is_tuner": false

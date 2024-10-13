@@ -6,16 +6,16 @@
   "text": "2 Level 4 monsters\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84013237.jpg",
-    "https://images.ygoprodeck.com/images/cards/84013238.jpg"
+    "https://images.ygoprodeck.com/images/cards/84013237.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2000,
   "rank": 4
 }

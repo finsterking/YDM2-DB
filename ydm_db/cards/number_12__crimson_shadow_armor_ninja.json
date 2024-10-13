@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "2 Level 5 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card; this turn, face-up \"Ninja\" monsters you control cannot be destroyed by battle or by card effects.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/19333131.png",
     "https://images.ygoprodeck.com/images/cards/19333131.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2400,
   "species": "Warrior",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1700,
   "rank": 5
 }

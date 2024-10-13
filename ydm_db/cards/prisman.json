@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This crystalline monster focuses light to create a lethal laser.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/80234301.jpg"
+    "https://images.ygoprodeck.com/images/cards/80234301.jpg",
+    "https://images.ygoprodeck.com/images/cards/80234301.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 800,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 3,
   "is_tuner": false

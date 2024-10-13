@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal or Flip Summoned: Destroy all Set cards your opponent controls.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/55758589.png",
     "https://images.ygoprodeck.com/images/cards/55758589.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 7,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "An alligator monster straight from the cartoons.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/59383041.jpg"
+    "https://images.ygoprodeck.com/images/cards/59383041.jpg",
+    "https://images.ygoprodeck.com/images/cards/59383041.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

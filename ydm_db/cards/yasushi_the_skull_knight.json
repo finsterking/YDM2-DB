@@ -1,0 +1,22 @@
+{
+  "id": 511000990,
+  "name": "Yasushi the Skull Knight",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Ultimate Offering\" + \"Witch of the Black Forest\"\n\"The path to victory is fighting with a level head!\"\n(This card is also treated as a Normal Monster)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511000990.png",
+    "https://images.ygoprodeck.com/images/cards/511000990.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2650,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2250,
+  "level": 7,
+  "is_tuner": false
+}

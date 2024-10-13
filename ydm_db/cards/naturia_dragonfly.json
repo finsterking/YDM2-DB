@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This card cannot be destroyed by battle with a monster that has 2000 or more ATK. This card gains 200 ATK for each \"Naturia\" monster in your Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/70083723.jpg"
+    "https://images.ygoprodeck.com/images/cards/70083723.jpg",
+    "https://images.ygoprodeck.com/images/cards/70083723.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,13 @@
+{
+  "id": 100100513,
+  "name": "Speed Spell - Fires of Doomsday",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 2 of your Speed Counters; Special Summon 2 \"Doomsday Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100513.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100513.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

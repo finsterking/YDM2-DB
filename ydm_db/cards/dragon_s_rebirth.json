@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 Dragon monster you control; banish that target, and if you do, Special Summon 1 Dragon monster from your hand or GY.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/20638610.jpg"
+    "https://images.ygoprodeck.com/images/cards/20638610.jpg",
+    "https://images.ygoprodeck.com/images/cards/20638610.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

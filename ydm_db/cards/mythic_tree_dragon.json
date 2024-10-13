@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Once per turn: You can target 1 WATER Dragon-Type monster you control; this card's Level becomes the current Level of that monster.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/50457953.jpg"
+    "https://images.ygoprodeck.com/images/cards/50457953.jpg",
+    "https://images.ygoprodeck.com/images/cards/50457953.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 100,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

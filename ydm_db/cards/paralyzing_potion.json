@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "A non Machine-Type monster equipped with this card cannot attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/50152549.jpg"
+    "https://images.ygoprodeck.com/images/cards/50152549.jpg",
+    "https://images.ygoprodeck.com/images/cards/50152549.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

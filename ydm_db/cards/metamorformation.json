@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "All \"Metalfoes\" monsters you control gain 300 ATK and DEF. While a \"Metalfoes\" card is in your Pendulum Zone, \"Metalfoes\" monsters you control, except Effect Monsters, are unaffected by your opponent's card effects.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/46500985.jpg"
+    "https://images.ygoprodeck.com/images/cards/46500985.jpg",
+    "https://images.ygoprodeck.com/images/cards/46500985.png"
   ],
   "type": "Spell",
   "spell_type": "Field"

@@ -1,0 +1,13 @@
+{
+  "id": 170000173,
+  "name": "Orichalcos Mirror",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is used to Ritual Summon \"Mirror Knight Calling\" from your Deck. You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/170000173.png",
+    "https://images.ygoprodeck.com/images/cards/170000173.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Ritual"
+}

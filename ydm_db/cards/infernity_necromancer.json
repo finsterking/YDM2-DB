@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned, it is changed to Defense Position. If you have no cards in your hand, this card gains the following effect: Once per turn, you can select 1 \"Infernity\" monster in your Graveyard, except \"Infernity Necromancer\", and Special Summon it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/56209279.jpg"
+    "https://images.ygoprodeck.com/images/cards/56209279.jpg",
+    "https://images.ygoprodeck.com/images/cards/56209279.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 3,
   "is_tuner": false

@@ -1,0 +1,13 @@
+{
+  "id": 100100113,
+  "name": "Speed Spell - Speed Jammer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Remove 6 of your opponent's Speed Counters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100113.png",
+    "https://images.ygoprodeck.com/images/cards/100100113.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

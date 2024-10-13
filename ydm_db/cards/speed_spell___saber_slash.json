@@ -1,0 +1,13 @@
+{
+  "id": 100100068,
+  "name": "Speed Spell - Saber Slash",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 3 of your Speed Counters; destroy a number of face-up cards on the field equal to the number of face-up Attack Position \"X-Saber\" monsters you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100068.png",
+    "https://images.ygoprodeck.com/images/cards/100100068.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

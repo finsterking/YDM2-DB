@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "FLIP: Special Summon 1 \"Gusto\" Tuner monster from your Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/72439556.jpg"
+    "https://images.ygoprodeck.com/images/cards/72439556.jpg",
+    "https://images.ygoprodeck.com/images/cards/72439556.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 200,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 2,
   "is_tuner": false

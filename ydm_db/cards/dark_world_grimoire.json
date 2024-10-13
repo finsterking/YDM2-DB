@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "During your End Phase, if you discard a monster(s) to the Graveyard because you had more cards than your hand size limit: You can target 1 of those monsters; Special Summon that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/61623148.jpg"
+    "https://images.ygoprodeck.com/images/cards/61623148.jpg",
+    "https://images.ygoprodeck.com/images/cards/61623148.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

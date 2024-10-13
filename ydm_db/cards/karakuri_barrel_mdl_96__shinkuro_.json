@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. Once per turn, this card cannot be destroyed by battle.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/92300891.jpg"
+    "https://images.ygoprodeck.com/images/cards/92300891.jpg",
+    "https://images.ygoprodeck.com/images/cards/92300891.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 2,
   "is_tuner": true

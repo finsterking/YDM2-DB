@@ -1,22 +1,21 @@
 {
-  "id": 91998119,
+  "id": 504700161,
   "name": "XYZ-Dragon Cannon",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target.",
+  "is_custom": true,
+  "text": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nThis card cannot be Special Summoned except by removing from play the above cards on your side of the field; then you can Special Summon this card from your Fusion Deck (You do not use \"Polymerization\"). Discard 1 card from your hand to destroy 1 card on your opponent's side of the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/91998119.jpg",
-    "https://images.ygoprodeck.com/images/cards/91998120.jpg",
-    "https://images.ygoprodeck.com/images/cards/91998121.jpg"
+    "https://images.ygoprodeck.com/images/cards/504700161.jpg",
+    "https://images.ygoprodeck.com/images/cards/504700161.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,
   "species": "Machine",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2600,
   "level": 8,
   "is_tuner": false

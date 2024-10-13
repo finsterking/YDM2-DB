@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "FLIP: Return 1 face-down monster from the field to the top of its owner's Deck.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/56605802.png",
     "https://images.ygoprodeck.com/images/cards/56605802.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 2,
   "is_tuner": false

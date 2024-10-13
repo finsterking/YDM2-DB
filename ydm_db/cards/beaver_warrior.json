@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "What this creature lacks in size it makes up for in defense when battling in the prairie.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/32452818.jpg"
+    "https://images.ygoprodeck.com/images/cards/32452818.jpg",
+    "https://images.ygoprodeck.com/images/cards/32452818.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

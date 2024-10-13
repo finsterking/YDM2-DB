@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/8687195.jpg"
+    "https://images.ygoprodeck.com/images/cards/8687195.jpg",
+    "https://images.ygoprodeck.com/images/cards/8687195.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 2,
   "is_tuner": false

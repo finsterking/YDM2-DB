@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/11685347.jpg"
+    "https://images.ygoprodeck.com/images/cards/11685347.jpg",
+    "https://images.ygoprodeck.com/images/cards/11685347.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1000,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 3,
   "is_tuner": false

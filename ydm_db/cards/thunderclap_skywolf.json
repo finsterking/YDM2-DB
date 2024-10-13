@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card is Special Summoned from the Graveyard: You can destroy all face-up monsters your opponent controls. You cannot conduct your Battle Phase the turn you activate this effect.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/13683298.png",
     "https://images.ygoprodeck.com/images/cards/13683298.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Thunder",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 7,
   "is_tuner": false

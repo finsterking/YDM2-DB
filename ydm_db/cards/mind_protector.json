@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This card's controller must pay 500 Life Points during each of their Standby Phases. If they cannot, destroy this card. Monsters with 2000 or less ATK cannot declare an attack, except for Psychic-Type monsters.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/85060248.jpg"
+    "https://images.ygoprodeck.com/images/cards/85060248.jpg",
+    "https://images.ygoprodeck.com/images/cards/85060248.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2200,
   "level": 3,
   "is_tuner": false

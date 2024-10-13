@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If a Tuner(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. If this card is in your GY: You can send 1 card from your hand or field to the GY; place this card on the top or bottom of your Deck. You can only use each effect of \"Dark Rose Fairy\" once per turn.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/90724272.png",
     "https://images.ygoprodeck.com/images/cards/90724272.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 2,
   "is_tuner": false

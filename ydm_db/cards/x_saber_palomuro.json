@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When another \"Saber\" monster you control is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points to Special Summon this card from the Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/96099959.jpg"
+    "https://images.ygoprodeck.com/images/cards/96099959.jpg",
+    "https://images.ygoprodeck.com/images/cards/96099959.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 200,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 1,
   "is_tuner": true

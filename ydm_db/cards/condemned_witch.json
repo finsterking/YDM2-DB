@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned: You can add 1 \"Forbidden\" Quick-Play Spell from your Deck to your hand. During your opponent's Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 Fairy monster from your Deck, except \"Condemned Witch\". You can only use each effect of \"Condemned Witch\" once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/44656450.jpg"
+    "https://images.ygoprodeck.com/images/cards/44656450.jpg",
+    "https://images.ygoprodeck.com/images/cards/44656450.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 4,
   "is_tuner": false

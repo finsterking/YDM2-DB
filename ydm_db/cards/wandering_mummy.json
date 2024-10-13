@@ -1,20 +1,21 @@
 {
-  "id": 42994702,
+  "id": 511003036,
   "name": "Wandering Mummy",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "You can flip this card into face-down Defense Position once per turn during your Main Phase. After you use this effect, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
+  "is_custom": true,
+  "text": "Once per turn: You can change this card to face-down Defense Position. If you do, shuffle all face-down Defense Position monsters you control.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42994702.jpg"
+    "https://images.ygoprodeck.com/images/cards/511003036.png",
+    "https://images.ygoprodeck.com/images/cards/511003036.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Zombie",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

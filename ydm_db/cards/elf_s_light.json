@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "A LIGHT monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/39897277.jpg"
+    "https://images.ygoprodeck.com/images/cards/39897277.jpg",
+    "https://images.ygoprodeck.com/images/cards/39897277.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

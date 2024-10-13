@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When a \"Morphtronic\" monster is Summoned, you can change it to face-up Defense Position.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/28284902.jpg"
+    "https://images.ygoprodeck.com/images/cards/28284902.jpg",
+    "https://images.ygoprodeck.com/images/cards/28284902.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

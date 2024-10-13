@@ -2,9 +2,10 @@
   "id": 501000078,
   "name": "Leonardo's Silver Skyship",
   "is_illegal": true,
-  "is_custom": false,
+  "is_custom": true,
   "text": "Her wings display her glory.\nThe proof of her glories are told in legend.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/501000078.png",
     "https://images.ygoprodeck.com/images/cards/501000078.jpg"
   ],
   "type": "Monster",

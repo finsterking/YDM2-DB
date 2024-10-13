@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned: You can Special Summon 1 \"Evolsaur\" monster from your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/28877602.jpg"
+    "https://images.ygoprodeck.com/images/cards/28877602.jpg",
+    "https://images.ygoprodeck.com/images/cards/28877602.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 500,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 2,
   "is_tuner": false

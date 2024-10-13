@@ -1,0 +1,13 @@
+{
+  "id": 100100007,
+  "name": "Speed Spell - Miracle Fusion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can remove 3 of your Speed Counters; Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100007.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100007.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

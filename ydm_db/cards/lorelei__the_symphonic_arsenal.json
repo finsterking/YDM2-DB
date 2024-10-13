@@ -2,9 +2,10 @@
   "id": 501000009,
   "name": "Lorelei, the Symphonic Arsenal",
   "is_illegal": true,
-  "is_custom": false,
+  "is_custom": true,
   "text": "Cannot be Special Summoned. Must be Tribute Summoned by Tributing 3 Machine-Type monsters you control. If this card attacks your opponent directly and reduces their LP to 0, you win the Match.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/501000009.png",
     "https://images.ygoprodeck.com/images/cards/501000009.jpg"
   ],
   "type": "Monster",

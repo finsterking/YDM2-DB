@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Level 4 or higher monsters cannot attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/85742772.jpg"
+    "https://images.ygoprodeck.com/images/cards/85742772.jpg",
+    "https://images.ygoprodeck.com/images/cards/85742772.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

@@ -1,20 +1,21 @@
 {
-  "id": 12538374,
+  "id": 511000559,
   "name": "Treeborn Frog",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Once per turn, during your Standby Phase, if this card is in your Graveyard and you do not control \"Treeborn Frog\": You can Special Summon this card. You must control no Spell/Trap Cards to activate and to resolve this effect.",
+  "is_custom": true,
+  "text": "During your Standby Phase, if this card is in your Graveyard and you do not control \"Treeborn Frog\" or Spell/Trap Cards: You can Special Summon this card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/12538374.jpg"
+    "https://images.ygoprodeck.com/images/cards/511000559.jpg",
+    "https://images.ygoprodeck.com/images/cards/511000559.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 100,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

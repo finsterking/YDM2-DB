@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "The equipped monster gains 800 ATK for each other face-up monster on the field that has the same name it does.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/46910446.jpg"
+    "https://images.ygoprodeck.com/images/cards/46910446.jpg",
+    "https://images.ygoprodeck.com/images/cards/46910446.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

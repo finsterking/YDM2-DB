@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During damage calculation, you can send this card from your hand to the Graveyard to prevent a \"Blackwing\" monster you control from being destroyed by this battle.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/87390067.png",
     "https://images.ygoprodeck.com/images/cards/87390067.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 1,
   "is_tuner": false

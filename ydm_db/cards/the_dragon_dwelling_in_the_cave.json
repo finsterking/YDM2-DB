@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/93346024.png",
     "https://images.ygoprodeck.com/images/cards/93346024.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1300,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 4,
   "is_tuner": false

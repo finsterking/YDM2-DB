@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/76214441.png",
     "https://images.ygoprodeck.com/images/cards/76214441.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 800,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 2,
   "is_tuner": false

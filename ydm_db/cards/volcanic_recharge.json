@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Return up to 3 \"Volcanic\" Monster Cards from your Graveyard to your Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/33725271.jpg"
+    "https://images.ygoprodeck.com/images/cards/33725271.jpg",
+    "https://images.ygoprodeck.com/images/cards/33725271.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

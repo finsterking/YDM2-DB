@@ -5,6 +5,7 @@
   "is_custom": false,
   "text": "See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/17092736.png",
     "https://images.ygoprodeck.com/images/cards/17092736.jpg"
   ],
   "type": "Spell",

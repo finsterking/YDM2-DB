@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "\"Genex Controller\" + 1 or more non-Tuner WIND monsters\nThis card gains 300 ATK for each face-down Spell and Trap Card on the field. You can send 1 card from your hand to the Graveyard to select and destroy 1 face-down Spell or Trap Card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/43925870.jpg"
+    "https://images.ygoprodeck.com/images/cards/43925870.jpg",
+    "https://images.ygoprodeck.com/images/cards/43925870.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,
   "species": "Machine",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
-  "ability": "",
+  "ability": "Synchro",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1600,
   "level": 7,
   "is_tuner": false

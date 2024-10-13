@@ -1,0 +1,13 @@
+{
+  "id": 100100049,
+  "name": "Speed Spell - The Forceful Sentry",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 8 of your Speed Counters; look at your opponent's hand and choose 1 card in it and return it to their Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100049.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100049.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

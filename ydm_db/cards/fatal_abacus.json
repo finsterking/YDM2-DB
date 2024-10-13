@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Each time 1 monster is sent from the field to the Graveyard, inflict 500 points of damage per card to the respective card owner's Life Points.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/77910045.jpg"
+    "https://images.ygoprodeck.com/images/cards/77910045.jpg",
+    "https://images.ygoprodeck.com/images/cards/77910045.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

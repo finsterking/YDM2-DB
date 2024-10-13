@@ -1,20 +1,21 @@
 {
-  "id": 90960358,
+  "id": 511003016,
   "name": "Toon Dark Magician Girl",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". If \"Toon World\" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in either player's GY.",
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control \"Toon World\". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 1). If \"Toon World\" on the field is destroyed, destroy this card. Can attack directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in either player's Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/90960358.jpg"
+    "https://images.ygoprodeck.com/images/cards/511003016.jpg",
+    "https://images.ygoprodeck.com/images/cards/511003016.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Toon",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1700,
   "level": 6,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Once per turn, if you control another \"Genex\" monster, you can make this card's name \"Genex Controller\" until the End Phase.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/16828633.png",
     "https://images.ygoprodeck.com/images/cards/16828633.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 800,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 3,
   "is_tuner": true

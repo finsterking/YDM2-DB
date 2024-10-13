@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/76137614.jpg"
+    "https://images.ygoprodeck.com/images/cards/76137614.jpg",
+    "https://images.ygoprodeck.com/images/cards/76137614.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2300,
   "level": 5,
   "is_tuner": false

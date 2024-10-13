@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Red-Eyes Black Dragon\" from your Deck. There can only be 1 \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell on the field, destroy this card.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/55343236.png",
     "https://images.ygoprodeck.com/images/cards/55343236.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 7,
   "is_tuner": false

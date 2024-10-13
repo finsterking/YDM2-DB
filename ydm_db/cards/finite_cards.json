@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "The hand size limit of each player becomes 3.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/48310593.jpg"
+    "https://images.ygoprodeck.com/images/cards/48310593.jpg",
+    "https://images.ygoprodeck.com/images/cards/48310593.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/13723605.jpg"
+    "https://images.ygoprodeck.com/images/cards/13723605.jpg",
+    "https://images.ygoprodeck.com/images/cards/13723605.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

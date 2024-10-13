@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Neither player can Special Summon LIGHT monsters.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/72845813.png",
     "https://images.ygoprodeck.com/images/cards/72845813.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

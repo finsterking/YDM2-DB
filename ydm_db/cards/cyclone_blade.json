@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Equip only to a \"Destiny HERO\" monster. At the end of the Damage Step, if the equipped monster attacked: Target 1 Spell/Trap Card on the field; destroy that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/22147147.jpg"
+    "https://images.ygoprodeck.com/images/cards/22147147.jpg",
+    "https://images.ygoprodeck.com/images/cards/22147147.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

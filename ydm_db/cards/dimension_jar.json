@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/73414375.jpg"
+    "https://images.ygoprodeck.com/images/cards/73414375.jpg",
+    "https://images.ygoprodeck.com/images/cards/73414375.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 200,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 2,
   "is_tuner": false

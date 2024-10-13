@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 Tuner + 1 or more EARTH monsters\nYou can Tribute 1 \"X-Saber\" monster to discard 1 random card from your opponent's hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/52352005.jpg"
+    "https://images.ygoprodeck.com/images/cards/52352005.jpg",
+    "https://images.ygoprodeck.com/images/cards/52352005.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3100,
   "species": "Beast-Warrior",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
-  "ability": "",
+  "ability": "Synchro",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2600,
   "level": 9,
   "is_tuner": false

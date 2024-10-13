@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Each time a Counter Trap Card is activated, immediately after it resolves, add 2 of your banished Fairy monsters to your hand.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/67468948.png",
     "https://images.ygoprodeck.com/images/cards/67468948.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1400,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

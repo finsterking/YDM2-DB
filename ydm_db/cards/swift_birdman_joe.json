@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners' hands.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/81896370.png",
     "https://images.ygoprodeck.com/images/cards/81896370.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2300,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 6,
   "is_tuner": false

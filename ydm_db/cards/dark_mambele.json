@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/41722932.jpg"
+    "https://images.ygoprodeck.com/images/cards/41722932.jpg",
+    "https://images.ygoprodeck.com/images/cards/41722932.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

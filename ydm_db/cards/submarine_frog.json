@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/63948258.jpg"
+    "https://images.ygoprodeck.com/images/cards/63948258.jpg",
+    "https://images.ygoprodeck.com/images/cards/63948258.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 2,
   "is_tuner": false

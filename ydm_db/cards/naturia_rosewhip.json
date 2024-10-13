@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Your opponent can only activate 1 Spell/Trap Card per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/61049315.jpg"
+    "https://images.ygoprodeck.com/images/cards/61049315.jpg",
+    "https://images.ygoprodeck.com/images/cards/61049315.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1700,
   "level": 3,
   "is_tuner": true

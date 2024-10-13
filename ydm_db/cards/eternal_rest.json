@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Destroy all monsters equipped with Equip Cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/95051344.jpg"
+    "https://images.ygoprodeck.com/images/cards/95051344.jpg",
+    "https://images.ygoprodeck.com/images/cards/95051344.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

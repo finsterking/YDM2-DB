@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 Level 4 or lower \"Marincess\" monster\nIf this card is Link Summoned: You can add 1 \"Marincess\" Spell from your Deck to your hand. You can only Link Summon \"Marincess Sea Angel\" once per turn.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/30691817.png",
     "https://images.ygoprodeck.com/images/cards/30691817.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1000,
   "species": "Cyberse",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 1,
   "link_arrows": [
     "Left"

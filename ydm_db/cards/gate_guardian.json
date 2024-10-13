@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/25833572.jpg"
+    "https://images.ygoprodeck.com/images/cards/25833572.jpg",
+    "https://images.ygoprodeck.com/images/cards/25833572.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3750,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 3400,
   "level": 11,
   "is_tuner": false

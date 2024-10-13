@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/50781944.png",
     "https://images.ygoprodeck.com/images/cards/50781944.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2600,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 7,
   "is_tuner": false

@@ -1,0 +1,22 @@
+{
+  "id": 170000168,
+  "name": "Orichalcos Dexia",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Orichalcos Shunoros\", and cannot be Special Summoned by other ways. Cannot be destroyed while you control a \"Orichalcos Shunoros\". If this card battles with your opponent's monster: This card's ATK becomes equal to either that Attack Position monster's ATK or that Defense Position monster's DEF, + 300 until the end of the Damage Step. After damage calculation, 1 \"Orichalcos Shunoros\" you control loses ATK equal to the ATK this card had during the Damage Step. If \"Orichalcos Shunoros\" leaves the field: Destroy this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/170000168.png",
+    "https://images.ygoprodeck.com/images/cards/170000168.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": -1,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": -1,
+  "level": 4,
+  "is_tuner": false
+}

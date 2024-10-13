@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 \"Malefic\" monster in your GY; Special Summon it, ignoring its Summoning conditions, but its effects are negated, also banish it during the End Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/81384993.jpg"
+    "https://images.ygoprodeck.com/images/cards/81384993.jpg",
+    "https://images.ygoprodeck.com/images/cards/81384993.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

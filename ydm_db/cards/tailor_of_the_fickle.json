@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Switch 1 Equip Card equipped to a monster to another correct target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/43641473.jpg"
+    "https://images.ygoprodeck.com/images/cards/43641473.jpg",
+    "https://images.ygoprodeck.com/images/cards/43641473.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

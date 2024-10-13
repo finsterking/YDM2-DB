@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "2 \"Photon\" monsters\nYou can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/29455728.png",
     "https://images.ygoprodeck.com/images/cards/29455728.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2400,
   "species": "Dragon",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1000,
   "level": 6,
   "is_tuner": false

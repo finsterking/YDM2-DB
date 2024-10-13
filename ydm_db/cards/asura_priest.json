@@ -1,20 +1,21 @@
 {
-  "id": 2134346,
+  "id": 511000113,
   "name": "Asura Priest",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. This card can attack all monsters your opponent controls once each.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/2134346.jpg"
+    "https://images.ygoprodeck.com/images/cards/511000113.jpg",
+    "https://images.ygoprodeck.com/images/cards/511000113.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Spirit",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

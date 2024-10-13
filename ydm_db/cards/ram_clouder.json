@@ -1,20 +1,21 @@
 {
-  "id": 9190563,
+  "id": 120000000,
   "name": "RAM Clouder",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "You can Tribute 1 monster, then target 1 Cyberse monster in your GY; Special Summon it. You can only use this effect of \"RAM Clouder\" once per turn.",
+  "is_custom": true,
+  "text": "[Requirement] During a turn you have not activated the effect of \"RAM Clouder\".\n[Effect] Send 1 monster from your field to the Graveyard. Then, you can Special Summon 1 Cyberse Type monster from your Graveyard face-up to your field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/9190563.jpg"
+    "https://images.ygoprodeck.com/images/cards/120000000.png",
+    "https://images.ygoprodeck.com/images/cards/120000000.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1800,
   "species": "Cyberse",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

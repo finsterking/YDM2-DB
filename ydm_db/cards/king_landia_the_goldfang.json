@@ -2,9 +2,10 @@
   "id": 501000014,
   "name": "King Landia the Goldfang",
   "is_illegal": true,
-  "is_custom": false,
+  "is_custom": true,
   "text": "3 Level 8 monsters\nMust be Xyz Summoned, and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their LP to 0, while it has an Xyz Material attached that was originally Beast-Warrior-Type, you win the Match.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/501000014.png",
     "https://images.ygoprodeck.com/images/cards/501000014.jpg"
   ],
   "type": "Monster",

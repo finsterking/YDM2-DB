@@ -1,0 +1,22 @@
+{
+  "id": 100000146,
+  "name": "Dark Tuner Dark Ape",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be used as a Synchro Material, except for the Synchro Summon of a Dark Synchro Monster. If this card is used for a Synchro Summon and sent to the Graveyard: Draw 1 card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100000146.jpg",
+    "https://images.ygoprodeck.com/images/cards/100000146.png"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
+}

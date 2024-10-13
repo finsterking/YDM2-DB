@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When your opponent declares a direct attack: Banish 1 \"Destiny HERO\" monster from your Graveyard; end the Battle Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/9201964.jpg"
+    "https://images.ygoprodeck.com/images/cards/9201964.jpg",
+    "https://images.ygoprodeck.com/images/cards/9201964.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

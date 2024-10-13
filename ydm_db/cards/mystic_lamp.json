@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This monster can attack your opponent's Life Points directly.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/98049915.png",
     "https://images.ygoprodeck.com/images/cards/98049915.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 400,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 1,
   "is_tuner": false

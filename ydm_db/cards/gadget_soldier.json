@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A rust-free machine warrior born to battle.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/86281779.png",
     "https://images.ygoprodeck.com/images/cards/86281779.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1800,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 6,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When the control of this face-up card on the field shifts to your opponent, increase your Life Points by 3000 points. This effect can only be used once as long as this card remains face-up on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/95744531.jpg"
+    "https://images.ygoprodeck.com/images/cards/95744531.jpg",
+    "https://images.ygoprodeck.com/images/cards/95744531.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 350,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 1,
   "is_tuner": false

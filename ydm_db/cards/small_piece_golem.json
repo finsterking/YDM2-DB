@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Summoned, if you control a \"Big Piece Golem\", you can Special Summon 1 \"Medium Piece Golem\" from your Deck. That monster's effect is negated while it is face-up on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/22754505.jpg"
+    "https://images.ygoprodeck.com/images/cards/22754505.jpg",
+    "https://images.ygoprodeck.com/images/cards/22754505.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1100,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 3,
   "is_tuner": false

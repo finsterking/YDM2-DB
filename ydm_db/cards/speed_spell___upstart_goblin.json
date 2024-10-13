@@ -1,0 +1,13 @@
+{
+  "id": 100100023,
+  "name": "Speed Spell - Upstart Goblin",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Draw 1 card, then your opponent gains 1000 LP.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100023.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100023.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

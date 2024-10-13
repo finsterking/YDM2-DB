@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card in its owner's possession is destroyed by an opponent's card (either by battle or by card effect): You can Set 1 \"Fire Formation\" Spell Card directly from your Deck. While you control a \"Fire Formation\" Spell/Trap Card, all \"Fire Fist\" monsters you control gain 500 ATK and DEF.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17475251.jpg"
+    "https://images.ygoprodeck.com/images/cards/17475251.jpg",
+    "https://images.ygoprodeck.com/images/cards/17475251.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 200,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 3,
   "is_tuner": false

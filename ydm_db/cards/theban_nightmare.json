@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Gains 1500 ATK while you have no cards in your hand nor in your Spell & Trap Zones.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/51838385.jpg"
+    "https://images.ygoprodeck.com/images/cards/51838385.jpg",
+    "https://images.ygoprodeck.com/images/cards/51838385.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1500,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 4,
   "is_tuner": false

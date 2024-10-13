@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Once per turn: You can target 1 face-up monster you control; it gains 1000 ATK until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/71759912.png",
     "https://images.ygoprodeck.com/images/cards/71759912.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1200,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 2,
   "is_tuner": false

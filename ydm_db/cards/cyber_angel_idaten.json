@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can add 1 Ritual Spell from your Deck or GY to your hand. If this card is Tributed: You can make all Ritual Monsters you control gain 1000 ATK/DEF.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/3629090.png",
     "https://images.ygoprodeck.com/images/cards/3629090.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,
   "species": "Fairy",
-  "monster_type": "Ritual",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
   "def": 2000,
   "level": 6,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If 5 monsters are Special Summoned at the same time, including this card: Destroy as many cards your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each card destroyed.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/56346071.jpg"
+    "https://images.ygoprodeck.com/images/cards/56346071.jpg",
+    "https://images.ygoprodeck.com/images/cards/56346071.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 500,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 3,
   "is_tuner": false

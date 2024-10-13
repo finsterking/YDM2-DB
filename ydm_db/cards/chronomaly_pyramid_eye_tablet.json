@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "All \"Chronomaly\" monsters you control gain 800 ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/26345570.jpg"
+    "https://images.ygoprodeck.com/images/cards/26345570.jpg",
+    "https://images.ygoprodeck.com/images/cards/26345570.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

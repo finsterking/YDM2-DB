@@ -1,0 +1,13 @@
+{
+  "id": 100100515,
+  "name": "Speed Spell - Inferno Reckless Summon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When exactly 1 monster with 1500 or less ATK is Special Summoned to your side of the field while your opponent controls a face-up monster(s): Remove 1 of your Speed Counters; Special Summon all cards with the same name as the Summoned monster from your hand, Deck, and Graveyard in face-up Attack Position. Your opponent chooses 1 monster they control and Special Summons all cards with that same name from their hand, Deck, and Graveyard, if any.\n\n(This card is always treated as an \"Earth\" card.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100515.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100515.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

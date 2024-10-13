@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A zombie shark that can deliver its lethal curse with a spell.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/34290067.jpg"
+    "https://images.ygoprodeck.com/images/cards/34290067.jpg",
+    "https://images.ygoprodeck.com/images/cards/34290067.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1100,
   "species": "Zombie",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 3,
   "is_tuner": false

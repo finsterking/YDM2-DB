@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Discard 1 card and chain this card to a Trap Card you activated. Whenever that Trap Card is sent to the Graveyard, return it to its owner's hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/2122975.jpg"
+    "https://images.ygoprodeck.com/images/cards/2122975.jpg",
+    "https://images.ygoprodeck.com/images/cards/2122975.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

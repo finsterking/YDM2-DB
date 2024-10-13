@@ -1,0 +1,13 @@
+{
+  "id": 100100511,
+  "name": "Speed Spell - Scrapstorm",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100511.png",
+    "https://images.ygoprodeck.com/images/cards/100100511.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 100100084,
+  "name": "Speed Spell - Tuning",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 3 of your Speed Counters; Add 1 \"Synchron\" Tuner monster from your Deck to your hand, then send the top card of your Deck to the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100084.png",
+    "https://images.ygoprodeck.com/images/cards/100100084.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

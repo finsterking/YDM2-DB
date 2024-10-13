@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When this card is destroyed by a card effect while equipped to a monster: Look at your opponent's hand and discard 1 card from their hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/63789924.jpg"
+    "https://images.ygoprodeck.com/images/cards/63789924.jpg",
+    "https://images.ygoprodeck.com/images/cards/63789924.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

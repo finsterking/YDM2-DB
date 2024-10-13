@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 \"Gem-Knight\" monster + 1 Rock-Type monster",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/8692301.jpg"
+    "https://images.ygoprodeck.com/images/cards/8692301.jpg",
+    "https://images.ygoprodeck.com/images/cards/8692301.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2900,
   "species": "Rock",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 2500,
   "level": 8,
   "is_tuner": false

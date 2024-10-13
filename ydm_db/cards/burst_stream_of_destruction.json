@@ -1,11 +1,12 @@
 {
-  "id": 17655904,
+  "id": 504700026,
   "name": "Burst Stream of Destruction",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "If you control \"Blue-Eyes White Dragon\": Destroy all monsters your opponent controls. \"Blue-Eyes White Dragon\" you control cannot attack the turn you activate this card.",
+  "is_custom": true,
+  "text": "You can only activate this card while there is a face-up \"Blue-Eyes White Dragon\" on your side of the field. Destroy all monsters on your opponent's side of the field. No \"Blue-Eyes White Dragon\" can attack during the turn you activate this card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17655904.jpg"
+    "https://images.ygoprodeck.com/images/cards/504700026.png",
+    "https://images.ygoprodeck.com/images/cards/504700026.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card battles a LIGHT monster, this card gains 1000 ATK during the Damage Step only.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/64751286.png",
     "https://images.ygoprodeck.com/images/cards/64751286.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2100,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 6,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Flip Summoned, you can equip 1 Equip Spell Card in your Graveyard to this card.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/40884383.png",
     "https://images.ygoprodeck.com/images/cards/40884383.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1100,
   "species": "Zombie",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 3,
   "is_tuner": false

@@ -1,0 +1,13 @@
+{
+  "id": 100100055,
+  "name": "Speed Spell - Monster Reincarnation",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters: Discard 1 card, then target 1 monster in your Graveyard; add it to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100055.png",
+    "https://images.ygoprodeck.com/images/cards/100100055.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

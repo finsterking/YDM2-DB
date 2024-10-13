@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Rabby's up on that favorite stump again, looking all around the forest at all the fluffy friends! Do you like exploring, too? Good! Let's go find more Melffy friends with Rabby!",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/20129614.png",
     "https://images.ygoprodeck.com/images/cards/20129614.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 0,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2100,
   "level": 2,
   "is_tuner": false

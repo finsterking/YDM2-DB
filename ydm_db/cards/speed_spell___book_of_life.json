@@ -1,0 +1,13 @@
+{
+  "id": 100100070,
+  "name": "Speed Spell - Book of Life",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can remove 3 of your Speed Counters, then target 1 Zombie-Type monster in your Graveyard and 1 monster in your opponent's Graveyard; Special Summon the first target and banish the second target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100070.png",
+    "https://images.ygoprodeck.com/images/cards/100100070.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

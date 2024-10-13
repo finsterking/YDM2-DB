@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Special Summon 1 Level 2 or lower Plant-Type monster from your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/18752938.jpg"
+    "https://images.ygoprodeck.com/images/cards/18752938.jpg",
+    "https://images.ygoprodeck.com/images/cards/18752938.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

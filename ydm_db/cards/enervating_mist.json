@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Your opponent's hand size limit becomes 5.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/26022485.jpg"
+    "https://images.ygoprodeck.com/images/cards/26022485.jpg",
+    "https://images.ygoprodeck.com/images/cards/26022485.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Before the dawn of man, this lizard warrior ruled supreme.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/43230671.jpg"
+    "https://images.ygoprodeck.com/images/cards/43230671.jpg",
+    "https://images.ygoprodeck.com/images/cards/43230671.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1100,
   "level": 4,
   "is_tuner": false

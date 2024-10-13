@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A warrior fully covered with metal. It upgrades by fusing with \"Roboyarou\".",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/92421852.png",
     "https://images.ygoprodeck.com/images/cards/92421852.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 450,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 900,
   "level": 3,
   "is_tuner": false

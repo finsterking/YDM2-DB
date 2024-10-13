@@ -1,0 +1,13 @@
+{
+  "id": 100100519,
+  "name": "Speed Spell - Emergency Teleport",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can remove 4 of your Speed Counters; Special Summon 1 Level 3 or lower Psychic-Type monster from your hand or Deck. Banish it during the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100519.png",
+    "https://images.ygoprodeck.com/images/cards/100100519.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

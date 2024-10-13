@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/84290642.png",
     "https://images.ygoprodeck.com/images/cards/84290642.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1500,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 4,
   "is_tuner": false

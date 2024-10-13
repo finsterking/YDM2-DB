@@ -1,21 +1,22 @@
 {
-  "id": 34471458,
+  "id": 511000195,
   "name": "Fortune Lady Light",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this face-up card leaves the field by card effect: You can Special Summon 1 \"Fortune Lady\" monster from your Deck.",
+  "is_custom": true,
+  "text": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this card leaves the field by card effect: You can Special Summon 1 \"Fortune Lady\" monster from your Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/34471458.jpg"
+    "https://images.ygoprodeck.com/images/cards/511000195.png",
+    "https://images.ygoprodeck.com/images/cards/511000195.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
-  "atk": 0,
+  "atk": -1,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": -1,
   "level": 1,
   "is_tuner": false
 }

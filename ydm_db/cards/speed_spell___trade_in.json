@@ -1,0 +1,13 @@
+{
+  "id": 100100025,
+  "name": "Speed Spell - Trade-In",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Discard 1 Level 8 monster; draw 2 cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100025.png",
+    "https://images.ygoprodeck.com/images/cards/100100025.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

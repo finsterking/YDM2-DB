@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 face-up \"Ninja\" monster you control; it cannot be destroyed by battle.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/89628781.jpg"
+    "https://images.ygoprodeck.com/images/cards/89628781.jpg",
+    "https://images.ygoprodeck.com/images/cards/89628781.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

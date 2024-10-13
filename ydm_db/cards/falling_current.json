@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 face-up monster you control and declare a Level between 1 and 3; it becomes that Level.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/26099457.jpg"
+    "https://images.ygoprodeck.com/images/cards/26099457.jpg",
+    "https://images.ygoprodeck.com/images/cards/26099457.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

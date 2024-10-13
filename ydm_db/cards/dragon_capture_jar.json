@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/50045299.jpg"
+    "https://images.ygoprodeck.com/images/cards/50045299.jpg",
+    "https://images.ygoprodeck.com/images/cards/50045299.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

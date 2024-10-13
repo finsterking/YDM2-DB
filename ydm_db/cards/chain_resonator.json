@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned while a Synchro Monster is on the field: You can Special Summon 1 \"Resonator\" monster from your Deck, except \"Chain Resonator\".",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/13764881.jpg"
+    "https://images.ygoprodeck.com/images/cards/13764881.jpg",
+    "https://images.ygoprodeck.com/images/cards/13764881.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": true

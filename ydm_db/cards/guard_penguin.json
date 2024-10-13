@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/99581584.png",
     "https://images.ygoprodeck.com/images/cards/99581584.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 0,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

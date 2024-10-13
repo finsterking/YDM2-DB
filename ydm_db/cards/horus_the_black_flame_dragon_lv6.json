@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This card is unaffected by Spell effects. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Horus the Black Flame Dragon LV8\" from your hand or Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/11224103.jpg"
+    "https://images.ygoprodeck.com/images/cards/11224103.jpg",
+    "https://images.ygoprodeck.com/images/cards/11224103.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2300,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 6,
   "is_tuner": false

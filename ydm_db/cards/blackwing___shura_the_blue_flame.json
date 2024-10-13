@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 \"Blackwing\" monster with 1500 or less ATK from your Deck, but its effects are negated.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/58820853.png",
     "https://images.ygoprodeck.com/images/cards/58820853.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

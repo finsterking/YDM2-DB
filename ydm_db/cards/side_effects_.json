@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Your opponent draws 1 to 3 cards, then you gain 2000 LP for each card they drew with this effect.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/30922149.jpg"
+    "https://images.ygoprodeck.com/images/cards/30922149.jpg",
+    "https://images.ygoprodeck.com/images/cards/30922149.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

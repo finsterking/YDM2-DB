@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can Tribute 1 \"Gravekeeper's\" monster, except \"Gravekeeper's Cannonholder\"; inflict 700 damage to your opponent.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/99877698.png",
     "https://images.ygoprodeck.com/images/cards/99877698.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

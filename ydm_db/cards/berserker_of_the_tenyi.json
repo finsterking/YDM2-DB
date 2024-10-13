@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "2+ monsters, including a Link Monster",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/5402805.png",
     "https://images.ygoprodeck.com/images/cards/5402805.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,
   "species": "Wyrm",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 3,
   "link_arrows": [
     "Top",

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When your opponent's monster declares a direct attack, if you have another \"Ninja\" monster in your Graveyard: You can banish this card from your Graveyard to target the attacking monster; negate that attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/96427353.jpg"
+    "https://images.ygoprodeck.com/images/cards/96427353.jpg",
+    "https://images.ygoprodeck.com/images/cards/96427353.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This card gains 100 ATK for each Winged Beast-Type monster you control. Once per turn: You can target 1 Spell/Trap Card your opponent controls; destroy that target. You must control 3 or more Winged Beast-Type monsters to activate and to resolve this effect.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/69695704.jpg"
+    "https://images.ygoprodeck.com/images/cards/69695704.jpg",
+    "https://images.ygoprodeck.com/images/cards/69695704.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

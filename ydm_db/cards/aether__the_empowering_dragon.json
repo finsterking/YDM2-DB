@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Pendulum Summoned: You can target 1 card on the field; return it to the hand. You can only use this effect of \"Aether, the Empowering Dragon\" once per turn.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/56804361.png",
     "https://images.ygoprodeck.com/images/cards/56804361.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2300,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 6,
   "is_tuner": false

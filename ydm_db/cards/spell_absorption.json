@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Each time a Spell Card is activated, gain 500 LP immediately after it resolves.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/51481927.jpg"
+    "https://images.ygoprodeck.com/images/cards/51481927.jpg",
+    "https://images.ygoprodeck.com/images/cards/51481927.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

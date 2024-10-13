@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/11091375.jpg"
+    "https://images.ygoprodeck.com/images/cards/11091375.jpg",
+    "https://images.ygoprodeck.com/images/cards/11091375.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1900,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

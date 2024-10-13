@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Inflict 1000 points of damage to your opponent's Life Points and 500 points of damage to your Life Points.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/46918794.jpg"
+    "https://images.ygoprodeck.com/images/cards/46918794.jpg",
+    "https://images.ygoprodeck.com/images/cards/46918794.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

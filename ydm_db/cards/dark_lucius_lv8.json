@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card was Special Summoned by the effect of \"Dark Lucius LV6\", banish your opponent's monsters destroyed by battle with this card, also negate their effects.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/58206034.jpg"
+    "https://images.ygoprodeck.com/images/cards/58206034.jpg",
+    "https://images.ygoprodeck.com/images/cards/58206034.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2800,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 900,
   "level": 8,
   "is_tuner": false

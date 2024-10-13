@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A fire-breathing plant found growing near volcanoes.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/53293545.png",
     "https://images.ygoprodeck.com/images/cards/53293545.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 2,
   "is_tuner": false

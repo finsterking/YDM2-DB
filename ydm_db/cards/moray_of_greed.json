@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/22123627.jpg"
+    "https://images.ygoprodeck.com/images/cards/22123627.jpg",
+    "https://images.ygoprodeck.com/images/cards/22123627.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When a monster you control is destroyed by battle and sent to the Graveyard: Target that monster; Special Summon it in face-up Defense Position, but it is destroyed during your End Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/79544790.jpg"
+    "https://images.ygoprodeck.com/images/cards/79544790.jpg",
+    "https://images.ygoprodeck.com/images/cards/79544790.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

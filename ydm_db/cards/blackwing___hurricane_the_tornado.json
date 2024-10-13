@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Once per turn: You can target 1 Synchro Monster on the field; this card's ATK becomes that monster's current ATK, until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/36442179.jpg"
+    "https://images.ygoprodeck.com/images/cards/36442179.jpg",
+    "https://images.ygoprodeck.com/images/cards/36442179.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": true

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When a monster is returned from the field to the owner's hand, the owner of the returned monster selects and sends 1 card in their hand to the Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/18654201.jpg"
+    "https://images.ygoprodeck.com/images/cards/18654201.jpg",
+    "https://images.ygoprodeck.com/images/cards/18654201.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2400,
   "level": 6,
   "is_tuner": false

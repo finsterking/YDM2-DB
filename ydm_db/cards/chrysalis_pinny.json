@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Glow Moss\" from your hand or Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/29246354.jpg"
+    "https://images.ygoprodeck.com/images/cards/29246354.jpg",
+    "https://images.ygoprodeck.com/images/cards/29246354.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 2,
   "is_tuner": false

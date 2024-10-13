@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Armed with an array of magic wands, this creature is capable of multiple attacks.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/36821538.jpg"
+    "https://images.ygoprodeck.com/images/cards/36821538.jpg",
+    "https://images.ygoprodeck.com/images/cards/36821538.png"
   ],
   "type": "Monster",
   "attribute": "DARK",

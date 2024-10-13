@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "This monster wraps itself around an opponent and pecks away with its huge beak.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/6103114.jpg"
+    "https://images.ygoprodeck.com/images/cards/6103114.jpg",
+    "https://images.ygoprodeck.com/images/cards/6103114.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",

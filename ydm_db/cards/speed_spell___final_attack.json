@@ -1,0 +1,13 @@
+{
+  "id": 100100120,
+  "name": "Speed Spell - Final Attack",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 5 or more Speed Counters: Remove 2 of your Speed Counters, then target 1 monster you control; double its ATK, but it cannot attack directly, and is destroyed during your End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100120.png",
+    "https://images.ygoprodeck.com/images/cards/100100120.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

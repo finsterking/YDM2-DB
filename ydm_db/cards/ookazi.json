@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Inflict 800 damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/19523799.jpg"
+    "https://images.ygoprodeck.com/images/cards/19523799.jpg",
+    "https://images.ygoprodeck.com/images/cards/19523799.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

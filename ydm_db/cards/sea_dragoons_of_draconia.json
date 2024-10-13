@@ -5,20 +5,21 @@
   "is_custom": false,
   "text": "Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea's opposite shores.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/82114013.png",
     "https://images.ygoprodeck.com/images/cards/82114013.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 200,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": true,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": false,
+  "monster_type": "",
+  "is_pendulum": true,
+  "pendulum_text": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7,
   "def": 2100,
   "level": 3,
-  "is_tuner": false,
-  "pendulum_text": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.\n",
-  "pendulum_scale_left_blue": 7,
-  "pendulum_scale_right_red": 7
+  "is_tuner": false
 }

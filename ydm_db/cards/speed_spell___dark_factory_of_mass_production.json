@@ -1,0 +1,13 @@
+{
+  "id": 100100003,
+  "name": "Speed Spell - Dark Factory of Mass Production",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Target 2 Normal Monsters in your Graveyard; add those targets to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100003.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100003.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

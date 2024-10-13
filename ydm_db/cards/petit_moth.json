@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This small but deadly creature is better off avoided.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/58192742.jpg"
+    "https://images.ygoprodeck.com/images/cards/58192742.jpg",
+    "https://images.ygoprodeck.com/images/cards/58192742.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 1,
   "is_tuner": false

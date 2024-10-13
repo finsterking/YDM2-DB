@@ -2,10 +2,11 @@
   "id": 501000017,
   "name": "Legendary Magician of Dark",
   "is_illegal": true,
-  "is_custom": false,
+  "is_custom": true,
   "text": "3 Level 7 monsters\nMust be Xyz Summoned, and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their LP to 0, while it has an Xyz Material attached that was originally Spellcaster-Type, you win the Match.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/501000017.jpg"
+    "https://images.ygoprodeck.com/images/cards/501000017.jpg",
+    "https://images.ygoprodeck.com/images/cards/501000017.png"
   ],
   "type": "Monster",
   "attribute": "DARK",

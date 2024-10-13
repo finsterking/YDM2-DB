@@ -1,0 +1,13 @@
+{
+  "id": 100100066,
+  "name": "Speed Spell - Earthbound Whirlwind",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control an \"Earthbound Immortal\" monster: Remove 2 of your Speed Counters; destroy all Spells/Traps your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100066.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100066.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be Special Summoned from the Deck. You can Normal Summon this card without Tributing, but its original ATK becomes 0.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/51126152.jpg"
+    "https://images.ygoprodeck.com/images/cards/51126152.jpg",
+    "https://images.ygoprodeck.com/images/cards/51126152.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3000,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 3000,
   "level": 10,
   "is_tuner": false

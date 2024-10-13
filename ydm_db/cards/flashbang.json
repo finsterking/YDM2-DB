@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/9267769.jpg"
+    "https://images.ygoprodeck.com/images/cards/9267769.jpg",
+    "https://images.ygoprodeck.com/images/cards/9267769.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

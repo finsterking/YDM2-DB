@@ -1,0 +1,13 @@
+{
+  "id": 511000883,
+  "name": "Imperial Register",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn, if a monster you control loses ATK by a card effect, you can target 1 face-up monster you control: it gains ATK equal to the changed amount until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511000883.jpg",
+    "https://images.ygoprodeck.com/images/cards/511000883.png"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

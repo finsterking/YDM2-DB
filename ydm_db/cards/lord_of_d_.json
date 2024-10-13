@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Neither player can target Dragon monsters on the field with card effects.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17985575.jpg"
+    "https://images.ygoprodeck.com/images/cards/17985575.jpg",
+    "https://images.ygoprodeck.com/images/cards/17985575.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,
   "species": "Spellcaster",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1100,
   "level": 4,
   "is_tuner": false

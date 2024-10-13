@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Destroy all Spell and Trap Cards on your side of the field. Increase your Life Points by the number of destroyed cards x 500 points.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/34370473.jpg"
+    "https://images.ygoprodeck.com/images/cards/34370473.jpg",
+    "https://images.ygoprodeck.com/images/cards/34370473.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

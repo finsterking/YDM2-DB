@@ -1,0 +1,13 @@
+{
+  "id": 100100035,
+  "name": "Speed Spell - Overload Fusion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 3 of your Speed Counters; Fusion Summon 1 DARK Machine-Type Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100035.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100035.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

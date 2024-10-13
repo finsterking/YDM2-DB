@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 Tuner + 1 non-Tuner monster\nWhen this card is Synchro Summoned: You can draw 1 card. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/50091196.png",
     "https://images.ygoprodeck.com/images/cards/50091196.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 200,
   "species": "Machine",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
-  "ability": "",
+  "ability": "Synchro",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1500,
   "level": 2,
   "is_tuner": true

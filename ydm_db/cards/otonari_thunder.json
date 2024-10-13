@@ -1,11 +1,12 @@
 {
-  "id": 100200201,
+  "id": 100200256,
   "name": "Otonari Thunder",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control 2 or more Thunder monsters and this card is in your hand or GY: You can Special Summon this card, but banish it when it leaves the field. You can target 1 Xyz Monster you control; attach 2 Level 4 LIGHT Thunder monsters from your hand, field, and/or GY to it as material, including this card you control. You can only use each effect of \"Otonari Thunder\" once per turn.",
+  "text": "If you control 2 or more Thunder monsters and this card is in your hand or GY: You can Special Summon this card, but banish it when it leaves the field. You can target 1 Xyz Monster you control; attach 2 Level 4 LIGHT Thunder monsters from your hand, face-up field, and/or GY to it as material, including this card you control. You can only use each effect of \"Otonari Thunder\" once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/100200201.jpg"
+    "https://images.ygoprodeck.com/images/cards/100200256.png",
+    "https://images.ygoprodeck.com/images/cards/100200256.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

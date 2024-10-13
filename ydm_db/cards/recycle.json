@@ -1,11 +1,12 @@
 {
-  "id": 96316857,
+  "id": 511002983,
   "name": "Recycle",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "During your Standby Phase, by paying 300 Life Points, select 1 non-Monster Card in your Graveyard and return it to the bottom of your Deck.",
+  "is_custom": true,
+  "text": "During your Standby Phase: You can pay 300 LP, then target 1 non-monster in your Graveyard; return it to the bottom of your Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/96316857.jpg"
+    "https://images.ygoprodeck.com/images/cards/511002983.png",
+    "https://images.ygoprodeck.com/images/cards/511002983.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

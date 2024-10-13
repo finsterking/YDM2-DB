@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 face-up monster you control; return that face-up monster to the hand, and if you do, for the rest of this turn, neither player can activate the effects of cards with the returned card's name.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42560034.jpg"
+    "https://images.ygoprodeck.com/images/cards/42560034.jpg",
+    "https://images.ygoprodeck.com/images/cards/42560034.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

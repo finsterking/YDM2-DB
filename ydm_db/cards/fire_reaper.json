@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A reaper with a flaming arrow that burns an enemy to a crisp.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/53581214.png",
     "https://images.ygoprodeck.com/images/cards/53581214.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,
   "species": "Zombie",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 2,
   "is_tuner": false

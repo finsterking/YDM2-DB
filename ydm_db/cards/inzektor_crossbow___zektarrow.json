@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Equip only to an \"Inzektor\" monster. It gains 500 ATK. Your opponent cannot activate cards or effects in response to the activation of the equipped monster's effects.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/87047074.jpg"
+    "https://images.ygoprodeck.com/images/cards/87047074.jpg",
+    "https://images.ygoprodeck.com/images/cards/87047074.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

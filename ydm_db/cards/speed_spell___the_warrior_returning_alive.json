@@ -1,0 +1,13 @@
+{
+  "id": 100100067,
+  "name": "Speed Spell - The Warrior Returning Alive",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 3 or more Speed Counters: Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100067.png",
+    "https://images.ygoprodeck.com/images/cards/100100067.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

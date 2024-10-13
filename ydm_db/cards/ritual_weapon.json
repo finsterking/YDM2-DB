@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Equip only to a Level 6 or lower Ritual Monster. It gains 1500 ATK and DEF.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/54351224.jpg"
+    "https://images.ygoprodeck.com/images/cards/54351224.jpg",
+    "https://images.ygoprodeck.com/images/cards/54351224.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

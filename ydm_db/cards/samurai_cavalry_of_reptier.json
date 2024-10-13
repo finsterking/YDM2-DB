@@ -5,20 +5,21 @@
   "is_custom": false,
   "text": "At the start of the Damage Step, if this card attacks an opponent's face-up monster that is not a Pendulum Monster: You can destroy that monster.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/93124273.jpg"
+    "https://images.ygoprodeck.com/images/cards/93124273.jpg",
+    "https://images.ygoprodeck.com/images/cards/93124273.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": true,
   "ability": "",
   "has_effect": true,
-  "def": 1200,
-  "level": 4,
-  "is_tuner": false,
+  "monster_type": "",
+  "is_pendulum": true,
   "pendulum_text": "",
   "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3
+  "pendulum_scale_right_red": 3,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

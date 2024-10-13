@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Each time a \"Madolche\" monster you control attacks or is attacked, after damage calculation: Inflict 300 damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/48439321.jpg"
+    "https://images.ygoprodeck.com/images/cards/48439321.jpg",
+    "https://images.ygoprodeck.com/images/cards/48439321.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

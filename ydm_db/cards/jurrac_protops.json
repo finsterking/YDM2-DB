@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This card gains 100 ATK for each monster your opponent controls.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/23927545.jpg"
+    "https://images.ygoprodeck.com/images/cards/23927545.jpg",
+    "https://images.ygoprodeck.com/images/cards/23927545.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1700,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

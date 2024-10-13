@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can Tribute 3 Level 3 or lower WATER monsters; Special Summon this card from your hand or Graveyard. When you do: Return all Spell and Trap Cards on the field to the hand, and if you do, if 3 or more cards are returned to the hand by this effect, all monsters your opponent currently controls lose 300 ATK for each.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/47826112.png",
     "https://images.ygoprodeck.com/images/cards/47826112.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2800,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 7,
   "is_tuner": false

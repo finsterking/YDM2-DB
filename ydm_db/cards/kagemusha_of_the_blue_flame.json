@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/15401633.jpg"
+    "https://images.ygoprodeck.com/images/cards/15401633.jpg",
+    "https://images.ygoprodeck.com/images/cards/15401633.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 2,
   "is_tuner": false

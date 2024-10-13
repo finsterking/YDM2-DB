@@ -1,0 +1,13 @@
+{
+  "id": 100100122,
+  "name": "Speed Spell - Overboost",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Gain 6 Speed Counters. During the End Phase, reduce your Speed Counters to 1.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100122.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100122.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

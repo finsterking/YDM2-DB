@@ -1,20 +1,21 @@
 {
-  "id": 96300057,
+  "id": 511002901,
   "name": "W-Wing Catapult",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Once per turn, you can either: Target 1 \"V-Tiger Jet\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "is_custom": true,
+  "text": "Once per turn, you can either: Target 1 \"V-Tiger Jet\" you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. While equipped by this effect, the equipped monster gains 400 ATK/DEF. (A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/96300057.jpg"
+    "https://images.ygoprodeck.com/images/cards/511002901.png",
+    "https://images.ygoprodeck.com/images/cards/511002901.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1300,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Union",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 face-up \"Inzektor\" card you control and 2 face-up cards your opponent controls; destroy them.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/79155167.jpg"
+    "https://images.ygoprodeck.com/images/cards/79155167.jpg",
+    "https://images.ygoprodeck.com/images/cards/79155167.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

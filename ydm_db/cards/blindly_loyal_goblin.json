@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "As long as this card remains face-up on the field, control of this card cannot switch.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/35215622.png",
     "https://images.ygoprodeck.com/images/cards/35215622.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

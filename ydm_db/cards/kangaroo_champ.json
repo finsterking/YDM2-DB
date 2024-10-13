@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A monster that battles with this card is changed to Defense Position after damage calculation.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/95789089.png",
     "https://images.ygoprodeck.com/images/cards/95789089.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 4,
   "is_tuner": false

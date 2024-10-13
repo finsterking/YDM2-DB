@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned, give control of it to your opponent. During each player's End Phase, your opponent selects 1 card from the Graveyard of this card's controller and removes it from play.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/52702748.png",
     "https://images.ygoprodeck.com/images/cards/52702748.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

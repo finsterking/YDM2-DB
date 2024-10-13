@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When you draw this card: You can reveal it; during your Main Phase this turn, you can conduct 1 Pendulum Summon of a monster(s) from your hand in addition to your Pendulum Summon. (You can only gain this effect once per turn.)",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/66736715.jpg"
+    "https://images.ygoprodeck.com/images/cards/66736715.jpg",
+    "https://images.ygoprodeck.com/images/cards/66736715.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

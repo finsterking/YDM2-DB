@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Activate only when an opponent's card effect shifts control of a monster from your side of the field to theirs. Destroy that 1 monster and inflict damage to your opponent equal to its ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/63323539.jpg"
+    "https://images.ygoprodeck.com/images/cards/63323539.jpg",
+    "https://images.ygoprodeck.com/images/cards/63323539.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

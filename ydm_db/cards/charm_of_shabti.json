@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During either player's turn: You can discard this card; until the End Phase, \"Gravekeeper's\" monsters you control cannot be destroyed by battle.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/50412166.png",
     "https://images.ygoprodeck.com/images/cards/50412166.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 100,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

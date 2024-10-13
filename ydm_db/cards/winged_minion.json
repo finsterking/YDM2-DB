@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Tribute this face-up card. Select 1 face-up Fiend-Type monster on the field. Increase the ATK and DEF of the monster by 700 points as long as it remains face-up on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/89258225.jpg"
+    "https://images.ygoprodeck.com/images/cards/89258225.jpg",
+    "https://images.ygoprodeck.com/images/cards/89258225.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 2,
   "is_tuner": false

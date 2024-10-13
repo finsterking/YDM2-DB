@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card targets an opponent's face-up Attack Position monster for an attack, and that monster is not destroyed by the battle, this card can attack the same monster again in a row. This effect can only be used twice per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/75292259.jpg"
+    "https://images.ygoprodeck.com/images/cards/75292259.jpg",
+    "https://images.ygoprodeck.com/images/cards/75292259.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2500,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2300,
   "level": 7,
   "is_tuner": false

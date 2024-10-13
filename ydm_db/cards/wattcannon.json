@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Once per turn, when a Level 4 or lower Thunder-Type monster(s) is Normal or Special Summoned to the field, inflict 600 damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/95084054.jpg"
+    "https://images.ygoprodeck.com/images/cards/95084054.jpg",
+    "https://images.ygoprodeck.com/images/cards/95084054.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

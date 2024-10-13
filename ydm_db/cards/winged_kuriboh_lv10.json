@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Transcendent Wings\". During your opponent's Battle Phase (Quick Effect): You can Tribute this face-up card; destroy as many Attack Position monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/98585345.jpg"
+    "https://images.ygoprodeck.com/images/cards/98585345.jpg",
+    "https://images.ygoprodeck.com/images/cards/98585345.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 300,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 10,
   "is_tuner": false

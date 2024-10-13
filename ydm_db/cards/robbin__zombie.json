@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "If your monster inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/83258273.jpg"
+    "https://images.ygoprodeck.com/images/cards/83258273.jpg",
+    "https://images.ygoprodeck.com/images/cards/83258273.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

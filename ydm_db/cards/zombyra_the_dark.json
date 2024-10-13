@@ -3,18 +3,19 @@
   "name": "Zombyra the Dark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.",
+  "text": "Cannot attack directly. If this card destroys a monster by battle: This card loses 200 ATK.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/88472456.png",
     "https://images.ygoprodeck.com/images/cards/88472456.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2100,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 4,
   "is_tuner": false

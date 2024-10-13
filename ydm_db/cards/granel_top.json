@@ -1,0 +1,22 @@
+{
+  "id": 100000062,
+  "name": "Granel Top",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If there is no \"Meklord Emperor\" monster on the field, destroy this card. Once per turn: You can target 1 monster your opponent controls; negate its effect(s) until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100000062.png",
+    "https://images.ygoprodeck.com/images/cards/100000062.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

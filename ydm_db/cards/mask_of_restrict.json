@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Neither player can Tribute cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/29549364.jpg"
+    "https://images.ygoprodeck.com/images/cards/29549364.jpg",
+    "https://images.ygoprodeck.com/images/cards/29549364.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

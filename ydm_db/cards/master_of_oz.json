@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "\"Big Koala\" + \"Des Kangaroo\"",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/27134689.png",
     "https://images.ygoprodeck.com/images/cards/27134689.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 4200,
   "species": "Beast",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 3700,
   "level": 9,
   "is_tuner": false

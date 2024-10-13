@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "\"Dark Magician\" + \"Flame Swordsman\"\nYou take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 \"Mirage Knight\" from your hand or Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/13722870.jpg"
+    "https://images.ygoprodeck.com/images/cards/13722870.jpg",
+    "https://images.ygoprodeck.com/images/cards/13722870.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 800,
   "level": 6,
   "is_tuner": false

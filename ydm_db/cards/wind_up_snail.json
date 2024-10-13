@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During your Main Phase: You can target 1 Set card on the field; return that target to the hand. This effect can be used only once while this card is face-up on the field.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/58475908.png",
     "https://images.ygoprodeck.com/images/cards/58475908.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 100,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 2,
   "is_tuner": false

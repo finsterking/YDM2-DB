@@ -1,0 +1,13 @@
+{
+  "id": 100100016,
+  "name": "Speed Spell - Riryoku",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 2 of your Speed Counters, then target 2 monsters on the field; halve the ATK of the first target and the second target gains that amount of ATK, until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100016.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100016.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

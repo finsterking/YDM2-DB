@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Inflict 600 points of damage to your opponent's Life Points for each face-up LIGHT monster on your side of the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/44472639.jpg"
+    "https://images.ygoprodeck.com/images/cards/44472639.jpg",
+    "https://images.ygoprodeck.com/images/cards/44472639.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

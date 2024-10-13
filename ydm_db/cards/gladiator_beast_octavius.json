@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 face-down Spell or Trap Card in the Spell & Trap Card Zone; destroy that target. At the end of your Battle Phase, if this card attacked or was attacked: Shuffle this card into the Deck or discard 1 card.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/29590752.png",
     "https://images.ygoprodeck.com/images/cards/29590752.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2500,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 7,
   "is_tuner": false

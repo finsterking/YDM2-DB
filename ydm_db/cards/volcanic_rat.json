@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/33112041.jpg"
+    "https://images.ygoprodeck.com/images/cards/33112041.jpg",
+    "https://images.ygoprodeck.com/images/cards/33112041.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 500,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 1,
   "is_tuner": false

@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When a monster you control declares an attack: Until the End Phase, that monster gains 700 ATK, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/30643162.jpg"
+    "https://images.ygoprodeck.com/images/cards/30643162.jpg",
+    "https://images.ygoprodeck.com/images/cards/30643162.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

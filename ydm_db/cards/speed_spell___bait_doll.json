@@ -1,0 +1,13 @@
+{
+  "id": 100100034,
+  "name": "Speed Spell - Bait Doll",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters: Target 1 Set card in the Spell & Trap Zone; reveal that target, force its activation if it is a Trap Card, then negate its effect if the activation timing is incorrect, and if you do, destroy it. (If it is not a Trap Card, return it face-down.) When this card resolves, shuffle it into the Deck instead of sending it to the Graveyard.\n\n(This card is never treated as a \"Doll\" card.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100034.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100034.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

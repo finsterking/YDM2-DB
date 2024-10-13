@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 \"Melodious\" monster you control; this turn, that face-up monster you control is unaffected by your opponent's Spell/Trap effects, and it can make a second attack during each Battle Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/63804637.jpg"
+    "https://images.ygoprodeck.com/images/cards/63804637.jpg",
+    "https://images.ygoprodeck.com/images/cards/63804637.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

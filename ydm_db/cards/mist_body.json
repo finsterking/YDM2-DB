@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "The equipped monster cannot be destroyed by battle.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/47529357.jpg"
+    "https://images.ygoprodeck.com/images/cards/47529357.jpg",
+    "https://images.ygoprodeck.com/images/cards/47529357.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

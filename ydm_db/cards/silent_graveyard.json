@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Discard 1 card; effects that activate in the GY this turn are negated.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/53778229.jpg"
+    "https://images.ygoprodeck.com/images/cards/53778229.jpg",
+    "https://images.ygoprodeck.com/images/cards/53778229.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card battles a Fusion Monster, the ATK of the Fusion Monster becomes 0 during the Damage Step only.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/98336111.jpg"
+    "https://images.ygoprodeck.com/images/cards/98336111.jpg",
+    "https://images.ygoprodeck.com/images/cards/98336111.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1400,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

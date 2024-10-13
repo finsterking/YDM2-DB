@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "This strange creature hides in the deep, dark corners of the seven seas.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/36904469.jpg"
+    "https://images.ygoprodeck.com/images/cards/36904469.jpg",
+    "https://images.ygoprodeck.com/images/cards/36904469.png"
   ],
   "type": "Monster",
   "attribute": "WATER",

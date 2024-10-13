@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/56342351.jpg"
+    "https://images.ygoprodeck.com/images/cards/56342351.jpg",
+    "https://images.ygoprodeck.com/images/cards/56342351.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 3,
   "is_tuner": false

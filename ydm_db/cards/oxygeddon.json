@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card is destroyed by battle with a Pyro monster and sent to the GY: Each player takes 800 damage.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/58071123.png",
     "https://images.ygoprodeck.com/images/cards/58071123.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1800,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 4,
   "is_tuner": false

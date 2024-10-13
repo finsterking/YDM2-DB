@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Remove from play 1 Tuner monster from your Graveyard. Target face-up monster you control gains ATK equal to the removed monster's ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/5052212.jpg"
+    "https://images.ygoprodeck.com/images/cards/5052212.jpg",
+    "https://images.ygoprodeck.com/images/cards/5052212.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

@@ -1,0 +1,13 @@
+{
+  "id": 42201897,
+  "name": "Azamina Hamartia",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Reveal 1 \"Azamina\" Fusion Monster in your Extra Deck and shuffle 1 \"Sinful Spoils\" card from your GY and/or banishment into the Deck for every 4 Levels the revealed monster has, then Special Summon it. (This is treated as a Fusion Summon.) You can banish this card from your GY, then target 1 \"Sinful Spoils\" Spell/Trap in your GY; Set it, but it cannot be activated this turn. You can only use 1 \"Azamina Hamartia\" effect per turn, and only once that turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/42201897.png",
+    "https://images.ygoprodeck.com/images/cards/42201897.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

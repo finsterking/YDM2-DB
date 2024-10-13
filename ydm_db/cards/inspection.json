@@ -1,11 +1,12 @@
 {
-  "id": 16227556,
+  "id": 511002982,
   "name": "Inspection",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "During your opponent's Standby Phase, you can pay 500 Life Points to randomly select 1 card in your opponent's hand and look at it.",
+  "is_custom": true,
+  "text": "During your opponent's Standby Phase: You can pay 500 LP; randomly choose 1 card in your opponent's hand and look at it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/16227556.jpg"
+    "https://images.ygoprodeck.com/images/cards/511002982.jpg",
+    "https://images.ygoprodeck.com/images/cards/511002982.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

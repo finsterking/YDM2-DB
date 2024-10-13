@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Banish 3 \"Gagaga\" monsters from your Graveyard; draw 2 cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/21831848.jpg"
+    "https://images.ygoprodeck.com/images/cards/21831848.jpg",
+    "https://images.ygoprodeck.com/images/cards/21831848.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

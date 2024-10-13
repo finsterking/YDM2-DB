@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/62514770.png",
     "https://images.ygoprodeck.com/images/cards/62514770.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
-  "has_effect": true,
+  "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2400,
   "level": 6,
   "is_tuner": true

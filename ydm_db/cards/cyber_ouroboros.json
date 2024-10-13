@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is removed from play, you can send 1 card from your hand to the Graveyard to draw 1 card.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/30042158.png",
     "https://images.ygoprodeck.com/images/cards/30042158.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 600,
   "level": 2,
   "is_tuner": false

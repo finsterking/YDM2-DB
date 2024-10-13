@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Discard your entire hand, then for each card you discarded to the GY by this effect, add 1 LIGHT monster from your GY to your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/16255442.jpg"
+    "https://images.ygoprodeck.com/images/cards/16255442.jpg",
+    "https://images.ygoprodeck.com/images/cards/16255442.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

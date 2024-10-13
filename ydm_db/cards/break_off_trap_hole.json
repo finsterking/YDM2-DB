@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/56526564.jpg"
+    "https://images.ygoprodeck.com/images/cards/56526564.jpg",
+    "https://images.ygoprodeck.com/images/cards/56526564.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

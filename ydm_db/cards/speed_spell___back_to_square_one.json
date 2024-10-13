@@ -1,0 +1,13 @@
+{
+  "id": 100100013,
+  "name": "Speed Spell - Back to Square One",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 3 or more Speed Counters: Discard 1 card, then target 1 monster on the field; Return it to the top of its owner's Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100013.png",
+    "https://images.ygoprodeck.com/images/cards/100100013.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

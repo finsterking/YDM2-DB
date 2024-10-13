@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "You can Normal Summon \"Hazy Flame\" monsters for 1 less Tribute. You can send this face-up card from the field to the Graveyard to target 1 \"Hazy\" card in your Graveyard, except \"Hazy Glory\"; add that target to your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/43708041.jpg"
+    "https://images.ygoprodeck.com/images/cards/43708041.jpg",
+    "https://images.ygoprodeck.com/images/cards/43708041.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

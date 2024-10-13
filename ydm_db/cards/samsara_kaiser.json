@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When you Tribute Summon a monster by Tributing this card, return this card to your hand.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/72237166.png",
     "https://images.ygoprodeck.com/images/cards/72237166.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 2,
   "is_tuner": false

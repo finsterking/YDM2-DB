@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During each of your End Phases: Inflict 200 damage to your opponent for each face-up \"Elemental HERO\" monster you control.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/95362816.jpg"
+    "https://images.ygoprodeck.com/images/cards/95362816.jpg",
+    "https://images.ygoprodeck.com/images/cards/95362816.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1300,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

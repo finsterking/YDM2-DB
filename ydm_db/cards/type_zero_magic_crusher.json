@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Discard 1 Spell Card from your hand to inflict 500 points of damage to your opponent's Life Points.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/21237481.jpg"
+    "https://images.ygoprodeck.com/images/cards/21237481.jpg",
+    "https://images.ygoprodeck.com/images/cards/21237481.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

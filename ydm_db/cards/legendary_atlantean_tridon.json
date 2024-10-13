@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can Tribute this card and 1 Sea Serpent-Type monster; Special Summon 1 \"Poseidra, the Atlantean Dragon\" from your hand or Deck, then all monsters your opponent currently controls lose 300 ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/28754338.jpg"
+    "https://images.ygoprodeck.com/images/cards/28754338.jpg",
+    "https://images.ygoprodeck.com/images/cards/28754338.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 3,
   "is_tuner": false

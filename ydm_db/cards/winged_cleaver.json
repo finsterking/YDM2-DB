@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Few can withstand the scythe-like arms of this dangerous creature.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/39175982.jpg"
+    "https://images.ygoprodeck.com/images/cards/39175982.jpg",
+    "https://images.ygoprodeck.com/images/cards/39175982.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 700,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 2,
   "is_tuner": false

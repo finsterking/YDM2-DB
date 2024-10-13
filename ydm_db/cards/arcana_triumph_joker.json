@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card is in your hand or GY: You can send 1 \"Queen's Knight\", \"King's Knight\", and \"Jack's Knight\" from your hand and/or face-up Monster Zone to the GY; Special Summon this card. This card gains 500 ATK x the combined number of cards in both players' hands. You can discard 1 card; destroy all face-up cards your opponent controls with the same type (Monster, Spell, or Trap) as the discarded card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/93880808.jpg"
+    "https://images.ygoprodeck.com/images/cards/93880808.jpg",
+    "https://images.ygoprodeck.com/images/cards/93880808.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
-  "atk": 0,
+  "atk": -1,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2500,
   "level": 10,
   "is_tuner": false

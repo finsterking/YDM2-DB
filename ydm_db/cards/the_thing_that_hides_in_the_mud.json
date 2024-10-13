@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "This monster melts its way underground to attack enemies from below.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/18180762.jpg"
+    "https://images.ygoprodeck.com/images/cards/18180762.jpg",
+    "https://images.ygoprodeck.com/images/cards/18180762.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",

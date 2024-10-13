@@ -5,20 +5,21 @@
   "is_custom": false,
   "text": "3 monsters, including a Token\nWhen this card destroys an opponent's monster by battle: You can Special Summon 1 \"Bellcat Token\" (Machine/WIND/Level 4/ATK 2000/DEF 2000) in Defense Position.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/22953211.jpg"
+    "https://images.ygoprodeck.com/images/cards/22953211.jpg",
+    "https://images.ygoprodeck.com/images/cards/22953211.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2000,
   "species": "Machine",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 3,
   "link_arrows": [
     "Top",
-    "Left",
-    "Right"
+    "Right",
+    "Left"
   ]
 }

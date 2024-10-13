@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be Special Summoned. Once per turn, if another Spirit monster is Normal or Special Summoned while this monster is on the field: You can draw 1 card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/66815913.png",
     "https://images.ygoprodeck.com/images/cards/66815913.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1500,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "Spirit",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

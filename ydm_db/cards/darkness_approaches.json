@@ -1,11 +1,12 @@
 {
-  "id": 80168720,
+  "id": 511003028,
   "name": "Darkness Approaches",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position.",
+  "is_custom": true,
+  "text": "Discard 2 cards from your hand. Select 1 face-up monster and flip it face-down, but do not change its battle position.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/80168720.jpg"
+    "https://images.ygoprodeck.com/images/cards/511003028.png",
+    "https://images.ygoprodeck.com/images/cards/511003028.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

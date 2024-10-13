@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Pay 1000 Life Points. During the current Duel, your hand size limit becomes 7.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/10248192.jpg"
+    "https://images.ygoprodeck.com/images/cards/10248192.jpg",
+    "https://images.ygoprodeck.com/images/cards/10248192.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

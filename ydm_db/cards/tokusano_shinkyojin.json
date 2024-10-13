@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Send monster(s) from your hand and/or face-up field to the GY whose total Levels equal 10; draw 2 cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/50357013.jpg"
+    "https://images.ygoprodeck.com/images/cards/50357013.jpg",
+    "https://images.ygoprodeck.com/images/cards/50357013.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

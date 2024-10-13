@@ -2,10 +2,11 @@
   "id": 501000081,
   "name": "Sakyo, Swordmaster of the Far East",
   "is_illegal": true,
-  "is_custom": false,
+  "is_custom": true,
   "text": "The dust has now settled on this greatest of battles.\nHail to your victories.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/501000081.jpg"
+    "https://images.ygoprodeck.com/images/cards/501000081.jpg",
+    "https://images.ygoprodeck.com/images/cards/501000081.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

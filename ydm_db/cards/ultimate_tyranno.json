@@ -1,20 +1,21 @@
 {
-  "id": 15894048,
+  "id": 511003009,
   "name": "Ultimate Tyranno",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "This card can attack all monsters your opponent controls, once each. During your Battle Phase, if you control an \"Ultimate Tyranno\" that can attack, monsters other than \"Ultimate Tyranno\" cannot attack.",
+  "is_custom": true,
+  "text": "If this card is in face-up Attack Position at the start of your Battle Phase, it must attack first, and attack all monsters your opponent controls once each.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/15894048.jpg"
+    "https://images.ygoprodeck.com/images/cards/511003009.jpg",
+    "https://images.ygoprodeck.com/images/cards/511003009.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 3000,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2200,
   "level": 8,
   "is_tuner": false

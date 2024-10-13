@@ -1,0 +1,13 @@
+{
+  "id": 110000000,
+  "name": "Speed World 2",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a player activates a non-\"Speed Spell\" Spell Card, they take 2000 damage. Except during the first turn of the Duel, during each player's Standby Phases, each player places 1 Speed Counter on their copy of this card (max. 12 each). You can remove any number of your Speed Counters from this card to activate an appropriate effect:\n\u25cf 4: Reveal any number of \"Speed Spell\" Spell Cards in your hand, and inflict 800 damage to your opponent for each card revealed.\n\u25cf 7: Draw 1 card.\n\u25cf 10: Destroy 1 card on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/110000000.jpg",
+    "https://images.ygoprodeck.com/images/cards/110000000.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Each player chooses 1 monster they control, then shuffles it into the Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/48216773.jpg"
+    "https://images.ygoprodeck.com/images/cards/48216773.jpg",
+    "https://images.ygoprodeck.com/images/cards/48216773.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

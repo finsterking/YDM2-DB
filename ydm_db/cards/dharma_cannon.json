@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A monstrous creature whose body is lined with cannons that never miss their targets.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/96967123.png",
     "https://images.ygoprodeck.com/images/cards/96967123.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 900,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 2,
   "is_tuner": false

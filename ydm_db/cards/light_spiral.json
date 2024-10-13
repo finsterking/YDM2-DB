@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Each time a card(s) is sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" monster, remove from play the top card of your opponent's Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/35577420.jpg"
+    "https://images.ygoprodeck.com/images/cards/35577420.jpg",
+    "https://images.ygoprodeck.com/images/cards/35577420.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

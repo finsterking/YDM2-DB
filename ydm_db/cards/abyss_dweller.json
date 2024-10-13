@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "2 Level 4 monsters\nWhile this card has a material attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn (Quick Effect): You can detach 1 material from this card; your opponent cannot activate any card effects in their GY this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/21044178.jpg"
+    "https://images.ygoprodeck.com/images/cards/21044178.jpg",
+    "https://images.ygoprodeck.com/images/cards/21044178.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1700,
-  "species": "Sea Serpent",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1400,
   "rank": 4
 }

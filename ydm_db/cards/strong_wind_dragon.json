@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is Tribute Summoned by Tributing a Dragon-Type monster: It gains ATK equal to half the original ATK of the Tributed monster. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/23770284.jpg"
+    "https://images.ygoprodeck.com/images/cards/23770284.jpg",
+    "https://images.ygoprodeck.com/images/cards/23770284.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 6,
   "is_tuner": false

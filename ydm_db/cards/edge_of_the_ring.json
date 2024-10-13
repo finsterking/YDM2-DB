@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "If your LP is lower than your opponent's: Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half of the original ATK of that monster, also, for the rest of this turn after this card resolves, your opponent takes no damage.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/85636437.jpg"
+    "https://images.ygoprodeck.com/images/cards/85636437.jpg",
+    "https://images.ygoprodeck.com/images/cards/85636437.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

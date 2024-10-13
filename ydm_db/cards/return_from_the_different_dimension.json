@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Pay half your Life Points; Special Summon as many of your banished monsters as possible. During the End Phase, banish all monsters that were Special Summoned by this effect.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/27174286.jpg"
+    "https://images.ygoprodeck.com/images/cards/27174286.jpg",
+    "https://images.ygoprodeck.com/images/cards/27174286.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

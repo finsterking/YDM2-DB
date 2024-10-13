@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Increase 1 face-up monster's DEF by 700 points until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/16430187.jpg"
+    "https://images.ygoprodeck.com/images/cards/16430187.jpg",
+    "https://images.ygoprodeck.com/images/cards/16430187.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

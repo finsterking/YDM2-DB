@@ -1,0 +1,13 @@
+{
+  "id": 100100106,
+  "name": "Speed Spell - Speed Energy",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 1 of your Speed Counters. Target monster you control gains ATK for each Speed Counter you have x200, until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100106.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100106.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

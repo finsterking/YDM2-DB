@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 LIGHT Tuner + 1 or more non-Tuner monsters\nEquip Cards equipped to this card cannot be targeted by cards or effects. Once per turn: You can send 1 Equip Card equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/75779210.jpg"
+    "https://images.ygoprodeck.com/images/cards/75779210.jpg",
+    "https://images.ygoprodeck.com/images/cards/75779210.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,
   "species": "Fairy",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
-  "ability": "",
+  "ability": "Synchro",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1200,
   "level": 8,
   "is_tuner": false

@@ -2,10 +2,11 @@
   "id": 53569894,
   "name": "Pyramid of Light",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "If this face-up card is removed from your side of the field, destroy \"Andro Sphinx\" and \"Sphinx Teleia\" on your side of the field and remove them from play.",
+  "is_custom": true,
+  "text": "Banish all Level 10 or higher DIVINE monsters on the field, ignoring their effects.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/53569894.jpg"
+    "https://images.ygoprodeck.com/images/cards/53569894.jpg",
+    "https://images.ygoprodeck.com/images/cards/53569894.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

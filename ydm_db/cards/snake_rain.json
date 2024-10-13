@@ -3,9 +3,10 @@
   "name": "Snake Rain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Discard 1 card. Select 4 Reptile-Type monsters from your Deck and send them to the Graveyard.",
+  "text": "Discard 1 card; send 4 Reptile monsters from your Deck to the GY.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17189677.jpg"
+    "https://images.ygoprodeck.com/images/cards/17189677.jpg",
+    "https://images.ygoprodeck.com/images/cards/17189677.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Protected by a solid body of rock, this monster throws a bone-shattering punch.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/68846917.png",
     "https://images.ygoprodeck.com/images/cards/68846917.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 3,
   "is_tuner": false

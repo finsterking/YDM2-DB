@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/52860176.png",
     "https://images.ygoprodeck.com/images/cards/52860176.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 3,
   "is_tuner": false

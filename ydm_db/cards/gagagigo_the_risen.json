@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "3 Level 4 monsters",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/9053187.png",
     "https://images.ygoprodeck.com/images/cards/9053187.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2950,
   "species": "Reptile",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2800,
   "rank": 4
 }

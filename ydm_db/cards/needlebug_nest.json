@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Send the top 5 cards of your Deck to the GY.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/84968490.jpg"
+    "https://images.ygoprodeck.com/images/cards/84968490.jpg",
+    "https://images.ygoprodeck.com/images/cards/84968490.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

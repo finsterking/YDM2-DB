@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/24224830.jpg"
+    "https://images.ygoprodeck.com/images/cards/24224830.jpg",
+    "https://images.ygoprodeck.com/images/cards/24224830.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

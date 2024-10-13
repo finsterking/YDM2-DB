@@ -1,0 +1,13 @@
+{
+  "id": 100100009,
+  "name": "Speed Spell - Stray Lambs",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can remove 2 of your Speed Counters; Special Summon 2 \"Lamb Tokens\" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon the turn you activate this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100009.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100009.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

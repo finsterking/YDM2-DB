@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/99645428.jpg"
+    "https://images.ygoprodeck.com/images/cards/99645428.jpg",
+    "https://images.ygoprodeck.com/images/cards/99645428.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 3,
   "is_tuner": false

@@ -5,20 +5,21 @@
   "is_custom": false,
   "text": "3 monsters",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/41248270.png",
     "https://images.ygoprodeck.com/images/cards/41248270.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1800,
   "species": "Cyberse",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 3,
   "link_arrows": [
-    "Bottom-Left",
+    "Bottom-Right",
     "Bottom",
-    "Bottom-Right"
+    "Bottom-Left"
   ]
 }

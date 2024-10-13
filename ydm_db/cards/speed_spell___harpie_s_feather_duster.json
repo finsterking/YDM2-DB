@@ -1,0 +1,13 @@
+{
+  "id": 100100022,
+  "name": "Speed Spell - Harpie's Feather Duster",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 12 of your Speed Counters; destroy all Spells/Traps your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100022.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100022.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

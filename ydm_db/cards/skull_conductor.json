@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card is face-up on the field at the end of the Battle Phase: Destroy this face-up card. You can send this card from your hand to the Graveyard; Special Summon up to 2 Zombie-Type monsters from your hand whose combined ATK is exactly 2000.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/62782218.jpg"
+    "https://images.ygoprodeck.com/images/cards/62782218.jpg",
+    "https://images.ygoprodeck.com/images/cards/62782218.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2000,
   "species": "Zombie",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

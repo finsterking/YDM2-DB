@@ -1,0 +1,13 @@
+{
+  "id": 100100505,
+  "name": "Speed Spell - Tornado",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters, while your opponent controls 3 or more cards in their Spell & Trap Zone: Destroy 1 card in your opponent's Spell & Trap Zone.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100505.png",
+    "https://images.ygoprodeck.com/images/cards/100100505.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

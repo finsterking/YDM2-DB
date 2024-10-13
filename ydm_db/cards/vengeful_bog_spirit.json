@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Monsters cannot attack the turn they are Summoned.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/95220856.jpg"
+    "https://images.ygoprodeck.com/images/cards/95220856.jpg",
+    "https://images.ygoprodeck.com/images/cards/95220856.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

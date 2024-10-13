@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Equip only to a Psychic-Type monster. While your LP is lower than your opponent's, the equipped monster gains ATK equal to the difference (max. 2000).",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/92346415.jpg"
+    "https://images.ygoprodeck.com/images/cards/92346415.jpg",
+    "https://images.ygoprodeck.com/images/cards/92346415.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

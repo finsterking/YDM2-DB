@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/14729426.png",
     "https://images.ygoprodeck.com/images/cards/14729426.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 0,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 1,
   "is_tuner": false

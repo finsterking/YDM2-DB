@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When a \"Bujin\" monster you control is destroyed by battle with an opponent's monster and sent to your Graveyard: You can send this card from your hand to the Graveyard; destroy that opponent's monster.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/11958188.png",
     "https://images.ygoprodeck.com/images/cards/11958188.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1600,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 900,
   "level": 4,
   "is_tuner": false

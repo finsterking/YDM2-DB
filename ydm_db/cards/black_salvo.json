@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/88671720.png",
     "https://images.ygoprodeck.com/images/cards/88671720.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1100,
   "level": 3,
   "is_tuner": true

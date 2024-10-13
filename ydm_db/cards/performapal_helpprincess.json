@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When you Normal or Special Summon a \"Performapal\" monster(s), except \"Performapal Helpprincess\" (except during the Damage Step): You can Special Summon this card from your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/88358139.jpg"
+    "https://images.ygoprodeck.com/images/cards/88358139.jpg",
+    "https://images.ygoprodeck.com/images/cards/88358139.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

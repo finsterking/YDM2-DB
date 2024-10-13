@@ -1,12 +1,13 @@
 {
-  "id": 13955608,
+  "id": 511003022,
   "name": "Stronghold the Moving Fortress",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Special Summon this card in Defense Position as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000). (This card is also still a Trap.) While you control \"Green Gadget\", \"Red Gadget\", and \"Yellow Gadget\", this card gains 3000 ATK.",
+  "is_custom": true,
+  "text": "Special Summon this card in Defense Position as an Effect Monster (Machine-Type/EARTH/Level 4/ATK 0/DEF 2000). (This card is also still a Trap Card.) While you control \"Green Gadget\", \"Red Gadget\", and \"Yellow Gadget\", this card's ATK becomes 3000.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/13955608.jpg"
+    "https://images.ygoprodeck.com/images/cards/511003022.jpg",
+    "https://images.ygoprodeck.com/images/cards/511003022.png"
   ],
   "type": "Trap",
-  "trap_type": "Continuous"
+  "trap_type": "Normal"
 }

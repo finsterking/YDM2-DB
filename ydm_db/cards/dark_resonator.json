@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/97021916.jpg"
+    "https://images.ygoprodeck.com/images/cards/97021916.jpg",
+    "https://images.ygoprodeck.com/images/cards/97021916.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 3,
   "is_tuner": true

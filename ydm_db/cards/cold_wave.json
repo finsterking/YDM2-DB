@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set any Spell or Trap Cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/60682203.jpg"
+    "https://images.ygoprodeck.com/images/cards/60682203.jpg",
+    "https://images.ygoprodeck.com/images/cards/60682203.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

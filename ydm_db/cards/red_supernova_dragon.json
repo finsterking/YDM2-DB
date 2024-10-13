@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "3 Tuners + 1+ non-Tuner Synchro Monsters\nMust first be Synchro Summoned. Gains 500 ATK for each Tuner in your GY. Cannot be destroyed by an opponent's card effects. Once per turn, when your opponent's monster effect is activated, or when an opponent's monster declares an attack (Quick Effect): You can activate this effect; banish this card, also banish all cards your opponent controls. Once per turn, during your next End Phase after this card was banished by its own effect: Special Summon this banished card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/99585850.jpg"
+    "https://images.ygoprodeck.com/images/cards/99585850.jpg",
+    "https://images.ygoprodeck.com/images/cards/99585850.png"
   ],
   "type": "Monster",
   "attribute": "DARK",

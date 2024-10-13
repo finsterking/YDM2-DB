@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributing, but its original ATK becomes 1300.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/36029076.jpg"
+    "https://images.ygoprodeck.com/images/cards/36029076.jpg",
+    "https://images.ygoprodeck.com/images/cards/36029076.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2600,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 7,
   "is_tuner": false

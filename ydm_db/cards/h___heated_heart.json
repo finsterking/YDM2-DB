@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 face-up monster you control; until the end of this turn, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/74825788.jpg"
+    "https://images.ygoprodeck.com/images/cards/74825788.jpg",
+    "https://images.ygoprodeck.com/images/cards/74825788.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

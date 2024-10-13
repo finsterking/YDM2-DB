@@ -1,11 +1,12 @@
 {
-  "id": 90502999,
+  "id": 511003031,
   "name": "Ground Collapse",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Select 2 Main Monster Zones on the field. Neither player can use the selected zones. You cannot select a zone that is occupied by a Monster Card.",
+  "is_custom": true,
+  "text": "Activate by choosing 2 unused Monster Zones; while this card is in the Spell & Trap Zone, those chosen Zones cannot be used.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/90502999.jpg"
+    "https://images.ygoprodeck.com/images/cards/511003031.jpg",
+    "https://images.ygoprodeck.com/images/cards/511003031.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

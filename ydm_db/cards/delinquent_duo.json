@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in their hand, discard 1 more card of their choice.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/44763025.jpg"
+    "https://images.ygoprodeck.com/images/cards/44763025.jpg",
+    "https://images.ygoprodeck.com/images/cards/44763025.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If your opponent controls 2 or more face-up monsters of the same Attribute, you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up card on the field; that target's effects are negated during this turn. There can only be 1 face-up \"Alector, Sovereign of Birds\" on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17573739.jpg"
+    "https://images.ygoprodeck.com/images/cards/17573739.jpg",
+    "https://images.ygoprodeck.com/images/cards/17573739.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 6,
   "is_tuner": false

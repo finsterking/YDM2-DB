@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/26976414.jpg"
+    "https://images.ygoprodeck.com/images/cards/26976414.jpg",
+    "https://images.ygoprodeck.com/images/cards/26976414.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 2,
   "is_tuner": false

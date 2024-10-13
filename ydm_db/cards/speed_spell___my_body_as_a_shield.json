@@ -1,0 +1,13 @@
+{
+  "id": 100100500,
+  "name": "Speed Spell - My Body as a Shield",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field (except during the Damage Step), while you have 2 or more Speed Counters: Pay 1500 LP; negate the activation, and if you do, destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100500.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100500.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 100100058,
+  "name": "Speed Spell - Shield Crush",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 2 of your Speed Counters, then target 1 Defense Position monster on the field; destroy that target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100058.png",
+    "https://images.ygoprodeck.com/images/cards/100100058.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

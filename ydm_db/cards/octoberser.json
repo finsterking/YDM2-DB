@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/74637266.png",
     "https://images.ygoprodeck.com/images/cards/74637266.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1600,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 5,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This fiend brings out the worst in everyone.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/20541432.png",
     "https://images.ygoprodeck.com/images/cards/20541432.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1050,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

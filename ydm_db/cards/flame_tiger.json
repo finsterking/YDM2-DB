@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During your Draw Phase, if this card is in your Graveyard and you control no monsters, instead of conducting your normal draw: You can Special Summon this card, and if you do, banish it when it leaves the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/66499018.jpg"
+    "https://images.ygoprodeck.com/images/cards/66499018.jpg",
+    "https://images.ygoprodeck.com/images/cards/66499018.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1800,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 4,
   "is_tuner": false

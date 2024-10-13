@@ -1,0 +1,13 @@
+{
+  "id": 100100131,
+  "name": "Speed Spell - Summon Speeder",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you have 2 or more Speed Counters: Special Summon 1 Level 4 or lower monster from your hand. It cannot attack this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100131.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100131.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

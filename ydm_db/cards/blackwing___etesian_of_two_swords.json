@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If a \"Blackwing\" monster you control battles an opponent's monster, and your opponent still controls that monster at the end of the Damage Step: You can send this card from your hand to the Graveyard; inflict 1000 damage to your opponent.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/78564023.png",
     "https://images.ygoprodeck.com/images/cards/78564023.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 400,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 3,
   "is_tuner": false

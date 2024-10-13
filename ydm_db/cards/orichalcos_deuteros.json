@@ -1,0 +1,13 @@
+{
+  "id": 110000100,
+  "name": "Orichalcos Deuteros",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Activate only if \"The Seal of Orichalcos\" is in your Field Zone. This card gains the effects of \"The Seal of Orichalcos\". Once per turn: You can gain 500 LP for each monster you control. When an opponent's monster declares a direct attack: You can Tribute 1 monster; destroy the attacking monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/110000100.png",
+    "https://images.ygoprodeck.com/images/cards/110000100.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

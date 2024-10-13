@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During your opponent's turn, Set cards in your Spell & Trap Zones cannot be destroyed by card effects. If a Set card(s) in your Spell & Trap Zone is destroyed by an opponent's card effect: This card gains 800 ATK until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/80141055.jpg"
+    "https://images.ygoprodeck.com/images/cards/80141055.jpg",
+    "https://images.ygoprodeck.com/images/cards/80141055.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1600,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 3,
   "is_tuner": false

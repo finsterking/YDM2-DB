@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "For a Synchro Summon, you can substitute this card for any 1 \"Nordic\" Tuner. If this card is used as Synchro Material, all other Synchro Materials must be \"Nordic\" monsters. Once per turn: You can send 1 \"Nordic\" monster from your Deck to the GY; this card's Level becomes the Level of that monster, until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/61777313.jpg"
+    "https://images.ygoprodeck.com/images/cards/61777313.jpg",
+    "https://images.ygoprodeck.com/images/cards/61777313.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 4,
   "is_tuner": true

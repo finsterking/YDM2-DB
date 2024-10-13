@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Ancestral species found in electronic space. No one knows how much information it holds.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/24154052.jpg"
+    "https://images.ygoprodeck.com/images/cards/24154052.jpg",
+    "https://images.ygoprodeck.com/images/cards/24154052.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 100,
   "species": "Cyberse",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

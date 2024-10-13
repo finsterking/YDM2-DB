@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/51254980.png",
     "https://images.ygoprodeck.com/images/cards/51254980.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

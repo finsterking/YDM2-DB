@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Return all Set Spells and Traps on the field to the hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/64697431.jpg"
+    "https://images.ygoprodeck.com/images/cards/64697431.jpg",
+    "https://images.ygoprodeck.com/images/cards/64697431.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

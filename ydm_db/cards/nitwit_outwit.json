@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Discard 1 monster, then target 1 face-up monster on the field; it loses ATK equal to the discarded monster's original ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/49204190.jpg"
+    "https://images.ygoprodeck.com/images/cards/49204190.jpg",
+    "https://images.ygoprodeck.com/images/cards/49204190.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

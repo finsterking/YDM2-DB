@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/60606759.jpg"
+    "https://images.ygoprodeck.com/images/cards/60606759.jpg",
+    "https://images.ygoprodeck.com/images/cards/60606759.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 100,
   "species": "Fiend",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2100,
   "level": 4,
   "is_tuner": false

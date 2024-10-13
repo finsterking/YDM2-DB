@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Your opponent cannot activate cards or effects when \"Gusto\" monsters you control declare their attacks this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/8414337.jpg"
+    "https://images.ygoprodeck.com/images/cards/8414337.jpg",
+    "https://images.ygoprodeck.com/images/cards/8414337.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

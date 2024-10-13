@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "As long as this card remains face-up on your side of the field, \"Pandemonium\" on your side of the field is not destroyed by your opponent's card effects.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/75375465.png",
     "https://images.ygoprodeck.com/images/cards/75375465.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1300,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 4,
   "is_tuner": false

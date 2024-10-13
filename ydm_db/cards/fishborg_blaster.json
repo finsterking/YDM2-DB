@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If you control a face-up Level 3 or lower WATER monster: You can discard 1 card; Special Summon this card from your Graveyard. If this card is used as a Synchro Material Monster, all other Synchro Material Monsters must be WATER.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/93369354.jpg"
+    "https://images.ygoprodeck.com/images/cards/93369354.jpg",
+    "https://images.ygoprodeck.com/images/cards/93369354.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 100,
   "species": "Fish",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 1,
   "is_tuner": true

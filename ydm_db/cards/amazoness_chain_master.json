@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is destroyed by battle and sent to the GY: You can pay 1500 LP; look at your opponent's hand, then add 1 monster from their hand to your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/29654737.jpg"
+    "https://images.ygoprodeck.com/images/cards/29654737.jpg",
+    "https://images.ygoprodeck.com/images/cards/29654737.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 4,
   "is_tuner": false

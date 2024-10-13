@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card is destroyed by battle, select 1 card in your opponent's Graveyard and remove it from play. If this card on the field is destroyed by a card effect, select 1 FIRE monster with 200 or less DEF in your Graveyard, except \"Neo Flamvell Hedgehog\", and add it to your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/2377034.jpg"
+    "https://images.ygoprodeck.com/images/cards/2377034.jpg",
+    "https://images.ygoprodeck.com/images/cards/2377034.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 800,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 3,
   "is_tuner": true

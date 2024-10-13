@@ -1,0 +1,13 @@
+{
+  "id": 100100071,
+  "name": "Speed Spell - Special Hurricane",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 3 or more Speed Counters: Discard 1 card; destroy all Special Summoned monsters on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100071.png",
+    "https://images.ygoprodeck.com/images/cards/100100071.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

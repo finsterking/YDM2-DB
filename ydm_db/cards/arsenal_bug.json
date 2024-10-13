@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If you control no other Insect-Type monsters, this card's ATK and DEF become 1000.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42364374.jpg"
+    "https://images.ygoprodeck.com/images/cards/42364374.jpg",
+    "https://images.ygoprodeck.com/images/cards/42364374.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2000,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2000,
   "level": 3,
   "is_tuner": false

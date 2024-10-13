@@ -3,18 +3,19 @@
   "name": "Fabled Leviathan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters\nWhen this card on the field is destroyed and sent to the Graveyard, you can select up to 3 \"Fabled\" monsters in your Graveyard. Add them to your hand.",
+  "text": "1 \"Fabled\" Tuner + 1+ non-Tuner monsters\nWhen this card on the field is destroyed and sent to the GY: You can target up to 3 \"Fabled\" monsters in your GY; add them to your hand.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/39477584.png",
     "https://images.ygoprodeck.com/images/cards/39477584.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 3000,
   "species": "Fiend",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
-  "ability": "",
+  "ability": "Synchro",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 2000,
   "level": 10,
   "is_tuner": false

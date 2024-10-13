@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "2 Level 4 monsters",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/71594310.jpg"
+    "https://images.ygoprodeck.com/images/cards/71594310.jpg",
+    "https://images.ygoprodeck.com/images/cards/71594310.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2600,
   "species": "Rock",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 1900,
   "rank": 4
 }

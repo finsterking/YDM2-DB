@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If you control no monsters, you can Normal Summon this card without Tributing. Once per turn, during your opponent's Standby Phase: This card's ATK becomes double its current ATK until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/37798171.jpg"
+    "https://images.ygoprodeck.com/images/cards/37798171.jpg",
+    "https://images.ygoprodeck.com/images/cards/37798171.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1400,
   "species": "Fish",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 5,
   "is_tuner": false

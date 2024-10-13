@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 monster in either player's GY; during your next Standby Phase, Special Summon it from the GY.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17688543.jpg"
+    "https://images.ygoprodeck.com/images/cards/17688543.jpg",
+    "https://images.ygoprodeck.com/images/cards/17688543.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

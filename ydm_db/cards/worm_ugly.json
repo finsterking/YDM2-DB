@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When you Tribute Summon a Reptile-Type \"Worm\" monster by Tributing this card, you can Special Summon this card from your Graveyard to your opponent's side of the field, in face-up Attack Position.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/76683171.jpg"
+    "https://images.ygoprodeck.com/images/cards/76683171.jpg",
+    "https://images.ygoprodeck.com/images/cards/76683171.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 1,
   "is_tuner": false

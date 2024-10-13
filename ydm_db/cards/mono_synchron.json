@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When using this card as Synchro Material, the other Synchro Material(s) must be Level 4 or lower Warrior or Machine-Type monsters, and they are treated as Level 1.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/56897896.jpg"
+    "https://images.ygoprodeck.com/images/cards/56897896.jpg",
+    "https://images.ygoprodeck.com/images/cards/56897896.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 1,
   "is_tuner": true

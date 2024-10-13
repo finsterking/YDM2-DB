@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "If you control the same number of monsters as your opponent, switch control of all those monsters.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/30426226.jpg"
+    "https://images.ygoprodeck.com/images/cards/30426226.jpg",
+    "https://images.ygoprodeck.com/images/cards/30426226.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

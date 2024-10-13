@@ -5,6 +5,7 @@
   "is_custom": false,
   "text": "Neither player can add cards from their Deck to their hand except by drawing them.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/59305593.png",
     "https://images.ygoprodeck.com/images/cards/59305593.jpg"
   ],
   "type": "Trap",

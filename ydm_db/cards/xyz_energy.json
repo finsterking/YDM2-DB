@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Detach 1 Xyz Material you control to target 1 face-up monster your opponent controls; destroy that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/85839825.jpg"
+    "https://images.ygoprodeck.com/images/cards/85839825.jpg",
+    "https://images.ygoprodeck.com/images/cards/85839825.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

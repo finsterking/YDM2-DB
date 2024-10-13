@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "While the king is away, this queen protects his throne with a mighty defense.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/10071456.png",
     "https://images.ygoprodeck.com/images/cards/10071456.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 800,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

@@ -1,0 +1,13 @@
+{
+  "id": 100100108,
+  "name": "Speed Spell - Acceleration Limiter",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During your opponent's next 2 turns, your opponent cannot place Speed Counters during their Standby Phases.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100108.png",
+    "https://images.ygoprodeck.com/images/cards/100100108.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

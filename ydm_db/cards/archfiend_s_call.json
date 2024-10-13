@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nThis card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. Your opponent cannot target any \"Summoned Skull\" you control with card effects. If this Synchro Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/64635042.png",
     "https://images.ygoprodeck.com/images/cards/64635042.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,
   "species": "Fiend",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
-  "ability": "",
+  "ability": "Synchro",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1200,
   "level": 6,
   "is_tuner": false

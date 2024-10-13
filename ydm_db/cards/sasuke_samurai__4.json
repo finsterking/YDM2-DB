@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card battles a monster, toss a coin and call heads or tails before damage calculation. If you call it right, destroy the opponent's monster with this effect.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/64538655.jpg"
+    "https://images.ygoprodeck.com/images/cards/64538655.jpg",
+    "https://images.ygoprodeck.com/images/cards/64538655.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

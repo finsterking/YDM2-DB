@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "During either player's turn, when exactly 1 face-up \"Six Samurai\" monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/1498130.png",
     "https://images.ygoprodeck.com/images/cards/1498130.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 400,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 2,
   "is_tuner": true

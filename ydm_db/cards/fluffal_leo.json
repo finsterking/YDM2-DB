@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card declares an attack: It gains 500 ATK until the end of the Battle Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/66457138.jpg"
+    "https://images.ygoprodeck.com/images/cards/66457138.jpg",
+    "https://images.ygoprodeck.com/images/cards/66457138.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1600,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

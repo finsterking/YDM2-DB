@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When your opponent activates a Spell/Trap Card, or monster effect, by paying their Life Points: Negate the activation, and if you do, return it to the Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/59957503.jpg"
+    "https://images.ygoprodeck.com/images/cards/59957503.jpg",
+    "https://images.ygoprodeck.com/images/cards/59957503.png"
   ],
   "type": "Trap",
   "trap_type": "Counter"

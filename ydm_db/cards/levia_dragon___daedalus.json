@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can send 1 face-up \"Umi\" you control to the GY; destroy all other cards on the field.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/37721209.png",
     "https://images.ygoprodeck.com/images/cards/37721209.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2600,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 7,
   "is_tuner": false

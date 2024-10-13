@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/36472900.jpg"
+    "https://images.ygoprodeck.com/images/cards/36472900.jpg",
+    "https://images.ygoprodeck.com/images/cards/36472900.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 300,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 300,
   "level": 1,
   "is_tuner": false

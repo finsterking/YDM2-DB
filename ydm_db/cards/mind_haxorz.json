@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Pay 500 Life Points. Look at your opponent's hand and all Set cards on their side of the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/75392615.jpg"
+    "https://images.ygoprodeck.com/images/cards/75392615.jpg",
+    "https://images.ygoprodeck.com/images/cards/75392615.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

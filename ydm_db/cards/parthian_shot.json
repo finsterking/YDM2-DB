@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "At the end of the Battle Phase: It becomes the End Phase of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/29185231.jpg"
+    "https://images.ygoprodeck.com/images/cards/29185231.jpg",
+    "https://images.ygoprodeck.com/images/cards/29185231.png"
   ],
   "type": "Trap",
   "trap_type": "Counter"

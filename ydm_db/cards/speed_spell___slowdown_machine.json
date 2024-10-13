@@ -1,0 +1,13 @@
+{
+  "id": 100100126,
+  "name": "Speed Spell - Slowdown Machine",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During the turn this card is activated, remove 1 of your opponent's Speed Counters for every 300 points of damage you inflicted to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100126.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100126.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

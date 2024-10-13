@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/96457619.jpg"
+    "https://images.ygoprodeck.com/images/cards/96457619.jpg",
+    "https://images.ygoprodeck.com/images/cards/96457619.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster's current ATK, until the end of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/53077251.jpg"
+    "https://images.ygoprodeck.com/images/cards/53077251.jpg",
+    "https://images.ygoprodeck.com/images/cards/53077251.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

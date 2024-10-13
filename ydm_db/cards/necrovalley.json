@@ -1,11 +1,12 @@
 {
-  "id": 47355498,
+  "id": 511002998,
   "name": "Necrovalley",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "All \"Gravekeeper's\" monsters gain 500 ATK and DEF. Cards in the Graveyard cannot be banished. Negate any card effect that would move a card in the Graveyard to a different place. Negate any card effect that changes Types or Attributes in the Graveyard.",
+  "is_custom": true,
+  "text": "All \"Gravekeeper's\" monsters gain 500 ATK/DEF. Cards in the Graveyard cannot be banished. Negate any card effect that would move a card in the Graveyard, other than itself, to a different place.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/47355498.jpg"
+    "https://images.ygoprodeck.com/images/cards/511002998.jpg",
+    "https://images.ygoprodeck.com/images/cards/511002998.png"
   ],
   "type": "Spell",
   "spell_type": "Field"

@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When your opponent activates a Spell Card that targets exactly 1 monster (and no other cards) on the field: Target another card that would be an appropriate target; that Spell now targets the new target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17653779.jpg"
+    "https://images.ygoprodeck.com/images/cards/17653779.jpg",
+    "https://images.ygoprodeck.com/images/cards/17653779.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

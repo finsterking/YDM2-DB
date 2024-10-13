@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "A sorcerer who utters spells that render monsters unconscious.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/38035986.jpg"
+    "https://images.ygoprodeck.com/images/cards/38035986.jpg",
+    "https://images.ygoprodeck.com/images/cards/38035986.png"
   ],
   "type": "Monster",
   "attribute": "DARK",

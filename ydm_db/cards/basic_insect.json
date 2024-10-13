@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Usually found traveling in swarms, this creature's ideal environment is the forest.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/89091579.jpg"
+    "https://images.ygoprodeck.com/images/cards/89091579.jpg",
+    "https://images.ygoprodeck.com/images/cards/89091579.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,
   "species": "Insect",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 2,
   "is_tuner": false

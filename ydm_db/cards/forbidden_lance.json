@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/27243130.jpg"
+    "https://images.ygoprodeck.com/images/cards/27243130.jpg",
+    "https://images.ygoprodeck.com/images/cards/27243130.png"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

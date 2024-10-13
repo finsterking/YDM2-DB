@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be destroyed by battle while you control another monster. Neither player can target face-up Spells/Traps you control with card effects.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/62411042.png",
     "https://images.ygoprodeck.com/images/cards/62411042.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1800,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 4,
   "is_tuner": false

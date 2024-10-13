@@ -1,0 +1,13 @@
+{
+  "id": 100100521,
+  "name": "Speed Spell - Burial from a Different Dimension",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 3 of your Speed Counters, then target up to 3 banished monsters; return them to the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100521.png",
+    "https://images.ygoprodeck.com/images/cards/100100521.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

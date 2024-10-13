@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Pay 1000 Life Points. Look at your opponent's hand, select 1 card in it and discard that card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17375316.jpg"
+    "https://images.ygoprodeck.com/images/cards/17375316.jpg",
+    "https://images.ygoprodeck.com/images/cards/17375316.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

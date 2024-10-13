@@ -1,11 +1,12 @@
 {
-  "id": 42703248,
+  "id": 120000001,
   "name": "Giant Trunade",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Return all Spell and Trap Cards on the field to the hand.",
+  "is_custom": true,
+  "text": "[Requirement] None\n[Effect] Return all other Spell/Trap Cards on the field to the owner's hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42703248.jpg"
+    "https://images.ygoprodeck.com/images/cards/120000001.jpg",
+    "https://images.ygoprodeck.com/images/cards/120000001.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

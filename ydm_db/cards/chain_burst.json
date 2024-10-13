@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Each time a player activates a Trap Card, they take 1000 damage immediately after it resolves.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/48276469.jpg"
+    "https://images.ygoprodeck.com/images/cards/48276469.jpg",
+    "https://images.ygoprodeck.com/images/cards/48276469.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

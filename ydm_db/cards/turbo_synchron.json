@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card declares an attack: You can change the attack target to Defense Position. When you take battle damage while this card is attacking: You can Special Summon 1 monster from your hand with ATK less than or equal to the battle damage you took.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/67270095.png",
     "https://images.ygoprodeck.com/images/cards/67270095.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 1,
   "is_tuner": true

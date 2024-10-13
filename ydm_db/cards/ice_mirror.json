@@ -1,11 +1,12 @@
 {
-  "id": 69492187,
+  "id": 130000029,
   "name": "Ice Mirror",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Target 1 Level 3 or lower WATER monster you control; Special Summon 1 monster with the same name from your Deck, but you cannot Special Summon from the Extra Deck while you control that face-up Special Summoned monster.",
+  "is_custom": true,
+  "text": "Target 1 Level 3 or lower WATER monster you control; Special Summon 1 monster with the same name from your Deck, but it cannot declare an attack this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/69492187.jpg"
+    "https://images.ygoprodeck.com/images/cards/130000029.jpg",
+    "https://images.ygoprodeck.com/images/cards/130000029.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

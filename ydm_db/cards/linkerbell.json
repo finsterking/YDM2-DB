@@ -5,19 +5,20 @@
   "is_custom": false,
   "text": "2 monsters\nYou cannot Link Summon this card unless you have at least 3 more cards in your Extra Deck than your opponent's.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/54635100.png",
     "https://images.ygoprodeck.com/images/cards/54635100.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Fairy",
-  "monster_type": "Link",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
   "link_rating": 2,
   "link_arrows": [
-    "Bottom-Left",
-    "Bottom-Right"
+    "Bottom-Right",
+    "Bottom-Left"
   ]
 }

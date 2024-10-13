@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "This card remains on the field for 2 of your opponent's turns. While this card is face-up on the field, no monsters can attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/58775978.jpg"
+    "https://images.ygoprodeck.com/images/cards/58775978.jpg",
+    "https://images.ygoprodeck.com/images/cards/58775978.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

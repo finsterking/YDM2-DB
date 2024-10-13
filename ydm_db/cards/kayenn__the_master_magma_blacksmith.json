@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can banish this card from your Graveyard; all face-up \"Laval\" monsters you currently control gain 400 ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/51554871.jpg"
+    "https://images.ygoprodeck.com/images/cards/51554871.jpg",
+    "https://images.ygoprodeck.com/images/cards/51554871.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1200,
   "species": "Rock",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 3,
   "is_tuner": false

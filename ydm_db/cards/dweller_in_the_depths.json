@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Gains 300 ATK for each Continuous Spell in your Spell & Trap Zone.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/46508640.jpg"
+    "https://images.ygoprodeck.com/images/cards/46508640.jpg",
+    "https://images.ygoprodeck.com/images/cards/46508640.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 3,
   "is_tuner": false

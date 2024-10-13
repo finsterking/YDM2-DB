@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A slime with the head of a frog, it attacks by croaking terribly.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/68638985.jpg"
+    "https://images.ygoprodeck.com/images/cards/68638985.jpg",
+    "https://images.ygoprodeck.com/images/cards/68638985.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 700,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 2,
   "is_tuner": false

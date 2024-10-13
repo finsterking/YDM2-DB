@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/17658803.jpg"
+    "https://images.ygoprodeck.com/images/cards/17658803.jpg",
+    "https://images.ygoprodeck.com/images/cards/17658803.png"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 2400,
   "species": "Dragon",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 6,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A savage beast that carries a big bamboo stick for beating down its enemies.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/98818516.png",
     "https://images.ygoprodeck.com/images/cards/98818516.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 4,
   "is_tuner": false

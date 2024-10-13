@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Tribute 1 face-up \"Dark Magician\"; Special Summon 1 \"Dark Magician Knight\" from your hand, Deck or Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/87210505.jpg"
+    "https://images.ygoprodeck.com/images/cards/87210505.jpg",
+    "https://images.ygoprodeck.com/images/cards/87210505.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

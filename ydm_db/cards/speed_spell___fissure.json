@@ -1,0 +1,13 @@
+{
+  "id": 100100063,
+  "name": "Speed Spell - Fissure",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 4 or more Speed Counters: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).\n\n(This card is always treated as an \"Earth\" card.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100063.png",
+    "https://images.ygoprodeck.com/images/cards/100100063.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

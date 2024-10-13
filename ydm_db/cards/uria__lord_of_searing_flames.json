@@ -1,20 +1,21 @@
 {
-  "id": 6007213,
+  "id": 511000234,
   "name": "Uria, Lord of Searing Flames",
   "is_illegal": false,
-  "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Trap Cards you control to the Graveyard, and cannot be Special Summoned by other ways. This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. Once per turn: You can target 1 Set Spell/Trap Card your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation.",
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 3 Trap Cards you control to the GY and cannot be Special Summoned by other ways except by its own effect. Unaffected by Trap effects, and is only affected by the effects of Spell Cards during the turn they are applied. This card gains 1000 ATK/DEF for each Trap Card in your GY. Once per turn: You can target 1 Set Spell/Trap your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation. You can discard 1 Trap Card to the GY to Special Summon this card from your GY. During the turn this card is Special Summoned by its own effect, if you control another monster, this card cannot declare an attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/6007213.jpg"
+    "https://images.ygoprodeck.com/images/cards/511000234.jpg",
+    "https://images.ygoprodeck.com/images/cards/511000234.png"
   ],
   "type": "Monster",
-  "attribute": "FIRE",
+  "attribute": "DIVINE",
   "atk": 0,
-  "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Divine-Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 10,
   "is_tuner": false

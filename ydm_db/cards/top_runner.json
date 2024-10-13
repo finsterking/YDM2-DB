@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "All face-up Synchro Monsters you control gain 600 ATK.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/53623827.png",
     "https://images.ygoprodeck.com/images/cards/53623827.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1100,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 4,
   "is_tuner": true

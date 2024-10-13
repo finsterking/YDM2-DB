@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "All face-up \"Genex\" monsters you control gain 400 ATK.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/52222372.png",
     "https://images.ygoprodeck.com/images/cards/52222372.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1400,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 4,
   "is_tuner": false

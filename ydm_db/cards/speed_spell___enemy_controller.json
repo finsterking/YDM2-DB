@@ -1,0 +1,13 @@
+{
+  "id": 100100520,
+  "name": "Speed Spell - Enemy Controller",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 3 or more Speed Counters: Activate 1 of these effects.\n\u25cf Target 1 face-up monster your opponent controls; change that target's battle position.\n\u25cf Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100520.png",
+    "https://images.ygoprodeck.com/images/cards/100100520.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon up to 2 \"Inmato\" monsters from your Deck. They cannot be used as Synchro Material Monsters this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/525110.jpg"
+    "https://images.ygoprodeck.com/images/cards/525110.jpg",
+    "https://images.ygoprodeck.com/images/cards/525110.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 700,
   "species": "Plant",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 2,
   "is_tuner": true

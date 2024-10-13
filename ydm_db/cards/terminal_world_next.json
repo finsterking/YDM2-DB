@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Activate this card if your opponent controls 3 or fewer monsters and 3 or fewer Spell/Trap Cards, while you control no other cards. Cards cannot be placed on the field if it would give any player more than 3 monsters or more than 3 Spell/Trap Cards on their field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/48605591.jpg"
+    "https://images.ygoprodeck.com/images/cards/48605591.jpg",
+    "https://images.ygoprodeck.com/images/cards/48605591.png"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

@@ -1,11 +1,12 @@
 {
-  "id": 101206028,
+  "id": 73413514,
   "name": "Dream Absorber",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent activates a monster effect in the hand, GY, or banishment: You can Special Summon this card from your GY (if it was there when the effect was activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of \"Dream Absorber\" once per turn. Each time your opponent activates a monster effect, this card gains 1000 ATK immediately after it resolves.",
+  "text": "If your opponent activates a monster effect in the hand, GY, or banishment (except during the Damage Step): You can Special Summon this card from your GY (if it was there when the effect was activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of \"Dream Absorber\" once per turn. Each time your opponent activates a monster effect, this card gains 1000 ATK immediately after it resolves.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/101206028.jpg"
+    "https://images.ygoprodeck.com/images/cards/73413514.png",
+    "https://images.ygoprodeck.com/images/cards/73413514.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",

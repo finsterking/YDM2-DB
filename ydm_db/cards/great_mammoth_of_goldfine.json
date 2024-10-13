@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "\"The Snake Hair\" + \"Dragon Zombie\"",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/54622031.png",
     "https://images.ygoprodeck.com/images/cards/54622031.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2200,
   "species": "Zombie",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1800,
   "level": 6,
   "is_tuner": false

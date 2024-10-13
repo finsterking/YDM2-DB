@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A destructive machine discovered in the Ruins of the Ancients.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/49587396.jpg"
+    "https://images.ygoprodeck.com/images/cards/49587396.jpg",
+    "https://images.ygoprodeck.com/images/cards/49587396.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 5,
   "is_tuner": false

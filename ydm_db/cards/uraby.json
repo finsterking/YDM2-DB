@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/1784619.png",
     "https://images.ygoprodeck.com/images/cards/1784619.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 4,
   "is_tuner": false

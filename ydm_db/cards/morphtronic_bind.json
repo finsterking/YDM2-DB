@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "While you control a face-up \"Morphtronic\" monster, all Level 4 or higher monsters your opponent controls cannot attack or change their battle positions.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/85101228.jpg"
+    "https://images.ygoprodeck.com/images/cards/85101228.jpg",
+    "https://images.ygoprodeck.com/images/cards/85101228.png"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

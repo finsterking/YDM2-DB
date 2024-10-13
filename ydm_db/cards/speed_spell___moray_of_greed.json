@@ -1,0 +1,13 @@
+{
+  "id": 100100047,
+  "name": "Speed Spell - Moray of Greed",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 2 of your Speed Counters; Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100047.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100047.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

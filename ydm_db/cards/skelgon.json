@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "\"The Snake Hair\" + \"Blackland Fire Dragon\"",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/32355828.jpg"
+    "https://images.ygoprodeck.com/images/cards/32355828.jpg",
+    "https://images.ygoprodeck.com/images/cards/32355828.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1700,
   "species": "Zombie",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 1900,
   "level": 6,
   "is_tuner": false

@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "For the rest of this turn, negate all Equip, Field, Continuous and Quick-Play Spell Card effects on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/96474800.jpg"
+    "https://images.ygoprodeck.com/images/cards/96474800.jpg",
+    "https://images.ygoprodeck.com/images/cards/96474800.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

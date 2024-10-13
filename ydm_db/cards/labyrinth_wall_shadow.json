@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Monsters cannot attack the turn they are Summoned, except monsters whose original Level is 5 or higher. Once per turn, during your Main Phase: You can place 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished, or in your hand or Deck, face-up in your Spell & Trap Zone as a Continuous Spell. At the start of your opponent's Battle Phase: You can target 1 monster your opponent controls with less than 1600 ATK; destroy it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/34771947.jpg"
+    "https://images.ygoprodeck.com/images/cards/34771947.jpg",
+    "https://images.ygoprodeck.com/images/cards/34771947.png"
   ],
   "type": "Spell",
   "spell_type": "Field"

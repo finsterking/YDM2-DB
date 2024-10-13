@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "As long as this card remains in face-up Attack Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/53530069.png",
     "https://images.ygoprodeck.com/images/cards/53530069.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 0,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 3,
   "is_tuner": false

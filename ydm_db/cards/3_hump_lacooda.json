@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If there are 3 face-up \"3-Hump Lacooda\" cards on your side of the field, Tribute 2 of them to draw 3 cards.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/86988864.jpg"
+    "https://images.ygoprodeck.com/images/cards/86988864.jpg",
+    "https://images.ygoprodeck.com/images/cards/86988864.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 3,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This card cannot be Special Summoned. This card can only be Normal Summoned by Tributing 1 \"Flamvell\" monster you control. Once per turn, you can remove from play 1 monster in your Graveyard with 200 DEF to inflict damage to your opponent equal to that monster's ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/40189917.jpg"
+    "https://images.ygoprodeck.com/images/cards/40189917.jpg",
+    "https://images.ygoprodeck.com/images/cards/40189917.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 2200,
   "species": "Pyro",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 200,
   "level": 6,
   "is_tuner": false

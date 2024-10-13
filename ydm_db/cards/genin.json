@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "A creature that defeats its enemies using sleight-of-hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/49370026.jpg"
+    "https://images.ygoprodeck.com/images/cards/49370026.jpg",
+    "https://images.ygoprodeck.com/images/cards/49370026.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

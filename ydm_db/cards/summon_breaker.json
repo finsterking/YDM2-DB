@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "During Main Phase 1, if the turn player successfully conducts their third Summon of a monster(s) this turn: It becomes the End Phase.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/18114794.jpg"
+    "https://images.ygoprodeck.com/images/cards/18114794.jpg",
+    "https://images.ygoprodeck.com/images/cards/18114794.png"
   ],
   "type": "Spell",
   "spell_type": "Field"

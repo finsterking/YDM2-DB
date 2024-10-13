@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Cannot be used as a Synchro Material Monster, except for the Synchro Summon of a FIRE monster. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 \"Fire Fist\" monster from your Deck, except \"Brotherhood of the Fire Fist - Boar\". Once per turn, when a \"Fire Fist\" monster is Special Summoned from your Extra Deck: You can Set 1 \"Fire Formation\" Spell Card directly from your Deck.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/66762372.jpg"
+    "https://images.ygoprodeck.com/images/cards/66762372.jpg",
+    "https://images.ygoprodeck.com/images/cards/66762372.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1100,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": true

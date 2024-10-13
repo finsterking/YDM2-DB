@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "If this card is sent to the Graveyard for the Synchro Summon of a \"Nitro\" Synchro Monster: Draw 1 card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/96182448.jpg"
+    "https://images.ygoprodeck.com/images/cards/96182448.jpg",
+    "https://images.ygoprodeck.com/images/cards/96182448.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 300,
   "species": "Machine",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 100,
   "level": 2,
   "is_tuner": true

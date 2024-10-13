@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/34627841.jpg"
+    "https://images.ygoprodeck.com/images/cards/34627841.jpg",
+    "https://images.ygoprodeck.com/images/cards/34627841.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 700,
   "level": 3,
   "is_tuner": false

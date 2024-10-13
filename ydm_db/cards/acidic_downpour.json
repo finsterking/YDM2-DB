@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "All EARTH monsters lose 500 ATK and gain 400 DEF.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/35956022.jpg"
+    "https://images.ygoprodeck.com/images/cards/35956022.jpg",
+    "https://images.ygoprodeck.com/images/cards/35956022.png"
   ],
   "type": "Spell",
   "spell_type": "Field"

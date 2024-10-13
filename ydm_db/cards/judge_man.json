@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This club-wielding warrior battles to the end and will never surrender.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/30113682.jpg"
+    "https://images.ygoprodeck.com/images/cards/30113682.jpg",
+    "https://images.ygoprodeck.com/images/cards/30113682.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 2200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 6,
   "is_tuner": false

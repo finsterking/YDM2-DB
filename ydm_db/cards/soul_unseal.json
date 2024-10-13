@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "If your opponent controls a monster and you control a Normal Monster: Choose 5 Normal Monsters in your Deck, add 1 of them to your hand and banish the rest.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/90506641.jpg"
+    "https://images.ygoprodeck.com/images/cards/90506641.jpg",
+    "https://images.ygoprodeck.com/images/cards/90506641.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"

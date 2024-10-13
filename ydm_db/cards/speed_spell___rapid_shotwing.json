@@ -1,0 +1,13 @@
+{
+  "id": 100100101,
+  "name": "Speed Spell - Rapid Shotwing",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 3 or more Speed Counters: Target 1 face-up monster you control; It gains ATK equal to the number of your Speed Counters x200 until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100101.png",
+    "https://images.ygoprodeck.com/images/cards/100100101.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

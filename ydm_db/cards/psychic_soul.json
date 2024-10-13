@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Tribute 1 Psychic-Type monster you control. Gain Life Points equal to the Level of the Tributed monster x 300.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/33323657.jpg"
+    "https://images.ygoprodeck.com/images/cards/33323657.jpg",
+    "https://images.ygoprodeck.com/images/cards/33323657.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

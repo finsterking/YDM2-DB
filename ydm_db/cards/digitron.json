@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A subspecies found in electronic space. There's little information on it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/32295838.jpg"
+    "https://images.ygoprodeck.com/images/cards/32295838.jpg",
+    "https://images.ygoprodeck.com/images/cards/32295838.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Cyberse",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 0,
   "level": 2,
   "is_tuner": false

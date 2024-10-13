@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This card gains 500 ATK for each face-up WIND monster you control. While you control another face-up WIND monster, your opponent cannot select this card as an attack target.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/51962254.png",
     "https://images.ygoprodeck.com/images/cards/51962254.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1000,
-  "species": "Winged Beast",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Winged\u00a0Beast",
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 900,
   "level": 4,
   "is_tuner": false

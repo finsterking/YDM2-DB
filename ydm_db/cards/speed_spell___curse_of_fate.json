@@ -1,0 +1,13 @@
+{
+  "id": 100100125,
+  "name": "Speed Spell - Curse of Fate",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Target 1 monster you control; Inflict damage to your opponent equal to half its ATK. It cannot attack this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100125.png",
+    "https://images.ygoprodeck.com/images/cards/100100125.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

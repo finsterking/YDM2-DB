@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Each time \"Jar of Greed\" is activated, draw 1 card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/96287685.jpg"
+    "https://images.ygoprodeck.com/images/cards/96287685.jpg",
+    "https://images.ygoprodeck.com/images/cards/96287685.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 200,
   "species": "Reptile",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 2100,
   "level": 4,
   "is_tuner": false

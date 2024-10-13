@@ -2,10 +2,11 @@
   "id": 501000005,
   "name": "Armament of the Lethal Lords",
   "is_illegal": true,
-  "is_custom": false,
+  "is_custom": true,
   "text": "Cannot be Special Summoned. Must be Tribute Summoned by Tributing 3 Warrior-Type monsters you control. If this card attacks your opponent directly and reduces their LP to 0, you win the Match.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/501000005.jpg"
+    "https://images.ygoprodeck.com/images/cards/501000005.jpg",
+    "https://images.ygoprodeck.com/images/cards/501000005.png"
   ],
   "type": "Monster",
   "attribute": "DARK",

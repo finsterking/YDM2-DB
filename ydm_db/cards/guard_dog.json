@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "FLIP: Your opponent cannot Special Summon for the rest of this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/57346400.jpg"
+    "https://images.ygoprodeck.com/images/cards/57346400.jpg",
+    "https://images.ygoprodeck.com/images/cards/57346400.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Beast",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 500,
   "level": 3,
   "is_tuner": false

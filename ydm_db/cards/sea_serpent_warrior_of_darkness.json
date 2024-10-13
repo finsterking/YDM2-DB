@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A warrior who defends the world of the Sea of Darkness. He prides himself on his fighting prowess both on the ground and, of course, in the water.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/42071342.png",
     "https://images.ygoprodeck.com/images/cards/42071342.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1800,
-  "species": "Sea Serpent",
-  "monster_type": "",
-  "is_pendulum": false,
+  "species": "Sea\u00a0Serpent",
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A monster that guards the entrance to the Netherworld.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/89272878.jpg"
+    "https://images.ygoprodeck.com/images/cards/89272878.jpg",
+    "https://images.ygoprodeck.com/images/cards/89272878.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1000,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

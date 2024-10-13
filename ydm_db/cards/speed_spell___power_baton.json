@@ -1,0 +1,13 @@
+{
+  "id": 100100121,
+  "name": "Speed Spell - Power Baton",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During the Damage Step, when a monster you control battles while you have 3 or more Speed Counters: Send 1 monster from your Deck to the Graveyard; your monster gains ATK equal to the ATK of the sent monster's, until the end of the Damage Step. You cannot conduct your normal draw during your next Draw Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100121.jpg",
+    "https://images.ygoprodeck.com/images/cards/100100121.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

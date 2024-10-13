@@ -2,9 +2,10 @@
   "id": 501000082,
   "name": "Shelga, the Tri-Warlord",
   "is_illegal": true,
-  "is_custom": false,
+  "is_custom": true,
   "text": "The shockwaves of powerful battles have warped reality, allowing the proud valiant to emerge from the Dimensional Sea.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/501000082.png",
     "https://images.ygoprodeck.com/images/cards/501000082.jpg"
   ],
   "type": "Monster",

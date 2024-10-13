@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/70681994.png",
     "https://images.ygoprodeck.com/images/cards/70681994.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1200,
   "species": "Warrior",
-  "monster_type": "Fusion",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
   "def": 900,
   "level": 3,
   "is_tuner": false

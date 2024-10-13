@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A squid that thrives on fire and heat.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/46534755.jpg"
+    "https://images.ygoprodeck.com/images/cards/46534755.jpg",
+    "https://images.ygoprodeck.com/images/cards/46534755.png"
   ],
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1600,
   "species": "Aqua",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 4,
   "is_tuner": false

@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "This creature attacks with electromagnetic waves.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/45042329.png",
     "https://images.ygoprodeck.com/images/cards/45042329.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1200,
   "species": "Thunder",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1300,
   "level": 4,
   "is_tuner": false

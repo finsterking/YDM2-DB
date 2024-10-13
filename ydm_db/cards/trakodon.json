@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42348802.jpg"
+    "https://images.ygoprodeck.com/images/cards/42348802.jpg",
+    "https://images.ygoprodeck.com/images/cards/42348802.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1300,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 800,
   "level": 3,
   "is_tuner": false

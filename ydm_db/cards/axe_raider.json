@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "An axe-wielding monster of tremendous strength and agility.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/48305365.png",
     "https://images.ygoprodeck.com/images/cards/48305365.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1700,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1150,
   "level": 4,
   "is_tuner": false

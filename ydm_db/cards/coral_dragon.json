@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can discard 1 card, then target 1 card your opponent controls; destroy it. If this Synchro Summoned card is sent from the field to the GY: You can draw 1 card. You can only use this effect of \"Coral Dragon\" once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/42566602.jpg"
+    "https://images.ygoprodeck.com/images/cards/42566602.jpg",
+    "https://images.ygoprodeck.com/images/cards/42566602.png"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 2400,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
-  "ability": "",
+  "ability": "Synchro",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 500,
   "level": 6,
   "is_tuner": true

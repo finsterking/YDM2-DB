@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Once per turn, if another monster on the field returns to the hand or Main Deck: Send 1 WIND monster from your Deck to the Graveyard.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/27632240.png",
     "https://images.ygoprodeck.com/images/cards/27632240.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",
   "atk": 1400,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

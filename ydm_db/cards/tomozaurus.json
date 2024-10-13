@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Small but vicious, this monster even attacks its own kind.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/46457856.jpg"
+    "https://images.ygoprodeck.com/images/cards/46457856.jpg",
+    "https://images.ygoprodeck.com/images/cards/46457856.png"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 500,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 400,
   "level": 2,
   "is_tuner": false

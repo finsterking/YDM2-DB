@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Once per turn: You can pay 1000 LP, then target 1 monster your opponent controls and 1 other \"Vampire\" monster you control; switch control of those monsters. At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/6917479.jpg"
+    "https://images.ygoprodeck.com/images/cards/6917479.jpg",
+    "https://images.ygoprodeck.com/images/cards/6917479.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2400,
   "species": "Zombie",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1000,
   "level": 6,
   "is_tuner": false

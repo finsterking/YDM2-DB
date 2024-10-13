@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/83225447.jpg"
+    "https://images.ygoprodeck.com/images/cards/83225447.jpg",
+    "https://images.ygoprodeck.com/images/cards/83225447.png"
   ],
   "type": "Spell",
   "spell_type": "Equip"

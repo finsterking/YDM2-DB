@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If this card attacks the monster in its same column, this card gains 500 ATK during the Damage Step.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/3784434.png",
     "https://images.ygoprodeck.com/images/cards/3784434.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Beast-Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1500,
   "level": 3,
   "is_tuner": false

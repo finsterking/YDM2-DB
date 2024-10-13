@@ -1,0 +1,13 @@
+{
+  "id": 100100117,
+  "name": "Speed Spell - Gap Storm",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If the difference between your Speed Counters and those of your opponent is 7 or more: destroy all cards in the Spell & Trap Zones.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100117.png",
+    "https://images.ygoprodeck.com/images/cards/100100117.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

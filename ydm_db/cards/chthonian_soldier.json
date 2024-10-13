@@ -5,16 +5,17 @@
   "is_custom": false,
   "text": "When this card is destroyed by an opponent's attacking monster and sent to the Graveyard, the Battle Damage you took from this battle is also inflicted to your opponent.",
   "images": [
+    "https://images.ygoprodeck.com/images/cards/50916353.png",
     "https://images.ygoprodeck.com/images/cards/50916353.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 1200,
   "species": "Warrior",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1400,
   "level": 4,
   "is_tuner": false

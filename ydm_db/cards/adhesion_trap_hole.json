@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "When your opponent Summons a monster(s): Halve that monster(s)'s original ATK.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/62325062.jpg"
+    "https://images.ygoprodeck.com/images/cards/62325062.jpg",
+    "https://images.ygoprodeck.com/images/cards/62325062.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"

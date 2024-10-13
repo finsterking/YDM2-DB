@@ -5,7 +5,8 @@
   "is_custom": false,
   "text": "Negate all other Trap effects on the field this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/59616123.jpg"
+    "https://images.ygoprodeck.com/images/cards/59616123.jpg",
+    "https://images.ygoprodeck.com/images/cards/59616123.png"
   ],
   "type": "Trap",
   "trap_type": "Normal"
