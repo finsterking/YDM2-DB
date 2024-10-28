@@ -11,7 +11,7 @@
   "attribute": "WIND",
   "atk": 2600,
   "species": "Thunder",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

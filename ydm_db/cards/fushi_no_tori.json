@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "FIRE",
   "atk": 1200,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "Spirit",
   "has_effect": true,
   "is_pendulum": false,

@@ -11,7 +11,7 @@
   "attribute": "DARK",
   "atk": 500,
   "species": "Zombie",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

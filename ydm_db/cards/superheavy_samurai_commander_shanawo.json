@@ -11,7 +11,7 @@
   "attribute": "DARK",
   "atk": 2000,
   "species": "Machine",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "monster_type": "Synchro",
   "is_pendulum": true,

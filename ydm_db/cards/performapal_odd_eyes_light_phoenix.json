@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2000,
-  "species": "Winged\u00a0Beast",
+  "species": "Winged Beast",
   "ability": "",
   "has_effect": true,
   "monster_type": "",

@@ -11,7 +11,7 @@
   "attribute": "DARK",
   "atk": 3500,
   "species": "Fiend",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "monster_type": "Synchro",
   "is_pendulum": true,

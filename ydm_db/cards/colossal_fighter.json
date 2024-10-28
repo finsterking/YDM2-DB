@@ -11,7 +11,7 @@
   "attribute": "DARK",
   "atk": 2800,
   "species": "Warrior",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",

@@ -11,7 +11,7 @@
   "attribute": "WIND",
   "atk": 3000,
   "species": "Sea\u00a0Serpent",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",
