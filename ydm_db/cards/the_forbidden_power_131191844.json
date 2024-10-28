@@ -1,0 +1,12 @@
+{
+  "id": 131191844,
+  "name": "The Forbidden Power",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can activate 1 of the following effects each time your Life Points decrease by 1000. Each effect can be used only once per Duel.\n\u25cf Play 1 \"Exodia\" monster to your field from your hand in face-up Attack Position.\n\u25cf Place 1 \"Exodia the Forbidden One\" from outside of your Deck to your Graveyard.\n\u25cf Reveal 1 \"Exodia\" monster in your hand, then place 1 \"Right Arm of the Forbidden One\" and 1 \"Left Arm of the Forbidden One\" from outside of your Deck to your Graveyard.\n\u25cf Reveal 1 \"Exodia\" monster in your hand, then place 1 \"Right Leg of the Forbidden One\" and 1 \"Left Leg of the Forbidden One\" from outside of your Deck to the Graveyard.\nThis Skill can only be used when there are no cards in your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191844.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

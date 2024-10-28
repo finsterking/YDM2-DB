@@ -1,0 +1,12 @@
+{
+  "id": 121191225,
+  "name": "It's a Toon World! (TCG)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, place this card in your center Spell & Trap Zone and flip it over.\n[ Effect ]\nThis card is treated as \"Toon World\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191225.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191384,
+  "name": "Attack Charge",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 face-up monster you control gains the current turn count x100 ATK until the end of the turn. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191384.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

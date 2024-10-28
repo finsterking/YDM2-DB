@@ -1,0 +1,12 @@
+{
+  "id": 150000490,
+  "name": "Single Destruction",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If your opponent controls exactly 1 monster: Target that monster; destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000490.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

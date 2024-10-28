@@ -1,0 +1,12 @@
+{
+  "id": 131191495,
+  "name": "Scapegoat (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 2000. During your Draw Phase, instead of conducting your normal draw, play 3 \"Sheep Tokens\" in Defense Position and skip straight to your End Phase. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191495.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

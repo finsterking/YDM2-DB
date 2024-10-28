@@ -1,0 +1,12 @@
+{
+  "id": 131191679,
+  "name": "Master of Fusion: Paladin",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 \"Dark Magician\" or a Spell/Trap Card that contains \"Dark Magician\" in its name to your Deck from your hand, then add 1 \"Buster Blader\" from outside of your Deck to your hand, and Set 1 \"Polymerization\" to your Spell & Trap Zone. During the turn you use this Skill, you can only Special Summon 1 monster, and during your opponent's next turn, you cannot Special Summon any monsters.\nThis Skill can only be used once per turn and twice per Duel.\nThis Skill will only activate if you begin the Duel with a Deck that meets the following conditions.\n\u25cfThe Deck cannot include two copies of the same card, except for DARK Spellcaster-Type monsters.\n\u25cfThere are no Fusion Monsters other than \"Dark Paladin\" in the Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191679.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191658,
+  "name": "Return from Another Dimension",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you have 20 or more banished \"D/D\" monsters. Place 1 face-down \"Return from the Different Dimension\" from outside of your Deck. During the turn you use this Skill, you cannot activate Spell/Trap Cards. This Skill can be used once per Duel if you only have \"D/D\" monsters in your Deck/Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191658.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 141191833,
+  "name": "Raging Pendulum (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add Pendulum Zones to your field.\nThis Skill can be used only once per Duel by revealing 1 \"Odd-Eyes Raging Dragon\" and 1 \"Dark Rebellion Xyz Dragon\" from your Extra Deck if you have 2 \"Performapal\", \"Magician\", or \"Odd-Eyes\" cards in your Pendulum Zone. Add 1 of 3 \"Performapal\" monsters with different names from outside of your Deck to your hand, and add 1 \"Odd-Eyes Pendulum Dragon\" and 1 \"Magician\" Pendulum Monster from your hand or Deck to the Extra Deck. During this Duel, you can treat Xyz Monsters you control as Level 7 monsters when Xyz Summoning \"Odd-Eyes Raging Dragon\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191833.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

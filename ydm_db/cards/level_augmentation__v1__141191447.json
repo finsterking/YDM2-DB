@@ -1,0 +1,12 @@
+{
+  "id": 141191447,
+  "name": "Level Augmentation (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Reveal 1 monster in your hand and select 1 monster on your side of the field. The selected monster's level increase by the level of the monster you revealed. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191447.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

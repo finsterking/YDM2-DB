@@ -1,0 +1,12 @@
+{
+  "id": 131191489,
+  "name": "Psychic Vision",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Use ESP powers to view your opponent's hand until the end of your first turn. Your starting hand will be reduced by 1 card. While this Skill is active, you will not be able to view the details of the cards in your opponent's hand, and your opponent will not be able to use card effects that require cards in the hand to be revealed to activate/resolve.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191489.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

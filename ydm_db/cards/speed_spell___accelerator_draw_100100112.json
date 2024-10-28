@@ -1,0 +1,12 @@
+{
+  "id": 100100112,
+  "name": "Speed Spell - Accelerator Draw",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 12 Speed Counters, and your opponent has 5 or less Speed Counters: Draw 2 cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100112.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

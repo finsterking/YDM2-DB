@@ -1,0 +1,12 @@
+{
+  "id": 511002648,
+  "name": "Super-Harmonized Duality",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If \"Ultimaya Tzolkin\" is in your Graveyard: Target 1 monster you control; it becomes a Dark Tuner monster and it cannot be used as a Synchro Material except for the Synchro Summon of a Dark Synchro Monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511002648.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

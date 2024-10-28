@@ -1,0 +1,12 @@
+{
+  "id": 131191701,
+  "name": "Spirit Grasp",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The following effects can be used once per Duel.\n\u25cf Send 1 Level 8 DARK monster from your hand to the Graveyard. Then, draw 1 card.\n\u25cf Can be used before your normal draw if you have at least 3 monsters in your Graveyard. Instead of conducting your normal draw, add 1 Level 5 or higher monster to your hand from your Graveyard. Then, select up to 3 Fiend-Type monsters and banish them.\nThis Skill can only be used if you begin the Duel with a Deck (excluding Extra Deck) that contains at least 1 \"Dark Necrofear\" and no monsters other than Fiend-Type or Zombie-Type monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191701.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

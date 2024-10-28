@@ -1,0 +1,12 @@
+{
+  "id": 131191649,
+  "name": "Call from the Dark",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if the only monster on your field is 1 \"Elemental HERO\" monster. Banish that monster and play 1 \"Evil HERO\" Fusion Monster that uses the banished monster as its Fusion Material.\nYou cannot Summon any monsters during the turn you activate this Skill.\nThis Skill can only be used once, and only if you begin the Duel with a Deck / Extra Deck that contains no monsters other than \"Elemental HERO\" or \"Evil HERO\" monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191649.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

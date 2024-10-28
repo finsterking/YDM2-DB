@@ -1,0 +1,12 @@
+{
+  "id": 100100042,
+  "name": "Speed Spell - Diffusion Wave-Motion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "(This card is not treated as a \"Fusion\" card.)\nWhen you have 2 or more Speed Counters: Pay 1000 LP, then target 1 Level 7 or higher Spellcaster-Type monster you control; this turn, only that monster can attack, and it must attack all monsters your opponent controls, once each. The effects of Effect Monsters destroyed by these attacks do not activate and are negated.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100042.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

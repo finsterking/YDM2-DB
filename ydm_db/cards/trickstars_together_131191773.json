@@ -1,0 +1,12 @@
+{
+  "id": 131191773,
+  "name": "Trickstars Together",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 1 \"Trickstar Candina\" and 1 \"Trickstar Lilybell\" to your Deck. Then, add 1 \"Trickstar Holly Angel\" to your Extra Deck.\nThe following effect can be used once per turn. Select 1 non-Link \"Trickstar\" monster you control, and move that monster to another of your Main Monster Zones.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191773.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

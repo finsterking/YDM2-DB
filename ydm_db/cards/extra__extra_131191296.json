@@ -1,0 +1,12 @@
+{
+  "id": 131191296,
+  "name": "Extra, Extra",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 2000. During your Draw Phase, add to your hand 1 copy of the card you drew as your normal draw. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191296.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 100100038,
+  "name": "Speed Spell - Ancient Leaf",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you have 9000 or more LP: you can pay 2000 LP and remove 1 of your Speed Counters; draw 2 cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100038.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

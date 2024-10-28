@@ -1,0 +1,12 @@
+{
+  "id": 141191328,
+  "name": "Middle Age Mechs (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Activate the Continuous Spell \"Ancient Gear Castle\" at the start of the Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191328.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191552,
+  "name": "Neutralization",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Reveal 3 \"Cubic\" monsters in your hand, and place 1 Cubic Counter on a monster your opponent controls.\n(Monsters with a Cubic Counter cannot attack or activate their effects)\nThis Skill can only be used if you begin the Duel with a Deck/Extra Deck that contains no monsters other than \"Cubic\" monsters.\nThis Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191552.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

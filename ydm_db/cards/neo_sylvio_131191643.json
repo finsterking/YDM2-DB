@@ -1,0 +1,12 @@
+{
+  "id": 131191643,
+  "name": "Neo Sylvio",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once per Duel if you control a monster that was Tribute Summoned. Change 1 Spell/Trap Card in your hand to a different card. \u00b7 Spell Card: \"Frost Blast of the Monarchs\" \u00b7 Trap Card: \"The Monarchs Awaken\"",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191643.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

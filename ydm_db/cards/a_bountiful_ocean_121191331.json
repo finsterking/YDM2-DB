@@ -1,0 +1,12 @@
+{
+  "id": 121191331,
+  "name": "A Bountiful Ocean",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nWhile \"Umi\" is face-up on the field, apply the following:\n\u25cf Non-Effect WATER monsters you control are unaffected by non-WATER monster effects.\n\u25cf Once per turn, you can add 1 WATER monster from your GY to your hand, but for the rest of this turn, you cannot activate cards or effects, until your Normal Summon that monster or a card with its name.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191331.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

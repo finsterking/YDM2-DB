@@ -1,0 +1,12 @@
+{
+  "id": 131191749,
+  "name": "Malefic Trade",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return one of the following cards you control the Deck/Extra Deck, and add 1 \"Malefic\" monster from your Deck to your hand.\n\u25cf Dragon-Type Normal Monster (except Tokens),\n\u25cf Dragon-Type Synchro Monster,\n\u25cf Machine-Type Fusion Monster.\nYou cannot Special Summon any monsters other than \"Malefic\" monsters during the turn you activate this Skill. This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191749.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

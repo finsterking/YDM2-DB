@@ -1,0 +1,12 @@
+{
+  "id": 131191570,
+  "name": "Dice Recovery",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once per turn. Roll a die. Increase your Life Points by the number of the die x200 points. If you get 2, 3, 4, or 5, you cannot use this Skill the rest of this Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191570.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

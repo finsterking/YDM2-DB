@@ -1,0 +1,12 @@
+{
+  "id": 131191695,
+  "name": "Double Normal Summon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used after your Life Points decrease by 1500. You can Summon 1 Normal Monster in addition to your Normal Summon/Set.\nThis Skill can only be used once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191695.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

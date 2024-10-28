@@ -1,0 +1,12 @@
+{
+  "id": 121191264,
+  "name": "Endless Traps",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nIf you have exactly 3 Traps in your GY, randomly add 1 Trap from your GY to your hand, randomly shuffle 1 Trap from your GY into your Deck, then randomly banish 1 Trap from your GY. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191264.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

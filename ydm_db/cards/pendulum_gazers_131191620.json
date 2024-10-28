@@ -1,0 +1,12 @@
+{
+  "id": 131191620,
+  "name": "Pendulum Gazers",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add a Pendulum Zone to your field. In addition, the following effect can be used only once on turn 3 or onward if you have \"Stargazer Magician\" or \"Timegazer Magician\" in your Pendulum Zone. Add 1 face-up Pendulum Monster from your Extra Deck to your hand. Until the end of the next turn, you cannot Summon the card added to your hand by this Skill or a card with the same name except for Pendulum Summoning, and you cannot activate their effects.\nCan be used if you begin the Duel with a Deck that contains 9 or more \"Performapal\" monsters, \"Magician\" Pendulum Monsters, or \"Odd-Eyes\" Monsters (Extra Deck does not count).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191620.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

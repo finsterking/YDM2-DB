@@ -1,0 +1,12 @@
+{
+  "id": 131191722,
+  "name": "Golem Hole",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Send 1 Level 8 EARTH Rock-Type monster that can be Normal Summoned or Set to the Graveyard from your hand, and add 1 \"Fossil Fusion\" or a card with \"Fossil Fusion\" in its text to the hand from the Deck.\nThis Skill can only be used once per Duel if you begin the Duel with a Deck that follows the conditions below:\n\u25cf Your Deck contains at least 7 monsters, and no monsters other than Rock-Type monsters.\n\u25cf Your Extra Deck contains at least 5 Fusion Monsters, and no Fusion Monsters other than \"Fossil\" Fusion Monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191722.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

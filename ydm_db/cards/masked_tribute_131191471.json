@@ -1,0 +1,12 @@
+{
+  "id": 131191471,
+  "name": "Masked Tribute",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 card from your hand to your Deck. Then, randomly play 1 \"Grand Tiki Elder\" or \"Melchid the Four-Face Beast\" in Defense Position from outside of your Deck. After using this Skill, you cannot Normal or Special Summon any monsters other than \"Masked Beast Des Gardius\" until the end of your opponent's turn. This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191471.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

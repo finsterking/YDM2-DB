@@ -1,0 +1,12 @@
+{
+  "id": 141191703,
+  "name": "Meklord Refinement (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This effect of this Skill changes depending on which turn you activate it.\nSend 1 \"Meklord\" monster from your hand to your Graveyard, and add the following card to your hand:\n\u25cf Turn 1-2: 1 \"Meklord\" Spell / Trap Card from your Deck,\n\u25cf Turn 3 and onward: 1 \"Meklord\" card from your Deck or 1 \"Meklord Astro the Eradicator\" from outside of your Deck.\nThis Skill can only be used if at least half of the cards in your Deck (excluding Extra Deck) are \"Meklord\" cards and it contains no monsters other than \"Meklord\" monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191703.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

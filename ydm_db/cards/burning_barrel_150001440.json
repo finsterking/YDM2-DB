@@ -1,0 +1,12 @@
+{
+  "id": 150001440,
+  "name": "Burning Barrel",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When an opponent's monster is destroyed by battle: Inflict damage to your opponent equal to half the destroyed monster's original ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001440.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

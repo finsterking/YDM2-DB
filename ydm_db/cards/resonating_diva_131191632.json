@@ -1,0 +1,12 @@
+{
+  "id": 131191632,
+  "name": "Resonating Diva",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 card in your hand to your Deck and play 1 face-up \"Fortissimo\" from outside of your Deck. This Skill can only be used if you begin the Duel with a Deck/Extra Deck that contains no monsters other than \"Melodious\" monsters. Can be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191632.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

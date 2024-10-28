@@ -1,0 +1,12 @@
+{
+  "id": 150000870,
+  "name": "Quiz Action - Science for 100",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Answer the following question. Apply the appropriate effect, based on the answer. \n(Question: There is an ice cube in a cup full of water. When the ice cube melts, will the water overflow the cup?)\n\u25cf Correct answer: You take no battle damage, also you gain 100 LP.\n\u25cf Incorrect answer: You take 100 damage.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000870.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

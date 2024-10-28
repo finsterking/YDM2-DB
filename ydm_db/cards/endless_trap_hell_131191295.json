@@ -1,0 +1,12 @@
+{
+  "id": 131191295,
+  "name": "Endless Trap Hell",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when you have 3 or more Trap Cards in the Graveyard. Randomly add 1 Trap Card from your Graveyard to your hand. Then, return all other Trap Cards in your Graveyard to your Deck. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191295.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191854,
+  "name": "Speedroid Gear Changer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used during a turn on which you have not Special Summoned any monsters. Send 1 \"Speedroid\" monster you control to your Graveyard, and then add 1 \"Speedroid\" monster whose original Level is 1 higher or lower than that monster to your hand from your Deck.\nYou cannot Special Summon during the turn you activate this Skill, except for Synchro Summoning.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191854.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

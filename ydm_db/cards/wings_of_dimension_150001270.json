@@ -1,0 +1,12 @@
+{
+  "id": 150001270,
+  "name": "Wings of Dimension",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can target 1 face-up monster you control; once this turn, it cannot be destroyed by battle or by card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001270.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

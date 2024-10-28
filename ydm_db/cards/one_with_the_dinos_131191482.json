@@ -1,0 +1,12 @@
+{
+  "id": 131191482,
+  "name": "One with the Dinos",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used on turn 3 and onward. Select 1 Level 7 or higher Dinosaur-Type monster you control. It's ATK/DEF becomes equal to your Life Points. When the selected monster leaves the field, you lose the Duel. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191482.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

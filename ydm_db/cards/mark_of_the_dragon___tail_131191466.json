@@ -1,0 +1,12 @@
+{
+  "id": 131191466,
+  "name": "Mark of the Dragon - Tail",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 2 \"Blackwing - Blizzard the Far North\" to your Deck. Then, add 1 \"Black-Winged Dragon\" to your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191466.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

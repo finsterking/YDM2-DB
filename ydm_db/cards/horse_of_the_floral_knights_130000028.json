@@ -1,0 +1,21 @@
+{
+  "id": 130000028,
+  "name": "Horse of the Floral Knights",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal Summoned: You can add 1 \"Noble Knight's Spearholder\" or 1 \"Polymerization\" from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000028.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 400,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

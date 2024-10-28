@@ -1,0 +1,12 @@
+{
+  "id": 150000280,
+  "name": "Don Thousand/Trap B",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your opponent activates a Spell while you control no other cards: Negate the activation, and if you do, destroy it, then choose 1 Spell in your opponent's Deck and activate it on their side of the field.\n\n-I activate \"Numeron Spell Revision\"!-",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000280.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191364,
+  "name": "Tether of Defeat",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when one of the opponent's monsters is destroyed in battle. The top card from either your or the opponent's Deck is sent to the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191364.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 150001370,
+  "name": "Spicy Spice",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 face-up monster on the field; that target gains 1000 ATK until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001370.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

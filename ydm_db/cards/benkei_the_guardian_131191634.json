@@ -1,0 +1,12 @@
+{
+  "id": 131191634,
+  "name": "Benkei the Guardian",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select 1 \"Superheavy Samurai Big Benkei\" you control that is equipped with a \"Superheavy Samurai Soul\" card. This monster will not be destroyed in battle during your opponent's next turn and your opponent cannot select a monster other than this monster as an attack target. You cannot declare an attack on the turn you use this Skill. This Skill can only be used if you begin the Duel with a Deck that does not contain Spell/Trap Cards. This Skill can be used only once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191634.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

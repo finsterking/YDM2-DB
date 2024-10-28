@@ -1,0 +1,12 @@
+{
+  "id": 121191251,
+  "name": "Shadow Reborn",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nActivate this Skill during your Main Phase. Once per Duel, you can pay half your LP and Special Summon 1 monster from either GY, but your opponent takes no battle damage this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191251.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 130000031,
+  "name": "Infernity Doom Slinger",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you have no cards in your hand, when your opponent activates a card or effect that would inflict damage to you (Quick Effect): You can banish this card from your Graveyard; make that effect damage to you 0, then your opponent chooses whether or not to apply the following effect: \n\u25cfExcavate the top card of your Deck, and if it is a monster, inflict 2000 damage to your opponent. Otherwise, you take 2000 damage. Shuffle the excavated card into your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000031.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 100,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
+}

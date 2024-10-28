@@ -1,0 +1,12 @@
+{
+  "id": 131191841,
+  "name": "My Treasure, \"Blue-Eyes White Dragon\"!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Increase the ATK of a \"Blue-Eyes White Dragon\" Normal Monster on your field by 500.\nThis Skill can be used once per turn if you begin the Duel with a Deck that contains exactly 1 \"Blue-Eyes White Dragon\", and no cards in your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191841.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

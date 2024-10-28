@@ -1,0 +1,12 @@
+{
+  "id": 131191599,
+  "name": "Malicious HERO",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 2 \"Evil HERO Malicious Edge\" and 1 \"Dark Fusion\" to your Deck. In addition, add 1 \"Evil HERO Malicious Fiend\" to your Extra Deck. In addition, the following effects can be used once per Duel if you control \"Supreme King's Castle\".\n\u25cf Return 1 \"Evil HERO Malicious Edge\" in your hand to your Deck and add 1 Level 6 Fiend-Type monster to your hand from your Deck. If the monster is an \"Evil HERO\" monster, you can add it to your hand regardless of its Level.\n\u25cf Return 1 or more Fiend-Type monster(s) whose total Levels equal 7 or more to your Deck from your hand and add 1 \"Evil HERO Malicious Edge\" to your hand from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191599.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

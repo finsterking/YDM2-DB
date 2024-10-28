@@ -1,0 +1,12 @@
+{
+  "id": 131191826,
+  "name": "Full Speed Ahead! Clear Wing",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 1 \"Speedroid Tri-Eyed Dice\" and 1 \"Speedroid Double Yoyo\" to your Deck, and add 1 \"Clear Wing Synchro Dragon\" to your Extra Deck.\nAlso, the following effect can be used once per Duel if you control \"Clear Wing Synchro Dragon\". Change the Level of all monsters on your opponent's field to 5 until the end of the turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191826.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

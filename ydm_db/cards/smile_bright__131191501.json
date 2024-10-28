@@ -1,0 +1,12 @@
+{
+  "id": 131191501,
+  "name": "Smile bright!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the Beginning of your turn, your opponent takes 50 damage. This Skill will not activate if your opponent had 1000 or less Life Points.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191501.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

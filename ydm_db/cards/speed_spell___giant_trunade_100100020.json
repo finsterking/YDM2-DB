@@ -1,0 +1,12 @@
+{
+  "id": 100100020,
+  "name": "Speed Spell - Giant Trunade",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 4 Speed Counters; return all Spells/Traps on the field to the hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100020.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

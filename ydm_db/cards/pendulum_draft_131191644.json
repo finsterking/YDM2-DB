@@ -1,0 +1,12 @@
+{
+  "id": 131191644,
+  "name": "Pendulum Draft",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 2000. This Skill can only be used once per Duel. Add 1 face-up Pendulum Monster from your Extra Deck to your hand. Until the end of the next turn, you cannot Summon the card added to your hand by this Skill or cards with the same name except by Pendulum Summoning, and you cannot activate their effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191644.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

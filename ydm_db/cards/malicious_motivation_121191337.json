@@ -1,0 +1,12 @@
+{
+  "id": 121191337,
+  "name": "Malicious Motivation",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nOnce per Duel, if your opponent controls 3 monsters, discard 1 card, then destroy all monsters your opponent controls, also for the rest of this turn any damage your opponent takes is halved.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191337.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

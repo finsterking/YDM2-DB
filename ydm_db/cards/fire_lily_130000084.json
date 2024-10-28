@@ -1,0 +1,21 @@
+{
+  "id": 130000084,
+  "name": "Fire Lily",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When an attack is declared involving this card: Inflict 400 damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000084.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 800,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
+}

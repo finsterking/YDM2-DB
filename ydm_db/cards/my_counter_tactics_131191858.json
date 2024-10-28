@@ -1,0 +1,12 @@
+{
+  "id": 131191858,
+  "name": "My Counter Tactics",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used during your next turn after your opponent activates a Counter Trap Card or you take battle damage from an attack by your opponent. Select 1 \"Counter\" Counter Trap Card in your Graveyard and add it to your hand. Then, return 1 card from your hand to the Deck.\nThis Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191858.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 130000034,
+  "name": "Jester's Panic",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 Set card in your opponent's Spell & Trap Zone; look at that target, then you can reveal 1 card from your hand of the same type (Spell or Trap), destroy that target, and if you do, all Level 2 or lower Spellcaster-Type monsters you currently control can attack your opponent directly this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000034.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

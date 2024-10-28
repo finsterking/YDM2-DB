@@ -1,11 +1,11 @@
 {
-  "id": 65240394,
+  "id": 65240384,
   "name": "Big Shield Gardna",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "Negate the activation of a Spell Card that designates this 1 face-down monster. At that time, flip this card into face-up Defense Position. If this card is attacked, change the Battle Position of this card to Attack Position at the end of the Damage Step.",
+  "is_custom": false,
+  "text": "When a Spell Card is activated that targets this face-down card (and no other cards) (Quick Effect): Change this card to face-up Defense Position, and if you do, negate the activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/65240394.jpg"
+    "https://images.ygoprodeck.com/images/cards/65240384.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

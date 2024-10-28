@@ -1,0 +1,21 @@
+{
+  "id": 100000140,
+  "name": "Dark Tuner Nightmare Hand",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal or Special Summoned: You can Special Summon 1 Level 2 monster from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a Dark Synchro Monster.\n\n(This card is always treated as an \"Knight\" card.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100000140.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 10,
+  "is_tuner": true
+}

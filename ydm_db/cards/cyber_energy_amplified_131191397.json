@@ -1,0 +1,12 @@
+{
+  "id": 131191397,
+  "name": "Cyber Energy Amplified",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When \"Amplifier\" is equipped to a monster, increase that monster's ATK by 500. Once per turn, increase the Equipped monster's ATK by 300 for each Equip Spell Card Equipped to it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191397.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

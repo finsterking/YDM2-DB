@@ -1,0 +1,12 @@
+{
+  "id": 131191680,
+  "name": "Fangs of Rebellion: Dark Rebellion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 2 \"The Phantom Knights of Shadow Veil\" to your Deck and 1 \"Dark Rebellion Xyz Dragon\" to your Extra Deck.\nIn addition, the following effect can be activated if the only monster you control is 1 \"Dark Rebellion Xyz Dragon\" and your opponent controls a monster with higher ATK. Select up to 2 cards in your hand and attach them to your \"Dark Rebellion Xyz Dragon\" as Xyz Materials. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191680.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

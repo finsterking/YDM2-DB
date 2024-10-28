@@ -1,0 +1,12 @@
+{
+  "id": 131191540,
+  "name": "FIRE Reload",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you only have FIRE Pyro-Type monsters in your hand. Return all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you returned to your Deck. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191540.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

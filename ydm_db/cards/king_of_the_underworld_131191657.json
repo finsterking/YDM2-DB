@@ -1,0 +1,12 @@
+{
+  "id": 131191657,
+  "name": "King of the Underworld",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Begin the Duel with 1 \"D/D/D Doom King Armageddon\" in your Deck.\nIn addition if you have 2 \"D/D\" Pendulum Monster Cards in your Pendulum Zones, the following effect can be used once per Duel.\nAdd 1 \"D/D/D Doom King Armageddon\" to your hand from your Deck/Extra Deck. Then, return 1 card in your hand to your Deck.\nIf you begin the Duel with a Deck/Extra Deck containing a total of 12 or more \"D/D/D\" monsters or \"Dark Contract\" Spell/Trap Cards, add Pendulum Zones to your field at the beginning of the Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191657.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

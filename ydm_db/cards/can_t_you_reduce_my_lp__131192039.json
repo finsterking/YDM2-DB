@@ -1,0 +1,12 @@
+{
+  "id": 131192039,
+  "name": "Can't You Reduce My LP?",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can use this Skill's second effect once per turn and twice per Duel.\n1: At the beginning of the Duel, if your Extra Deck contains \"Sunavalon Dryatrentiay\", add 5 types of \"Sunavalon\" monsters and 3 types of \"Sunvine\" monsters to your Extra Deck, and gain 1200 LP.\n2: During a turn you have Normal or Special Summoned either a \"Sunseed\", \"Sunvine\", or \"Sunavalon\" monster, gain 1200 LP.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192039.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 130000076,
+  "name": "Cat Girl",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal Summoned: You can Special Summon 1 \"Stray Cat Girl\" from your hand or Graveyard, also you cannot Special Summon any monsters with more than 2000 ATK for the rest of this turn. Your opponent's monsters cannot change their battle positions.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000076.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
+}

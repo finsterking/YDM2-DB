@@ -1,0 +1,12 @@
+{
+  "id": 141181340,
+  "name": "Parasite Infestation (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "After starting hands are dealt, 1 to 3 \"Parasite Paracide\" cards are added to your opponent's deck face up.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141181340.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

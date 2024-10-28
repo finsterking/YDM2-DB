@@ -1,0 +1,12 @@
+{
+  "id": 130000024,
+  "name": "Gjallarhorn",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Must be activated in the Graveyard. If this card is in your Graveyard: You can target 1 \"Aesir\" monster you control; that face-up monster is unaffected by the effects of other Spells/Traps this turn, also, after that, place this card face-up in your Spell & Trap Zone. During your 3rd End Phase after activation, inflict damage to your opponent equal to the total ATK of all monsters you control, and if you do, banish this card and all monsters you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000024.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

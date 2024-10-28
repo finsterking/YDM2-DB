@@ -1,0 +1,12 @@
+{
+  "id": 150001500,
+  "name": "Lousy Luck",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You take 800 damages.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001500.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

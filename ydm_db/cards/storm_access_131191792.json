@@ -1,0 +1,12 @@
+{
+  "id": 131191792,
+  "name": "Storm Access",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your LP are at 1000 or below. Add 1 random \"Topologic\" Link Monster to your Extra Deck via a Data Storm.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191792.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

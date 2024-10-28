@@ -1,0 +1,21 @@
+{
+  "id": 511000020,
+  "name": "Fiber Jar",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "FLIP: Both players unite all their respective cards on the field, in their hands, and in their Graveyards with their respective Decks and shuffle them. Then both players draw 5 cards from their shuffled Decks.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511000020.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Plant",
+  "ability": "Flip",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

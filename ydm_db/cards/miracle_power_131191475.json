@@ -1,0 +1,12 @@
+{
+  "id": 131191475,
+  "name": "Miracle Power",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control a face-up \"Miracle Stone\", increase the ATK of all \"Fortune Fairy\" monsters you control by 300 times their respective levels. This Skill will only activate if you begin the Duel with a Deck and Extra Deck that only contain \"Fortune Fairy\" monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191475.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

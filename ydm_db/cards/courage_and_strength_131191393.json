@@ -1,0 +1,12 @@
+{
+  "id": 131191393,
+  "name": "Courage and Strength",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 2 \"Morphtronic Remoten\" to your Deck. Then, add 1 \"Power Tool Dragon\" to your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191393.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 100100030,
+  "name": "Speed Spell - Instant Fusion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 3 or more Speed Counters: Pay 1000 LP; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) It cannot attack, and is destroyed during the End Phase. You can only activate 1 \"Speed Spell - Instant Fusion\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100030.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 141191599,
+  "name": "Malicious HERO (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 2 \"Evil HERO Malicious Edge\" and 1 \"Dark Fusion\" to your Deck. In addition, add 1 \"Evil HERO Malicious Fiend\" to your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191599.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

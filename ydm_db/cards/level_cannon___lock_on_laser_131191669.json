@@ -1,0 +1,12 @@
+{
+  "id": 131191669,
+  "name": "Level Cannon / Lock-On Laser",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used by choosing either of the following effects when you control \"Fortissimo the Mobile Fortress\" and your opponent has 3000 or more Life Points. This Skill can only be used if you begin the Duel with a Deck that contains no monsters other than \"Meklord\" monsters. (Extra Deck does not count.)\n\u25cf Select 1 Synchro Monster on your opponent's field and decrease their Life Points by its Level x1OO.\n\u25cf Decrease your opponent's Life Points by the number of Spell/Trap Cards on their field x1OO.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191669.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

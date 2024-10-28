@@ -1,0 +1,12 @@
+{
+  "id": 131192053,
+  "name": "Winds of Deepest Winter",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use this Skill's second effect once per Duel.\n1: At the beginning of the Duel, add 1 \"Windwitch - Winter Bell\" to your Extra Deck.\n2: Can be used before your normal draw if your LP are at 3000 or below. One of the cards from your normal draw this turn will be a random WIND Spellcaster monster from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192053.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

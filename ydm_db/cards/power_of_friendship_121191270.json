@@ -1,0 +1,12 @@
+{
+  "id": 121191270,
+  "name": "Power of Friendship",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nYou take no effect damage from your opponent's card effects during your turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191270.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

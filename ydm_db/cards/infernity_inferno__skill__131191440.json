@@ -1,0 +1,12 @@
+{
+  "id": 131191440,
+  "name": "Infernity Inferno (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used on your 2nd turn. Discard up to 2 cards from your hand, then send an equal number of \"Infernity\" monsters from your Deck to the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191440.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

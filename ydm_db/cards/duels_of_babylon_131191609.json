@@ -1,0 +1,12 @@
+{
+  "id": 131191609,
+  "name": "Duels of Babylon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Begin Duel with \"Chronomaly City Babylon\" activated. This Skill can only be used if you begin the Duel with a Deck / Extra Deck that contains no monsters other than \"Chronomaly\" monsters or \"Number\" monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191609.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 141191369,
+  "name": "Trap Layer (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If your Deck contains 5 or more Trap Cards with different names, you will have improved chances of having a Trap Card in your starting hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191369.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

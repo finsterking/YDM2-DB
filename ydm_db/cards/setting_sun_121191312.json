@@ -1,0 +1,12 @@
+{
+  "id": 121191312,
+  "name": "Setting Sun",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nOnce per turn, during your Main Phase, if you control a monster whose ATK was ? in the Deck, you can banish 1 card from your hand, then add 1 monster from your Deck to your hand with ? ATK, but with a different name than the cards you control. \"Helios\" monsters you control cannot be banished.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191312.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

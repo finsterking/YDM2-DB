@@ -1,0 +1,12 @@
+{
+  "id": 141191525,
+  "name": "What Grows in the Graveyard (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Begin the Duel with 1 \"Dark Verger\" in your Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191525.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

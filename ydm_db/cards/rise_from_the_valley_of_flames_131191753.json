@@ -1,0 +1,12 @@
+{
+  "id": 131191753,
+  "name": "Rise from the Valley of Flames",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 1 \"Salamangreat Heatleo\" to your Extra Deck.\nThe following effect can be used if your Life Points are at 2000 or below. Select 1 \"Salamangreat\" Link Monster you control, and add 1 monster with the same name to your Extra Deck. Then, play \"Salamangreat Sanctuary\" to your field from outside of your Deck.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191753.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

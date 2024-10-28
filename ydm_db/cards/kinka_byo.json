@@ -1,11 +1,11 @@
 {
-  "id": 511000256,
+  "id": 45452224,
   "name": "Kinka-byo",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "Cannot be Special Summoned. When this card is Normal Summoned or flipped face-up: You can target 1 Level 1 monster in your GY; Special Summon that target, but banish it when this card leaves the field. During the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+  "is_custom": false,
+  "text": "Cannot be Special Summoned. When this card is Normal Summoned or flipped face-up: You can target 1 Level 1 monster in your GY; Special Summon that target, but banish it when this card leaves the field. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511000256.jpg"
+    "https://images.ygoprodeck.com/images/cards/45452224.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

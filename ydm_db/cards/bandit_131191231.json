@@ -1,0 +1,12 @@
+{
+  "id": 131191231,
+  "name": "Bandit",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points are at 1500 or below. Return 1 card from your hand to your Deck. Then, select 1 Set card in your opponent's Spell & Trap Zone and steal it.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191231.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

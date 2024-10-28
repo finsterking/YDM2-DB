@@ -1,0 +1,12 @@
+{
+  "id": 131191820,
+  "name": "Draw Sense: Machine",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used before your normal draw each time your Life Points decrease by 1000. One of the cards from your normal draw this turn will be a random Machine-Type monster from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191820.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

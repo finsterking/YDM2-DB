@@ -1,0 +1,12 @@
+{
+  "id": 141191490,
+  "name": "Ready For Victory (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used the turn you control 2 monsters with the same Level. During this turn, the ATK of Xyz Monsters you control increases by 500. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191490.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

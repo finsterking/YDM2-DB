@@ -1,0 +1,12 @@
+{
+  "id": 131191488,
+  "name": "Parole!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 monster, that has been Special Summoned from your opponent's Graveyard to your side of the field, to their Deck, and increase your Life Points equal to the original ATK of that monster. This Skill can only be used once per turn and up to twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191488.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

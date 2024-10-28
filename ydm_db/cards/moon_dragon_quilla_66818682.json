@@ -1,0 +1,21 @@
+{
+  "id": 66818682,
+  "name": "Moon Dragon Quilla",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 non-Tuner monster - 1 Dark Tuner\nWhen \"Sun Dragon Inti\" you control is destroyed and sent to the Graveyard, Special Summon this card from your Graveyard. When this card you control is destroyed and sent to the Graveyard, Special Summon 1 \"Sun Dragon Inti\" from your Graveyard. During your End Phase, destroy this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/66818682.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Dragon",
+  "ability": "Synchro",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 100100010,
+  "name": "Speed Spell - Nobleman of Crossout",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can remove 3 of your Speed Counters, then target 1 face-down monster; destroy it, and if you do, banish it instead of sending it to the Graveyard. Also, if it is a Flip Effect monster, banish all monsters from both player's Decks with the same name as the that monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100010.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

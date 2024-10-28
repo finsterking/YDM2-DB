@@ -1,0 +1,12 @@
+{
+  "id": 131191541,
+  "name": "Blaze Accelerator Deployment",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Turn 1 \"Blaze Accelerator\" you control into \"Tri-Blaze Accelerator\". This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191541.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

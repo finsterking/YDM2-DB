@@ -1,0 +1,12 @@
+{
+  "id": 141191359,
+  "name": "Sorcery Conduit (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Spellcaster-Type monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191359.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

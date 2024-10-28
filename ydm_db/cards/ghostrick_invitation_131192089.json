@@ -1,0 +1,12 @@
+{
+  "id": 131192089,
+  "name": "Ghostrick Invitation",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use this Skill's second effect once per turn.\n1: You can only Normal or Special Summon \"Ghostrick\" monsters (excluding Special Summons from the Extra Deck).\n2: Reveal either 1 \"Ghostrick Witch\", 1 Level 1 \"Ghostrick\" monster, or 1 \"Ghostrick\" Field Spell Card in your hand (a card with the same name only once per Duel), and play 1 \"Ghostrick\" monster from your Deck in face-down Defense Position. (Its battle position can be changed.) Then, you can send 1 \"Ghostrick\" Spell/Trap Card from your Deck to your Graveyard. During the End Phase of this turn, you can change any number of monsters you control to face-down Defense Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192089.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

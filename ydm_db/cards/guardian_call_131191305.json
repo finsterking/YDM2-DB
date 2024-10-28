@@ -1,0 +1,12 @@
+{
+  "id": 131191305,
+  "name": "Guardian Call",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 1800. Randomly add 1 \"Guardian\" card from your Deck to your hand. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191305.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

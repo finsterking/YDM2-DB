@@ -1,0 +1,12 @@
+{
+  "id": 131191430,
+  "name": "Handless Combo 100",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Begin the Duel with 0 cards in your hand and \"Hundred Eyes Dragon\" on your side of the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191430.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191338,
+  "name": "Ojama Go!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 1800. Special Summon \"Ojama Token\" on your opponent's side of the field in Defense Position. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191338.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

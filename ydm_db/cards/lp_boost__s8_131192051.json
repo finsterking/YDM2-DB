@@ -1,0 +1,12 @@
+{
+  "id": 131192051,
+  "name": "LP Boost: S8",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can use this Skill's first and second effects if your Extra Deck contains 2 or more Level 8 or lower Synchro Monsters.\n1: At the beginning of the Duel, gain 1600 LP.\n2: During the End Phase of a turn you Special Summoned a Level 8 or lower Synchro Monster, gain 400 LP.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192051.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

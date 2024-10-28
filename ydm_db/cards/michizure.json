@@ -1,11 +1,11 @@
 {
-  "id": 504700059,
+  "id": 37580756,
   "name": "Michizure",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "You can activate this card when a monster is sent from the field to your Graveyard. Destroy 1 monster on the field.",
+  "is_custom": false,
+  "text": "When a monster is sent from the field to your GY, even during the Damage Step: Target 1 monster on the field; destroy it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/504700059.jpg"
+    "https://images.ygoprodeck.com/images/cards/37580756.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

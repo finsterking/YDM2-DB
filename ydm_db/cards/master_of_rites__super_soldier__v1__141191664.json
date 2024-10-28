@@ -1,0 +1,12 @@
+{
+  "id": 141191664,
+  "name": "Master of Rites: Super Soldier (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Send 1 Ritual Monster from your hand to the Graveyard and add 1 \"Super Soldier Synthesis\" from your Deck to your hand.\nIf you sent \"Black Luster Soldier\" to your Graveyard, you can place 1 \"Super Soldier Rebirth\" face-down to your field from your hand or Deck.\nYou can only Special Summon Ritual Monsters during this turn and you can only activate 1 monster's effect during the Main Phase until the Battle Phase.\nThis Skill will only activate if you begin the Duel with a Deck that has a total of at least 9 cards and at least 6 types of \"Black Luster Soldier\" Ritual Monsters or monsters that include \"Black Luster Soldier\" in their card text. Can be used from your 2nd turn onward. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191664.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

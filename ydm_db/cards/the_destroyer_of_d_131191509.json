@@ -1,0 +1,12 @@
+{
+  "id": 131191509,
+  "name": "The Destroyer of D",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used from your 4th turn and oward, when you have 3000 or less Life Points. Play 1 \"Destiny HERO - Dark Angel\" from your hand to your opponent's field in Defense Position. If your opponent controls a \"Destiny HERO - Plasma\" you can place \"Destiny HERO - Dark Angel\" on top of your opponent's Deck instead. This Skill will not activate if you begin the Duel with a Deck that contains monsters other than \"Destiny HERO\" monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191509.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191381,
+  "name": "ATK Booster: Level 2",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Increase the ATK of all level 2 or lower monsters on your side of the field by 200.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191381.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191465,
+  "name": "Mark of the Dragon - Head",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 2 \"Junk Synchron\" to your Deck. Then, add 1 \"Stardust Dragon\", 1 \"Shooting Star Dragon\", and 1 \"Formula Synchron\" to your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191465.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

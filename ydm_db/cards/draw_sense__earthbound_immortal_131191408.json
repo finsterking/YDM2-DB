@@ -1,0 +1,12 @@
+{
+  "id": 131191408,
+  "name": "Draw Sense: Earthbound Immortal",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 1000. During your Draw Phase, instead of conducting your normal draw, draw a random \"Earthbound Immortal\" monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191408.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

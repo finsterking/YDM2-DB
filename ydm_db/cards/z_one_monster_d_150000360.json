@@ -1,0 +1,21 @@
+{
+  "id": 150000360,
+  "name": "Z-ONE/Monster D",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be destroyed by battle or by an opponent's card effect, also you take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card attacked or was attacked: Inflict 4000 damage to 1 opponent player.\n\n-I Summon \"Sandaion, the Timelord\"!-",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000360.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "???",
+  "atk": 4000,
+  "species": "???",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 4000,
+  "level": 0,
+  "is_tuner": false
+}

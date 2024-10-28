@@ -1,0 +1,12 @@
+{
+  "id": 141191807,
+  "name": "Empty, Infinite, and Infinite Light (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Each of the following effects can be used once per Duel:\n\u25cf Send 1 card from your hand to the Graveyard, and then Set 1 \"Empty Machine\" to your field from outside of your Deck.\n\u25cf Can be used during your next turn after one of your \"Empty Machine\", \"Infinite Machine\", and \"Infinite Light\" is removed from the field by your opponent. Reveal 1 \"Sephylon, the Ultimate Timelord\" in your hand to your opponent. Send 10 different \"Timelord\" monsters from outside of your Deck to the Graveyard.\nThis Skill can be used at the beginning of the Duel if you begin the Duel with a Deck (excluding Extra Deck) that is at least half monsters, has no monsters other than \"Timelord\" monsters or \"Time Maiden\", and at least 1 \"Infinite Machine\" and \"Infinite Light\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191807.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

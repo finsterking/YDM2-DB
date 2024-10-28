@@ -1,0 +1,12 @@
+{
+  "id": 511005593,
+  "name": "Haunted Missle ",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Inflict 1,000 Damage on your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511005593.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

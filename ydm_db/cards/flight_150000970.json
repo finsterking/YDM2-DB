@@ -1,0 +1,12 @@
+{
+  "id": 150000970,
+  "name": "Flight",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The attack target gains 600 ATK until the end of the Battle Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000970.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

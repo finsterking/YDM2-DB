@@ -1,0 +1,12 @@
+{
+  "id": 130000032,
+  "name": "Infinity Force",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you take battle or effect damage while you control a \"Meklord Emperor\" monster: Destroy all monsters your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000032.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

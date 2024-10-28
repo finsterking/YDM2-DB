@@ -1,11 +1,11 @@
 {
-  "id": 511003027,
+  "id": 75043725,
   "name": "Emissary of the Afterlife",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "If this card is sent from the field to the Graveyard: Each player adds 1 Level 3 or lower Normal Monster from their Deck to their hand. Each player who didn't add a monster to their hand must reveal their Deck to their opponent.",
+  "is_custom": false,
+  "text": "When this card is sent from the field to the Graveyard: Each player adds 1 Level 3 or lower Normal Monster from their Deck to their hand.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511003027.jpg"
+    "https://images.ygoprodeck.com/images/cards/75043725.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

@@ -1,0 +1,12 @@
+{
+  "id": 141191517,
+  "name": "Ultimate Dragons (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add \"Blue-Eyes Ultimate Dragon\" and \"Neo Blue-Eyes Ultimate Dragon\" to your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191517.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

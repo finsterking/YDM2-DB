@@ -1,0 +1,12 @@
+{
+  "id": 131191369,
+  "name": "Trap Layer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you have 5 or more Trap Cards with different names in your Deck, you will have an improved chance of having Trap Cards in your starting hand. You cannot Special Summon or activate monster effects until the end of the Main Phase of your first turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191369.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

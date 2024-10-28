@@ -1,0 +1,12 @@
+{
+  "id": 141191312,
+  "name": "Labyrinth Builder (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Shuffle 2 cards from your hand into the Deck to create \"Labyrinth Wall\" on your side of the field. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191312.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

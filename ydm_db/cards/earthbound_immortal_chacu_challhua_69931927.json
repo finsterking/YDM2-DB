@@ -1,0 +1,21 @@
+{
+  "id": 69931927,
+  "name": "Earthbound Immortal Chacu Challhua",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Neither player can Summon \"Earthbound Immortal\" monsters. Once per turn, during the End Phase, if there is no face-up Field Spell on the field, destroy this card. If there is no face-up Field Spell, these effects are negated.\n\u25cf This card can attack directly.\n\u25cf Cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.\n\u25cf Unaffected by your opponent's Spell/Trap effects.\n\u25cf Once per turn: You can inflict damage to your opponent equal to half this card's DEF. This card cannot attack during the turn you activate this effect.\n\u25cf While this card is in Defense Position, your opponent cannot conduct their Battle Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69931927.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2900,
+  "species": "Fish",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1600,
+  "level": 10,
+  "is_tuner": false
+}

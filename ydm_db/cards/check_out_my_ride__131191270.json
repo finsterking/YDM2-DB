@@ -1,0 +1,12 @@
+{
+  "id": 131191270,
+  "name": "Check Out My Ride!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 1000. In the Draw Phase, instead of doing a normal draw, draw a \"roid\" monster of your choice.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191270.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

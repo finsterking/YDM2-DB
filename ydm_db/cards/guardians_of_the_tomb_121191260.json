@@ -1,0 +1,12 @@
+{
+  "id": 121191260,
+  "name": "Guardians of the Tomb",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nDuring your opponent's Main Phase, when a monster is Special Summoned from your Spell & Trap Zone to your field while you have no cards in your hand, you can draw 1 card, and if you do, you can Set 1 Spell or Trap from your hand. This Skill can only be used once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191260.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

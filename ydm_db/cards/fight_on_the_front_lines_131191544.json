@@ -1,0 +1,12 @@
+{
+  "id": 131191544,
+  "name": "Fight on the Front Lines",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All FIRE Pyro-Type monsters you control gain 200 ATK and DEF.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191544.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

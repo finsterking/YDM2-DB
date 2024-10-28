@@ -1,0 +1,12 @@
+{
+  "id": 131191353,
+  "name": "Sealed Tombs",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points are lower than your opponent's by 1000 or more. Until the end of your opponent's next turn, neither player can banish cards from the Graveyard or Special Summon monsters from the Graveyard. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191353.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

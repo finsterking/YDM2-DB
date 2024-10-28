@@ -1,0 +1,12 @@
+{
+  "id": 131191597,
+  "name": "Evil Change",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 \"Evil HERO\" monster from your Deck from your hand and add 1 \"Evil HERO\" monster with a different name or \"Dark Fusion\" from your Deck to your hand. This Skill can only be used if you begin the Duel with an Extra Deck that contains no monsters other than Fiend-Type monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191597.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

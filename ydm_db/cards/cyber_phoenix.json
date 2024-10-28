@@ -1,11 +1,11 @@
 {
-  "id": 3370124,
+  "id": 3370104,
   "name": "Cyber Phoenix",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "While this card is in face-up Attack Position, negate the effects of any Spell or Trap Card that targets 1 Machine-Type monster you control. When this face-up card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can draw 1 card.",
+  "is_custom": false,
+  "text": "While this card is in Attack Position, negate any Spell/Trap effects that target 1 Machine monster you control (and no other cards). When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/3370124.jpg"
+    "https://images.ygoprodeck.com/images/cards/3370104.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",

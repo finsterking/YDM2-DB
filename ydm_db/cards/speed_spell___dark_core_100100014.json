@@ -1,0 +1,12 @@
+{
+  "id": 100100014,
+  "name": "Speed Spell - Dark Core",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters: Discard 1 card, then target 1 face-up monster on the field; Banish it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100014.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

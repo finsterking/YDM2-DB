@@ -1,0 +1,12 @@
+{
+  "id": 131191395,
+  "name": "Cubic Seeds",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 3 \"Vijam the Cubic Seed\" to your Deck. This Skill can only be used if you begin the Duel with a Deck/Extra Deck that contains no monsters other than \"Cubic\" monsters. In addition, the number of Spell/Trap Cards that are not \"Cubic\" cards must be 6 or lower.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191395.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

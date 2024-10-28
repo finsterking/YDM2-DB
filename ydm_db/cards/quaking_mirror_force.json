@@ -1,11 +1,11 @@
 {
-  "id": 120000002,
+  "id": 40838625,
   "name": "Quaking Mirror Force",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "[Requirement] When an opponent's monster declares an attack.\n[Effect] Change all face-up monsters on your opponent's field to face-down Defense Position.",
+  "is_custom": false,
+  "text": "When an opponent's monster declares an attack: Change all your opponent's Attack Position monsters to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/120000002.jpg"
+    "https://images.ygoprodeck.com/images/cards/40838625.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

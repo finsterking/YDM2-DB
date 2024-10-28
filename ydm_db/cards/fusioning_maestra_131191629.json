@@ -1,0 +1,12 @@
+{
+  "id": 131191629,
+  "name": "Fusioning Maestra",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 1 \"Soprano the Melodious Songstress\" and 1 \"Crystal Rose\" to your Deck. Then, add 1 \"Bloom Diva the Melodious Choir\" to your Extra Deck. In addition, the following effect can be used if you have \"Crystal Rose\" on your field. Return all of your banished, Fusion Monsters to your Extra Deck. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191629.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

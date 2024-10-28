@@ -1,0 +1,21 @@
+{
+  "id": 130000061,
+  "name": "Wisel Carrier",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If there is no face-up \"Meklord Emperor\" on the field, destroy this card. Cannot be destroyed by an opponent's card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000061.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 600,
+  "level": 1,
+  "is_tuner": false
+}

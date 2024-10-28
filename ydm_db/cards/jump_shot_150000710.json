@@ -1,0 +1,12 @@
+{
+  "id": 150000710,
+  "name": "Jump Shot",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster you control; it loses 400 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000710.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 141191303,
+  "name": "Fusion Time! (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when Life Points decrease by 1000. Instead of conducting a normal draw, add \"Polymerization\" to your hand from oustide of your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191303.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

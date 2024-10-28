@@ -1,0 +1,12 @@
+{
+  "id": 131191651,
+  "name": "Black and White Contract",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used by sending 1 face-up \"Dark Contract\" card on your field to the Graveyard, Select 1 effect from the following and apply it to 1 \"D/D\" monster on your field.\nThis Skill can be used twice per Duel if you begin the Duel with a Deck/Extra Deck that contains no monsters other than \"D/D\" monsters.\n\u25cf The selected monster will become a Tuner monster.\n\u25cf The selected monster will become a Level 4 monster.\n\u25cf The selected monster will become a Level 8 monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191651.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191788,
+  "name": "Borrel Booster",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control a \"Borrel\" monster, your \"Borrel\" and \"Rokket\" monsters will gain 200 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191788.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

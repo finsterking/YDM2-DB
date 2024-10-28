@@ -1,0 +1,12 @@
+{
+  "id": 131191790,
+  "name": "In the Name of the Hanoi",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Skill can only be used once per turn. The effect of this Skill will change based on the number of times this skill is used:\n\u25cf One time: Reveal 1 \"Cracking Dragon\" in your hand. During this turn, you can Normal Summon \"Cracking Dragon\" without tributing.\n\u25cf Two times: Return 2 DARK monsters in your hand to the Deck, and add 1 \"Hack Worm\" and 1 \"Jack Wyvern\" from outside of your Deck to your hand. During this turn, you cannot Special Summon monsters from your Extra Deck, and you can only special summon DARK Monsters.\n\u25cf Thee times and on: Until the end of the turn, your \"Cracking Dragon\" gains 300 ATK for each DARK monster you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191790.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

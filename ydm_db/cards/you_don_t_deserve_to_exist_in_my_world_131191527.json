@@ -1,0 +1,12 @@
+{
+  "id": 131191527,
+  "name": "You Don't Deserve to Exist in My World",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Choose 1 monster that is equipped with your opponent's Equip Card and has at least 1000 ATK above its original ATK, and send it to another dimension. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191527.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

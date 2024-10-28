@@ -1,0 +1,12 @@
+{
+  "id": 150000230,
+  "name": "Don Thousand/Spell A",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Up to twice per turn, this card cannot be destroyed by card effects.\n\n-I activate \"Numeron Network\"!-\n\nHidden Effect\nIf you control no other cards (Quick Effect): You can send 1 Spell/Trap from your hand or Deck to the Graveyard; as this card's effect resolution, follow the sent card's text as if you had used it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000230.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

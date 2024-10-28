@@ -1,0 +1,12 @@
+{
+  "id": 131191512,
+  "name": "Time Passage (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select 1 \"Fortune Lady\" monster you control; its level is increased by 3 until the end of the turn. This Skill can only be used once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191512.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 100100129,
+  "name": "Speed Spell - Explosion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters: Target 1 other card in your Spell & Trap Zone; destroy it. Then, change the battle positions of all monsters your opponent controls.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100129.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

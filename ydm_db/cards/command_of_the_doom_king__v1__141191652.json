@@ -1,0 +1,12 @@
+{
+  "id": 141191652,
+  "name": "Command of the Doom King (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add Pendulum Zones to your field.\nThe following effect can be used once per Duel. Select 1 \"D/D/D Doom King Armageddon\" from your hand and add it face-up to your Extra Deck.\nThen, select up to 1 \"D/D\" Pendulum Monster respectively from your Field/Deck and place it in your Pendulum Zone, but its effects are negated until the end of your next Standby Phase.\nThis Skill will only activate if you begin the Duel with a Deck that has 3 or more \"D/D/D\" Pendulum Monsters (Extra Deck is not included.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191652.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

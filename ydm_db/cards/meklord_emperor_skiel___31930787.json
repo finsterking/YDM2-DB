@@ -1,0 +1,21 @@
+{
+  "id": 31930787,
+  "name": "Meklord Emperor Skiel \u221e",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Gains ATK/DEF equal to the combined ATK of all other \"Wisel\", \"Granel\", and \"Skiel\" monsters you control. Cannot be targeted by an opponent's card effects. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card (max. 1). This card gains ATK equal to the ATK of the monster equipped to it by this effect. You can only control 1 \"Meklord Emperor\" monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/31930787.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

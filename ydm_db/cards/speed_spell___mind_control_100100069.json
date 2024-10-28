@@ -1,0 +1,12 @@
+{
+  "id": 100100069,
+  "name": "Speed Spell - Mind Control",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 6 or more Speed Counters: Remove 3 of your Speed Counters, then target 1 monster your opponent controls; until the End Phase, take control of that target, but it cannot declare an attack or be Tributed.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100069.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

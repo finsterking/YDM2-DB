@@ -1,0 +1,12 @@
+{
+  "id": 150000690,
+  "name": "Twinkle Comet",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Decrease the ATK of an opponent's monster by 1000 and inflict 500 damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000690.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

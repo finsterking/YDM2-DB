@@ -1,0 +1,12 @@
+{
+  "id": 141191293,
+  "name": "Duel, standby! (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Gives 1 more card in each player's starting hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191293.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131192056,
+  "name": "Spiral leading to the Dragon Champion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use this Skill's second and third effects once per Duel.\n1: You cannot Normal or Special Summon (excluding Special Summons from the hand and Extra Deck) any monsters, except for Spellcaster and Warrior monsters with 2100 DEF, Level 5 Dragon monsters, and Aqua monsters with 2000 DEF.\n2: During your Main Phase, play 1 \"Artillery Catapult Turtle\" from your hand or Deck to your field.\n3: If your opponent controls more cards than you do, add 1 \"Polymerization\" from outside of your Deck to your hand, and play 1 \"Dark Magician\" from outside of your Deck to your field in face-down Defense Position. (Its battle position can be changed.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192056.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

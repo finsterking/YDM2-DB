@@ -1,11 +1,11 @@
 {
-  "id": 511000114,
+  "id": 7183277,
   "name": "Aurkus, Lightsworn Druid",
   "is_illegal": false,
-  "is_custom": true,
+  "is_custom": false,
   "text": "Neither player can target \"Lightsworn\" monsters (anywhere) with card effects. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511000114.jpg"
+    "https://images.ygoprodeck.com/images/cards/7183277.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

@@ -1,0 +1,12 @@
+{
+  "id": 131191950,
+  "name": "A Galactic Battle",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when a \"Galaxy-Eyes\" Xyz Monster exists on either field.\nDuring your Draw Phase, instead of conducting your normal draw, send all cards but \"Galaxy-Eyes\" Xyz Monsters on both fields to the Graveyard.\nAfter using this Skill, this turn will end.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191950.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

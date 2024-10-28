@@ -1,11 +1,11 @@
 {
-  "id": 48092552,
+  "id": 48092532,
   "name": "D.D. Survivor",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "When this card is removed from play while face-up on your side of the field, you Special Summon it during the End Phase.",
+  "is_custom": false,
+  "text": "During the End Phase, if this card was banished while face-up on your field, this turn: Special Summon this banished card. This effect can only activate once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/48092552.jpg"
+    "https://images.ygoprodeck.com/images/cards/48092532.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

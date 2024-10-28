@@ -1,0 +1,12 @@
+{
+  "id": 131191203,
+  "name": "Prescience",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the start of the Duel, flip this card over. You may look at the top card of both your and your opponent's Deck at any time. At the end of the 5th turn, flip this card over (count both players' turns).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191203.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 121191213,
+  "name": "Straight to the Grave (TCG)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, place this card in your Field Zone and flip it over.\n[ Effect ]\nAll Dinosaur, Zombie, and Rock monsters on the field gain 200 ATK/DEF.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191213.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

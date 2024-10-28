@@ -1,0 +1,12 @@
+{
+  "id": 131191491,
+  "name": "Recycling Reserve",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you have at least 2 more Machine-Type monsters than other cards in your Graveyard. All cards in your Graveyard other than Machine-Type monsters vanish. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191491.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

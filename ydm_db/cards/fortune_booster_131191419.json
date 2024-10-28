@@ -1,0 +1,12 @@
+{
+  "id": 131191419,
+  "name": "Fortune Booster",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of your turn, increase the level of all \"Fortune Lady\" monsters you control by 1.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191419.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

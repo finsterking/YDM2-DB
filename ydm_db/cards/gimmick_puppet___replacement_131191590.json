@@ -1,0 +1,12 @@
+{
+  "id": 131191590,
+  "name": "Gimmick Puppet - Replacement",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Send up to 3 monsters whose combined Level equals 8 from your hand to the Graveyard. Then, add 1 Level 8 \"Gimmick Puppet\" monster to your hand from your Deck. This Skill can only be used if you begin the Duel with a Deck (excluding Extra Deck) that contains at least 1 monster and no monsters other than DARK Machine-Type monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191590.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

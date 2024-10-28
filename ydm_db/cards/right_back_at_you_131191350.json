@@ -1,0 +1,12 @@
+{
+  "id": 131191350,
+  "name": "Right Back at You",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used in the Main Phase of your next turn following the turn in which you took battle damage. Select 1 face-up monster on your field. This turn, the selected monster's ATK increases by half the battle damage received in the turn you last took battle damage. This Skill can only be used once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191350.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

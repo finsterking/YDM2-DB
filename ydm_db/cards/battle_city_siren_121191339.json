@@ -1,0 +1,12 @@
+{
+  "id": 121191339,
+  "name": "Battle City Siren",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nOnce per turn, during your Main Phase, you can change the battle position of 1 monster your opponent controls. This turn, the first attack you declare must target that monster This Skill can only be used twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191339.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

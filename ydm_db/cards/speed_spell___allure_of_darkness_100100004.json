@@ -1,0 +1,12 @@
+{
+  "id": 100100004,
+  "name": "Speed Spell - Allure of Darkness",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can remove 3 of your Speed Counters; draw 2 cards, then banish 1 DARK monster from your hand, or, if you don't have any in your hand, send all cards in your hand to the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100004.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

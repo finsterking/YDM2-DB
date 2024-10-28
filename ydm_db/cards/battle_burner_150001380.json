@@ -1,0 +1,12 @@
+{
+  "id": 150001380,
+  "name": "Battle Burner",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a monster's attack is negated: Target that monster; this turn, it can attack once again, and if it does, if it destroys an opponent's monster by battle, destroy all Attack Position monsters your opponent controls. This effect cannot be negated.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001380.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

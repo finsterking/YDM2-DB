@@ -1,0 +1,12 @@
+{
+  "id": 131191983,
+  "name": "Noble White Lily",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Skill can be used once per Duel.\n1: Can be used if your opponent controls a monster and you control \"Chevalier de Fleur.\" Add 1 \"Baronne de Fleur\" to your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191983.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

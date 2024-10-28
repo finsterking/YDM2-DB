@@ -1,0 +1,21 @@
+{
+  "id": 511003012,
+  "name": "Witch of the Black Forest",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is sent from the field to the Graveyard: Add 1 monster with 1500 or less DEF from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511003012.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1100,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}

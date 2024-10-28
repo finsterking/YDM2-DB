@@ -1,0 +1,12 @@
+{
+  "id": 131191538,
+  "name": "You're Getting On My Nerves!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used during your next turn after your monster is destroyed by battle or card effect. Increase the ATK of 1 Rank 4 or lower WATER Xyz Monster by 500 until the end of the turn. Can also be used if your opponent controls a monster with 2500 ATK or more. This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191538.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

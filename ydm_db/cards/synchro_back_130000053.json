@@ -1,0 +1,12 @@
+{
+  "id": 130000053,
+  "name": "Synchro Back",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 Synchro Monster you control; return that target to the Extra Deck, also during the Standby Phase of your next turn, Special Summon from your Extra Deck, 1 Synchro Monster with the same name as that monster returned to the Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000053.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

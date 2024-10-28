@@ -1,0 +1,12 @@
+{
+  "id": 131191718,
+  "name": "Train Uncoupling!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used before your normal draw. Instead of conducting your normal draw, send 1 Level 10 EARTH Machine-Type monster from your hand to the Graveyard. Then, add up to 2 Level 4 or lower EARTH Machine-Type monsters from your Graveyard whose combined ATK is less than or equal to the ATK of the monster you sent to the Graveyard.\nThis Skill will only activate if you begin the Duel with a Deck (excluding Extra Deck) that has 3 or more Level 10 EARTH Machine-Type monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191718.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

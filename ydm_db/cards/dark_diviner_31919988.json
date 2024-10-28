@@ -1,0 +1,21 @@
+{
+  "id": 31919988,
+  "name": "Dark Diviner",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 non-Tuner monster - 1 Dark Tuner\nThis card cannot be destroyed by battle. If this card attacks an opponent's monster that has greater ATK than this card, send 1 card from the top of your opponent's Deck to the Graveyard for each multiple of 100 in the difference between this card's ATK and that monster's ATK. Then, that monster's ATK becomes equal to this card's ATK, until the end of the Battle Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/31919988.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "ability": "Synchro",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 130000043,
+  "name": "Pain to Power",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a monster you control other than the equipped monster attacks and you take battle damage: The equipped monster gains ATK equal to the damage you took until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000043.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

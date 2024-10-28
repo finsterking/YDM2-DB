@@ -1,0 +1,12 @@
+{
+  "id": 131191654,
+  "name": "D.D. King",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All \"D/D/D\" monsters you control gain 500 ATK until the end of the turn. This Skill can only be used once per turn and twice per Duel.\nIf you begin the Duel with a Deck/Extra Deck containing a total of 12 or more \"D/D/D\" monsters or \"Dark Contract\" Spell/Trap Cards, add Pendulum Zones to your field at the beginning of the Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191654.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

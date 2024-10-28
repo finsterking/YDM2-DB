@@ -1,0 +1,12 @@
+{
+  "id": 131191461,
+  "name": "Maiden of Iron",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Halve the battle damage you take from battles involving \"Maiden in Love\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191461.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

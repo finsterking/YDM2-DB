@@ -1,0 +1,12 @@
+{
+  "id": 131191323,
+  "name": "Master of Magicians",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used after your Life Points decrease by 2000. Randomly add 1 \"Thousand Knives\", \"Dark Magic Attack\", or \"Dark Magic Expanded\" to your hand. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191323.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

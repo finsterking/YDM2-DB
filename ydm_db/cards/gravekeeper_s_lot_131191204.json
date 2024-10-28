@@ -1,0 +1,12 @@
+{
+  "id": 131191204,
+  "name": "Gravekeeper's Lot",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 1000. In the Draw Phase, instead of conducting your normal draw, draw a random \"Gravekeeper's\" card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191204.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

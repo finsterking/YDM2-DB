@@ -1,0 +1,12 @@
+{
+  "id": 131191325,
+  "name": "Master of Rites II",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 1500.\nReturn 1 card from your hand to your Deck and Set 1 \"Ritual Cage\" from outside of your Deck to your field.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191325.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

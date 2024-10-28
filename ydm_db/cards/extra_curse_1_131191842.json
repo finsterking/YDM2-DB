@@ -1,0 +1,12 @@
+{
+  "id": 131191842,
+  "name": "Extra Curse 1",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If an opponent's monster in the Extra Monster Zone is destroyed by battle, inflict 500 damage to your opponent's Life Points.\nThis Skill is only applied when there are no cards in your Extra Deck and your opponent has 1000 Life Points or more.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191842.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

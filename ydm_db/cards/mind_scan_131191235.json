@@ -1,0 +1,12 @@
+{
+  "id": 131191235,
+  "name": "Mind Scan",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "From the third turn and onward, you can see the opponent's set cards as long as your Life Points are 3000 or higher.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191235.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191421,
+  "name": "Fortune Teller",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 \"Fortune Fairy\" monster from your hand to the top of your Deck. This Skill can only be used once per turn and 3 times per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191421.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191683,
+  "name": "Phantom Strategy",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Send 1 \"The Phantom Knights\" monster from your hand to the Graveyard. Then, add 1 \"Phantom Knights' Fog Blade\" to the very bottom of your Deck from outside of your Deck. During the turn you activate this Skill, you cannot Special Summon Rank 4 or above monsters unless are DARK Warrior-Type or DARK Dragon-Type monsters This Skill can be used if you begin the Duel with a Deck (excluding Extra Deck) that contains no monsters other than DARK Warrior-Type monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191683.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

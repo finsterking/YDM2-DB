@@ -1,0 +1,12 @@
+{
+  "id": 100100005,
+  "name": "Speed Spell - Wild Nature's Release",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Target 1 Beast-Type or Beast-Warrior-Type monster; it gains ATK equal to its DEF until the end of this turn, but destroy it during the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100005.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

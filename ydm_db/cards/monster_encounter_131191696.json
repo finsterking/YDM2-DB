@@ -1,0 +1,12 @@
+{
+  "id": 131191696,
+  "name": "Monster Encounter",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Send 1 Fiend-Type or Zombie-Type non-Effect Monster from your hand to the Graveyard. Roll a die two times and play 1 Fiend-Type or Zombie-Type non-Effect Monster with the Level/Rank below from your Graveyard based on the result.\n\u25cf 2: Level/Rank 8 or lower,\n\u25cf 3-11: Level/Rank 4 or lower,\n\u25cf 12: Level/Rank 2 or lower.\nThis Skill can only be used if you begin the Duel with a Deck (excluding Extra Deck) that includes at least 1 monster and contains no monsters other than Fiend-Type or Zombie-Type monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191696.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

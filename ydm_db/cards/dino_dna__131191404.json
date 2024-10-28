@@ -1,0 +1,12 @@
+{
+  "id": 131191404,
+  "name": "Dino DNA!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of your turns, recover 200 Life Points.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191404.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

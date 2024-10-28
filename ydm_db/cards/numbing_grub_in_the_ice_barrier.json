@@ -1,11 +1,11 @@
 {
-  "id": 511003032,
+  "id": 92065772,
   "name": "Numbing Grub in the Ice Barrier",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "When this card is Normal Summoned: Choose 1 unused Monster Zone; while this card is face-up in the Monster Zone, that Zone cannot be used.",
+  "is_custom": false,
+  "text": "When this card is Normal Summoned, select 1 unused Main Monster Zone. While this card is face-up on the field, that selected Main Monster Zone cannot be used.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511003032.jpg"
+    "https://images.ygoprodeck.com/images/cards/92065772.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",

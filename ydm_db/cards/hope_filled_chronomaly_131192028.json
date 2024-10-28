@@ -1,0 +1,12 @@
+{
+  "id": 131192028,
+  "name": "Hope-Filled Chronomaly",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use the second effect of this Skill once per Duel and you can only use the 3rd effect of this Skill once per turn.\n1: You cannot Normal or Special Summon monsters, except \"Chronomaly\" monsters (excluding Special Summons from the Extra Deck).\n2: Send 1 non-Level 4 \"Chronomaly\" monster from your hand to the GY. Add 1 non-Level 4 \"Chronomaly\" monster from your Deck to your hand, and add 4 \"Number\" monsters from outside your Deck to your Extra Deck.\n3: Send 1 Rank 3 to 6 \"Number\" monster from your Extra Deck to the GY. The Level of all monsters on your field become the same as the Rank of the monster sent to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192028.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

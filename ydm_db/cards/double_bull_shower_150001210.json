@@ -1,0 +1,12 @@
+{
+  "id": 150001210,
+  "name": "Double Bull Shower",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Decreases the DEF of a monster by 1000.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001210.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

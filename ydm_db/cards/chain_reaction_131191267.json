@@ -1,0 +1,12 @@
+{
+  "id": 131191267,
+  "name": "Chain Reaction",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Your opponent loses 200 Life Points every time you activate a Trap Card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191267.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

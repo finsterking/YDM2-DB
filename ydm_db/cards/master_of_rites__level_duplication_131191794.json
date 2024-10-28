@@ -1,0 +1,12 @@
+{
+  "id": 131191794,
+  "name": "Master of Rites: Level Duplication",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used by revealing 1 Ritual Monster in your hand, and then selecting 1 monster on your field with the same Type as that Ritual Monster. The effects of the selected monster will be negated during this turn's Main Phase and Battle Phase, and its Level becomes equal to the Level of the monster you revealed. You cannot Special Summon monsters this turn except Ritual Monsters.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191794.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

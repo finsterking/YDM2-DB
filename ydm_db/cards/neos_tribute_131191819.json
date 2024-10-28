@@ -1,0 +1,12 @@
+{
+  "id": 131191819,
+  "name": "Neos Tribute",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Normal Summon or Set \"Elemental HERO Neos\" with 1 less Tribute during this Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191819.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

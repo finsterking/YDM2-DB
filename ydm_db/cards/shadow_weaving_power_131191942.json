@@ -1,0 +1,12 @@
+{
+  "id": 131191942,
+  "name": "Shadow-Weaving Power",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Skill's second effect can only be used once per Duel if all of the monsters in your Deck (excluding the Extra Deck) are \"Shaddoll\" monsters or Spellcaster monsters. \n1: At the beginning of the Duel, choose 2 \"Shaddoll\" Trap Cards from your Deck at random and send them to the Graveyard, and add 1 \"El Shaddoll Winda\" to your Extra Deck, and 3 \"Shaddoll Fusion\" and 1 \"Shaddoll Schism\" to your Deck.\n2: During your Main Phase, shuffle 1 \"Shaddoll\" card from your Graveyard or among your banished cards into the Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191942.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

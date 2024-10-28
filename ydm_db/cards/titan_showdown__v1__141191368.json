@@ -1,0 +1,12 @@
+{
+  "id": 141191368,
+  "name": "Titan Showdown (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Whichever player has double or more Life Points than the other takes double battle damage.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191368.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

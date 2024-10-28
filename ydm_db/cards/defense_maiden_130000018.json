@@ -1,0 +1,12 @@
+{
+  "id": 130000018,
+  "name": "Defense Maiden",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When an opponent's monster declares an attack on a monster you control: You can target 1 \"Maiden in Love\" you control; switch the attack target to that target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000018.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

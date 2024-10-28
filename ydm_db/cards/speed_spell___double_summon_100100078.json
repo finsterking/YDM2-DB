@@ -1,0 +1,12 @@
+{
+  "id": 100100078,
+  "name": "Speed Spell - Double Summon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: You can activate this card; you can conduct 2 Normal Summons/Sets this turn, not just 1.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100078.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

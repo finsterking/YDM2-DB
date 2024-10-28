@@ -1,0 +1,12 @@
+{
+  "id": 141191259,
+  "name": "Baggy Sleeves (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If one of your monsters of Level 5 or higher is destroyed in battle, in your next Draw Phase a normal draw gives you 2 cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191259.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,16 +1,16 @@
 {
-  "id": 511000234,
+  "id": 6007213,
   "name": "Uria, Lord of Searing Flames",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 3 Trap Cards you control to the GY and cannot be Special Summoned by other ways except by its own effect. Unaffected by Trap effects, and is only affected by the effects of Spell Cards during the turn they are applied. This card gains 1000 ATK/DEF for each Trap Card in your GY. Once per turn: You can target 1 Set Spell/Trap your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation. You can discard 1 Trap Card to the GY to Special Summon this card from your GY. During the turn this card is Special Summoned by its own effect, if you control another monster, this card cannot declare an attack.",
+  "is_custom": false,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Traps you control to the GY. This card gains 1000 ATK for each Continuous Trap in your GY. Once per turn: You can target 1 Set Spell/Trap your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511000234.jpg"
+    "https://images.ygoprodeck.com/images/cards/6007213.jpg"
   ],
   "type": "Monster",
-  "attribute": "DIVINE",
+  "attribute": "FIRE",
   "atk": 0,
-  "species": "Divine-Beast",
+  "species": "Pyro",
   "ability": "",
   "has_effect": true,
   "is_pendulum": false,

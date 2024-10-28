@@ -1,0 +1,12 @@
+{
+  "id": 150000670,
+  "name": "Nanana",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster you control; it gains 700 ATK this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000670.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

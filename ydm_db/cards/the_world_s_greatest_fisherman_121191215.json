@@ -1,0 +1,12 @@
+{
+  "id": 121191215,
+  "name": "The World's Greatest Fisherman",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nOnce per turn, you can pay 500 LP and discard 1 WATER monster, then add 1 WATER monster from your GY to your hand, with a different name and with a Level no more than twice the discarded monster's Level. If you do that, flip this card over.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191215.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

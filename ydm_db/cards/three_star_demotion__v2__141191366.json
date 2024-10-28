@@ -1,0 +1,12 @@
+{
+  "id": 141191366,
+  "name": "Three-Star Demotion (v2)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used by paying 3000 Life Points.\nUntil the End Phase, reduce the Level of all monsters in your hand by 3.\nThis Skill can only be used once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191366.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

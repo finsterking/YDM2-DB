@@ -1,0 +1,12 @@
+{
+  "id": 131191474,
+  "name": "Miracle Draw",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you have an \"Elemental HERO\" monster in your Graveyard, your normal draw on your 3rd Draw Phase will become \"Pot of Greed\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191474.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

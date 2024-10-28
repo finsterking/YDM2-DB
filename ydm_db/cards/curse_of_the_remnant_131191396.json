@@ -1,0 +1,12 @@
+{
+  "id": 131191396,
+  "name": "Curse of the Remnant",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a monster is equipped with a \"The Mask of Remnants\" that you control, that monster gains 1000 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191396.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

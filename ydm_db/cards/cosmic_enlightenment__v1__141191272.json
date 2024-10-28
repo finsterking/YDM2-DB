@@ -1,0 +1,12 @@
+{
+  "id": 141191272,
+  "name": "Cosmic Enlightenment (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of conducting your normal draw, draw a random Psychic-Type or \"Jinzo\" monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191272.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

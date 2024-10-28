@@ -1,0 +1,12 @@
+{
+  "id": 121191325,
+  "name": "Stalked by the Rare Hunters",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nOnce per Duel, during your End Phase, discard 1 card, then choose 1 monster in your opponent's GY that was destroyed and sent there this turn and Set it on your field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191325.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

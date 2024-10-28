@@ -1,0 +1,12 @@
+{
+  "id": 150000240,
+  "name": "Don Thousand/Spell C",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a face-up \"Don Thousand/Monster A\" you control is destroyed: Special Summon 1 \"Don Thousand/Monster B\" from your hand or Deck.\n\n-I activate \"Numeron Chaos Ritual\"!-",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000240.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

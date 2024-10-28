@@ -1,0 +1,12 @@
+{
+  "id": 131191747,
+  "name": "Malefic Dragon's Power",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Your \"Malefic Truth Dragon\" gains ATK/DEF equal to half your Life Points. In addition, the following effect can be used once per Duel. Banish 1 \"Malefic\" monster from your Graveyard, and select 1 \"Malefic Truth Dragon\" you control. Until the end of your opponent's next turn, the next time that monster would be destroyed by a card effect, it is not destroyed.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191747.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

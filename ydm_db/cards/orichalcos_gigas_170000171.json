@@ -1,0 +1,21 @@
+{
+  "id": 170000171,
+  "name": "Orichalcos Gigas",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is destroyed: You can skip your next Draw Phase, and if you do, Special Summon this card, but it cannot attack for the rest of this turn. Gains 500 ATK x the number of times it was Special Summoned by its own effect this Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/170000171.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Rock",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

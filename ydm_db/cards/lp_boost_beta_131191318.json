@@ -1,0 +1,12 @@
+{
+  "id": 131191318,
+  "name": "LP Boost Beta",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Increases starting Life Points by 1500, reduces hand by 1 card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191318.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 150001240,
+  "name": "Guard Change",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "DEF becomes the same as the ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001240.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

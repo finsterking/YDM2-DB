@@ -1,0 +1,12 @@
+{
+  "id": 131191982,
+  "name": "Graceful Blade",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Skill can only be used once per turn. On the turn that you use this Skill, you cannot Special Summon (excluding Special Summons from the Extra Deck) any monsters except \"Synchron\" Tuner monsters and \"Noble Knight\" monsters with 800 ATK.\n1: Send 1 \"Noble Knight's Spearholder\" from your hand to the Graveyard, then Set 1 \"Polymerization\" from outside of your Deck to your field, and send 1 \"Fleur Synchron\" from outside of your Deck to your Graveyard. Then, you can add 1 \"Noble Knight\" monster with 800 ATK or 1 \"Fleuret de Fleur\" from your Deck or Graveyard to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191982.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

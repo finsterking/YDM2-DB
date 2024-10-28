@@ -1,0 +1,12 @@
+{
+  "id": 131191781,
+  "name": "Over-Powered Hand",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your opponent controls a Rank 5 or higher Xyz Monster. Banish one of the following monsters from your Graveyard. Then, select 1 Rank 4 Xyz Monster you control, and double the ATK of that monster until the end of the turn.\n\u25cf \"Magic Hand\"\n\u25cf \"Fire Hand\"\n\u25cf \"Ice Hand\"\n\u25cf \"Prominence Hand\"\nFor the rest of the turn after using this Skill, your opponent takes no damage. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191781.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

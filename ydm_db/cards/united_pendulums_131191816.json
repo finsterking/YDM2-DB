@@ -1,0 +1,12 @@
+{
+  "id": 131191816,
+  "name": "United Pendulums",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add Pendulum Zones to your field.\nThe following effect can be used once per Duel. Select 1 Pendulum Monster you control and place it in your Pendulum Zone. Then, select 1 Pendulum Monster in your Deck with the same original Type as that monster, but with a different original name, and place it in your Pendulum Zone. Then, negate both cards' effects until the end of the turn. The turn you activate this Skill, you can only Special Summon from your Extra Deck once, except for Pendulum Summons.\nThis Skill can only be used/applied if, at the start of the Duel, at least half of the cards in your Deck (excluding Extra Deck) are Pendulum Monsters with the same Type.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191816.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

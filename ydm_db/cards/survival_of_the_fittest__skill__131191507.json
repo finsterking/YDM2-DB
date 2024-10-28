@@ -1,0 +1,12 @@
+{
+  "id": 131191507,
+  "name": "Survival of the Fittest (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 1000, if you have 3 or more \"Evolution Pill\" cards in your Deck. During your Draw Phase, instead of conducting your normal draw, draw a random \"Evolution Pill\" card from your Deck. This Skill can be used twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191507.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

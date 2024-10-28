@@ -1,0 +1,12 @@
+{
+  "id": 131191783,
+  "name": "Emperor Advent",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select up to 3 \"Cubic\" monsters in your hand or Graveyard, and play them in Defense Position, but negate their effects. You cannot Summon any monsters except \"Indiora Doom Volt the Cubic Emperor\" nor activate any effects other than \"Indiora Doom Volt the Cubic Emperor\" during the turn you activate this Skill.\nIn addition, \"Indiora Doom Volt the Cubic Emperor\" Special Summoned on the turn you used this Skill gains 2400 ATK.\nSend all monsters other than \"Indiora Doom Volt the Cubic Emperor\" on your field to the Graveyard at the end of this turn.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191783.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 141191954,
+  "name": "Tachyon Dragon Domination (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Set a Deck where all monsters that are not Level 1 in your Deck (Extra Deck excluded) are Dragon-Type LIGHT/DARK monsters; LIGHT monsters are Level 4/8 with 2000 ATK or lower; DARK monsters are Level 8 and have ATK of 2500 or 2000. Beginning a Duel with these settings will let you use each of the following effects once per turn and twice each during the Duel.\n\u25cf Reveal 1 Level 8 monster in your hand, add 1 Level 4 or 8 LIGHT monster to your hand, and set 1 Level 8 monster in your hand onto your field.\n\u25cf Return 1 face-up monster on your field to your hand and add 1 \"Tachyon Transmigration\" from your Deck or 1 \"Rank-Up-Magic Barian's Force\" from outside your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191954.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

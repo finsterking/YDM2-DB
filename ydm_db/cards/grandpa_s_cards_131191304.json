@@ -1,0 +1,12 @@
+{
+  "id": 131191304,
+  "name": "Grandpa's Cards",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Begin Duel with the 5 Exodia pieces in your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191304.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 150000460,
+  "name": "Mirror Barrier",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster on the field; it cannot be destroyed by card effects this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000460.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

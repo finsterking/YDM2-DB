@@ -1,0 +1,12 @@
+{
+  "id": 131192011,
+  "name": "Tuning in the Sky",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use this Skill's second and third effects once per turn if your Extra Deck does not contain any monsters with the same name.\n1: You cannot Normal or Special Summon monsters, except \"The Agent\" monsters, \"Hyperion\" monsters, Synchro Monsters, or Normal Monsters.\n2: During your Main Phase, send 1 \"The Agent\" monster from your Deck to the Graveyard. Then, you can apply the following effect.\n\u25cf Shuffle 1 \"Hyperion\" monster from your hand into the Deck, then add 1 \"Hyperion\" monster or \"The Agent of Creation - Venus\" from your Deck to your hand.\n3: During your Main Phase, choose 1 Fairy monster on your field, and treat that monster as a Tuner.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192011.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

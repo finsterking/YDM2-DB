@@ -1,0 +1,12 @@
+{
+  "id": 131191246,
+  "name": "Switcheroo",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 1500. Return 1 card in your hand to your Deck and draw another. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191246.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

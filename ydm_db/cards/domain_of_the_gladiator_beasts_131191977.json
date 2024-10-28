@@ -1,0 +1,12 @@
+{
+  "id": 131191977,
+  "name": "Domain of the Gladiator Beasts",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can use this Skill's second effect once per Duel if your Deck (excluding the Extra Deck) contains 8 or more \"Gladiator Beast\" monsters.\n1: You cannot Special Summon (excluding Special Summons from the Extra Deck) any monsters except \"Gladiator Beast\" monsters and Beast Type monsters.\n2: Reveal 1 \"Gladiator Beast\" monster in your hand, and then place 1 \"Gladiator Rejection\" from your Deck, Graveyard, or among your banished cards on your field face-down.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191977.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

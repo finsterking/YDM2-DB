@@ -1,0 +1,12 @@
+{
+  "id": 131191636,
+  "name": "Gong Won't Move!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once per turn if you control a monster in Defense Position. Increase the DEF of all monsters you control by 500 until the end of your opponent's turn. You cannot declare an attack on the turn you use this Skill. This Skill can only be used if you begin the Duel with a Deck that does not contain Spell/Trap Cards. This Skill can be used only twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191636.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

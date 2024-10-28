@@ -1,0 +1,12 @@
+{
+  "id": 131191526,
+  "name": "Wounded Hero",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Play 1 \"Elemental HERO\" monster from your Deck in Attack Position with an ATK equal to or less than the total battle and effect damage you've taken so far in the ongoing Duel. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191526.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191919,
+  "name": "The Legend of the Heroes",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Each of the following effects can be used once per Duel.\n\u25cf Can be used if the total Link Rating of the monsters on your field is 3 or more. Increase your Life Points by 2000.\n\u25cf Can be used on turn 5 and onward. Return 4 Link Monsters from your Graveyard to the Extra Deck, and add 1 \"Mekk-Knight Crusadia Avramax\" from outside of your Deck to your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191919.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

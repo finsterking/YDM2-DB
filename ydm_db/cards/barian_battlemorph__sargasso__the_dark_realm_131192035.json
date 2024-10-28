@@ -1,0 +1,12 @@
+{
+  "id": 131192035,
+  "name": "Barian Battlemorph! Sargasso, the Dark Realm",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use this Skill's second effect once per turn.\n1: At the beginning of the Duel, place 1 \"Sargasso the D.D. Battlefield\" from outside of your Deck face-up in your Field Zone. During this Duel, you can only Normal or Special Summon \"Star Seraph\" monsters (excluding Special Summons from the Extra Deck).\n2: Shuffle 1 card from your hand into the Deck and reveal 1 \"Sargasso Lighthouse\" or \"Sargasso the D.D. Battlefield\" in your hand. Barian Battlemorph! Regain your true form! Add 1 \"Star Seraph\" monster from your Deck to your hand and play 1 \"Star Seraph Sage\" from outside of your Deck to your field in face-down Defense Position. (Its battle position can be changed.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192035.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

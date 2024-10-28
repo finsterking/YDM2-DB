@@ -1,0 +1,12 @@
+{
+  "id": 131191456,
+  "name": "Lucky Stones",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once on a turn in which you Special Summon a \"Fortune Fairy\" monster with its own effect. Play 1 \"Miracle Stone\" from your Deck face-down. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191456.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 150000890,
+  "name": "Quiz Action - Math for 200",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Answer the following question. Apply the appropriate effect, based on the answer. \n(Question: You roll a six on your first die, what is the probability to roll a six on your second  die?)\n\u25cf Correct answer: Gain 200 LP.\n\u25cf Incorrect answer: You take 200 damage.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000890.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

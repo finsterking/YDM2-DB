@@ -1,0 +1,12 @@
+{
+  "id": 121191309,
+  "name": "Delicious Morsel",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nDuring the End Phase, if a Zombie \"Vampire\" monster you control inflicted battle damage to your opponent this turn, gain LP equal to half the total battle damage your monsters inflicted to your opponent this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191309.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

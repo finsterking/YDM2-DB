@@ -1,0 +1,12 @@
+{
+  "id": 100100026,
+  "name": "Speed Spell - Faustian Bargain",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters: Send 1 Special Summoned monster on the field to the Graveyard and Special Summon 1 Level 4 or lower Normal Monster from your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100026.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

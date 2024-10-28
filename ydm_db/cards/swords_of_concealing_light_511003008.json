@@ -1,0 +1,12 @@
+{
+  "id": 511003008,
+  "name": "Swords of Concealing Light",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card resolves: Change all monsters your opponent controlled when this card was activated to face-down Defense Position. Monsters your opponent controls cannot change their battle positions. Destroy this card during your 2nd Standby Phase after activation.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511003008.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

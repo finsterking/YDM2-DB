@@ -1,0 +1,12 @@
+{
+  "id": 131191320,
+  "name": "Luck on Your Side",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If your Life Points drop below 1000, your coin tosses always land on heads.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191320.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191940,
+  "name": "Level 5 Reload",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 Level 5 monster from your hand to your Deck, and draw 1 card. You cannot use this Skill on your next turn.\nThis Skill can only be used once per turn if you have not used the effect of a monster whose original Level is 5.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191940.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

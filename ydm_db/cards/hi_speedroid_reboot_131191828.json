@@ -1,0 +1,12 @@
+{
+  "id": 131191828,
+  "name": "Hi-Speedroid Reboot",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used during a turn on which you have not Special Summoned any monsters. Send 1 \"Speedroid\" monster you control to your Graveyard, and then play 1 \"Speedroid\" Synchro Monster with the same original Level as the monster you sent to the Graveyard from your Graveyard in Attack Position.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191828.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

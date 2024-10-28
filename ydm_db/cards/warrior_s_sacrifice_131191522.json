@@ -1,0 +1,12 @@
+{
+  "id": 131191522,
+  "name": "Warrior's Sacrifice",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you began your turn with fewer Life Points than your opponent, and control no cards. Select 1 monster your opponent controls, and send 1 \"Silent Swordsman\" monster from your hand to the Graveyard. Until the end of the turn, the ATK of the selected monster decreases by the ATK of the \"Silent Swordsman\" monster. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191522.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

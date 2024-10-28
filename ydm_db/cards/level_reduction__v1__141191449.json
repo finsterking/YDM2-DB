@@ -1,0 +1,12 @@
+{
+  "id": 141191449,
+  "name": "Level Reduction (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Reveal 1 monster in your hand and select 1 monster on your side of the field. The selected monster's level is reduced by the level of the monster you revealed (min. 1). This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191449.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

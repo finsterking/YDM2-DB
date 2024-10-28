@@ -1,0 +1,12 @@
+{
+  "id": 150000491,
+  "name": "Miracle Fire",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card's effect becomes the same as 1 Action Card that was activated this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000491.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 150001310,
+  "name": "Damage Vanish",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you would take battle damage: Reduce it to 0.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001310.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

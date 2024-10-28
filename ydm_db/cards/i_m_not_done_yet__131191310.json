@@ -1,0 +1,12 @@
+{
+  "id": 131191310,
+  "name": "I'm Not Done Yet!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used turn 5 and onward. Your Life Points become 2000. This Skill can be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191310.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

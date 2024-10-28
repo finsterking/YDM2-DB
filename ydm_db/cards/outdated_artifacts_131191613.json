@@ -1,0 +1,12 @@
+{
+  "id": 131191613,
+  "name": "Outdated Artifacts",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 \"Chronomaly\" monster in your Graveyard to your hand that was sent to the Graveyard at least 2 turns before your turn. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191613.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

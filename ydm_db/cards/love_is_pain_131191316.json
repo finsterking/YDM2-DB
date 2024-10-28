@@ -1,0 +1,12 @@
+{
+  "id": 131191316,
+  "name": "Love is Pain",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you receive damage from your opponent's card effect when your Life Points are at 2000 or below, your opponent will lose Life Points equal to the amount of damage you took.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191316.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

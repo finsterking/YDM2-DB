@@ -1,0 +1,12 @@
+{
+  "id": 504700059,
+  "name": "Michizure",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can activate this card when a monster is sent from the field to your Graveyard. Destroy 1 monster on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/504700059.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

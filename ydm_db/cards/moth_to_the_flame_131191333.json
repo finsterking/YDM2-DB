@@ -1,0 +1,12 @@
+{
+  "id": 131191333,
+  "name": "Moth to the Flame",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The speed of the turn count for \"Petit Moth\" you control equipped with \"Cocoon of Evolution\" goes twice as fast. In addition, if you control \"Petit Moth\" equipped with \"Cocoon of Evolution\", add the following cards to your hand from outside of your Deck (in the order listed):\n\u25cf \"Larvae Moth\"\n\u25cf \"Great Moth\"\n\u25cf \"Perfectly Ultimate Greath Moth\"",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191333.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

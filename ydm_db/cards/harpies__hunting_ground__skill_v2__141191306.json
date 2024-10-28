@@ -1,0 +1,12 @@
+{
+  "id": 141191306,
+  "name": "Harpies' Hunting Ground (Skill v2)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Begin the Duel with the Field Spell \"Harpies' Hunting Ground\" on top of your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191306.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

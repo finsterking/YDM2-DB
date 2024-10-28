@@ -1,0 +1,12 @@
+{
+  "id": 131191784,
+  "name": "Everything's Ready!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used before your normal draw after your Life Points decrease by 1500. One of the cards from your normal draw this turn will be a \"Trickstar\" or \"Marincess\" monster of your choice from your Deck.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191784.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

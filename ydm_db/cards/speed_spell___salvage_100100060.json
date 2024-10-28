@@ -1,0 +1,12 @@
+{
+  "id": 100100060,
+  "name": "Speed Spell - Salvage",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters: Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100060.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

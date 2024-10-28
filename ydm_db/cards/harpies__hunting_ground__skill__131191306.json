@@ -1,0 +1,12 @@
+{
+  "id": 131191306,
+  "name": "Harpies' Hunting Ground (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can only be used at the beginning of the Main Phase of your first turn. Return 1 card from your hand to your Deck and place 1 \"Harpies' Hunting Ground\" to your Field Zone, from your Deck. If you control a Field Spell, place it in the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191306.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

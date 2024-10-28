@@ -1,0 +1,21 @@
+{
+  "id": 130000083,
+  "name": "Ferocious Flora",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn, during damage calculation, if a Plant-Type monster you control battles an opponent's monster (Quick Effect): You can make that opponent's monster lose 800 ATK until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000083.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1000,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
+}

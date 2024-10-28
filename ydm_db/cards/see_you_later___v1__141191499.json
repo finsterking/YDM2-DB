@@ -1,0 +1,12 @@
+{
+  "id": 141191499,
+  "name": "See You Later! (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select 1 monster you control and who you are the original owner of. Return the selected monster to the hand. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191499.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

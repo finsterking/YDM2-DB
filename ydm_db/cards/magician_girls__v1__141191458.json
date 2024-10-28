@@ -1,0 +1,12 @@
+{
+  "id": 141191458,
+  "name": "Magician Girls (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The ATK of \"Magician Girl\" monsters you control is increased by 100 for each \"Magician Girl\" monster you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191458.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 141191576,
+  "name": "Demon's Resonance (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 \"Resonator\" monster from your hand to the Deck, add 1 Level 4 or lower monster from your Deck to your hand. During this turn, you cannot use the effects of cards you have added to your hand with this Skill or cards with the same name. This Skill can only be used once per turn and twice per Duel if you begin the Duel with a Deck that follows the conditions below:\n\u25cf Your Deck contains at least 8 \"Resonator\" cards and does not contain any monsters other than Dragon-Type or Fiend-Type monsters.\n\u25cf Your Extra Deck contains \"Red Dragon Archfiend\" and \"Red Nova Dragon\" and does not contain any monsters other than DARK Dragon-Type Synchro Monsters or Fiend-Type Synchro Monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191576.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

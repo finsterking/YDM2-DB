@@ -1,0 +1,12 @@
+{
+  "id": 131191434,
+  "name": "Hero Flash!! (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once every 2 of your turns, at the beginning of the turn, add to your hand 1 of the following cards (in the order listed below) from outside of your Deck: \u25cf 2nd Turn: \"H - Heated Heart\" \u25cf 4th Turn: \"E - Emergency Call\" \u25cf 6th Turn: \"R - Righteous Justice\" \u25cf 8th Turn: \"O - Oversoul\" \u25cf 10th Turn: \"Hero Flash!!\" This Skill will only activate if you Duel using a Deck that has 4 or more \"HERO\" Normal Monsters in your Deck and it contains no monsters other than \"HERO\" monsters. (Extra Deck does not count.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191434.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

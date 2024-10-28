@@ -1,0 +1,12 @@
+{
+  "id": 131191806,
+  "name": "Emptiness Transforms into the Infinite!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 1 \"Sephylon, the Ultimate Timelord\" to your Deck.\nIn addition, the following effect can be used once per turn and twice per Duel. Send up to 2 cards from your hand to the Graveyard, and send up to the same number of random Level 10 Fairy-Type monsters to the Graveyard from the Deck.\nThis Skill can only be used if you begin the Duel with a Deck (excluding Extra Deck) that contains no monsters other than Level 10 monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191806.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

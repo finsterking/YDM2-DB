@@ -1,0 +1,21 @@
+{
+  "id": 100000141,
+  "name": "Dark Tuner Doom Submarine",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control no monsters: You can Special Summon this card from your Graveyard. You can only use this effect of \"Dark Tuner Doom Submarine\" once per Duel. Cannot be used as a Synchro Material, except for the Synchro Summon of a Dark Synchro Monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100000141.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 300,
+  "level": 9,
+  "is_tuner": true
+}

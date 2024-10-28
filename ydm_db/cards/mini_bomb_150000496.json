@@ -1,0 +1,12 @@
+{
+  "id": 150000496,
+  "name": "Mini Bomb",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Inflict 100 points of damage on your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000496.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

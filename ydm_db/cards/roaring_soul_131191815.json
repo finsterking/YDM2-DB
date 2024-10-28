@@ -1,0 +1,12 @@
+{
+  "id": 131191815,
+  "name": "Roaring Soul",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Skill can only be used once per Duel by sending 1 Fiend-Type monster from your hand to your Graveyard. Send 1 \"Resonator\" monster or 1 Level 4 DARK Fiend-Type monster from your Deck to your Graveyard. Then, add 1 Level 4 FIRE Fiend-Type monster to your hand. You cannot Special Summon monsters during this Duel, except for Synchro Monsters, Tuner monsters, and Special Summoning from the hand.\nYou can also use each of the following effects once per Duel, and max. one effect per turn.\n\u25cf If you control \"Red Dragon Archfiend\", return 1 Fiend-Type monster on your field and 1 in your hand to your Deck. Then, Set 1 \"Red Reign\" to your field from your Deck.\n\u25cf During this turn, Defense Position \"Resonator\" monsters you control cannot be destroyed by card effects.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191815.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

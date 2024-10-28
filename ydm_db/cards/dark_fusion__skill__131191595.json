@@ -1,0 +1,12 @@
+{
+  "id": 131191595,
+  "name": "Dark Fusion (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Change 1 \"Polymerization\" in your hand to \"Dark Fusion\". This Skill can only be used if you begin the Duel with an Extra Deck that contains no monsters other than \"Elemental HERO\" or \"Evil HERO\" monsters. This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191595.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

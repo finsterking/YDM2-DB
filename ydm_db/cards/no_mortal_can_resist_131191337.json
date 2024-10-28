@@ -1,0 +1,12 @@
+{
+  "id": 131191337,
+  "name": "No Mortal Can Resist",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life points are at least 2000 less than your opponent. Change all monsters in your opponent's Graveyard to \"Skull Servant\" (Zombie-Type, Dark, Level 1, 300 ATK/200 DEF). This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191337.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

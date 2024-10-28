@@ -1,0 +1,21 @@
+{
+  "id": 100000145,
+  "name": "Dark Tuner Dark Goddess Witaka",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by paying 1000 LP. Once per turn: You can target 1 Synchro Monster you control; this card's Level becomes that monster's Level. Cannot be used as a Synchro Material, except for the Synchro Summon of a Dark Synchro Monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100000145.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
+  "is_tuner": true
+}

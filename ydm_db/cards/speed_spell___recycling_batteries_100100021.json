@@ -1,0 +1,12 @@
+{
+  "id": 100100021,
+  "name": "Speed Spell - Recycling Batteries",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Add 2 Thunder-Type monsters with 1500 or less ATK from your Graveyard to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100021.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

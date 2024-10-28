@@ -1,0 +1,12 @@
+{
+  "id": 131191389,
+  "name": "Born from the Earth",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you control a \"Dark Magician\" and your Life Points are at 2000 or below. Place 1 \"Metamorphortress\" face-down on your side of the field. If your opponent controls a Dragon-Type monster with 3000 ATK or more, you can use this Skill regardless of your Life Points. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191389.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

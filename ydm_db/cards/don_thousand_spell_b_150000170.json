@@ -1,0 +1,12 @@
+{
+  "id": 150000170,
+  "name": "Don Thousand/Spell B",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Special Summon 1 \"Number 1 Token\", \"Number 2 Token\" , \"Number 3 Token\" and \"Number 4 Token\" (ATK 2000/DEF 0). These Tokens gain this effect.\n\u25cf At the end of the Damage Step, when this card battles, double the ATK of all \"Number\" Token Monsters you currently control.\n\n-I activate \"Numeron Calling\"!-",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000170.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

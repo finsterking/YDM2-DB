@@ -1,0 +1,12 @@
+{
+  "id": 131191589,
+  "name": "Gimmick Puppet - Gear Changer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Reveal 1 \"Gimmick Puppet Gear Changer\" in your hand and change the Level of a \"Gimmick Puppet\" monster on your field to either 4 or 8.\nThis Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191589.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

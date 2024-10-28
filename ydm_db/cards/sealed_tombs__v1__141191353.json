@@ -1,0 +1,12 @@
+{
+  "id": 141191353,
+  "name": "Sealed Tombs (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Until the end of the opponent's next turn, neither you nor the opponent can Special Summon monsters from the Graveyard. This skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191353.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

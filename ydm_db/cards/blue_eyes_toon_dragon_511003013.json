@@ -1,0 +1,21 @@
+{
+  "id": 511003013,
+  "name": "Blue-Eyes Toon Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control a \"Toon World\". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 2). Cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. Can attack directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511003013.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "ability": "Toon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

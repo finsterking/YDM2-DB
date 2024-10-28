@@ -1,11 +1,11 @@
 {
-  "id": 511000868,
+  "id": 43586926,
   "name": "Twin-Headed Behemoth",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "During the End Phase, if this card was destroyed on the field and sent to the Graveyard this turn: Special Summon it from the Graveyard, and if you do, its ATK/DEF become 1000. You can only use the effect of each \"Twin-Headed Behemoth\" once per Duel.",
+  "is_custom": false,
+  "text": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511000868.jpg"
+    "https://images.ygoprodeck.com/images/cards/43586926.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",

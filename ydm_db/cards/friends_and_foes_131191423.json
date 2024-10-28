@@ -1,0 +1,12 @@
+{
+  "id": 131191423,
+  "name": "Friends and Foes",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when you control a monster whose original name is one of the following: \u25cf \"Red-Eyes Black Dragon\" \u25cf \"Jinzo\" \u25cf \"The Legendary Fisherman\" Increase the ATK of these monsters by 300 times the number of them you control. This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191423.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

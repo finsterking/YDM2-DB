@@ -1,0 +1,12 @@
+{
+  "id": 150000070,
+  "name": "Darkness/Trap D",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Activate only by the effect of \"Darkness/Trap B\". When this card is activated: 1 monster you control gains 4000 ATK. Each time another \"Darkness\" Continuous Trap is activated, 1 monster you control gains 4000 ATK.\n\n-I activate \"Darkness 2\"!-",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000070.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191795,
+  "name": "Hand Reloading",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points are at 2000 or below. Select any number of the following monsters in your hand or Graveyard and return them to the Deck. Then add cards to your hand from the top of your Deck equal to the number of cards that you returned.\n\u25cf \"Magic Hand\"\n\u25cf \"Fire Hand\"\n\u25cf \"Ice Hand\"\n\u25cf \"Prominence Hand\"\n\u25cf \"Number 106: Giant Hand\"\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191795.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

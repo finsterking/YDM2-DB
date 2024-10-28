@@ -1,11 +1,11 @@
 {
-  "id": 504700106,
+  "id": 64631466,
   "name": "Relinquished",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "Select 1 monster on your opponent's side of the field and equip it to this card (this effect can only be used once per turn and you can only equip 1 monster at a time to this card). The ATK and DEF of this card become the same amounts as the monster equipped to this card. If this card is destroyed as a result of battle, the equipped monster is destroyed instead, and any battle damage you received from the battle is also inflicted to your opponent's Life Points.",
+  "is_custom": false,
+  "text": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/504700106.jpg"
+    "https://images.ygoprodeck.com/images/cards/64631466.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

@@ -1,0 +1,12 @@
+{
+  "id": 131191391,
+  "name": "Cheer Up Fairies",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points are at 3000 or below. Place 1 \"Fairy Cheer Girl\" from your Extra Deck on top of 1 \"Little Fairy\" you control. (This will be treated as an Xyz Summon.) This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191391.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191617,
+  "name": "Extra Balloons",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once per turn. Select 1 \"Wonder Balloons\" without Balloon Counters and place 1 Balloon Counter on it. If you begin the Duel with a Deck that contains no monsters other than \"Performapal\" monsters, \"Magician\" Pendulum Monsters, or \"Odd-Eyes\" monsters, place 1 face-up \"Wonder Balloons\" to your Spell & Trap Zone at the beginning of the Duel from outside of your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191617.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

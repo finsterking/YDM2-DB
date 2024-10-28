@@ -1,0 +1,12 @@
+{
+  "id": 511000821,
+  "name": "Temple of the Kings",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can activate Trap Cards the turn they are Set. If you control \"Mystical Beast of Serket\" and this card: you can send both to the Graveyard; Special Summon 1 monster from your hand, Deck or Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511000821.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191721,
+  "name": "Geological Survey",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Look at up to 3 cards from the top of your Deck, then place them on the top of the Deck in the same order.\nThis Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191721.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

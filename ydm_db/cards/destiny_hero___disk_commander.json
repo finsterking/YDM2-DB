@@ -1,11 +1,11 @@
 {
-  "id": 511003116,
+  "id": 56570271,
   "name": "Destiny HERO - Disk Commander",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "If this card is Special Summoned from the Graveyard: Draw 2 cards.",
+  "is_custom": false,
+  "text": "Cannot be Special Summoned from the GY the turn this card was sent to the GY. If this card is Special Summoned from the GY: You can draw 2 cards. You can only use this effect of \"Destiny HERO - Disk Commander\" once per Duel.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511003116.jpg"
+    "https://images.ygoprodeck.com/images/cards/56570271.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

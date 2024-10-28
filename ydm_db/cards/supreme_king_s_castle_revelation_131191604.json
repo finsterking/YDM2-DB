@@ -1,0 +1,12 @@
+{
+  "id": 131191604,
+  "name": "Supreme King's Castle Revelation",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used by revealing 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card in your hand when you have a no Field Spell on your field. Play \"Supreme King's Castle\" from outside of your Deck. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191604.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

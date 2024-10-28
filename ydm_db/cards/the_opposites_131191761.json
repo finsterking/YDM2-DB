@@ -1,0 +1,12 @@
+{
+  "id": 131191761,
+  "name": "The Opposites",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select 1 of your Level 7 or higher Dragon-Type monsters that is banished or in your Graveyard, and 1 card that has the same Level, ATK and DEF and a different card name. Add 1 of them to your hand, and return the other to the bottom of your Deck/Extra Deck. Then, return 1 card from your hand to the bottom of your Deck.\nThis skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191761.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

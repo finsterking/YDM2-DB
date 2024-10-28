@@ -1,0 +1,12 @@
+{
+  "id": 131191836,
+  "name": "Salamandra & Phoenix",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Normal Summon or Set \"Immortal Phoenix Gearfried\" and \"Phoenix Gearfried\" with 1 less Tribute during this Duel.\nThe following effect can be used once per Duel by revealing 1 \"Immortal Phoenix Gearfried\" from your hand. Set 1 \"Salamandra\" from outside your Deck, and send 1 \"Legendary Sword\" from outside your Deck to the Graveyard.\nThis Skill can be used/applied if you begin the Duel with a Deck (excluding Extra Deck) that contains at least 10 FIRE Warrior-Type monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191836.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

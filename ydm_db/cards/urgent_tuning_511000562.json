@@ -1,0 +1,12 @@
+{
+  "id": 511000562,
+  "name": "Urgent Tuning",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During the Battle Phase: Synchro Summon 1 Synchro Monster using monsters you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511000562.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

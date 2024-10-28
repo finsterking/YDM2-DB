@@ -1,0 +1,12 @@
+{
+  "id": 100100083,
+  "name": "Speed Spell - Cards of Consonance",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 3 or more Speed Counters: Discard 1 Dragon-Type Tuner monster with 1000 or less ATK; draw 2 cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100083.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

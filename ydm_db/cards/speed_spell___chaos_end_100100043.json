@@ -1,0 +1,12 @@
+{
+  "id": 100100043,
+  "name": "Speed Spell - Chaos End",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters and if you have 7 or more banished cards: Destroy all monsters on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100043.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

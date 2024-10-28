@@ -1,0 +1,12 @@
+{
+  "id": 141191653,
+  "name": "Contract Procrastination (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used at the beginning of your turn if you have 1 or more \"Dark Contract\" cards on your field. Skip the Standby Phase of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191653.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

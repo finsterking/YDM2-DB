@@ -1,0 +1,12 @@
+{
+  "id": 131192006,
+  "name": "Bloom of Avarice",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Skill's effect can be used once per turn and twice per Duel.\n1: During your Main Phase, shuffle 3 Plant monsters from your Graveyard into the Deck. Then, draw 1 card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192006.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

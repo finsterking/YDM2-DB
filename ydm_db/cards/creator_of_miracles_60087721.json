@@ -1,0 +1,21 @@
+{
+  "id": 60087721,
+  "name": "Creator of Miracles",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can shout \"ZEXAL Field!\", then target 1 \"Number C39\" Xyz Monster you control; this turn, it can attack your opponent directly. If you have activated the effects of \"Creator of Hope\" and \"Winning Formula\" previously this Duel, add this additional effect during that direct attack.\n\u25cf This turn, if it inflicts battle damage to your opponent, you win the Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60087721.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

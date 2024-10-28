@@ -1,0 +1,12 @@
+{
+  "id": 131191417,
+  "name": "Field Restock",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you have 3 or more Field Spell Cards in your Graveyard. Randomly add 1 Field Spell Card in your Graveyard to your hand, and return all other Field Spell Cards in your Graveyard to your Deck. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191417.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

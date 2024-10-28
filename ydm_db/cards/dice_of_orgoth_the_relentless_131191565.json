@@ -1,0 +1,12 @@
+{
+  "id": 131191565,
+  "name": "Dice of Orgoth the Relentless",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 1 \"Orgoth the Relentles\" to your Deck. Can be used once, on the turn you Summon \"Orgoth the Relentless\". For this turn only, your first dice roll will be a 6.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191565.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

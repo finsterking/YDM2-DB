@@ -1,0 +1,12 @@
+{
+  "id": 100100033,
+  "name": "Speed Spell - Swing of Memories",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters: Special Summon 1 Normal monster from your Graveyard, but destroy it during the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100033.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

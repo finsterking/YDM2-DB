@@ -1,0 +1,12 @@
+{
+  "id": 131191860,
+  "name": "Unified Classes",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used by declaring a Level between 3 and 5. The Level of monsters on your field whose original name includes \"Battlin' Boxer\" becomes the declared Level.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191860.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

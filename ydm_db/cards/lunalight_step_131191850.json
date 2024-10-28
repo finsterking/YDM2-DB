@@ -1,0 +1,12 @@
+{
+  "id": 131191850,
+  "name": "Lunalight Step",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be activated during your next turn after your \"Lunalight\" Fusion Monster attacks. Change the battle positions of all of your opponent's monsters, and halve their ATK/DEF until the end of the turn. You can only attack with \"Lunalight\" Fusion Monsters during this turn.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191850.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

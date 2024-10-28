@@ -1,0 +1,12 @@
+{
+  "id": 131191619,
+  "name": "Odd-Eyes Evolution",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once per turn by revealing 1 Pendulum Monster Card in your hand while you have no cards in your Pendulum Zones. Change 1 monster whose original name is \"Odd-Eyes Dragon\" to \"Odd-Eyes Pendulum Dragon\". In addition, add a Pendulum Zone to your field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191619.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

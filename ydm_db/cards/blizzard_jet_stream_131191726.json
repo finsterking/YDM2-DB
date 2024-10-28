@@ -1,0 +1,12 @@
+{
+  "id": 131191726,
+  "name": "Blizzard Jet Stream",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select 1 WATER Winged Beast-Type monster you control. The selected monster gains 1500 ATK until the end of the turn. During this turn, battle damage to your opponent from any battles involving the monster becomes 0.\nThis Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191726.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

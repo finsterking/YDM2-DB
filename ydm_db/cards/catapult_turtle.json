@@ -1,11 +1,11 @@
 {
-  "id": 511000228,
+  "id": 95727991,
   "name": "Catapult Turtle",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "You can Tribute 1 monster; inflict damage to your opponent equal to half the Tributed monster's ATK on the field.",
+  "is_custom": false,
+  "text": "Once per turn: You can Tribute 1 monster; inflict damage to your opponent equal to half the Tributed monster's ATK on the field.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511000228.jpg"
+    "https://images.ygoprodeck.com/images/cards/95727991.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",

@@ -1,0 +1,12 @@
+{
+  "id": 131191536,
+  "name": "Shark's Revenge",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points are lower than your opponent's. Increase the ATK of Rank 4 or lower WATER Sea Serpent-Type Xyz Monster by 1500 per three Xyz Materials until the end of the turn. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191536.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

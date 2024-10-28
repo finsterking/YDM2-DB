@@ -1,0 +1,12 @@
+{
+  "id": 131191593,
+  "name": "Overlay Regeneration",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Place 1 Spell Card in your hand underneath 1 Xyz Monster you control to make it an Xyz Material. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191593.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

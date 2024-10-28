@@ -1,0 +1,21 @@
+{
+  "id": 170000174,
+  "name": "Mirror Knight Calling",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with \"Orichalcos Mirror\". When this card is Ritual Summoned: Special Summon 4 \"Mirror Knight Tokens\" (Warrior-Type/DARK/Level 1/ATK 0/DEF 0), then place 1 Shield Counter on each (max. 1). Once per turn: You can place 1 Shield Counter on every \"Mirror Knight Token\" you control without a Shield Counter (max. 1). When a \"Mirror Knight Token\" with a Shield Counter battles an opponent's monster: Its ATK becomes equal to that monster's ATK until the end of the Damage Step. If a \"Mirror Knight Token\" with a Shield Counter would be destroyed, remove its Shield Counter instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/170000174.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Ritual",
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
+}

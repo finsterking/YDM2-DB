@@ -1,0 +1,12 @@
+{
+  "id": 131191555,
+  "name": "Number Hunt",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can only be used on your 4th turn at the beggining of the Main Phase. Remove 1 random \"Number\" monster in your opponet's Extra Deck and add 1 card with the same name to your Extra Deck. Then, you lose Life Points equal to its Number x 30.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191555.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

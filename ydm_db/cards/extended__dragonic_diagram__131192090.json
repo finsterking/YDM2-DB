@@ -1,0 +1,12 @@
+{
+  "id": 131192090,
+  "name": "Extended \"Dragonic Diagram\"",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can use this Skill if your Deck (excluding the Extra Deck) contains 15 or more \"True Draco\" and/or \"True King\" cards and no Field Spell Cards.\n1: At the beginning of the Duel, add 3 \"Dragonic Diagram\" to your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192090.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

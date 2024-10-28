@@ -1,0 +1,12 @@
+{
+  "id": 131191830,
+  "name": "Speedroid Dice Battle",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can use the following effects twice per Duel, and only one effect per turn. You cannot Special Summon any monsters except Synchro Monsters during the turn you activate this Skill.\n\u25cf Reveal 1 \"Speedroid Red-Eyed Dice\" or 1 \"Speedroid Tri-Eyed Dice\" from your hand, and then roll a die one time. If the result is lower than or equal to the original Level of the monster you revealed, send 1 \"Speedroid\" monster in your Deck to your Graveyard.\n\u25cf Send 1 \"Speedroid Red-Eyed Dice\" or \"Speedroid Tri-Eyed Dice\" from your hand to the Graveyard, and then roll a die one time. If the result is lower than or equal to the original Level of the monster you sent to the Graveyard, Set 1 \"Re-dyce-cle\" or \"Dice Roll Battle\" from outside of your Deck to your field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191830.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

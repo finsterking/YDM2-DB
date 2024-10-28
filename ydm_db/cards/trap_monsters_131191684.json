@@ -1,0 +1,12 @@
+{
+  "id": 131191684,
+  "name": "Trap Monsters",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The ATK/DEF of Trap Cards on your field that are treated as monsters increases by 300.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191684.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

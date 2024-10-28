@@ -1,0 +1,12 @@
+{
+  "id": 131191561,
+  "name": "T.G. Booster",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The ATK and DEF of all \"T.G.\" monsters you control are increased by 50 multiplied by the monster's Level.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191561.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

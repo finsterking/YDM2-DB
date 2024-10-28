@@ -1,0 +1,12 @@
+{
+  "id": 131191911,
+  "name": "Altergeist Booster",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During your turn, the ATK of \"Altergeist\" monsters on your field is increased by 50 for each \"Altergeist\" Trap Card in your Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191911.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

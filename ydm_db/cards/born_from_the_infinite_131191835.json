@@ -1,0 +1,12 @@
+{
+  "id": 131191835,
+  "name": "Born from the Infinite",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Send 1 \"Timelord\" monster to the Graveyard from your hand. Then, you can add 1 \"Timelord\" monster with the same Attribute that is different from the monsters in your Graveyard from the Deck to your hand.\nThis Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191835.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 141191373,
+  "name": "Where the Heroes Dwell (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used after your Life Points are at 2000 or below. Play the Field Spell \"Skyscraper\". If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191373.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191672,
+  "name": "Meklord Convert",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn, one of the following effects can be used. Each effect can only be used once per Duel.\n\u25cf Reveal \"Meklord Astro Mekanikle\" in your hand, return 2 \"Meklord\" monsters on your field to your hand, and send 1 \"Meklord Deflection\" to your Graveyard from the outside of your Deck.\n\u25cf Return 2 \"Meklord\" monsters from your Graveyard to your Deck. Then, you can add 1 Meklord Astro Mekanikle to your hand from your Deck. This Skill can only be used if you begin the Duel with a Deck that contains 12 or more monsters and no monsters other than \"Meklord\" monsters. (Extra Deck does not count.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191672.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

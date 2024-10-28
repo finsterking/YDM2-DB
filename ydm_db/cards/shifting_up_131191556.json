@@ -1,0 +1,12 @@
+{
+  "id": 131191556,
+  "name": "Shifting Up",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once per turn when you control 3 LIGHT monsters. Until the end of this turn, the Levels of all monsters you control become equal to the Level of the monster with the highest Level on your side of the field. This Skill can only be used if you begin the Duel with an Extra Deck that contains no monsters other than Xyz Monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191556.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

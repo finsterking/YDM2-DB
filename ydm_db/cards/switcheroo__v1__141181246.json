@@ -1,0 +1,12 @@
+{
+  "id": 141181246,
+  "name": "Switcheroo (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 1 card in your hand to your Deck and draw another. This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141181246.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

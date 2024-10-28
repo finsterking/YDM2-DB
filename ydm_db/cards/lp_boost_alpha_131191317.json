@@ -1,0 +1,12 @@
+{
+  "id": 131191317,
+  "name": "LP Boost Alpha",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Increases starting Life Points by 1000.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191317.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

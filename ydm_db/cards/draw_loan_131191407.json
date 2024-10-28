@@ -1,0 +1,12 @@
+{
+  "id": 131191407,
+  "name": "Draw Loan",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Add 1 \"Lucky Loan\" from your Deck to your hand. You cannot conduct your normal Draw on your next turn. You can only use this Skill once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191407.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

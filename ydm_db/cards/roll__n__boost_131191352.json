@@ -1,0 +1,12 @@
+{
+  "id": 131191352,
+  "name": "Roll 'n' Boost",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 2000. Show 1 monster card in your hand to the opponent and roll the die once. The Level of the monster shown becomes that of the die number until the end of the turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191352.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

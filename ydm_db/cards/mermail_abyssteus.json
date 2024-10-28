@@ -1,11 +1,11 @@
 {
-  "id": 511003071,
+  "id": 22446869,
   "name": "Mermail Abyssteus",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "You can discard 1 other WATER monster to the Graveyard; Special Summon this card from your hand. When you do: Add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
+  "is_custom": false,
+  "text": "You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. When Summoned this way: You can add 1 Level 4 or lower \"Mermail\" monster from your Deck to your hand. You can only use this effect of \"Mermail Abyssteus\" once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511003071.jpg"
+    "https://images.ygoprodeck.com/images/cards/22446869.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",

@@ -1,0 +1,12 @@
+{
+  "id": 100100123,
+  "name": "Speed Spell - High Speed Crash",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Target 1 card you control and 1 other card on the field; destroy them.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100123.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

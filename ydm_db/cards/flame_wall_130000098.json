@@ -1,0 +1,12 @@
+{
+  "id": 130000098,
+  "name": "Flame Wall",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If there is a Pyro-Type monster in your Graveyard, you take no damage from your opponent's card effects",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000098.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

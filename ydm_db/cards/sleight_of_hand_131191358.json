@@ -1,0 +1,12 @@
+{
+  "id": 131191358,
+  "name": "Sleight of Hand",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 1500. Add 1 \"7 Completed\" card, hidden in your wristband, to your hand. This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191358.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

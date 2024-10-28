@@ -1,0 +1,12 @@
+{
+  "id": 131191426,
+  "name": "Future Visions (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used after your Life Points decrease by 1500. Play 1 \"Future Visions\" from outside of your Deck. This Skill will only activate if you begin the Duel with a Deck that has 5 or more \"Fortune Lady\" monsters with different names. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191426.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

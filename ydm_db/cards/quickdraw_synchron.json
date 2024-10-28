@@ -1,11 +1,11 @@
 {
-  "id": 20932172,
+  "id": 20932152,
   "name": "Quickdraw Synchron",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "You can send 1 monster from your hand to the Graveyard and Special Summon this card from your hand. You can substitute this card for any 1 \"Synchron\" Tuner monster for a Synchro Summon. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a monster that lists a \"Synchron\" monster as a Tuner monster.",
+  "is_custom": false,
+  "text": "You can Special Summon this card (from your hand) by sending 1 monster from your hand to the GY. For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner. Cannot be used as a Synchro Material, except for the Synchro Summon of a monster that mentions a \"Synchron\" Tuner as material.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/20932172.jpg"
+    "https://images.ygoprodeck.com/images/cards/20932152.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",

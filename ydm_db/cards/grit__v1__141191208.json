@@ -1,0 +1,12 @@
+{
+  "id": 141191208,
+  "name": "Grit (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you had 4000 or more Life Points at the start of that turn, your Life Points will not fall below 1 for one time only. This Skill will only activate once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191208.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

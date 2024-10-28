@@ -1,0 +1,12 @@
+{
+  "id": 150001740,
+  "name": "Space Debris",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a opponent's monster destroyed: Target 1 of those destroyed monsters; inflict damage to your opponent equal to its original DEF. ",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001740.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

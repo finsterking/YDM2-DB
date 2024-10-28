@@ -1,0 +1,12 @@
+{
+  "id": 131191910,
+  "name": "Altergeist Trade",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used before your normal draw each time your Life Points decrease by 1000. Return 1 \"Altergeist\" Continuous Trap Card on your field to the Deck. One of the cards from your normal draw this turn will be a random \"Altergeist\" monster from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191910.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

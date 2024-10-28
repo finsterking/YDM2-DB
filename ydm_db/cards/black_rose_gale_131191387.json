@@ -1,0 +1,12 @@
+{
+  "id": 131191387,
+  "name": "Black Rose Gale",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used the turn you Special Summoned \"Black Rose Dragon\" while you control \"Black Rose Dragon\". Destroy all cards on the field. This Skill will not activate if you begin the Duel with a Deck/Extra Deck that contains monsters other than Plant-Type monsters or \"Rose Dragon\" monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191387.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

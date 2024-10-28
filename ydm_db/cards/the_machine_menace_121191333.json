@@ -1,0 +1,12 @@
+{
+  "id": 121191333,
+  "name": "The Machine Menace",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nOnce per Duel, if your opponent controls a face-up Trap, Tribute Machine or Psychic monster you control, then Special Summon \"Jinzo\" from your hand or GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191333.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

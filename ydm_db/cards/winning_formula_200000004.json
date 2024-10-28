@@ -1,0 +1,12 @@
+{
+  "id": 200000004,
+  "name": "Winning Formula",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If only your opponent controls a monster: Shout \"The Winning Formula is complete!\"; Special Summon 1 \"Number\" monster from your Extra Deck, except a \"Number C\" monster, then attach this card to it as an Xyz Material.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/200000004.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

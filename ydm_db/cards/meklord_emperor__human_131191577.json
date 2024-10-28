@@ -1,0 +1,12 @@
+{
+  "id": 131191577,
+  "name": "Meklord Emperor: Human",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 1 \"Meklord Emperor Wisel\" to your Deck.\nIn addition, if your Life Points are at 2500 or lower, you can place 1 \"Spark Breaker\" face-up on your field from outside of your Deck. (This effect can only be used once).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191577.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

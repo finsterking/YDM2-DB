@@ -1,0 +1,12 @@
+{
+  "id": 130000019,
+  "name": "Dimension Equilibrium",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a Beast-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Target that monster; Special Summon it, and if you do, banish the attacking monster.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000019.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

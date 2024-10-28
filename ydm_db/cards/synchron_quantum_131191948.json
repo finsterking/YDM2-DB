@@ -1,0 +1,12 @@
+{
+  "id": 131191948,
+  "name": "Synchron Quantum",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can use the following effects once per turn. You can only Special Summon LIGHT/DARK/EARTH Cyberse monsters during the Duel you use this Skill (excluding Special Summons from your hand/Extra Deck).\n\u25cf Reveal 1 \"Cyberse Synchron\" in your hand, add 1 Level 3 or Level 4 LIGHT Cyberse monster with 800 DEF or less to your hand, and send 1 card in your hand to the Graveyard.\n\u25cf Set 1 \"Cyberse Synchron\" onto your field from your hand. Then, you can return up to 2 Cyberse monsters to your Deck that are banished or are in your Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191948.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

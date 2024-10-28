@@ -1,0 +1,20 @@
+{
+  "id": 130000099,
+  "name": "Playmaker",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 Level 5 monsters\nIf this card is Special Summoned: Change all face-down Defense Position monsters on the field to face-up Attack Position. (Flip Effects are not activated.) At the end of the Damage Step, if this card attacks a monster: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls with the highest ATK (your choice, if tied); this card can make a second attack in a row against that target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000099.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2600,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
+  "def": 2500,
+  "rank": 5
+}

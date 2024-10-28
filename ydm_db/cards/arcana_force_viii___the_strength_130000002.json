@@ -1,0 +1,21 @@
+{
+  "id": 130000002,
+  "name": "Arcana Force VIII - The Strength",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Summoned: Toss a coin and gain the appropriate effect.\n\u25cfHeads: Take control of 1 monster your opponent controls.\n\u25cfTails: Your opponent takes control of 1 monster you control, except this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000002.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
+}

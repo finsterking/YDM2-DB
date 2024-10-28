@@ -1,0 +1,21 @@
+{
+  "id": 10875327,
+  "name": "Earthbound Immortal Aslla piscu",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Neither player can Summon \"Earthbound Immortal\" monsters. Once per turn, during the End Phase, if there is no face-up Field Spell on the field, destroy this card. If there is no face-up Field Spell, these effects are negated.\n\u25cf This card can attack directly.\n\u25cf Unaffected by your opponent's Spell/Trap effects.\n\u25cf Your opponent's monsters cannot target this card for an attack, but can attack directly if this is the only monster you control.\n\u25cf If this card leaves the field, except by its own effect: Destroy all monsters your opponent controls, then, inflict 800 damage to your opponent for each monster that was destroyed by this effect.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10875327.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Winged\u00a0Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

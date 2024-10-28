@@ -1,0 +1,12 @@
+{
+  "id": 121191283,
+  "name": "Energizing Elements",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nYou can declare FIRE, WATER, EARTH, or WIND. This turn, monsters with the declared Attribute gain 500 ATK and lose 400 DEF, also any battle damage they inflict is halved. If you control no monsters with the declared Attribute, flip this card over.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191283.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

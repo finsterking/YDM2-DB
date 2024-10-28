@@ -1,11 +1,11 @@
 {
-  "id": 511002991,
+  "id": 10248389,
   "name": "Cyber Blader",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "\"Etoile Cyber\" + \"Blader Skater\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. Apply these effects, depending on the number of monsters your opponent controls; \u25cf 1: Cannot be destroyed by battle. \u25cf 2: Double this card's ATK. \u25cf 3: Negate all cards and effects your opponent controls.",
+  "is_custom": false,
+  "text": "\"Etoile Cyber\" + \"Blade Skater\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. This card gains the following effect, based on the number of monsters your opponent controls.\n\u25cf 1: Cannot be destroyed by battle.\n\u25cf 2: This card's ATK is doubled.\n\u25cf 3: Your opponent's activated card effects are negated.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511002991.jpg"
+    "https://images.ygoprodeck.com/images/cards/10248389.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

@@ -1,0 +1,12 @@
+{
+  "id": 100100073,
+  "name": "Speed Spell - Cold Wave",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the start of your Main Phase 1, if you have 6 or more Speed Counters: Remove 3 of your Speed Counters; Until the end of your opponent's turn, neither player can set or activate Spell/Trap Cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100073.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

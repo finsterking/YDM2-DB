@@ -1,0 +1,12 @@
+{
+  "id": 100100118,
+  "name": "Speed Spell - Dash Pilfer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you have 4 or more Speed Counters: Take control of 1 face-up Defense Position monster your opponent controls, until the End Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100118.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

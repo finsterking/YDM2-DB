@@ -1,0 +1,12 @@
+{
+  "id": 141191485,
+  "name": "Onomatoplay (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Return 2 \"Zubaba\", \"Gagaga\", \"Gogogo\" or \"Dododo\" cards with different names from your hand to the Deck and add 2 \"Zubaba\", \"Gagaga\", \"Gogogo\" or \"Dododo\" monsters with different names to your hand from the Deck. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191485.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

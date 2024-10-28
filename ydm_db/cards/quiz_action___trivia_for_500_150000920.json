@@ -1,0 +1,12 @@
+{
+  "id": 150000920,
+  "name": "Quiz Action - Trivia for 500",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Answer the following question. Apply the appropriate effect, based on the answer. \n(Question: What is the game where you lose by laughing?)\n\u25cf Correct answer: Gain 500 LP.\n\u25cf Incorrect answer: You take 500 damage.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000920.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

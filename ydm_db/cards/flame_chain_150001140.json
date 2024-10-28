@@ -1,0 +1,12 @@
+{
+  "id": 150001140,
+  "name": "Flame Chain",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster your opponent controls; it loses 400 ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001140.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

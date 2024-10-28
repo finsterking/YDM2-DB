@@ -1,0 +1,12 @@
+{
+  "id": 141191307,
+  "name": "Harpies' Last Will (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "6 \"Harpie\" cards in your Graveyard are banished, and 1 \"Harpie's Feather Duster\" card is added to your hand from outside your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191307.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

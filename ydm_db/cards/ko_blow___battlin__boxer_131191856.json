@@ -1,0 +1,12 @@
+{
+  "id": 131191856,
+  "name": "KO Blow - Battlin' Boxer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select 1 Xyz Monster whose original name includes \"Battlin' Boxer\" on your field. During this turn, when this monster's attack destroys your opponent's monster, damage your opponent equal to half the destroyed monster's original ATK.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191856.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

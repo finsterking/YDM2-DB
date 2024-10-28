@@ -1,0 +1,12 @@
+{
+  "id": 131191388,
+  "name": "Blackwing Rising",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Until the end of the turn, 1 \"Black-Winged Dragon\" or \"Blackwing\" Synchro Monster on your side of the field will gain 200 ATK times the number of \"Blackwing\" monsters on your side of the field. This Skill can only be used once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191388.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 121191266,
+  "name": "I'm Just Gonna Attack!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nOnce per Duel, during your Main Phase, you can make 1 monster you control gain 100 ATK until the end of this turn, also, during the Battle Phase this turn, negate your opponent's first Trap Card or effect that resolves, and Set it instead of sending it to the GY.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191266.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

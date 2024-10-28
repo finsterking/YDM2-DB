@@ -1,0 +1,12 @@
+{
+  "id": 131191401,
+  "name": "Decoy Tactics",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 1500. Play 1 \"Decoy Dragon\" from outside your Deck in Defense Position. You cannot Special Summon any other monsters during the turn you activate this Skill. This Skill will only activate if you begin the Duel with a Deck that has 5 or more Dragon-Type monsters with different names. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191401.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

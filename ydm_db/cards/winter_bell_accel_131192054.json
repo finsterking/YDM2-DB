@@ -1,0 +1,12 @@
+{
+  "id": 131192054,
+  "name": "Winter Bell Accel",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use this Skill's second, third, and fourth effects once per Duel.\n1: You cannot Normal or Special Summon (excluding Special Summons from the Extra Deck) any monsters, except \"Windwitch\" monsters and WIND Tuners, and your opponent takes no effect damage from your effects, except the effects of \"Windwitch\" cards.\n2: Shuffle 1 \"Windwitch - Snow Bell\" or 1 \"Windwitch Chimes\" from your hand into the Deck, then add 1 \"Windwitch\" monster from your Deck to your hand.\n3: If you control a \"Windwitch\" Synchro Monster, play 1 \"Windwitch - Snow Bell\" from your Deck to your field.\n4: Shuffle 1 Tuner from your Graveyard into the Deck, then add 1 \"Windwitch\" Tuner from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192054.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

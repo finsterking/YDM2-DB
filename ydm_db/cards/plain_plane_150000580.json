@@ -1,0 +1,12 @@
+{
+  "id": 150000580,
+  "name": "Plain Plane",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can use Action Cards, but you can only have 1 Action Card in your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000580.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

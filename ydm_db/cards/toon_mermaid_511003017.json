@@ -1,0 +1,21 @@
+{
+  "id": 511003017,
+  "name": "Toon Mermaid",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Cannot be Special Summoned unless you control a \"Toon World\". Must first be Special Summoned (from your hand) by Tributing the same number of monsters needed for a Tribute Summon (normally 0). This card cannot attack the turn it is Special Summoned. You must pay 500 LP to declare an attack with this monster. If \"Toon World\" on the field is destroyed, destroy this card. This card can attack directly, unless they control a Toon Monster. If they do control one, this card must target a Toon Monster for its attacks.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511003017.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1400,
+  "species": "Aqua",
+  "ability": "Toon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

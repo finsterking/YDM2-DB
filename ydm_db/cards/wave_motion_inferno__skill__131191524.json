@@ -1,0 +1,12 @@
+{
+  "id": 131191524,
+  "name": "Wave-Motion Inferno (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you have no cards in your hand, this skill increases the ATK/DEF of all \"Infernity\" monsters you control by 400.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191524.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

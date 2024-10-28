@@ -1,0 +1,21 @@
+{
+  "id": 130000065,
+  "name": "Wisel Top 3",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Special Summon this card (from your hand) by Tributing 1 \"Wisel Top\". If there is no face-up \"Meklord Emperor\" on the field, destroy this card. Once per turn, when your opponent activates a Spell Card (Quick Effect): You can negate the activation, and if you do, destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000065.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 600,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

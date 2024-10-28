@@ -1,0 +1,12 @@
+{
+  "id": 100100001,
+  "name": "Speed Spell - One for One",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 4 of your Speed Counters and send 1 monster from your hand to the Graveyard; Special Summon 1 Level 1 monster from your hand or Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100001.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 100100522,
+  "name": "Speed Spell - Battle Tuned",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you have 2 or more Speed Counters: Banish 1 Tuner monster from your Graveyard, then target 1 face-up monster you control; it gains ATK equal to the banished monster's ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100522.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

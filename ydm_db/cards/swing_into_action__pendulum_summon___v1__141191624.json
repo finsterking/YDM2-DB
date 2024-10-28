@@ -1,0 +1,12 @@
+{
+  "id": 141191624,
+  "name": "Swing Into Action: Pendulum Summon! (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add a Pendulum Zone to your field. This Skill will only activate if you begin the Duel with a Deck that has 12 or more Pendulum Monsters (Extra Deck does not count).",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191624.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

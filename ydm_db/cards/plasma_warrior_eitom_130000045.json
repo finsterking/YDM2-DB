@@ -1,0 +1,21 @@
+{
+  "id": 130000045,
+  "name": "Plasma Warrior Eitom",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 Level 7 or higher monster. This card can attack directly, but when it does so using this effect, the battle damage inflicted to your opponent is halved.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000045.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

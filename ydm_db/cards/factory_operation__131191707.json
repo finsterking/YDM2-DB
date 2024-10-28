@@ -1,0 +1,12 @@
+{
+  "id": 131191707,
+  "name": "Factory Operation!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used before your normal draw if you have 3 or more Fusion Monsters with different names in your Graveyard.\nInstead of conducting your normal draw, play 1 face-up \"Frightfur Factory\" from outside of your Deck.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191707.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

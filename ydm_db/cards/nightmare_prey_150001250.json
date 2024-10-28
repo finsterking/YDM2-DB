@@ -1,0 +1,12 @@
+{
+  "id": 150001250,
+  "name": "Nightmare Prey",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your monster has been destroyed in battle, destroy the monster that destroyed it and inflict 700 points in damage.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001250.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

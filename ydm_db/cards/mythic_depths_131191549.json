@@ -1,0 +1,12 @@
+{
+  "id": 131191549,
+  "name": "Mythic Depths",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Begin Duel with the Field Spell \"Umi\" activated.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191549.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 150000100,
+  "name": "Pegasus/Monster B",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control a \"Pegasus/Spell A\", this card can attack directly. When this card inflicts battle damage to your opponent: Target 1 card in either Graveyard; return that target to the hand.\n\n-I Summon \"Toon Masked Sorcerer\"!-",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000100.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "???",
+  "atk": 900,
+  "species": "???",
+  "ability": "Toon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
+  "def": 1400,
+  "level": 0,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191759,
+  "name": "The Blank Card",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can only be used at the beginning of the Main Phase in your 2nd turn. Erase 1 random face-down Dragon-Type Synchro Monster in your opponent's Extra Deck, and add 1 card with the same name to your Extra Deck.\nAt the beginning of the Main Phase in your next turn, erase the card added by this effect from your Extra Deck, and add 1 card with the same name to your opponent's Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191759.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

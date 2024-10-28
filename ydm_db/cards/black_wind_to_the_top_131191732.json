@@ -1,0 +1,12 @@
+{
+  "id": 131191732,
+  "name": "Black Wind to the Top",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you begin with an Extra Deck that contains at least 3 \"Blackwing\" monsters. At the beginning of the Duel, place 1 \"Mountain\" to your field and add 1 \"Black-Winged Dragon\" to your Extra Deck, from outside of your Deck.\nIn addition, the following effect can be used once per Duel. Select 1 \"Black-Winged Dragon\" you control and place 1 Black Feather Counter to it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191732.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

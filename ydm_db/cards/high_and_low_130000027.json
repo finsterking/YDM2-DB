@@ -1,0 +1,12 @@
+{
+  "id": 130000027,
+  "name": "High and Low",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your face-up monster is targeted for an attack: Apply the following effect up to 3 times while you control that face-up attack target. \n\u25cfSend the top card of your Deck to the Graveyard, and if it is a monster, the attack target gains ATK equal to the ATK of the monster you sent to the Graveyard, but if the attack target's ATK is higher than the attacking monster's ATK, destroy the attack target.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000027.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

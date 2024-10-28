@@ -1,0 +1,12 @@
+{
+  "id": 141191765,
+  "name": "ZEXAL - Ultimate Unite (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Add 1 \"Number C39: Utopia Ray\" and 1 \"ZW - Leo Arms\" to your Extra Deck at the beginning of the Duel. The only monsters you can Special Summon from your Extra Deck during this Duel will be \"Number\" or \"ZW\" monsters.\nOnce per turn and twice per Duel, this Skill can be used by paying half your Life Points. Send 1 \"Gagaga\" monster from your field to your Graveyard, then play 1 \"Gagaga\" monster from among three possibilities from outside of your Deck to your field, and change its Level to 4.\nIn addition, if your Life Points are 2000 or below, the following effect will be applied at the beginning of your turn.\nCan be used once. If you Xyz Summon \"Ultimate Leo Utopia Ray\" during this turn, you can also Xyz Summon it by using \"Number C39: Utopia Ray\" you control as the material.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191765.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

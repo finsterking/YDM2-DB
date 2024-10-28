@@ -1,0 +1,12 @@
+{
+  "id": 131191405,
+  "name": "Dragonic Rebirth",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used on turn 4 and onward. Add a Dragon-Type monster with the same level as the number of turns that have passed from your Graveyard to your hand. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191405.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191671,
+  "name": "Meklord Astro Genesis",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you have Special Summoned 3 or more \"Meklord Emperor\" monsters. Banish 1 \"Meklord Emperor Wisel\", 1 \"Meklord Emperor Skiel\", and 1 \"Meklord Emperor Granel\" from your Graveyard and play 1 \"Meklord Astro Mekanikle\" from your Deck or hand in Attack Position. This Skill can only be used if you begin the Duel with a Deck that contains no monsters other than \"Meklord\" monsters. (Extra Deck does not count.) This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191671.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

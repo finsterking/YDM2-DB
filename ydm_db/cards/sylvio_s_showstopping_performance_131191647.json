@@ -1,0 +1,12 @@
+{
+  "id": 131191647,
+  "name": "Sylvio's Showstopping Performance",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when your Life Points decrease by 1500. This Skill can only be used once per Duel. Instead of conducting a Normal Draw, draw an \"Abyss Actor\" or \"Yosenju\" monster of your choice. In addition, add a Pendulum Zone to your field if you begin the Duel with a Deck that has 9 or more \"Abyss Actor\" Pendulum Monsters or \"Yosenju\" monsters. (Extra Deck does not count.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191647.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191266,
+  "name": "Card Shuffle (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used by paying 300 Life Points. Shuffle your Deck. This Skill can only be used once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191266.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

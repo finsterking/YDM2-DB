@@ -1,0 +1,12 @@
+{
+  "id": 131191853,
+  "name": "Waltz of the Night Light",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you have a \"Lunalight Cat Dancer\" Fusion Monster on the field. Play 1 non-Fusion \"Lunalight\" monster from your Graveyard in face-down Defense Position to your field. Then play a monster with the highest ATK from your opponent's Graveyard to their field in Attack Position (monster with ? ATK is treated as 0). During the turn you use this Skill, you cannot Special Summon any monsters except \"Lunalight\" Fusion Monsters.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191853.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

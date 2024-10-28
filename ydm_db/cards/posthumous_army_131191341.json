@@ -1,0 +1,12 @@
+{
+  "id": 131191341,
+  "name": "Posthumous Army",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Points decrease by 1000. All monsters on the field and monsters in both players' Graveyards become Zombie-Type monsters until the end of your opponent's turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191341.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

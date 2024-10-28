@@ -1,0 +1,12 @@
+{
+  "id": 131191208,
+  "name": "Grit",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you had 4000 or more Life Points at the start of that turn, your Life Points will not fall below 1 for one time only. When this Skill is applied, you can only Special Summon 1 monster until the end of your next turn. This Skill will only activate once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191208.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

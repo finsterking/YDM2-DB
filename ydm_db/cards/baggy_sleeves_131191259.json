@@ -1,0 +1,12 @@
+{
+  "id": 131191259,
+  "name": "Baggy Sleeves",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If your Level 7 or higher monster is destroyed by battle, your normal draw in the next Draw Phase becomes 2 cards. This Skill will only activate once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191259.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

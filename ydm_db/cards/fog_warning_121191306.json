@@ -1,0 +1,12 @@
+{
+  "id": 121191306,
+  "name": "Fog Warning",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nEach time you place a Fog Counter(s) on a monster(s), give it an additional Fog Counter.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191306.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

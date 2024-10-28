@@ -1,0 +1,26 @@
+{
+  "id": 501000088,
+  "name": "Kaiser Eagle, the Heavens' Mandate",
+  "is_illegal": true,
+  "is_custom": true,
+  "text": "3+ Winged Beast Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/501000088.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Winged\u00a0Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 5,
+  "link_arrows": [
+    "Right",
+    "Bottom-Right",
+    "Bottom",
+    "Bottom-Left",
+    "Left"
+  ]
+}

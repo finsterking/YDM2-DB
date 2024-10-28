@@ -1,0 +1,12 @@
+{
+  "id": 131191409,
+  "name": "Dual Divinity",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if \"Sun Dragon Inti\" and \"Moon Dragon Quilla\" are in your Graveyard. This turn, you can Normal Summon \"Earthbound Immortal Wiraqocha Rasca\" without Tributing. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191409.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

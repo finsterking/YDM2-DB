@@ -1,11 +1,11 @@
 {
-  "id": 504700153,
+  "id": 88789641,
   "name": "Hallowed Life Barrier",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "Discard 1 card from your hand. During this turn, any damage you take from your opponent's cards and effects becomes 0.",
+  "is_custom": false,
+  "text": "Discard 1 card; you take no damage from your opponent's cards this turn, also your monsters cannot be destroyed by battle this turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/504700153.jpg"
+    "https://images.ygoprodeck.com/images/cards/88789641.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

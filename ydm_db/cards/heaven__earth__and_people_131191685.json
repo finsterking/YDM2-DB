@@ -1,0 +1,12 @@
+{
+  "id": 131191685,
+  "name": "Heaven, Earth, and People",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Each of the following effects can be used once per Duel.\n\u25cf Can be used on your next turn after your \"Meklord Emperor Skiel\" inflicts battle damage to your opponent with a direct attack. Add 1 \"Meklord Emperor Granel\" to your hand from your Deck. Then, return 1 card in your hand to your Deck.\n\u25cf Can be used on your next turn after your \"Meklord Emperor Granel\" inflicts 3000 or more battle damage. Add 1 \"Meklord Emperor Wisel\" to your hand from your Deck. Then, return 1 card in your hand to your Deck.\n\u25cf Can be used on your next turn after you activate the last effect of your \"Meklord Emperor Wisel\". Add 1 \"Meklord Emperor Skiel\" to your hand from your Deck. Then, return 1 card in your hand to your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191685.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

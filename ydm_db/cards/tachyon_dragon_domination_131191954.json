@@ -1,0 +1,12 @@
+{
+  "id": 131191954,
+  "name": "Tachyon Dragon Domination",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During this Duel, you cannot Normal or Special Summon any monsters with a Level except Level 4 and 8 LIGHT Dragon Type monsters with 2000 or less ATK, and Level 8 DARK Dragon Type monsters with 2500 or 2000 ATK. This effect can be used once per Duel. Reveal 1 Level 8 monster, and then add 1 Level 4 or 8 LIGHT Dragon Type monster from your Deck to your hand.\nThe following effect can be used once per turn if you control \"Number 107: Galaxy-Eyes Tachyon Dragon.\" \nReturn 1 face-up Dragon Type monster from your field to your hand, and then Set 1 \"Tachyon Transmigration\" from your Deck or 1 \"Rank-Up-Magic Barian's Force\" from outside your Deck to your field. (This card can be activated the same turn.)",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191954.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

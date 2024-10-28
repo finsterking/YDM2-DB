@@ -1,0 +1,12 @@
+{
+  "id": 131191360,
+  "name": "Spell Specialist",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If your Deck contains 5 or more Spell Cards with different names, you will have improved chances of having a Spell Card in your starting hand. You cannot Special Summon or activate monster effects until the end of the Main Phase of your first turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191360.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

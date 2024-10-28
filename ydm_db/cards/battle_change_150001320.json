@@ -1,0 +1,12 @@
+{
+  "id": 150001320,
+  "name": "Battle Change",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During your opponent's Battle Phase: Apply this effect for the rest of this turn. Once per opponent's monster, when an opponent's monster declares an attack, you can change the attack target to 1 monster you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001320.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,11 +1,11 @@
 {
-  "id": 504700079,
+  "id": 48148828,
   "name": "D.D. Crazy Beast",
   "is_illegal": false,
-  "is_custom": true,
+  "is_custom": false,
   "text": "A monster that this card destroys as a result of battle is removed from play.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/504700079.jpg"
+    "https://images.ygoprodeck.com/images/cards/48148828.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

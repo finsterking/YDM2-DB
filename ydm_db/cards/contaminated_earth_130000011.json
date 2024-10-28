@@ -1,0 +1,12 @@
+{
+  "id": 130000011,
+  "name": "Contaminated Earth",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a face-up Level 5 or higher monster(s) you control was destroyed by a card effect this turn: Special Summon 1 \"Earthbound Immortal\" monster from your hand, Deck, or Graveyard, but it cannot attack, nor activate its effect this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000011.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

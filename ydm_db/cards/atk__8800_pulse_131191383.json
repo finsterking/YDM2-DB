@@ -1,0 +1,12 @@
+{
+  "id": 131191383,
+  "name": "ATK: 8800 Pulse",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can only be used if you control exactly 1 Level 4 monster with an ATK equal to its DEF. Your monster's ATK becomes 8800, but returns to its original value at the end of the turn. For the rest of the turn after using this Skill, your opponent takes no damage. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191383.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

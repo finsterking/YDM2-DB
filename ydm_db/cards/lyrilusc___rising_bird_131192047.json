@@ -1,0 +1,12 @@
+{
+  "id": 131192047,
+  "name": "Lyrilusc - Rising Bird",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use this Skill's second effect once per turn.\n1: You cannot Normal or Special Summon any monsters, except for Winged Beast monsters, and you cannot Special Summon any monsters from the Extra Deck, except for DARK or WIND Xyz Monsters.\n2: If your opponent has a card on their field or in their Graveyard, reveal 1 Rank 8 or lower Winged Beast Xyz Monster in your Extra Deck, and then the Levels of all \"Lyrilusc\" monsters you control become equal to the Rank that revealed monster had, until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192047.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

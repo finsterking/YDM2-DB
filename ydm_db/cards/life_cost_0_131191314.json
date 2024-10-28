@@ -1,0 +1,12 @@
+{
+  "id": 131191314,
+  "name": "Life Cost 0",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points are at 1000 or below. Until the end of the opponent's next turn, for one time only, you do not have to pay Life Points to activate a card. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191314.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

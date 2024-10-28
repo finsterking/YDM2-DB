@@ -1,0 +1,12 @@
+{
+  "id": 131191332,
+  "name": "Monstermorph: Evolution",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used each time your Life Point decrease by 1500. Send a monster (except a Token) on your side of the field to the Graveyard. Then, randomly play a monster that is same Attribute and Type as the monster you sent to the Graveyard, but is 1 Level higher from your Deck (the monster must be able to be Normal Summoned.) This Skill can only be used once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191332.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

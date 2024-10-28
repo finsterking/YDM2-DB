@@ -1,0 +1,12 @@
+{
+  "id": 131192015,
+  "name": "Sunavalon Mythos",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1: Once per Duel, before your normal draw, you can change 1 of the cards from your normal draw this turn to \"Sunseed Genius Loci\" in your Deck. During this Duel, you cannot Special Summon monsters, except EARTH Plant monsters or Link Monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192015.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

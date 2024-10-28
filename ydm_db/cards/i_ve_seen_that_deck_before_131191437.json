@@ -1,0 +1,12 @@
+{
+  "id": 131191437,
+  "name": "I've Seen That Deck Before",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you and your opponent control a card/card(s) with the same name(s). Recover 500 Life Points for each different card with the same name. This Skill can only be used once per turn and three times per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191437.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

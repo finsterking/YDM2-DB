@@ -1,0 +1,12 @@
+{
+  "id": 121191203,
+  "name": "Prescience (TCG)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nIf your opponent's LP is more than twice your LP, activate this Skill.\nYou may look at the top card of both your and your opponent's Deck at any time.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191203.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

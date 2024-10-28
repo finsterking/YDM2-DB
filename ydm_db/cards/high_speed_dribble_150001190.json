@@ -1,0 +1,12 @@
+{
+  "id": 150001190,
+  "name": "High-Speed Dribble",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Increases the ATK of all your monsters by 600 points.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001190.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

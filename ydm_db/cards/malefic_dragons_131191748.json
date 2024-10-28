@@ -1,0 +1,12 @@
+{
+  "id": 131191748,
+  "name": "Malefic Dragons",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add 1 \"Malefic Truth Dragon\", 1 \"Malefic Parallel Gear\", 1 \"Malefic Stardust Dragon\" and 1 \"Malefic World\" to your Deck, and 1 \"Stardust Dragon\" and 1 \"Malefic Paradox Dragon\" to your Extra Deck.\nDuring this Duel, \"Malefic World\" in your Field Zone will not be destroyed by your opponent's effect, but you can only Special Summon \"Malefic\" monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191748.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

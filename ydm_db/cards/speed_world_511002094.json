@@ -1,0 +1,12 @@
+{
+  "id": 511002094,
+  "name": "Speed World",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a player activates a non-\"Speed Spell\" Spell Card, they take 2000 damage. Except during the first turn of the Duel, during each player's Standby Phase, each player places 1 Speed Counter of their own on this card (max. 12 each). When a player takes damage, remove 1 of their Speed Counters from this card for each multiple of 1000 damage that player took.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/511002094.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

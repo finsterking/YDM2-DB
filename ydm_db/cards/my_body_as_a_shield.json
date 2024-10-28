@@ -1,11 +1,11 @@
 {
-  "id": 511000459,
+  "id": 69279219,
   "name": "My Body as a Shield",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "When your opponent activates a card or effect that would destroy a monster(s) on the field, except during the Damage Step: Pay 1500 LP; negate the activation, and if you do, destroy it.",
+  "is_custom": false,
+  "text": "When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field: Pay 1500 LP; negate the activation, and if you do, destroy it.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511000459.jpg"
+    "https://images.ygoprodeck.com/images/cards/69279219.jpg"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

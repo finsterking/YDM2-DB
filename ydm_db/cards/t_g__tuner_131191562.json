@@ -1,0 +1,12 @@
+{
+  "id": 131191562,
+  "name": "T.G. Tuner",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 \"T.G.\" Synchro Monster on your field becomes a Tuner monster until the end of the turn. This Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191562.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,11 +1,11 @@
 {
-  "id": 504700051,
+  "id": 29389368,
   "name": "Nutrient Z",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "This card can only be activated during your opponent's Damage Step. During this turn, if you take Battle Damage of 2000 points or more, increase your Life Points by 4000 points before the damage is subtracted from your Life Points.",
+  "is_custom": false,
+  "text": "During damage calculation, when you are about to take 2000 or more battle damage: Gain 4000 LP first.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/504700051.jpg"
+    "https://images.ygoprodeck.com/images/cards/29389368.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

@@ -1,0 +1,12 @@
+{
+  "id": 131191769,
+  "name": "Holly Angel Trick",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The effect damage of your monsters whose original name is \"Trickstar Holly Angel\" will be doubled.\nThe following effect can be used once per Duel. Select 1 \"Trickstar\" Link Monster on your field and gain Life Points equal to its ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191769.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

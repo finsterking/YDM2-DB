@@ -1,11 +1,11 @@
 {
-  "id": 504700007,
+  "id": 2111707,
   "name": "XY-Dragon Cannon",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nThis card cannot be Special Summoned except by removing from play the above cards on your side of the field; then you can Special Summon this card from your Fusion Deck (You do not use \"Polymerization\"). Discard 1 card from your hand to destroy 1 face-up Spell or Trap Card on your opponent's side of the field.",
+  "is_custom": false,
+  "text": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 face-up Spell/Trap your opponent controls; destroy that target.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/504700007.jpg"
+    "https://images.ygoprodeck.com/images/cards/2111707.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

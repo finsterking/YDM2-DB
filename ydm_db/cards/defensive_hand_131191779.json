@@ -1,0 +1,12 @@
+{
+  "id": 131191779,
+  "name": "Defensive Hand",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when you control one of the following monsters. During this turn, you take no effect damage.\n\u25cf \"Magic Hand\"\n\u25cf \"Fire Hand\"\n\u25cf \"Ice Hand\"\n\u25cf \"Prominence Hand\"\n\u25cf \"Number 106: Giant Hand\"\nThis Skill can only be used once per turn and thrice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191779.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

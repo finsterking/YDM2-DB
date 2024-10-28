@@ -1,0 +1,12 @@
+{
+  "id": 150000510,
+  "name": "Mad Hurricane",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Shuffle all cards you control into the Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000510.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

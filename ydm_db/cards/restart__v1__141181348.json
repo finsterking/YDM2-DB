@@ -1,0 +1,12 @@
+{
+  "id": 141181348,
+  "name": "Restart (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used only once after starting hands are dealt. Redraw your starting hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141181348.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

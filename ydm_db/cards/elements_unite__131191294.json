@@ -1,0 +1,12 @@
+{
+  "id": 131191294,
+  "name": "Elements Unite!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You will start the Duel with 500 Life Points and your starting hand will be 1 card, which is \"Gate Guardian\". In addition, you will start the Duel with \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\" on the side of your field. Their effects are negated and they cannot attack as long as they are face-up on the field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191294.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

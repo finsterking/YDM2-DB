@@ -1,0 +1,12 @@
+{
+  "id": 131191451,
+  "name": "Life Charge",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Increase your Life Points by the current turn count x200. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191451.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

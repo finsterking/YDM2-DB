@@ -1,0 +1,12 @@
+{
+  "id": 131191273,
+  "name": "Creator",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points are at 2000 or below. In the Draw Phase, instead of doing a normal draw, a powerful card, from outside of your Deck, is added to your hand. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191273.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

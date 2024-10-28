@@ -1,0 +1,12 @@
+{
+  "id": 131192012,
+  "name": "Traptrix's Ground",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can use this Skill's first and second effects if your Deck (excluding the Extra Deck) contains 12 or more \"Traptrix\" monsters, and all of the monsters in your Extra Deck are Xyz Monsters.\n1: Once per turn, during your Main Phase, you can play 1 \"Traptrix\" monster from your hand to your field.\n2: Once per Duel, during your Main Phase, if it is turn 2 and onward, you can send 1 \"Traptrix\" monster or \"Hole\" Normal Trap Card from your hand to the Graveyard, and then add 1 \"Treacherous Trap Hole\" from outside of your Deck to your Deck. Then, you can add 1 \"Traptrix\" monster or \"Hole\" Normal Trap Card from your Deck to your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192012.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191727,
+  "name": "Chain of Ice",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Play 1 Level 4 or lower WATER monster that can be Normal Summoned/Set from your hand in Defense Position, but its effects are negated. During the turn you use this Skill, you cannot Special Summon any monsters except Xyz Monsters.\nThis Skill can only be used if you begin the Duel with a Deck/Extra Deck that contains at least 1 monster and no monsters other than WATER monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191727.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

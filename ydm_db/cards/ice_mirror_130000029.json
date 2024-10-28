@@ -1,0 +1,12 @@
+{
+  "id": 130000029,
+  "name": "Ice Mirror",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 Level 3 or lower WATER monster you control; Special Summon 1 monster with the same name from your Deck, but it cannot declare an attack this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000029.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

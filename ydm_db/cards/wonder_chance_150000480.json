@@ -1,0 +1,12 @@
+{
+  "id": 150000480,
+  "name": "Wonder Chance",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 face-up monster you control; this turn, it gains 1 additional attack during each Battle Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150000480.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

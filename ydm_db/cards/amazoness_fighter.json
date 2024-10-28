@@ -1,15 +1,15 @@
 {
-  "id": 511006010,
+  "id": 55821894,
   "name": "Amazoness Fighter",
   "is_illegal": false,
-  "is_custom": true,
+  "is_custom": false,
   "text": "You take no battle damage from attacks involving this card.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511006010.jpg"
+    "https://images.ygoprodeck.com/images/cards/55821894.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
-  "atk": 1300,
+  "atk": 1500,
   "species": "Warrior",
   "ability": "",
   "has_effect": true,

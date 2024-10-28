@@ -1,0 +1,12 @@
+{
+  "id": 131191834,
+  "name": "Set Up the Nest",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you control 2 or more \"Raidraptor\" monsters that have a Level. Set 1 \"Raidraptor - Nest\" from outside of your Deck.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191834.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

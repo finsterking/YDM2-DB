@@ -1,0 +1,12 @@
+{
+  "id": 131191339,
+  "name": "Ojama Overflow",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Skill can be used from your 5th turn onwards, when you have 500 Life Points or less. Play as many copies of \"Ojama Token\" as you can on your opponent's side of the field in Defense Position. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191339.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

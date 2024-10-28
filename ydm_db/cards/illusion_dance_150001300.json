@@ -1,0 +1,12 @@
+{
+  "id": 150001300,
+  "name": "Illusion Dance",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Change all Attack Position monsters on the field to Defense Position. Any monster that was changed to Defense Position by this effect is changed to Attack Position at the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/150001300.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

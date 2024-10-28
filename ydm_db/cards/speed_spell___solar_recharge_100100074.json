@@ -1,0 +1,12 @@
+{
+  "id": 100100074,
+  "name": "Speed Spell - Solar Recharge",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 4 or more Speed Counters: Discard 1 \"Lightsworn\" monster; draw 2 cards, then send the top 2 cards of your Deck to the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100074.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

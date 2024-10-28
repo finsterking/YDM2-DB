@@ -1,0 +1,12 @@
+{
+  "id": 121191341,
+  "name": "Straight out of Neo Space!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nIf only your opponent controls a monster, you can Special Summon 1 \"Elemental HERO Neos\" from your hand, also for the rest of this turn, you cannot Special Summon, except \"Elemental HERO\" or \"Neo-Spacian\" monsters. During your End Phase, if a Fusion Monster you control is returned to your Extra Deck, you can Special Summon 1 \"Elemental HERO Neos\" from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191341.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191713,
+  "name": "Xiangke and Xiangsheng",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the beginning of the Duel, add Pendulum Zones to your field.\nThe following effect can be used once per Duel. Add 1 \"Odd-Eyes\" Pendulum Monster with 2500 ATK or lower from your hand to your Extra Deck face-up, and place 1 \"Xiangke Magician\" and 1 \"Xiangsheng Magician\" to your Pendulum Zones from your hand/Deck. Then, change the Pendulum Scale of \"Xiangsheng Magician\" in your Pendulum Zone to 8.\nThis Skill can only be used/applied if you begin the Duel with a Deck (excluding Extra Deck) that contains at least 5 Level 4 and 5 Level 7 monsters and contains no monsters other than \"Performapal\" or \"Odd-Eyes\" monsters, or \"Magician\" Pendulum Monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191713.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

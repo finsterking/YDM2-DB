@@ -1,0 +1,12 @@
+{
+  "id": 100100056,
+  "name": "Speed Spell - Monster Reborn",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 10 of your Speed Counters, then target 1 monster in either player's Graveyard; Special Summon it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100056.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

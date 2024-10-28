@@ -1,0 +1,12 @@
+{
+  "id": 100100111,
+  "name": "Speed Spell - Sonic Buster",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 2 of your Speed Counters to target 1 monster you control; inflict damage to your opponent equal to half of its ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100111.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191392,
+  "name": "Contract Door",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points are at 2000 or below. Add 1 \"Magical Contract Door\" to your hand from outside of your Deck. Then, add 1 \"Monster Reborn\" to your Opponent's hand. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191392.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

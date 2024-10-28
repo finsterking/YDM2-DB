@@ -1,0 +1,12 @@
+{
+  "id": 131191602,
+  "name": "Sinister Calling",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once per turn by discarding \"Evil HERO\" monster from your hand. Either add 1 \"Dark Fusion\" or \"Dark Calling\" from your Deck to your hand or place 1 \"Evil HERO Sinister Necrom\" in your Graveyard from outside of your Deck. Only 1 card can be added to your hand and you can place \"Evil HERO Sinister Necrom\" in your Graveyard only once. This Skill can only be used once per turn and twice per Duel. This Skill only activate if you begin the Duel with a Deck that follow the conditions below.\n\u25cf 10 or more cards that are \"Evil HERO\" monsters, \"Dark Fusion\", or \"Dark Calling\" are included in the Deck.\n\u25cf No monsters other than \"Evil HERO\" or \"Elemental HERO\" monsters are included in the Deck.\n\u25cf No monsters other than Fusion Monsters are included in the Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191602.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

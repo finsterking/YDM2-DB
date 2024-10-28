@@ -1,0 +1,12 @@
+{
+  "id": 100100103,
+  "name": "Speed Spell - Count Up",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Send any number of cards from your hand to the Graveyard; increase your Speed Counters by 3 for each card you sent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100103.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

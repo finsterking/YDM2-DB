@@ -1,0 +1,12 @@
+{
+  "id": 121191346,
+  "name": "Magician's Scales",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nFlip this card over when you activate this Skill.\n[ Effect ]\nOnce per Duel, you can Tribute 1 \"Arcana Force\" monster and add 1 \"Normal Spell from your Deck to your hand, also for the rest of this Duel, you cannot Summon any monsters, except \"Arcana Force\" monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191346.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

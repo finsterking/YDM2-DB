@@ -1,0 +1,12 @@
+{
+  "id": 131191612,
+  "name": "Ley Line Energy",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select 1 monster with 3000 or above ATK on both players' field and switch the ATK of the two monsters. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191612.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

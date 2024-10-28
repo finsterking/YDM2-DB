@@ -1,0 +1,12 @@
+{
+  "id": 131191460,
+  "name": "Maiden in Love",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select one or more monsters your opponent controls, up to the number of \"Maiden in Love\" cards you control; then place 1 Maiden Counter on each monster you selected. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191460.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

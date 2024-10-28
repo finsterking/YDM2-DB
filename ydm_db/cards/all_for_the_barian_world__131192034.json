@@ -1,0 +1,12 @@
+{
+  "id": 131192034,
+  "name": "All for the Barian World!",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Skill's first effect can be used if your Deck (excluding the Extra Deck) contains 5 or more \"Star Seraph\" monsters.\n 1: Can be used before your normal draw if your opponent controls a card. One of the cards from your normal draw this turn will be a random \"Star Seraph\" monster from your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192034.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

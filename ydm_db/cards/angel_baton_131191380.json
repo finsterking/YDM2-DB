@@ -1,0 +1,12 @@
+{
+  "id": 131191380,
+  "name": "Angel Baton",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can only be used on your 4th turn. Instead of conducting your normal draw, draw 2 cards and send 1 card from your hand to the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191380.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

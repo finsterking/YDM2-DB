@@ -1,0 +1,12 @@
+{
+  "id": 131191799,
+  "name": "Raptor Evolution",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when you control a \"Raidraptor\" Xyz Monster. Return 1 Spell Card from your hand to the Deck and add 1 \"Rank-Up-Magic\" Spell Card from your Graveyard to your hand. Until the end of your opponent's next turn, you cannot Special Summon monsters except \"Raidraptor\" monsters, and you can only declare attacks with \"Raidraptor\" Xyz Monsters.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191799.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

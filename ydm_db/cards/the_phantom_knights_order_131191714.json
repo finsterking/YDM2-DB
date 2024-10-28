@@ -1,0 +1,12 @@
+{
+  "id": 131191714,
+  "name": "The Phantom Knights Order",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used on turn 2 and onward. Select up to 2 \"The Phantom Knights\" monster on your field that have a Level. When Xyz Summoning a monster using these \"The Phantom Knights\" monsters as Xyz Materials during this turn, you can use them as Level 2-4 monsters.\nThis Skill can only be used once per turn and twice per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191714.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

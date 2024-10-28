@@ -1,0 +1,12 @@
+{
+  "id": 121191310,
+  "name": "Order of the Queen",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "[ Skill activation ]\nAt the start of the Duel, flip this card over.\n[ Effect ]\nWhile you control \"Amazoness Queen\", negate the effects of Effect Monsters destroyed by battle with attacking \"Amazoness\" monsters you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/121191310.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

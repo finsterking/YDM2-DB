@@ -1,11 +1,11 @@
 {
-  "id": 511003009,
+  "id": 15894048,
   "name": "Ultimate Tyranno",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "If this card is in face-up Attack Position at the start of your Battle Phase, it must attack first, and attack all monsters your opponent controls once each.",
+  "is_custom": false,
+  "text": "This card can attack all monsters your opponent controls, once each. During your Battle Phase, if you control an \"Ultimate Tyranno\" that can attack, monsters other than \"Ultimate Tyranno\" cannot attack.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511003009.jpg"
+    "https://images.ygoprodeck.com/images/cards/15894048.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

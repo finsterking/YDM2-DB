@@ -1,0 +1,12 @@
+{
+  "id": 100100082,
+  "name": "Speed Spell - Tail Swipe",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you have 2 or more Speed Counters: Target 1 Level 5 or higher Dinosaur-Type monster you control; if that Dinosaur-Type monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return them to the hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100082.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

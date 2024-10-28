@@ -1,0 +1,12 @@
+{
+  "id": 131191492,
+  "name": "Red-Eyes Fusion (Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points are at 2400 or below. Return 1 \"Red-Eyes\" card from your hand or 1 \"Red-Eyes Black Dragon\" from your Graveyard to your Deck, and add \"Red-Eyes Fusion\" from your Deck to your hand. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191492.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

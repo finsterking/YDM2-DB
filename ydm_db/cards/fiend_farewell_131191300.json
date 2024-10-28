@@ -1,0 +1,12 @@
+{
+  "id": 131191300,
+  "name": "Fiend Farewell",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used when one of your monsters is destroyed in battle. 1 random Fiend-Type monster from your Deck is sent to the Graveyard.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191300.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

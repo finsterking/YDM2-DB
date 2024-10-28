@@ -1,0 +1,12 @@
+{
+  "id": 130000010,
+  "name": "Chaos Distill",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Any card sent to your Graveyard is banished instead.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000010.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

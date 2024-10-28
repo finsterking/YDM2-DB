@@ -1,0 +1,12 @@
+{
+  "id": 141191296,
+  "name": "Extra, Extra (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if your Life Points decrease by 2000. In the Draw Phase, a card you draw is duplicated.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191296.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

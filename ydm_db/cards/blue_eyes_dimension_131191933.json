@@ -1,0 +1,12 @@
+{
+  "id": 131191933,
+  "name": "Blue-Eyes Dimension",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During this Duel, if you have at least 9 \"Blue-Eyes\" monsters in your Deck at the beginning of the Duel, you can Normal Summon/Set \"Blue-Eyes White Dragon\" without Tributing, and you cannot Special Summon monsters except LIGHT Dragon-Type monsters with Levels and Ritual Monsters. In addition, the following effect can be used once per Duel.\nSend 2 \"Blue-Eyes\" monsters (1 from your hand and 1 from your Deck) to the Graveyard, add 1 \"Blue-Eyes White Dragon\" or \"Monster Reborn\" from your Deck to your hand, and place 1 \"Polymerization\" from outside of your Deck at the bottom of your Deck. If you activated this Skill on turn 2 or later, also place 1 \"Blue-Eyes Chaos MAX Dragon\" and 1 \"Chaos Form\" at the bottom of your Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191933.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

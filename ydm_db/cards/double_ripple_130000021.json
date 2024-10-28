@@ -1,0 +1,12 @@
+{
+  "id": 130000021,
+  "name": "Double Ripple",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Send 2 face-up monsters you control to the Graveyard (1 Tuner and 1 non-Tuner), whose total Levels equal 7, then Special Summon both 1 \"Power Tool Dragon\" and 1 \"Ancient Fairy Dragon\" in Defense Position from your Extra Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000021.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

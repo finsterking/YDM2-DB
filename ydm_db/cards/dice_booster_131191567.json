@@ -1,0 +1,12 @@
+{
+  "id": 131191567,
+  "name": "Dice Booster",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used once per turn. Roll a die. The ATK of all monsters you control will be increased by the number of the die x50 until the end of the turn. If you get 2, 3, 4, or 5, you cannot use this Skill the rest of this Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191567.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

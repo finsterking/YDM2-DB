@@ -1,11 +1,11 @@
 {
-  "id": 511002994,
+  "id": 7391448,
   "name": "Goyo Guardian",
   "is_illegal": false,
-  "is_custom": true,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field in Defense Position.",
+  "is_custom": false,
+  "text": "1 EARTH Tuner + 1+ non-Tuner monsters\nWhen this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon that monster to your field in Defense Position.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/511002994.jpg"
+    "https://images.ygoprodeck.com/images/cards/7391448.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

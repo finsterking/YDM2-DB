@@ -1,0 +1,12 @@
+{
+  "id": 141191333,
+  "name": "Moth to the Flame (v1)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The speed of the turn count for \"Petit Moth\" you control equipped with \"Cocoon of Evolution\" goes twice as fast.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/141191333.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 131191618,
+  "name": "Fusion or Advent",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used by returning 1 \"Odd-Eyes Pendulum Dragon\" in your Pendulum Zone and 1 \"Polymerization\" or a Ritual Spell Card in your hand to your Deck. Depending on the card you have returned, you can add one of the following cards from outside of your Deck to your hand. Can be used once per Duel if you begin the Duel with a Deck that contains 9 or more \"Performapal\" monsters, \"Magician\" Pendulum Monsters, or \"Odd-Eyes\" monsters (Extra Deck does not count).\n\u25cf \"Polymerization\": \"Odd-Eyes Fusion\"\n\u25cf Ritual Spell Card: \"Odd-Eyes Advent\"",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191618.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

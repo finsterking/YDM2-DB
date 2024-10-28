@@ -1,0 +1,12 @@
+{
+  "id": 131191735,
+  "name": "Code Talker Alive",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used if you have \"Decode Talker\" in your Extra Monster Zone. Set 1 \"Recoded Alive\" to your field from outside of your Deck.\nThis Skill can only be used once per Duel if you begin the Duel with a Deck that follows the conditions below:\n\u25cf Your Deck contains at least 12 Cyberse monsters or \"Cynet\" Spell/Trap Cards.\n\u25cf All monsters in your Extra Deck have different card names.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191735.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

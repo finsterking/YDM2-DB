@@ -1,0 +1,12 @@
+{
+  "id": 130000066,
+  "name": "Zero Sprite",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 face-up monster you control: equip this card to that target. The equipped monster's original ATK becomes 0, but it can attack twice during each Battle Phase.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/130000066.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

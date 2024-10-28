@@ -1,0 +1,12 @@
+{
+  "id": 131192007,
+  "name": "Link Restoration",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can only use this Skill's first effect once per Duel.\n1: During your Main Phase, return any number of Link Monsters whose total Link Arrows equals 4 or lower from your Graveyard to your Extra Deck. Then, you can make 1 monster your opponent controls lose ATK equal to the total of those Link Arrows x 100.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131192007.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

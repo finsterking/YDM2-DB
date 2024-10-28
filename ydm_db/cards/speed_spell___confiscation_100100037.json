@@ -1,0 +1,12 @@
+{
+  "id": 100100037,
+  "name": "Speed Spell - Confiscation",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Remove 7 of your Speed Counters and pay 1000 LP; look at your opponent's hand, and discard 1 card from their hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100100037.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

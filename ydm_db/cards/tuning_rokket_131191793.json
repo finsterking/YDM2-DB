@@ -1,0 +1,12 @@
+{
+  "id": 131191793,
+  "name": "Tuning Rokket",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Select 1 \"Rokket\" monster you control. The selected monster becomes a Tuner monster until the end of the turn.\nThis Skill can only be used once per Duel if you begin the Duel with a Deck (Excluding Extra Deck) that contains no monsters other than \"Rokket\" monsters.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191793.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

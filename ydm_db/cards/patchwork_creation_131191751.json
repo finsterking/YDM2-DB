@@ -1,0 +1,12 @@
+{
+  "id": 131191751,
+  "name": "Patchwork Creation",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Can be used on turn 3 and onward. Return 1 \"Polymerization\" and 1 \"Edge Imp\" monster from your hand to your Deck, and add 1 \"Frightfur Patchwork\" from outside of your Deck to your hand.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/131191751.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
