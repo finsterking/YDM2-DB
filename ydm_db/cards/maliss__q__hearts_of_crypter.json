@@ -1,13 +1,10 @@
 {
   "id": 21848500,
-  "name": "Maliss <&#81;> HEARTS OF CRYPTER",
+  "name": "Maliss <Q> HEARTS OF CRYPTER",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 monsters, including a \"Maliss\" monster\n(Quick Effect): You can target 1 of your banished \"Maliss\" cards; shuffle it into the Deck, and if you do, banish 1 card on the field. This effect's activation and effect cannot be negated if this card points to a monster. If this card is banished: You can pay 900 LP; Special Summon this card, and if you do, its ATK becomes doubled. You can only use each effect of \"Maliss <&#81;> HEARTS OF CRYPTER\" once per turn.",
-  "images": [
-    "https://images.ygoprodeck.com/images/cards/21848500.png",
-    "https://images.ygoprodeck.com/images/cards/21848500.jpg"
-  ],
+  "text": "3 monsters, including a \"Maliss\" monster\n(Quick Effect): You can target 1 of your banished \"Maliss\" cards; shuffle it into the Deck, and if you do, banish 1 card on the field. This effect's activation and effect cannot be negated if this card points to a monster. If this card is banished: You can pay 900 LP; Special Summon this card, and if you do, its ATK becomes doubled. You can only use each effect of \"Maliss Q HEARTS OF CRYPTER\" once per turn.",
+  "images": "https://images.ygoprodeck.com/images/cards/21848500.jpg",
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2500,
