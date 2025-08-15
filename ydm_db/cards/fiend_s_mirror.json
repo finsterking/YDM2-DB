@@ -3,19 +3,19 @@
   "name": "Fiend's Mirror",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with \"Beastly Mirror Ritual\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31890399.jpg"
   ],
+  "text": "You can Ritual Summon this card with \"Beastly Mirror Ritual\".",
   "type": "Monster",
-  "monster_type": "Ritual",
   "attribute": "DARK",
   "atk": 2100,
-  "def": 1800,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Ritual",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

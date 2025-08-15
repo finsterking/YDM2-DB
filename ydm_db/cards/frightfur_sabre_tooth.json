@@ -3,19 +3,19 @@
   "name": "Frightfur Sabre-Tooth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Frightfur\" Fusion Monster + 1+ \"Fluffal\" and/or \"Edge Imp\" monsters\nWhen this card is Fusion Summoned: You can target 1 \"Frightfur\" monster in your GY; Special Summon it. All \"Frightfur\" monsters you control gain 400 ATK. If this card was Fusion Summoned using 3 or more Fusion Materials, it cannot be destroyed by battle or card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80889750.jpg"
   ],
+  "text": "1 \"Frightfur\" Fusion Monster + 1+ \"Fluffal\" and/or \"Edge Imp\" monsters\nWhen this card is Fusion Summoned: You can target 1 \"Frightfur\" monster in your GY; Special Summon it. All \"Frightfur\" monsters you control gain 400 ATK. If this card was Fusion Summoned using 3 or more Fusion Materials, it cannot be destroyed by battle or card effects.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 2000,
-  "level": 8,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
 }

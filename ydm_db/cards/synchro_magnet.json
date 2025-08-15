@@ -3,19 +3,19 @@
   "name": "Synchro Magnet",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50702124.jpg"
   ],
+  "text": "This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 600,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": true
 }

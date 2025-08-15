@@ -3,19 +3,19 @@
   "name": "Skull Mariner",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A pirate ship that appears out of the mist and sinks any seagoing vessels.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5265750.jpg"
   ],
+  "text": "A pirate ship that appears out of the mist and sinks any seagoing vessels.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1600,
-  "def": 900,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
 }

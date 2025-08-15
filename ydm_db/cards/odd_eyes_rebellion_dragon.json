@@ -3,19 +3,21 @@
   "name": "Odd-Eyes Rebellion Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.\n\n[ Monster Effect ] \n2 Level 7 Dragon monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as material: Destroy as many Level 7 or lower monsters your opponent controls as possible, and if you do, inflict 1000 damage to your opponent for each card destroyed, also this card can make 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45627618.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.\n\n[ Monster Effect ] \n2 Level 7 Dragon monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as material: Destroy as many Level 7 or lower monsters your opponent controls as possible, and if you do, inflict 1000 damage to your opponent for each card destroyed, also this card can make 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 3000,
-  "def": 2500,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 7,
+  "def": 2500,
+  "pendulum_text": "Once per turn, if you have no cards in your other Pendulum Zone: You can place 1 Pendulum Monster from your Deck in your Pendulum Zone.",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
 }

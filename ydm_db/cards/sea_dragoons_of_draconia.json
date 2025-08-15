@@ -3,19 +3,22 @@
   "name": "Sea Dragoons of Draconia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nWhen a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.\n\n[ Monster Effect ] \n''Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea's opposite shores.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82114013.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nWhen a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.\n\n[ Monster Effect ] \n''Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea's opposite shores.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 200,
-  "def": 2100,
-  "level": 3,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 2100,
+  "level": 3,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7
 }

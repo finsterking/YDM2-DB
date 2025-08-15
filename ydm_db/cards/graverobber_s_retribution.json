@@ -3,10 +3,10 @@
   "name": "Graverobber's Retribution",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During each of your Standby Phases, inflict 100 points of damage to your opponent's Life Points for each of your opponent's monsters that have been removed from play.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33737664.jpg"
   ],
+  "text": "During each of your Standby Phases, inflict 100 points of damage to your opponent's Life Points for each of your opponent's monsters that have been removed from play.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

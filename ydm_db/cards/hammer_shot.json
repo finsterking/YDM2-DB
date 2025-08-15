@@ -3,10 +3,10 @@
   "name": "Hammer Shot",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26412047.jpg"
   ],
+  "text": "Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)",
   "type": "Spell",
   "spell_type": "Normal"
 }

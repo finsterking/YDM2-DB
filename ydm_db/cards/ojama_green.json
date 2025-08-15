@@ -3,19 +3,19 @@
   "name": "Ojama Green",
   "is_illegal": false,
   "is_custom": false,
-  "text": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12482652.jpg"
   ],
+  "text": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 1000,
-  "level": 2,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
 }

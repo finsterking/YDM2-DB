@@ -3,19 +3,19 @@
   "name": "Goblin Pothole Squad",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned, Trap Cards cannot be activated. Also, \"Trap Hole\" Trap Cards cannot be activated when a monster is Summoned, except \"Dark Trap Hole\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12755462.jpg"
   ],
+  "text": "When this card is Normal Summoned, Trap Cards cannot be activated. Also, \"Trap Hole\" Trap Cards cannot be activated when a monster is Summoned, except \"Dark Trap Hole\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 400,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
 }

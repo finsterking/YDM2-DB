@@ -3,19 +3,19 @@
   "name": "Worm Drake",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once this monster wraps itself around a victim, there is no escape.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73216412.jpg"
   ],
+  "text": "Once this monster wraps itself around a victim, there is no escape.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 1500,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

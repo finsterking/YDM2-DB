@@ -3,23 +3,20 @@
   "name": "Marincess Blue Slug",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Level 4 or lower \"Marincess\" monster\nIf this card is Link Summoned: You can target 1 \"Marincess\" monster in your GY, except \"Marincess Blue Slug\"; add it to your hand, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only Link Summon \"Marincess Blue Slug\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43735670.jpg"
   ],
+  "text": "1 Level 4 or lower \"Marincess\" monster\nIf this card is Link Summoned: You can target 1 \"Marincess\" monster in your GY, except \"Marincess Blue Slug\"; add it to your hand, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only Link Summon \"Marincess Blue Slug\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "WATER",
   "atk": 1500,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Bottom"
-  ],
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
 }

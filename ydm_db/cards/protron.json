@@ -3,19 +3,19 @@
   "name": "Protron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Ancestral species found in electronic space. No one knows how much information it holds.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24154052.jpg"
   ],
+  "text": "Ancestral species found in electronic space. No one knows how much information it holds.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

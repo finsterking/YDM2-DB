@@ -3,19 +3,19 @@
   "name": "Three-Eyed Ghost",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send this card from the field to the GY; add 1 Level 10 DARK monster from your Deck to your hand. You can only use this effect of \"Three-Eyed Ghost\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31464658.jpg"
   ],
+  "text": "You can send this card from the field to the GY; add 1 Level 10 DARK monster from your Deck to your hand. You can only use this effect of \"Three-Eyed Ghost\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 900,
-  "def": 800,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

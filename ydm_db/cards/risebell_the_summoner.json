@@ -3,19 +3,22 @@
   "name": "Risebell the Summoner",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).\n\n[ Monster Effect ] \n''A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45103815.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).\n\n[ Monster Effect ] \n''A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 800,
-  "def": 800,
-  "level": 3,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 800,
+  "level": 3,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Once per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
 }

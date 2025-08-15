@@ -3,10 +3,10 @@
   "name": "Flash of the Forbidden Spell",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when all of your opponent's Monster Card Zones are occupied by monsters. Destroy all monsters on your opponent's side of the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39956951.jpg"
   ],
+  "text": "Activate only when all of your opponent's Monster Card Zones are occupied by monsters. Destroy all monsters on your opponent's side of the field.",
   "type": "Spell",
   "spell_type": "Normal"
 }

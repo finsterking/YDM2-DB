@@ -3,10 +3,10 @@
   "name": "Rod of the Mind's Eye",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a monster equipped with this card inflicts Battle Damage to your opponent, the damage becomes 1000 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94793422.jpg"
   ],
+  "text": "If a monster equipped with this card inflicts Battle Damage to your opponent, the damage becomes 1000 points.",
   "type": "Spell",
   "spell_type": "Equip"
 }

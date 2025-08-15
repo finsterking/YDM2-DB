@@ -3,19 +3,19 @@
   "name": "Wish Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card; Special Summon 2 \"Dragon Tokens\" (Dragon/EARTH/Level 1/ATK 0/DEF 0), also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Level 5 or higher Dragon monsters. You can only use this effect of \"Wish Dragon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64583600.jpg"
   ],
+  "text": "You can Tribute this card; Special Summon 2 \"Dragon Tokens\" (Dragon/EARTH/Level 1/ATK 0/DEF 0), also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Level 5 or higher Dragon monsters. You can only use this effect of \"Wish Dragon\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 700,
-  "def": 100,
-  "level": 2,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
 }

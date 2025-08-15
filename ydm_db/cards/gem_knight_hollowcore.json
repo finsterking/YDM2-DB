@@ -3,19 +3,19 @@
   "name": "Gem-Knight Hollowcore",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send 1 \"Gem-Knight\" Normal Monster or 1 \"Gem-Knight Fusion\" from your Deck to the GY; Special Summon this card from your hand in Defense Position. When your opponent activates a card or effect, while you control a \"Gem-Knight\" Fusion Monster (Quick Effect): You can banish 3 \"Gem-Knight\" cards from your GY, including this card; negate that effect, then all \"Gem-Knight\" monsters you currently control gain 1000 ATK. You can only use each effect of \"Gem-Knight Hollowcore\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88225269.jpg"
   ],
+  "text": "You can send 1 \"Gem-Knight\" Normal Monster or 1 \"Gem-Knight Fusion\" from your Deck to the GY; Special Summon this card from your hand in Defense Position. When your opponent activates a card or effect, while you control a \"Gem-Knight\" Fusion Monster (Quick Effect): You can banish 3 \"Gem-Knight\" cards from your GY, including this card; negate that effect, then all \"Gem-Knight\" monsters you currently control gain 1000 ATK. You can only use each effect of \"Gem-Knight Hollowcore\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1950,
-  "def": 2450,
-  "level": 7,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2450,
+  "level": 7,
+  "is_tuner": false
 }

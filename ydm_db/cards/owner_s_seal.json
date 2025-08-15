@@ -3,10 +3,10 @@
   "name": "Owner's Seal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Return control of all monsters on the field to their original owners.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9720537.jpg"
   ],
+  "text": "Return control of all monsters on the field to their original owners.",
   "type": "Spell",
   "spell_type": "Normal"
 }

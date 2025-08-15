@@ -145,12 +145,6 @@
       "image_index": 0
     },
     {
-      "id": 300204002,
-      "code": "SS04-ENS02",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 40640057,
       "code": "SS04-ENA13",
       "rarity": "Common",
@@ -201,12 +195,6 @@
     {
       "id": 64631466,
       "code": "SS04-ENB17",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300204001,
-      "code": "SS04-ENS01",
       "rarity": "Common",
       "image_index": 0
     },
@@ -307,12 +295,6 @@
       "image_index": 0
     },
     {
-      "id": 300204003,
-      "code": "SS04-ENS03",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 59383041,
       "code": "SS04-ENB03",
       "rarity": "Common",
@@ -351,12 +333,6 @@
     {
       "id": 16392422,
       "code": "SS04-ENB11",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300204004,
-      "code": "SS04-ENS04",
       "rarity": "Common",
       "image_index": 0
     },

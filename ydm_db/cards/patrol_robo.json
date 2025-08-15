@@ -3,19 +3,19 @@
   "name": "Patrol Robo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Standby Phase, you can look at 1 face-down card that's been Set by your opponent as long as this card remains face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76775123.jpg"
   ],
+  "text": "During your Standby Phase, you can look at 1 face-down card that's been Set by your opponent as long as this card remains face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1100,
-  "def": 900,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

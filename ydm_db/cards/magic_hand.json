@@ -3,19 +3,19 @@
   "name": "Magic Hand",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent adds a card(s) from their Deck to their hand, except by drawing them (except during the Damage Step): You can send that card(s) to the Graveyard, and if you do, inflict 800 damage to your opponent. This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22530212.jpg"
   ],
+  "text": "When your opponent adds a card(s) from their Deck to their hand, except by drawing them (except during the Damage Step): You can send that card(s) to the Graveyard, and if you do, inflict 800 damage to your opponent. This effect can only be used once while this card is face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 800,
-  "def": 1600,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

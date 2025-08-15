@@ -3,19 +3,19 @@
   "name": "Ryu Kokki",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57281778.jpg"
   ],
+  "text": "At the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 2000,
-  "level": 6,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Psychic Jumper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can pay 1000 LP, then target 1 face-up monster your opponent controls and 1 Psychic-Type monster you control, except \"Psychic Jumper\"; switch control of both those targets, and if you do, their battle positions cannot be changed this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52430902.jpg"
   ],
+  "text": "Once per turn: You can pay 1000 LP, then target 1 face-up monster your opponent controls and 1 Psychic-Type monster you control, except \"Psychic Jumper\"; switch control of both those targets, and if you do, their battle positions cannot be changed this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "def": 1500,
-  "level": 2,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 2,
+  "is_tuner": true
 }

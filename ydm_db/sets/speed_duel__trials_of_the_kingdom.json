@@ -49,12 +49,6 @@
       "image_index": 0
     },
     {
-      "id": 300104004,
-      "code": "SBTK-ENS04",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 53713014,
       "code": "SBTK-EN008",
       "rarity": "Common",
@@ -70,18 +64,6 @@
       "id": 71200730,
       "code": "SBTK-EN018",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302004,
-      "code": "SBTK-ENSP9",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300104003,
-      "code": "SBTK-ENS03",
-      "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -118,12 +100,6 @@
       "id": 69599136,
       "code": "SBTK-EN046",
       "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300302001,
-      "code": "SBTK-ENSP6",
-      "rarity": "Common",
       "image_index": 0
     },
     {
@@ -193,12 +169,6 @@
       "image_index": 0
     },
     {
-      "id": 300302003,
-      "code": "SBTK-ENSP8",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 30208479,
       "code": "SBTK-EN001",
       "rarity": "Ultra Rare",
@@ -237,12 +207,6 @@
     {
       "id": 34016756,
       "code": "SBTK-ENSP4",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302002,
-      "code": "SBTK-ENSP7",
       "rarity": "Common",
       "image_index": 0
     },
@@ -295,12 +259,6 @@
       "image_index": 0
     },
     {
-      "id": 300104005,
-      "code": "SBTK-ENS05",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 83682725,
       "code": "SBTK-EN034",
       "rarity": "Common",
@@ -310,18 +268,6 @@
       "id": 28725004,
       "code": "SBTK-EN011",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300104002,
-      "code": "SBTK-ENS02",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300104002,
-      "code": "SBTK-ENSP0",
-      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -364,12 +310,6 @@
       "id": 96643568,
       "code": "SBTK-EN005",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300104001,
-      "code": "SBTK-ENS01",
-      "rarity": "Super Rare",
       "image_index": 0
     }
   ]

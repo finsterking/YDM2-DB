@@ -3,19 +3,18 @@
   "name": "Virtual World Dragon - Longlong",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Level 3 monsters with the same Type and Attribute\nYour opponent cannot target this card with card effects while it has Xyz Material. When your opponent activates the effect of a monster with an Attribute that is not on their field, while they control a face-up monster (Quick Effect): You can detach 2 materials from this card; negate the activation. You can only use this effect of \"Virtual World Dragon - Longlong\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61641818.jpg"
   ],
+  "text": "2+ Level 3 monsters with the same Type and Attribute\nYour opponent cannot target this card with card effects while it has Xyz Material. When your opponent activates the effect of a monster with an Attribute that is not on their field, while they control a face-up monster (Quick Effect): You can detach 2 materials from this card; negate the activation. You can only use this effect of \"Virtual World Dragon - Longlong\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 2400,
-  "def": 2000,
-  "level": 3,
   "species": "Wyrm",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 3,
+  "def": 2000
 }

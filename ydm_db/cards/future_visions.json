@@ -3,10 +3,10 @@
   "name": "Future Visions",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a monster is Normal Summoned: Target that monster; banish it. During the next Standby Phase of the player who controlled that monster: Return it to the field in face-up Attack Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87902575.jpg"
   ],
+  "text": "Each time a monster is Normal Summoned: Target that monster; banish it. During the next Standby Phase of the player who controlled that monster: Return it to the field in face-up Attack Position.",
   "type": "Spell",
   "spell_type": "Field"
 }

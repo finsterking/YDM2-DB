@@ -3,19 +3,19 @@
   "name": "Gilford the Legend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. When this card is Normal Summoned: You can equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69933858.jpg"
   ],
+  "text": "Cannot be Special Summoned. When this card is Normal Summoned: You can equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2600,
-  "def": 2000,
-  "level": 8,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
 }

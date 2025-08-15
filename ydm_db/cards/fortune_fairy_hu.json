@@ -3,19 +3,19 @@
   "name": "Fortune Fairy Hu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 of your banished Spellcaster monsters; add it to your hand. You can only use each effect of \"Fortune Fairy Hu\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79890560.jpg"
   ],
+  "text": "When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 of your banished Spellcaster monsters; add it to your hand. You can only use each effect of \"Fortune Fairy Hu\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 0,
-  "def": 0,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
 }

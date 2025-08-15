@@ -3,19 +3,19 @@
   "name": "The Ascended of Thunder",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) by paying 3000 LP. If this card Summoned this way in its owner's control is destroyed by an opponent's card (by battle or card effect): Gain 5000 LP.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70493141.jpg"
   ],
+  "text": "You can Special Summon this card (from your hand) by paying 3000 LP. If this card Summoned this way in its owner's control is destroyed by an opponent's card (by battle or card effect): Gain 5000 LP.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2700,
-  "def": 2400,
-  "level": 7,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
 }

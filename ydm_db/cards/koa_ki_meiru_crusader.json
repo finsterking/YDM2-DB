@@ -3,19 +3,19 @@
   "name": "Koa'ki Meiru Crusader",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Beast-Warrior-Type monster in your hand. If this card destroys an opponent's monster by battle, you can add 1 \"Koa'ki Meiru\" card from your Graveyard to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32314730.jpg"
   ],
+  "text": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Beast-Warrior-Type monster in your hand. If this card destroys an opponent's monster by battle, you can add 1 \"Koa'ki Meiru\" card from your Graveyard to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1900,
-  "def": 1300,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

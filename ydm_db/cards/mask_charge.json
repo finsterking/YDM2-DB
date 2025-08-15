@@ -3,10 +3,10 @@
   "name": "Mask Charge",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 \"HERO\" monster and 1 \"Change\" Quick-Play Spell Card in your Graveyard; add them to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87819421.jpg"
   ],
+  "text": "Target 1 \"HERO\" monster and 1 \"Change\" Quick-Play Spell Card in your Graveyard; add them to your hand.",
   "type": "Spell",
   "spell_type": "Normal"
 }

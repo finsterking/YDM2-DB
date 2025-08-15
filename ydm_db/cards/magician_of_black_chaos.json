@@ -3,19 +3,19 @@
   "name": "Magician of Black Chaos",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with \"Black Magic Ritual\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30208479.jpg"
   ],
+  "text": "You can Ritual Summon this card with \"Black Magic Ritual\".",
   "type": "Monster",
-  "monster_type": "Ritual",
   "attribute": "DARK",
   "atk": 2800,
-  "def": 2600,
-  "level": 8,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Ritual",
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
 }

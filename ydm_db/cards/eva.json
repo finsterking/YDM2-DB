@@ -3,19 +3,19 @@
   "name": "Eva",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the GY: You can banish up to 2 other LIGHT Fairy monsters from your field and/or GY; add the same number of Level 2 or lower LIGHT Fairy monsters with different names from your Deck to your hand, except \"Eva\". You can only use this effect of \"Eva\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40177746.jpg"
   ],
+  "text": "If this card is sent to the GY: You can banish up to 2 other LIGHT Fairy monsters from your field and/or GY; add the same number of Level 2 or lower LIGHT Fairy monsters with different names from your Deck to your hand, except \"Eva\". You can only use this effect of \"Eva\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 500,
-  "def": 200,
-  "level": 1,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
 }

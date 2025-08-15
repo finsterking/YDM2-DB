@@ -3,19 +3,19 @@
   "name": "Worm Rakuyeh",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can only declare an attack the turn it was flipped face-up. If this card attacks, it is changed to face-down Defense Position at the end of the Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17649753.jpg"
   ],
+  "text": "This card can only declare an attack the turn it was flipped face-up. If this card attacks, it is changed to face-down Defense Position at the end of the Battle Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2100,
-  "def": 1200,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

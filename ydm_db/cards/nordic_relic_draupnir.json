@@ -3,10 +3,10 @@
   "name": "Nordic Relic Draupnir",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Equip only to an \"Aesir\" or \"Nordic\" monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 \"Nordic Relic\" card from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55154048.jpg"
   ],
+  "text": "Equip only to an \"Aesir\" or \"Nordic\" monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 \"Nordic Relic\" card from your Deck to your hand.",
   "type": "Spell",
   "spell_type": "Equip"
 }

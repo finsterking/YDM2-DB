@@ -3,19 +3,19 @@
   "name": "Superheavy Samurai Big Waraji",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36523152.jpg"
   ],
+  "text": "If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except \"Superheavy Samurai\" monsters. This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 800,
-  "def": 1800,
-  "level": 5,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
 }

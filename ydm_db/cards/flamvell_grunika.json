@@ -3,19 +3,19 @@
   "name": "Flamvell Grunika",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the Level of the destroyed monster x 200.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77372241.jpg"
   ],
+  "text": "When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the Level of the destroyed monster x 200.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1700,
-  "def": 200,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
 }

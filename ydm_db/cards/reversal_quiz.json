@@ -3,10 +3,10 @@
   "name": "Reversal Quiz",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Send all cards in your hand and on your side of the field to the Graveyard. Call the type of card (Spell, Trap, or Monster) on top of your Deck. If you call it right, exchange your current Life Points with your opponent's current ones.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5990062.jpg"
   ],
+  "text": "Send all cards in your hand and on your side of the field to the Graveyard. Call the type of card (Spell, Trap, or Monster) on top of your Deck. If you call it right, exchange your current Life Points with your opponent's current ones.",
   "type": "Spell",
   "spell_type": "Normal"
 }

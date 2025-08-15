@@ -3,19 +3,19 @@
   "name": "Liquid Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A liquid life form that thrives on water.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93108297.jpg"
   ],
+  "text": "A liquid life form that thrives on water.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 950,
-  "def": 800,
-  "level": 3,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

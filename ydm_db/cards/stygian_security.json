@@ -3,19 +3,19 @@
   "name": "Stygian Security",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 1 Fiend-Type monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50732780.jpg"
   ],
+  "text": "If this card is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 1 Fiend-Type monster from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 100,
-  "def": 600,
-  "level": 1,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 1,
+  "is_tuner": true
 }

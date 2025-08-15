@@ -3,19 +3,19 @@
   "name": "Junk Archer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 monster your opponent controls; banish it. During the End Phase of this turn, return it to your opponent's side of the field, in the same battle position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42810973.jpg"
   ],
+  "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nOnce per turn: You can target 1 monster your opponent controls; banish it. During the End Phase of this turn, return it to your opponent's side of the field, in the same battle position.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "EARTH",
   "atk": 2300,
-  "def": 2000,
-  "level": 7,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

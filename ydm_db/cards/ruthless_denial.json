@@ -3,10 +3,10 @@
   "name": "Ruthless Denial",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select 1 monster you control and send it to the Graveyard, and send 1 random card in your opponent's hand to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73148972.jpg"
   ],
+  "text": "Select 1 monster you control and send it to the Graveyard, and send 1 random card in your opponent's hand to the Graveyard.",
   "type": "Spell",
   "spell_type": "Normal"
 }

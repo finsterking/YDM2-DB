@@ -3,19 +3,19 @@
   "name": "Skystarray",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can attack your opponent directly. At the end of the Battle Phase, if this card attacked directly: Banish this card until your next Standby Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47349310.jpg"
   ],
+  "text": "This card can attack your opponent directly. At the end of the Battle Phase, if this card attacked directly: Banish this card until your next Standby Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 600,
-  "def": 300,
-  "level": 3,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Tornado Bird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71283180.jpg"
   ],
+  "text": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1100,
-  "def": 1000,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

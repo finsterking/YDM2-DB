@@ -3,19 +3,19 @@
   "name": "Triggering Wurm",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the GY as Link Material for the Link Summon of a DARK monster: You can Special Summon this card from your GY in Attack Position, to your zone that Link Monster points to, but it cannot be used as Link Material. If this card is destroyed or banished by an effect activated by a Link Monster: Draw 1 card. You can only use each effect of \"Triggering Wurm\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95504778.jpg"
   ],
+  "text": "If this card is sent to the GY as Link Material for the Link Summon of a DARK monster: You can Special Summon this card from your GY in Attack Position, to your zone that Link Monster points to, but it cannot be used as Link Material. If this card is destroyed or banished by an effect activated by a Link Monster: Draw 1 card. You can only use each effect of \"Triggering Wurm\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 600,
-  "def": 600,
-  "level": 2,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

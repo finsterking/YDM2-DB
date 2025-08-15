@@ -3,10 +3,10 @@
   "name": "Intercept",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when a monster is Tribute Summoned with 1 Tribute. Take control of that monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59695933.jpg"
   ],
+  "text": "Activate only when a monster is Tribute Summoned with 1 Tribute. Take control of that monster.",
   "type": "Trap",
   "trap_type": "Counter"
 }

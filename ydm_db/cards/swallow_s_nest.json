@@ -3,10 +3,10 @@
   "name": "Swallow's Nest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Tribute 1 face-up Winged Beast-Type monster; Special Summon 1 Winged Beast-Type monster from your Deck with the same Level the Tributed monster had on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94145683.jpg"
   ],
+  "text": "Tribute 1 face-up Winged Beast-Type monster; Special Summon 1 Winged Beast-Type monster from your Deck with the same Level the Tributed monster had on the field.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

@@ -3,19 +3,19 @@
   "name": "The Unhappy Maiden",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51275027.jpg"
   ],
+  "text": "When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 100,
-  "level": 1,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

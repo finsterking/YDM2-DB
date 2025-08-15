@@ -3,19 +3,19 @@
   "name": "Emes the Infinity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time this card destroys an opponent's monster and sends it to the Graveyard as a result of battle, increase the ATK of this card by 700 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43580269.jpg"
   ],
+  "text": "Each time this card destroys an opponent's monster and sends it to the Graveyard as a result of battle, increase the ATK of this card by 700 points.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 2000,
-  "level": 7,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Thunder Ball",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Damage Step, if a monster battled: You can Special Summon this card from your hand. You can send 1 Trap from your hand or that's Set on your field to the GY; destroy all other monsters in this card's column. If this card in the Monster Zone is destroyed by battle or card effect and sent to the GY: You can target 1 card in your GY; roll a six-sided die, and if the result is 6, add that target to your hand. You can only use each effect of \"Thunder Ball\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84813516.jpg"
   ],
+  "text": "At the end of the Damage Step, if a monster battled: You can Special Summon this card from your hand. You can send 1 Trap from your hand or that's Set on your field to the GY; destroy all other monsters in this card's column. If this card in the Monster Zone is destroyed by battle or card effect and sent to the GY: You can target 1 card in your GY; roll a six-sided die, and if the result is 6, add that target to your hand. You can only use each effect of \"Thunder Ball\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 450,
-  "def": 400,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
 }

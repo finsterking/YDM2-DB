@@ -3,19 +3,18 @@
   "name": "Infernal Flame Vixen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Pyro-Type Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK until your opponent's End Phase. When this card with 2500 or more ATK is destroyed: Target 3 monsters in any Graveyard(s); banish those targets.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58712976.jpg"
   ],
+  "text": "2 Pyro-Type Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK until your opponent's End Phase. When this card with 2500 or more ATK is destroyed: Target 3 monsters in any Graveyard(s); banish those targets.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "FIRE",
   "atk": 2200,
-  "def": 2000,
-  "level": 4,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2000
 }

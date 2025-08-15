@@ -3,10 +3,10 @@
   "name": "Everliving Underworld Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, when a Zombie-Type monster is Special Summoned to your side of the field: Inflict 800 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31467372.jpg"
   ],
+  "text": "Once per turn, when a Zombie-Type monster is Special Summoned to your side of the field: Inflict 800 damage to your opponent.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

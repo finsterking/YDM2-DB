@@ -3,19 +3,19 @@
   "name": "Phantom Beast Cross-Wing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is in the Graveyard, \"Gazelle the King of Mythical Beasts\" and all \"Phantom Beast\" monsters on the field gain 300 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71181155.jpg"
   ],
+  "text": "While this card is in the Graveyard, \"Gazelle the King of Mythical Beasts\" and all \"Phantom Beast\" monsters on the field gain 300 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1300,
-  "def": 1300,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

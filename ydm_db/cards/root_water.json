@@ -3,19 +3,19 @@
   "name": "Root Water",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39004808.jpg"
   ],
+  "text": "An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 900,
-  "def": 800,
-  "level": 3,
   "species": "Fish",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

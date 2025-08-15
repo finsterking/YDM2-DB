@@ -3,19 +3,19 @@
   "name": "Rose Princess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand). If Summoned this way, treat this card as a Tuner. You can only Special Summon \"Rose Princess\" once per turn this way. You can discard this card; add 1 \"White Rose Cloister\" from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58062306.jpg"
   ],
+  "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand). If Summoned this way, treat this card as a Tuner. You can only Special Summon \"Rose Princess\" once per turn this way. You can discard this card; add 1 \"White Rose Cloister\" from your Deck to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 800,
-  "level": 3,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Metalfoes Crimsonite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Metalfoes\" monster + 2 monsters with 3000 or less ATK",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54401832.jpg"
   ],
+  "text": "1 \"Metalfoes\" monster + 2 monsters with 3000 or less ATK",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "FIRE",
   "atk": 3000,
-  "def": 3000,
-  "level": 9,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 3000,
+  "level": 9,
+  "is_tuner": false
 }

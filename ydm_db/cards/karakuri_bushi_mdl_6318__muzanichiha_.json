@@ -3,19 +3,19 @@
   "name": "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. If another \"Karakuri\" monster on the field is destroyed, this card gains 400 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39118197.jpg"
   ],
+  "text": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. If another \"Karakuri\" monster on the field is destroyed, this card gains 400 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 600,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

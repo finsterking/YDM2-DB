@@ -3,10 +3,10 @@
   "name": "Sparks",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Inflict 200 points of damage to your opponent's Life Points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76103675.jpg"
   ],
+  "text": "Inflict 200 points of damage to your opponent's Life Points.",
   "type": "Spell",
   "spell_type": "Normal"
 }

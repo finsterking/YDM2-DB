@@ -3,19 +3,19 @@
   "name": "Thousand-Eyes Idol",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27125110.jpg"
   ],
+  "text": "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 0,
-  "def": 0,
-  "level": 1,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
 }

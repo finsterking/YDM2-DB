@@ -3,19 +3,19 @@
   "name": "Gate Deeg",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49258578.jpg"
   ],
+  "text": "''This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 700,
-  "def": 800,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

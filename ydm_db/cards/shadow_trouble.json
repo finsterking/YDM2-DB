@@ -3,10 +3,10 @@
   "name": "Shadow Trouble",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up card your opponent controls; apply this effect based on the number of cards with that name in your opponent's GY.\n● 1: Destroy it.\n● 2: Banish it.\n● 3+: Banish it, also all cards with that name from your opponent's field and GY, face-down.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31969219.jpg"
   ],
+  "text": "Target 1 face-up card your opponent controls; apply this effect based on the number of cards with that name in your opponent's GY.\n● 1: Destroy it.\n● 2: Banish it.\n● 3+: Banish it, also all cards with that name from your opponent's field and GY, face-down.",
   "type": "Trap",
   "trap_type": "Normal"
 }

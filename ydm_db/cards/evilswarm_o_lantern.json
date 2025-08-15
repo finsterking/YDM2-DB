@@ -3,19 +3,19 @@
   "name": "Evilswarm O'lantern",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72429240.jpg"
   ],
+  "text": "You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1650,
-  "def": 1250,
-  "level": 4,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1250,
+  "level": 4,
+  "is_tuner": false
 }

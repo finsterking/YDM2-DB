@@ -3,19 +3,19 @@
   "name": "Rubic, Malebranche of the Burning Abyss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Burning Abyss\" Synchro Monster. If you control no Spell/Trap Cards: You can Special Summon this card from your hand. You can only use this effect of \"Rubic, Malebranche of the Burning Abyss\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/734741.jpg"
   ],
+  "text": "If you control a monster that is not a \"Burning Abyss\" monster, destroy this card. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Burning Abyss\" Synchro Monster. If you control no Spell/Trap Cards: You can Special Summon this card from your hand. You can only use this effect of \"Rubic, Malebranche of the Burning Abyss\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 100,
-  "def": 2100,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2100,
+  "level": 3,
+  "is_tuner": true
 }

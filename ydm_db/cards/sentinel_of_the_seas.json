@@ -3,19 +3,19 @@
   "name": "Sentinel of the Seas",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A merman warrior that relentlessly attacks those who pollute the seas with their presence.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85448931.jpg"
   ],
+  "text": "A merman warrior that relentlessly attacks those who pollute the seas with their presence.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1300,
-  "def": 1000,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

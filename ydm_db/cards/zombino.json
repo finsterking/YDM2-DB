@@ -3,19 +3,19 @@
   "name": "Zombino",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The two are so close\nThey die and return to life\nInseparable",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14575467.jpg"
   ],
+  "text": "The two are so close\nThey die and return to life\nInseparable",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2000,
-  "def": 0,
-  "level": 4,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

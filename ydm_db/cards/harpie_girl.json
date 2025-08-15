@@ -3,19 +3,19 @@
   "name": "Harpie Girl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A Harpie chick who aspires to flit about beautifully and gorgeously, but attack sharply.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34100324.jpg"
   ],
+  "text": "A Harpie chick who aspires to flit about beautifully and gorgeously, but attack sharply.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 500,
-  "def": 500,
-  "level": 2,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Zombie Mammoth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy this card if you do not have a Zombie-Type monster in your Graveyard. When this face-up card is destroyed, inflict damage to its controller equal to its original ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43642620.jpg"
   ],
+  "text": "Destroy this card if you do not have a Zombie-Type monster in your Graveyard. When this face-up card is destroyed, inflict damage to its controller equal to its original ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1900,
-  "def": 0,
-  "level": 4,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

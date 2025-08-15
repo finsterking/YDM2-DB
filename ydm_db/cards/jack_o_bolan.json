@@ -3,19 +3,19 @@
   "name": "Jack-o-Bolan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 Zombie monster; Special Summon this card from your hand. During your opponent's Main Phase (Quick Effect): You can target 1 Zombie monster in either GY; Special Summon that monster (but banish it when it leaves the field), then banish this face-up card until the End Phase. You can only use each effect of \"Jack-o-Bolan\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36016907.jpg"
   ],
+  "text": "You can discard 1 Zombie monster; Special Summon this card from your hand. During your opponent's Main Phase (Quick Effect): You can target 1 Zombie monster in either GY; Special Summon that monster (but banish it when it leaves the field), then banish this face-up card until the End Phase. You can only use each effect of \"Jack-o-Bolan\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1500,
-  "def": 2200,
-  "level": 7,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2200,
+  "level": 7,
+  "is_tuner": false
 }

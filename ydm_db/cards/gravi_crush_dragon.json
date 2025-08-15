@@ -3,19 +3,19 @@
   "name": "Gravi-Crush Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send 1 face-up Continuous Spell Card you control to the Graveyard, then target 1 monster your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9391354.jpg"
   ],
+  "text": "You can send 1 face-up Continuous Spell Card you control to the Graveyard, then target 1 monster your opponent controls; destroy that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 1200,
-  "level": 6,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
 }

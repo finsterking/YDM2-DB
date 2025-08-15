@@ -3,19 +3,19 @@
   "name": "Naturia Spiderfang",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot declare an attack unless your opponent activated a Spell, Trap, Spell/Trap effect, or Monster effect this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25654671.jpg"
   ],
+  "text": "This card cannot declare an attack unless your opponent activated a Spell, Trap, Spell/Trap effect, or Monster effect this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2100,
-  "def": 400,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
 }

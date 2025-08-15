@@ -3,19 +3,19 @@
   "name": "Solar Wind Jammer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved. During each of your Standby Phases: Increase the Level of this card by 1. There can only be 1 \"Solar Wind Jammer\" on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33911264.jpg"
   ],
+  "text": "If you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved. During each of your Standby Phases: Increase the Level of this card by 1. There can only be 1 \"Solar Wind Jammer\" on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 800,
-  "def": 2400,
-  "level": 5,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2400,
+  "level": 5,
+  "is_tuner": false
 }

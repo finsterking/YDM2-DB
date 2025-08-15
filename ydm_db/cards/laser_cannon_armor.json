@@ -3,10 +3,10 @@
   "name": "Laser Cannon Armor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Equip only to an Insect monster. It gains 300 ATK/DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77007920.jpg"
   ],
+  "text": "Equip only to an Insect monster. It gains 300 ATK/DEF.",
   "type": "Spell",
   "spell_type": "Equip"
 }

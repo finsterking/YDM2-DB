@@ -3,19 +3,19 @@
   "name": "Garoth, Lightsworn Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a card(s) is sent from your Deck to the GY by the effect of a \"Lightsworn\" monster you control, except \"Garoth, Lightsworn Warrior\": Send the top 2 cards of your Deck to the GY, then draw 1 card for each \"Lightsworn\" monster sent to the GY by this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59019082.jpg"
   ],
+  "text": "Each time a card(s) is sent from your Deck to the GY by the effect of a \"Lightsworn\" monster you control, except \"Garoth, Lightsworn Warrior\": Send the top 2 cards of your Deck to the GY, then draw 1 card for each \"Lightsworn\" monster sent to the GY by this effect.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1850,
-  "def": 1300,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

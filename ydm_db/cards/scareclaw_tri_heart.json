@@ -3,25 +3,22 @@
   "name": "Scareclaw Tri-Heart",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Effect Monsters\nMust be Link Summoned. All face-up monsters on the field are changed to Defense Position. Unaffected by the activated effects of Defense Position monsters. Once per turn, if this card is in the Extra Monster Zone: You can target 1 Level 3 \"Scareclaw\" monster in your GY; Special Summon it, and if you do, add 1 \"Scareclaw\" monster from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn, except \"Scareclaw\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59120809.jpg"
   ],
+  "text": "3 Effect Monsters\nMust be Link Summoned. All face-up monsters on the field are changed to Defense Position. Unaffected by the activated effects of Defense Position monsters. Once per turn, if this card is in the Extra Monster Zone: You can target 1 Level 3 \"Scareclaw\" monster in your GY; Special Summon it, and if you do, add 1 \"Scareclaw\" monster from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn, except \"Scareclaw\" monsters.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 3000,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Beast-Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Bottom-Left",
     "Bottom",
     "Bottom-Right"
-  ],
-  "species": "Beast-Warrior",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

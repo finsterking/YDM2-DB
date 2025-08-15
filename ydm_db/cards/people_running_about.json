@@ -3,19 +3,19 @@
   "name": "People Running About",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Although they always suffer in silence, they swear an oath to inevitably revolt.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12143771.jpg"
   ],
+  "text": "Although they always suffer in silence, they swear an oath to inevitably revolt.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 600,
-  "def": 600,
-  "level": 2,
   "species": "Pyro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

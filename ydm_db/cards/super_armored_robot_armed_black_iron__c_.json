@@ -3,19 +3,19 @@
   "name": "Super Armored Robot Armed Black Iron \"C\"",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you have 3 Insect monsters with the same name in your GY: You can target any number of them; Special Summon this card from your hand, then equip them to this card. You can send 1 monster equipped to this card by this card's effect to the GY; destroy all monsters your opponent controls with ATK greater than or equal to the ATK of the monster sent to the GY. You can only use each effect of \"Super Armored Robot Armed Black Iron \"C\"\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77754169.jpg"
   ],
+  "text": "If you have 3 Insect monsters with the same name in your GY: You can target any number of them; Special Summon this card from your hand, then equip them to this card. You can send 1 monster equipped to this card by this card's effect to the GY; destroy all monsters your opponent controls with ATK greater than or equal to the ATK of the monster sent to the GY. You can only use each effect of \"Super Armored Robot Armed Black Iron \"C\"\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2400,
-  "def": 2000,
-  "level": 8,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
 }

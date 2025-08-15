@@ -3,10 +3,10 @@
   "name": "Rain of Mercy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Increases the Life Points of both players by 1000 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66719324.jpg"
   ],
+  "text": "Increases the Life Points of both players by 1000 points.",
   "type": "Spell",
   "spell_type": "Normal"
 }

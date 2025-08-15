@@ -3,10 +3,10 @@
   "name": "Magical Labyrinth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Equip only to \"Labyrinth Wall\". You can Tribute the equipped monster; Special Summon \"Wall Shadow\" from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64389297.jpg"
   ],
+  "text": "Equip only to \"Labyrinth Wall\". You can Tribute the equipped monster; Special Summon \"Wall Shadow\" from your Deck.",
   "type": "Spell",
   "spell_type": "Equip"
 }

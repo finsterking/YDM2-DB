@@ -3,19 +3,19 @@
   "name": "Petit Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A very small dragon known for its vicious attacks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75356564.jpg"
   ],
+  "text": "A very small dragon known for its vicious attacks.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 600,
-  "def": 700,
-  "level": 2,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

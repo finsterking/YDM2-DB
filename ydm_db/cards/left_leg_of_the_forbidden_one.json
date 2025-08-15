@@ -3,19 +3,19 @@
   "name": "Left Leg of the Forbidden One",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44519536.jpg"
   ],
+  "text": "A forbidden left leg sealed by magic. Whosoever breaks this seal will know infinite power.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 200,
-  "def": 300,
-  "level": 1,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
 }

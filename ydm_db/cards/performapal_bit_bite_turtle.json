@@ -3,19 +3,22 @@
   "name": "Performapal Bit Bite Turtle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).\n\n[ Monster Effect ] \nWhen this card is destroyed by battle: You can destroy the monster that destroyed it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89113320.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).\n\n[ Monster Effect ] \nWhen this card is destroyed by battle: You can destroy the monster that destroyed it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 800,
-  "def": 1200,
-  "level": 3,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 1200,
+  "level": 3,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Once per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
 }

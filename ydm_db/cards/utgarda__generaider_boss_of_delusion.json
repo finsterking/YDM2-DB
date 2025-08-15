@@ -3,19 +3,19 @@
   "name": "Utgarda, Generaider Boss of Delusion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can only control 1 \"Utgarda, Generaider Boss of Delusion\". (Quick Effect): You can Tribute 2 \"Generaider\" monsters and/or Rock monsters, then target 1 card on the field; banish it. You can only use this effect of \"Utgarda, Generaider Boss of Delusion\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/744887.jpg"
   ],
+  "text": "You can only control 1 \"Utgarda, Generaider Boss of Delusion\". (Quick Effect): You can Tribute 2 \"Generaider\" monsters and/or Rock monsters, then target 1 card on the field; banish it. You can only use this effect of \"Utgarda, Generaider Boss of Delusion\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2200,
-  "def": 2700,
-  "level": 9,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2700,
+  "level": 9,
+  "is_tuner": false
 }

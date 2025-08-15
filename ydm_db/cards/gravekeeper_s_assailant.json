@@ -3,19 +3,19 @@
   "name": "Gravekeeper's Assailant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card declares an attack while \"Necrovalley\" is on the field: You can target 1 face-up monster your opponent controls; change that target's battle position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25262697.jpg"
   ],
+  "text": "When this card declares an attack while \"Necrovalley\" is on the field: You can target 1 face-up monster your opponent controls; change that target's battle position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1500,
-  "def": 1500,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

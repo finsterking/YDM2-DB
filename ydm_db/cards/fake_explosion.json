@@ -3,10 +3,10 @@
   "name": "Fake Explosion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when an opponent's monster declares an attack. Monsters cannot be destroyed by this battle. After damage calculation, Special Summon 1 \"Summon Reactor・SK\" from your hand or Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41234315.jpg"
   ],
+  "text": "Activate only when an opponent's monster declares an attack. Monsters cannot be destroyed by this battle. After damage calculation, Special Summon 1 \"Summon Reactor・SK\" from your hand or Graveyard.",
   "type": "Trap",
   "trap_type": "Normal"
 }

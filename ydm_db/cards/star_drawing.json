@@ -3,19 +3,19 @@
   "name": "Star Drawing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is used for an Xyz Summon, you can treat it as a Level 5 monster. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.\n● If it is Xyz Summoned: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24610207.jpg"
   ],
+  "text": "If this card is used for an Xyz Summon, you can treat it as a Level 5 monster. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.\n● If it is Xyz Summoned: Draw 1 card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1600,
-  "def": 1000,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

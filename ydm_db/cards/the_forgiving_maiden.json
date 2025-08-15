@@ -3,20 +3,20 @@
   "name": "The Forgiving Maiden",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84080939.jpg",
     "https://images.ygoprodeck.com/images/cards/84080938.jpg"
   ],
+  "text": "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 850,
-  "def": 2000,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

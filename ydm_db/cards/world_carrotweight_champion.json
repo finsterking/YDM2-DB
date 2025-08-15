@@ -3,19 +3,19 @@
   "name": "World Carrotweight Champion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in your Graveyard: You can send 1 Plant-Type monster from your hand or face-up from your field to the Graveyard, except \"World Carrotweight Champion\"; Special Summon this card. You can only use this effect of \"World Carrotweight Champion\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44928016.jpg"
   ],
+  "text": "If this card is in your Graveyard: You can send 1 Plant-Type monster from your hand or face-up from your field to the Graveyard, except \"World Carrotweight Champion\"; Special Summon this card. You can only use this effect of \"World Carrotweight Champion\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1900,
-  "def": 0,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

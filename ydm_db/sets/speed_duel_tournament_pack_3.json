@@ -43,12 +43,6 @@
       "image_index": 0
     },
     {
-      "id": 300104004,
-      "code": "STP3-ENS01",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 24508238,
       "code": "STP3-EN016",
       "rarity": "Common",
@@ -81,12 +75,6 @@
     {
       "id": 39033131,
       "code": "STP3-EN030",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300205001,
-      "code": "STP3-ENS02",
       "rarity": "Common",
       "image_index": 0
     },
@@ -178,12 +166,6 @@
       "id": 15259703,
       "code": "STP3-EN009",
       "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300205004,
-      "code": "STP3-ENS03",
-      "rarity": "Common",
       "image_index": 0
     },
     {

@@ -3,10 +3,10 @@
   "name": "Scrap Sheen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select 1 face-up \"Scrap\" monster you control and destroy it. All face-up \"Scrap\" monsters you control gain 1000 ATK until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74439492.jpg"
   ],
+  "text": "Select 1 face-up \"Scrap\" monster you control and destroy it. All face-up \"Scrap\" monsters you control gain 1000 ATK until the End Phase.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

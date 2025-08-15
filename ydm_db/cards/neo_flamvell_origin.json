@@ -3,19 +3,19 @@
   "name": "Neo Flamvell Origin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a face-up \"Flamvell\" monster, except \"Neo Flamvell Origin\", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66378485.jpg"
   ],
+  "text": "If you control a face-up \"Flamvell\" monster, except \"Neo Flamvell Origin\", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 500,
-  "def": 200,
-  "level": 2,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 2,
+  "is_tuner": true
 }

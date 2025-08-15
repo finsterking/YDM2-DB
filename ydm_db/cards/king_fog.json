@@ -3,19 +3,19 @@
   "name": "King Fog",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A fiend that dwells in a blinding curtain of smoke.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84686841.jpg"
   ],
+  "text": "A fiend that dwells in a blinding curtain of smoke.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 900,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

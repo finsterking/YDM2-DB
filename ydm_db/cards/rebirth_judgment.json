@@ -3,10 +3,10 @@
   "name": "Rebirth Judgment",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can declare 1 Monster Type; monsters in the GYs become that Type for the rest of this turn (even if this card leaves the field).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45064756.jpg"
   ],
+  "text": "Once per turn: You can declare 1 Monster Type; monsters in the GYs become that Type for the rest of this turn (even if this card leaves the field).",
   "type": "Trap",
   "trap_type": "Continuous"
 }

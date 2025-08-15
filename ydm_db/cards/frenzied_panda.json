@@ -3,19 +3,19 @@
   "name": "Frenzied Panda",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A savage beast that carries a big bamboo stick for beating down its enemies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98818516.jpg"
   ],
+  "text": "A savage beast that carries a big bamboo stick for beating down its enemies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 1000,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,22 @@
   "name": "Edge Imp Cotton Eater",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nAll Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can draw 1 card.\n\n[ Monster Effect ] \nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each \"Frightfur\" monster in your GY. You can only use this effect of \"Edge Imp Cotton Eater\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73240432.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nAll Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can draw 1 card.\n\n[ Monster Effect ] \nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each \"Frightfur\" monster in your GY. You can only use this effect of \"Edge Imp Cotton Eater\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 1600,
-  "level": 7,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 1600,
+  "level": 7,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "All Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can draw 1 card.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
 }

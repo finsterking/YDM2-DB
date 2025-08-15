@@ -3,19 +3,19 @@
   "name": "PSY-Frame Driver",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A Psychic soldier that rides into battle against the Security Forces on currents of lightning, using an autonomic amplifier called \"PSY-Frame\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49036338.jpg"
   ],
+  "text": "A Psychic soldier that rides into battle against the Security Forces on currents of lightning, using an autonomic amplifier called \"PSY-Frame\".",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 0,
-  "level": 6,
   "species": "Psychic",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
 }

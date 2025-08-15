@@ -3,19 +3,19 @@
   "name": "Harpie Lady 1",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card's name is always treated as \"Harpie Lady\".)\nAll WIND monsters gain 300 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91932350.jpg"
   ],
+  "text": "(This card's name is always treated as \"Harpie Lady\".)\nAll WIND monsters gain 300 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1300,
-  "def": 1400,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

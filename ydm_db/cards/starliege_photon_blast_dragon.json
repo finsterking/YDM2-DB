@@ -3,19 +3,18 @@
   "name": "Starliege Photon Blast Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can Special Summon 1 \"Photon\" monster from your hand. While this Xyz Summoned monster is on the field, your opponent cannot target monsters you control with 2000 or more ATK with card effects, also they cannot be destroyed by your opponent's card effects. Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target 1 of your \"Galaxy-Eyes Photon Dragon\" that is banished or in your GY; Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16643334.jpg"
   ],
+  "text": "2 Level 4 monsters\nIf this card is Xyz Summoned: You can Special Summon 1 \"Photon\" monster from your hand. While this Xyz Summoned monster is on the field, your opponent cannot target monsters you control with 2000 or more ATK with card effects, also they cannot be destroyed by your opponent's card effects. Once per opponent's turn (Quick Effect): You can detach 1 material from this card, then target 1 of your \"Galaxy-Eyes Photon Dragon\" that is banished or in your GY; Special Summon it.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 2500,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2500
 }

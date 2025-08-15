@@ -3,19 +3,19 @@
   "name": "Genex Controller",
   "is_illegal": false,
   "is_custom": false,
-  "text": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68505803.jpg"
   ],
+  "text": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1400,
-  "def": 1200,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": true
 }

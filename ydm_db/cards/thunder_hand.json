@@ -3,19 +3,19 @@
   "name": "Thunder Hand",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a face-up monster(s) you control with 1600 original ATK or DEF is destroyed by battle or an opponent's card effect and sent to the GY, while this card is in your hand or GY: You can Special Summon this card (but banish it when it leaves the field), and if you do, destroy 1 card your opponent controls. You can only use this effect of \"Thunder Hand\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16223761.jpg"
   ],
+  "text": "If a face-up monster(s) you control with 1600 original ATK or DEF is destroyed by battle or an opponent's card effect and sent to the GY, while this card is in your hand or GY: You can Special Summon this card (but banish it when it leaves the field), and if you do, destroy 1 card your opponent controls. You can only use this effect of \"Thunder Hand\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 1600,
-  "level": 4,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

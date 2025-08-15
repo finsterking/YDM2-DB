@@ -3,19 +3,19 @@
   "name": "Meda Bat",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76211194.jpg"
   ],
+  "text": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 800,
-  "def": 400,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
 }

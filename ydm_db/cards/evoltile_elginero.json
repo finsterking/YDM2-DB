@@ -3,19 +3,19 @@
   "name": "Evoltile Elginero",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card on the field is Tributed and sent to the Graveyard: Draw 1 card, then, you can shuffle 1 Dinosaur-Type monster from your hand into the Deck, then add 1 \"Evoltile\" monster from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91903221.jpg"
   ],
+  "text": "When this card on the field is Tributed and sent to the Graveyard: Draw 1 card, then, you can shuffle 1 Dinosaur-Type monster from your hand into the Deck, then add 1 \"Evoltile\" monster from your Deck to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 0,
-  "def": 0,
-  "level": 2,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
 }

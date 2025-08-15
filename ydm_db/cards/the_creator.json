@@ -3,19 +3,19 @@
   "name": "The Creator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned from the Graveyard. Once per turn: You can target 1 monster in your Graveyard; send 1 card from your hand to the Graveyard, and if you do, Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61505339.jpg"
   ],
+  "text": "Cannot be Special Summoned from the Graveyard. Once per turn: You can target 1 monster in your Graveyard; send 1 card from your hand to the Graveyard, and if you do, Special Summon that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2300,
-  "def": 3000,
-  "level": 8,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
 }

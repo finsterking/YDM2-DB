@@ -3,19 +3,22 @@
   "name": "Solfachord Primoria",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster(s): You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.\n\n[ Monster Effect ] \nWhile you have \"Solfachord\" cards with even and odd Pendulum Scales in your Pendulum Zone, your activated \"Solfachord\" cards' effects cannot be negated. You can only use each of the following effects of \"Solfachord Primoria\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" card from your Deck to your hand, except \"Solfachord Primoria\". If you Link Summon a \"Solfachord\" monster: You can add 1 \"Solfachord\" card from your GY or face-up Extra Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11688916.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster(s): You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.\n\n[ Monster Effect ] \nWhile you have \"Solfachord\" cards with even and odd Pendulum Scales in your Pendulum Zone, your activated \"Solfachord\" cards' effects cannot be negated. You can only use each of the following effects of \"Solfachord Primoria\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" card from your Deck to your hand, except \"Solfachord Primoria\". If you Link Summon a \"Solfachord\" monster: You can add 1 \"Solfachord\" card from your GY or face-up Extra Deck to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 0,
-  "def": 400,
-  "level": 1,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 400,
+  "level": 1,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "When you Pendulum Summon a monster(s): You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.",
+  "pendulum_scale_left_blue": 0,
+  "pendulum_scale_right_red": 0
 }

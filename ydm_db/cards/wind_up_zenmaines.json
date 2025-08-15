@@ -3,19 +3,18 @@
   "name": "Wind-Up Zenmaines",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 monsters\nIf this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78156759.jpg"
   ],
+  "text": "2 Level 3 monsters\nIf this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "FIRE",
   "atk": 1500,
-  "def": 2100,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 3,
+  "def": 2100
 }

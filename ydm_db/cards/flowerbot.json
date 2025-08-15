@@ -3,19 +3,19 @@
   "name": "Flowerbot",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the Graveyard: Draw 1 card, then place 1 card from your hand on the top of the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45010690.jpg"
   ],
+  "text": "If this card is sent to the Graveyard: Draw 1 card, then place 1 card from your hand on the top of the Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 800,
-  "level": 3,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

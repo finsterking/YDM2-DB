@@ -3,19 +3,19 @@
   "name": "Time Escaper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player's turn: You can discard this card, then target 1 Psychic-Type monster you control; banish it until your next Standby Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73625877.jpg"
   ],
+  "text": "During either player's turn: You can discard this card, then target 1 Psychic-Type monster you control; banish it until your next Standby Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 100,
-  "level": 2,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Lady's Dragonmaid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"Dragonmaid\" monsters with the same Attribute but different Levels\nMust first be Special Summoned (from your Extra Deck) by banishing the above monsters, 1 each from your field and GY. If this card is Special Summoned: You can Special Summon 1 Level 4 or lower \"Dragonmaid\" monster from your Deck. During the Standby Phase: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your field and/or banishment into the Deck. You can only use each effect of \"Lady's Dragonmaid\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48658295.jpg"
   ],
+  "text": "2 \"Dragonmaid\" monsters with the same Attribute but different Levels\nMust first be Special Summoned (from your Extra Deck) by banishing the above monsters, 1 each from your field and GY. If this card is Special Summoned: You can Special Summon 1 Level 4 or lower \"Dragonmaid\" monster from your Deck. During the Standby Phase: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your field and/or banishment into the Deck. You can only use each effect of \"Lady's Dragonmaid\" once per turn.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 3000,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
 }

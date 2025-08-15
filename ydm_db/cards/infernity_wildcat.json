@@ -3,19 +3,19 @@
   "name": "Infernity Wildcat",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) by sending 1 other \"Infernity\" monster in your hand to the GY. You can only Special Summon \"Infernity Wildcat\" once per turn this way. While you have no cards in your hand: You can banish 1 \"Infernity\" monster from your GY; increase or decrease the Level of this card by 1 until the end of this turn. You can only use this effect of \"Infernity Wildcat\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74148483.jpg"
   ],
+  "text": "You can Special Summon this card (from your hand) by sending 1 other \"Infernity\" monster in your hand to the GY. You can only Special Summon \"Infernity Wildcat\" once per turn this way. While you have no cards in your hand: You can banish 1 \"Infernity\" monster from your GY; increase or decrease the Level of this card by 1 until the end of this turn. You can only use this effect of \"Infernity Wildcat\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1400,
-  "def": 0,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 3,
+  "is_tuner": true
 }

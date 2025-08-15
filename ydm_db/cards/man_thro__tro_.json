@@ -3,19 +3,19 @@
   "name": "Man-Thro' Tro'",
   "is_illegal": false,
   "is_custom": false,
-  "text": "By Tributing 1 Normal Monster (except a Token) on your side of the field, inflict 800 points of damage to your opponent's Life Points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43714890.jpg"
   ],
+  "text": "By Tributing 1 Normal Monster (except a Token) on your side of the field, inflict 800 points of damage to your opponent's Life Points.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 1000,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

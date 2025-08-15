@@ -3,10 +3,10 @@
   "name": "Eradicating Aerosol",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy all Insect monsters on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94716515.jpg"
   ],
+  "text": "Destroy all Insect monsters on the field.",
   "type": "Spell",
   "spell_type": "Normal"
 }

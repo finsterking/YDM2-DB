@@ -3,19 +3,19 @@
   "name": "Swap Cleric",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the GY as Link Material: You can have that Link Monster lose 500 ATK, then draw 1 card. You can only use this effect of \"Swap Cleric\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30968774.jpg"
   ],
+  "text": "If this card is sent to the GY as Link Material: You can have that Link Monster lose 500 ATK, then draw 1 card. You can only use this effect of \"Swap Cleric\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 1000,
-  "level": 2,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
 }

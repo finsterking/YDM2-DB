@@ -3,19 +3,19 @@
   "name": "The Masked Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with \"Curse of the Masked Beast\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49064413.jpg"
   ],
+  "text": "You can Ritual Summon this card with \"Curse of the Masked Beast\".",
   "type": "Monster",
-  "monster_type": "Ritual",
   "attribute": "DARK",
   "atk": 3200,
-  "def": 1800,
-  "level": 8,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Ritual",
+  "def": 1800,
+  "level": 8,
+  "is_tuner": false
 }

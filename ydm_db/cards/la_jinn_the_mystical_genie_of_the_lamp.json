@@ -3,20 +3,20 @@
   "name": "La Jinn the Mystical Genie of the Lamp",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A genie of the lamp that is at the beck and call of its master.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97590747.jpg",
     "https://images.ygoprodeck.com/images/cards/97590748.jpg"
   ],
+  "text": "A genie of the lamp that is at the beck and call of its master.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1800,
-  "def": 1000,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

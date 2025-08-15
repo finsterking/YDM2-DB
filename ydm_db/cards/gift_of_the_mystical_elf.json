@@ -3,10 +3,10 @@
   "name": "Gift of The Mystical Elf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Increase your Life Points by 300 points for each monster on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98299011.jpg"
   ],
+  "text": "Increase your Life Points by 300 points for each monster on the field.",
   "type": "Trap",
   "trap_type": "Normal"
 }

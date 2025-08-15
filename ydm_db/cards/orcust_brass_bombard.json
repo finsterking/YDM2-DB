@@ -3,19 +3,19 @@
   "name": "Orcust Brass Bombard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can banish this card from your GY; Special Summon 1 \"Orcust\" monster from your hand, except \"Orcust Brass Bombard\", also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of \"Orcust Brass Bombard\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94046012.jpg"
   ],
+  "text": "You can banish this card from your GY; Special Summon 1 \"Orcust\" monster from your hand, except \"Orcust Brass Bombard\", also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of \"Orcust Brass Bombard\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 500,
-  "def": 1900,
-  "level": 1,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1900,
+  "level": 1,
+  "is_tuner": true
 }

@@ -3,10 +3,10 @@
   "name": "Giant Trunade",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Return all Spell and Trap Cards on the field to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42703248.jpg"
   ],
+  "text": "Return all Spell and Trap Cards on the field to the hand.",
   "type": "Spell",
   "spell_type": "Normal"
 }

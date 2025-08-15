@@ -3,19 +3,19 @@
   "name": "Star Seraph Scout",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can Special Summon 1 \"Star Seraph\" monster from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8875971.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can Special Summon 1 \"Star Seraph\" monster from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": 1800,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

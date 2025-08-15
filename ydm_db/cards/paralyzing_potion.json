@@ -3,10 +3,10 @@
   "name": "Paralyzing Potion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A non Machine-Type monster equipped with this card cannot attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50152549.jpg"
   ],
+  "text": "A non Machine-Type monster equipped with this card cannot attack.",
   "type": "Spell",
   "spell_type": "Equip"
 }

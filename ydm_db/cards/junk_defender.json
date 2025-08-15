@@ -3,19 +3,19 @@
   "name": "Junk Defender",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player's turn: You can have this card gain 300 DEF until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68120130.jpg"
   ],
+  "text": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player's turn: You can have this card gain 300 DEF until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 1800,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
 }

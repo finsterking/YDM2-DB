@@ -3,19 +3,19 @@
   "name": "Raiza the Storm Monarch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73125233.jpg"
   ],
+  "text": "If this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 2400,
-  "def": 1000,
-  "level": 6,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

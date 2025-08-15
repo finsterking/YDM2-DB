@@ -3,10 +3,10 @@
   "name": "Spring of Rebirth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Increase your Life Points by 500 points every time monsters return from the field to the owner's hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94425169.jpg"
   ],
+  "text": "Increase your Life Points by 500 points every time monsters return from the field to the owner's hand.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

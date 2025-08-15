@@ -3,19 +3,19 @@
   "name": "The Stern Mystic",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Reveal all face-down cards on the field (Flip Effects are not activated), then return them to their original positions.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87557188.jpg"
   ],
+  "text": "FLIP: Reveal all face-down cards on the field (Flip Effects are not activated), then return them to their original positions.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1500,
-  "def": 1200,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

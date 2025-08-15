@@ -3,19 +3,19 @@
   "name": "Yomi Ship",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51534754.jpg"
   ],
+  "text": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 800,
-  "def": 1400,
-  "level": 3,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Odd-Eyes Vortex Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 opponent's face-up Attack Position monster; return it to the hand. When a Spell/Trap Card or another monster's effect is activated (Quick Effect): You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, negate the activation, and if you do, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53262004.jpg"
   ],
+  "text": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 opponent's face-up Attack Position monster; return it to the hand. When a Spell/Trap Card or another monster's effect is activated (Quick Effect): You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, negate the activation, and if you do, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WIND",
   "atk": 2500,
-  "def": 3000,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 3000,
+  "level": 7,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Photon Sabre Tiger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Flip Summoned: You can add 1 \"Photon Sabre Tiger\" from your Deck to your hand. If you do not control another \"Photon Sabre Tiger\", this card loses 800 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80495985.jpg"
   ],
+  "text": "When this card is Normal or Flip Summoned: You can add 1 \"Photon Sabre Tiger\" from your Deck to your hand. If you do not control another \"Photon Sabre Tiger\", this card loses 800 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 300,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
 }

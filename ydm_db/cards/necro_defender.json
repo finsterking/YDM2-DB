@@ -3,19 +3,19 @@
   "name": "Necro Defender",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Main Phase, you can remove from play this card from your Graveyard to select 1 monster you control. Until your opponent's next End Phase, that monster cannot be destroyed by battle, and you take no Battle Damage from battles involving it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77700347.jpg"
   ],
+  "text": "During your Main Phase, you can remove from play this card from your Graveyard to select 1 monster you control. Until your opponent's next End Phase, that monster cannot be destroyed by battle, and you take no Battle Damage from battles involving it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "def": 800,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
 }

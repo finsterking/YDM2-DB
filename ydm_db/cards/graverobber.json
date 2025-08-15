@@ -3,10 +3,10 @@
   "name": "Graverobber",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select 1 Spell Card from your opponent's Graveyard. You can use it as your hand until the end of the turn. If you use it, you take 2000 points of damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61705417.jpg"
   ],
+  "text": "Select 1 Spell Card from your opponent's Graveyard. You can use it as your hand until the end of the turn. If you use it, you take 2000 points of damage.",
   "type": "Trap",
   "trap_type": "Normal"
 }

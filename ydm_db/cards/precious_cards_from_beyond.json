@@ -3,10 +3,10 @@
   "name": "Precious Cards from Beyond",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you Tribute Summon a monster using 2 or more Tributes: Draw 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68304813.jpg"
   ],
+  "text": "When you Tribute Summon a monster using 2 or more Tributes: Draw 2 cards.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

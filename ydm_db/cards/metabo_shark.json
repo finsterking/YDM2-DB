@@ -3,19 +3,19 @@
   "name": "Metabo-Shark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 2 Fish-Type monsters in your Graveyard; shuffle those targets into your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37792478.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can target 2 Fish-Type monsters in your Graveyard; shuffle those targets into your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1800,
-  "def": 500,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
 }

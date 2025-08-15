@@ -3,10 +3,10 @@
   "name": "Wiretap",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a Trap Card is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34507039.jpg"
   ],
+  "text": "When a Trap Card is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
   "type": "Trap",
   "trap_type": "Counter"
 }

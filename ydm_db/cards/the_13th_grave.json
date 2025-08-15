@@ -3,19 +3,19 @@
   "name": "The 13th Grave",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A zombie that suddenly appeared from plot #13 - an empty grave.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32864.jpg"
   ],
+  "text": "A zombie that suddenly appeared from plot #13 - an empty grave.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 900,
-  "level": 3,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

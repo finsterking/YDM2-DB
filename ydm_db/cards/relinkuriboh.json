@@ -3,19 +3,19 @@
   "name": "Relinkuriboh",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Tributed: Draw 1 card. If your monster would be destroyed by battle, you can banish this card from your GY instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50185950.jpg"
   ],
+  "text": "If this card is Tributed: Draw 1 card. If your monster would be destroyed by battle, you can banish this card from your GY instead.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 300,
-  "def": 200,
-  "level": 1,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
 }

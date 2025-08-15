@@ -3,19 +3,19 @@
   "name": "Lord of Zemia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A wicked entity that manipulates enemies towards a path of destruction.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81618817.jpg"
   ],
+  "text": "''A wicked entity that manipulates enemies towards a path of destruction.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 1000,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

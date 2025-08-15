@@ -3,10 +3,10 @@
   "name": "Shipping Error",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: The activated effect becomes \"Your opponent takes 1 card from their Deck for you to add to your hand, and you must keep that card revealed. During the End Phase of this turn, shuffle it into the Deck, and if you do, draw 1 card\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58761791.jpg"
   ],
+  "text": "When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: The activated effect becomes \"Your opponent takes 1 card from their Deck for you to add to your hand, and you must keep that card revealed. During the End Phase of this turn, shuffle it into the Deck, and if you do, draw 1 card\".",
   "type": "Trap",
   "trap_type": "Normal"
 }

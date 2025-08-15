@@ -3,19 +3,22 @@
   "name": "Lancephorhynchus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nIf a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\n[ Monster Effect ] \n''This primordial species survived extinction by evolving an offensive lance that can pierce anything, although its diet still consists mainly of fish.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48940337.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nIf a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\n[ Monster Effect ] \n''This primordial species survived extinction by evolving an offensive lance that can pierce anything, although its diet still consists mainly of fish.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 2500,
-  "def": 800,
-  "level": 6,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 800,
+  "level": 6,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "If a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7
 }

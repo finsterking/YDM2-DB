@@ -3,21 +3,21 @@
   "name": "Obelisk the Tormentor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Neither player can target this card with card effects. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. You can Tribute 2 monsters; destroy all monsters your opponent controls. This card cannot declare an attack the turn this effect is activated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10000000.jpg",
     "https://images.ygoprodeck.com/images/cards/10000001.jpg",
     "https://images.ygoprodeck.com/images/cards/10000002.jpg"
   ],
+  "text": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Neither player can target this card with card effects. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. You can Tribute 2 monsters; destroy all monsters your opponent controls. This card cannot declare an attack the turn this effect is activated.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DIVINE",
   "atk": 4000,
-  "def": 4000,
-  "level": 10,
   "species": "Divine-Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 4000,
+  "level": 10,
+  "is_tuner": false
 }

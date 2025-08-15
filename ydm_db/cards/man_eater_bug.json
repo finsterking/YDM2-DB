@@ -3,19 +3,19 @@
   "name": "Man-Eater Bug",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Target 1 monster on the field; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54652250.jpg"
   ],
+  "text": "FLIP: Target 1 monster on the field; destroy it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 450,
-  "def": 600,
-  "level": 2,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

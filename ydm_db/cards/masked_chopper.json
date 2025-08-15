@@ -3,19 +3,19 @@
   "name": "Masked Chopper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87350908.jpg"
   ],
+  "text": "If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Strike Ninja",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(Quick Effect): You can banish 2 DARK monsters from your GY; banish this face-up card until the End Phase. You can only use this effect of \"Strike Ninja\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41006930.jpg"
   ],
+  "text": "(Quick Effect): You can banish 2 DARK monsters from your GY; banish this face-up card until the End Phase. You can only use this effect of \"Strike Ninja\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1700,
-  "def": 1200,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

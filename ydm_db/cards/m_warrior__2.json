@@ -3,19 +3,19 @@
   "name": "M-Warrior #2",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92731455.jpg"
   ],
+  "text": "Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 1000,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

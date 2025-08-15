@@ -3,19 +3,19 @@
   "name": "Rampaging Rhynos",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If this card attacks the monster in its same column, this card gains 500 ATK during the Damage Step.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3784434.jpg"
   ],
+  "text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If this card attacks the monster in its same column, this card gains 500 ATK during the Damage Step.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 1500,
-  "level": 3,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
 }

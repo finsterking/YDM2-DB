@@ -3,10 +3,10 @@
   "name": "Number Wall",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only if you control a \"Number\" monster. \"Number\" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another \"Number\" monster. When a \"Number\" monster you control is destroyed, destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/847915.jpg"
   ],
+  "text": "Activate only if you control a \"Number\" monster. \"Number\" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another \"Number\" monster. When a \"Number\" monster you control is destroyed, destroy this card.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

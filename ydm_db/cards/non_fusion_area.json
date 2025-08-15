@@ -3,10 +3,10 @@
   "name": "Non-Fusion Area",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can Fusion Summon.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27581098.jpg"
   ],
+  "text": "Neither player can Fusion Summon.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

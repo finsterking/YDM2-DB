@@ -3,19 +3,19 @@
   "name": "Throwstone Unit",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Tribute 1 Warrior-Type monster on your side of the field to destroy 1 face-up monster on the field whose DEF is equal to or less than the ATK of this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76075810.jpg"
   ],
+  "text": "Tribute 1 Warrior-Type monster on your side of the field to destroy 1 face-up monster on the field whose DEF is equal to or less than the ATK of this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 2000,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

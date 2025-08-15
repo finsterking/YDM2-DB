@@ -3,19 +3,19 @@
   "name": "Nimble Manta",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent from the field to the Graveyard by a card effect: You can Special Summon any number of \"Nimble Manta\" from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46384403.jpg"
   ],
+  "text": "When this card is sent from the field to the Graveyard by a card effect: You can Special Summon any number of \"Nimble Manta\" from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 800,
-  "def": 100,
-  "level": 2,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
 }

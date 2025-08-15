@@ -3,19 +3,19 @@
   "name": "Morphing Jar #2",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position, also send the remaining cards to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79106360.jpg"
   ],
+  "text": "FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position, also send the remaining cards to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 800,
-  "def": 700,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

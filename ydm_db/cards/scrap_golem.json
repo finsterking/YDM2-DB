@@ -3,19 +3,19 @@
   "name": "Scrap Golem",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can target 1 Level 4 or lower \"Scrap\" monster in your GY; Special Summon that target to either player's field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82012319.jpg"
   ],
+  "text": "Once per turn: You can target 1 Level 4 or lower \"Scrap\" monster in your GY; Special Summon that target to either player's field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2300,
-  "def": 1400,
-  "level": 5,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
 }

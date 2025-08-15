@@ -3,19 +3,19 @@
   "name": "Goblin of Greed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "As long as this card remains face-up on your side of the field, neither player can activate an effect by discarding from his/her hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/425934.jpg"
   ],
+  "text": "As long as this card remains face-up on your side of the field, neither player can activate an effect by discarding from his/her hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 1800,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,18 @@
   "name": "Number 3: Numeron Gate Trini",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 1 monsters\nCannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can detach 1 material from this card; double the ATK of all \"Numeron\" monsters you currently control, until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78625448.jpg"
   ],
+  "text": "3 Level 1 monsters\nCannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can detach 1 material from this card; double the ATK of all \"Numeron\" monsters you currently control, until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 100,
-  "level": 1,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 1,
+  "def": 100
 }

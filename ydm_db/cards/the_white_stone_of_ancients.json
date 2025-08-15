@@ -3,19 +3,19 @@
   "name": "The White Stone of Ancients",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 \"Blue-Eyes\" monster from your Deck. You can banish this card from your GY, then target 1 \"Blue-Eyes\" monster in your GY; add it to your hand. You can only use this effect of \"The White Stone of Ancients\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71039903.jpg"
   ],
+  "text": "Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 \"Blue-Eyes\" monster from your Deck. You can banish this card from your GY, then target 1 \"Blue-Eyes\" monster in your GY; add it to your hand. You can only use this effect of \"The White Stone of Ancients\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 600,
-  "def": 500,
-  "level": 1,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 1,
+  "is_tuner": true
 }

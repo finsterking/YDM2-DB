@@ -3,19 +3,18 @@
   "name": "Number 44: Sky Pegasus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy it, unless your opponent pays 1000 LP to negate this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80764541.jpg"
   ],
+  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy it, unless your opponent pays 1000 LP to negate this effect.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 1600,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1600
 }

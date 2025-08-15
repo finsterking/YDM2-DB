@@ -3,19 +3,19 @@
   "name": "Superalloy Beast Raptinus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Gemini Monster + 1 Gemini Monster\nAll Gemini Monsters on the field are treated as Effect Monsters, and gain their effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64463828.jpg"
   ],
+  "text": "1 Gemini Monster + 1 Gemini Monster\nAll Gemini Monsters on the field are treated as Effect Monsters, and gain their effects.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2200,
-  "def": 2200,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2200,
+  "level": 8,
+  "is_tuner": false
 }

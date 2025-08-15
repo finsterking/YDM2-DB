@@ -3,10 +3,10 @@
   "name": "Jam Defender",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an opponent's monster declares an attack on a monster you control: You can target 1 \"Revival Jam\" you control; switch the attack target to that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21558682.jpg"
   ],
+  "text": "When an opponent's monster declares an attack on a monster you control: You can target 1 \"Revival Jam\" you control; switch the attack target to that target.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

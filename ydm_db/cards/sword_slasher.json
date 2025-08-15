@@ -3,19 +3,19 @@
   "name": "Sword Slasher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A lethal engine of destruction that wields two well-honed blades.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73911410.jpg"
   ],
+  "text": "A lethal engine of destruction that wields two well-honed blades.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1450,
-  "def": 1500,
-  "level": 5,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
 }

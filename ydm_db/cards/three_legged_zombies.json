@@ -3,19 +3,19 @@
   "name": "Three-Legged Zombies",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33734439.jpg"
   ],
+  "text": "A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1100,
-  "def": 800,
-  "level": 3,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

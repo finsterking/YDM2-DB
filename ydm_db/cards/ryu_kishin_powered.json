@@ -3,19 +3,19 @@
   "name": "Ryu-Kishin Powered",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24611934.jpg"
   ],
+  "text": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 1200,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

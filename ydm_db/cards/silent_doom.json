@@ -3,10 +3,10 @@
   "name": "Silent Doom",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 Normal Monster in your Graveyard; Special Summon it in face-up Defense Position, but it cannot attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42534368.jpg"
   ],
+  "text": "Target 1 Normal Monster in your Graveyard; Special Summon it in face-up Defense Position, but it cannot attack.",
   "type": "Spell",
   "spell_type": "Normal"
 }

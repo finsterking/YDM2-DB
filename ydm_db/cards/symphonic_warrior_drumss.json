@@ -3,19 +3,19 @@
   "name": "Symphonic Warrior Drumss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can declare 1 Attribute and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Attribute. You can declare 1 Attribute and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Attribute.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94331452.jpg"
   ],
+  "text": "Once per turn, you can declare 1 Attribute and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Attribute. You can declare 1 Attribute and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Attribute.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 700,
-  "def": 700,
-  "level": 2,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 2,
+  "is_tuner": true
 }

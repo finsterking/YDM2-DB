@@ -3,20 +3,20 @@
   "name": "Gyakutenno Megami",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31122090.jpg",
     "https://images.ygoprodeck.com/images/cards/31122091.jpg"
   ],
+  "text": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 2000,
-  "level": 6,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
 }

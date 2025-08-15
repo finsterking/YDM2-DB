@@ -3,19 +3,19 @@
   "name": "Magistus Chorozo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Fusion, Synchro, Xyz, or Link Monster + 1 Spellcaster monster\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by sending the correct Fusion Material Monster Cards you control to the GY. Once per turn, when a monster declares an attack: You can target it; negate the attack, and if you do, this card gains ATK equal to that monster's ATK (until the end of this turn), then you can return that monster to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66532962.jpg"
   ],
+  "text": "1 Fusion, Synchro, Xyz, or Link Monster + 1 Spellcaster monster\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by sending the correct Fusion Material Monster Cards you control to the GY. Once per turn, when a monster declares an attack: You can target it; negate the attack, and if you do, this card gains ATK equal to that monster's ATK (until the end of this turn), then you can return that monster to the hand.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 2800,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2800,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,18 @@
   "name": "Number 50: Blackship of Corn",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls with ATK less than or equal to this card's; send it to the Graveyard, and if you do, inflict 1000 damage to your opponent. This card cannot attack the turn you activate this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51735257.jpg"
   ],
+  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls with ATK less than or equal to this card's; send it to the Graveyard, and if you do, inflict 1000 damage to your opponent. This card cannot attack the turn you activate this effect.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2100,
-  "def": 1500,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1500
 }

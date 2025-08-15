@@ -3,19 +3,19 @@
   "name": "Flamvell Guard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21615956.jpg"
   ],
+  "text": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 100,
-  "def": 2000,
-  "level": 1,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2000,
+  "level": 1,
+  "is_tuner": true
 }

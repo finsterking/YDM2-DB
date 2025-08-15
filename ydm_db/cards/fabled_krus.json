@@ -3,19 +3,19 @@
   "name": "Fabled Krus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is discarded to the Graveyard, select 1 Level 4 or lower \"Fabled\" monster in your Graveyard, except this card, and Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19439119.jpg"
   ],
+  "text": "When this card is discarded to the Graveyard, select 1 Level 4 or lower \"Fabled\" monster in your Graveyard, except this card, and Special Summon it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 800,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Koumori Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67724379.jpg"
   ],
+  "text": "A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1500,
-  "def": 1200,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

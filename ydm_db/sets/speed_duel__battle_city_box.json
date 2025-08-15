@@ -115,12 +115,6 @@
       "image_index": 0
     },
     {
-      "id": 300302006,
-      "code": "SBCB-ENS14",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 22996376,
       "code": "SBCB-EN052",
       "rarity": "Common",
@@ -355,12 +349,6 @@
       "image_index": 0
     },
     {
-      "id": 300302004,
-      "code": "SBCB-ENS20",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 36733451,
       "code": "SBCB-EN136",
       "rarity": "Common",
@@ -405,12 +393,6 @@
     {
       "id": 28649820,
       "code": "SBCB-EN195",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302007,
-      "code": "SBCB-ENS10",
       "rarity": "Common",
       "image_index": 0
     },
@@ -493,18 +475,6 @@
       "image_index": 0
     },
     {
-      "id": 300302005,
-      "code": "SBCB-ENS01",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302001,
-      "code": "SBCB-ENS17",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 22829942,
       "code": "SBCB-EN016",
       "rarity": "Common",
@@ -565,12 +535,6 @@
       "image_index": 0
     },
     {
-      "id": 300302008,
-      "code": "SBCB-ENS06",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 26412047,
       "code": "SBCB-EN162",
       "rarity": "Common",
@@ -595,12 +559,6 @@
       "image_index": 0
     },
     {
-      "id": 300302009,
-      "code": "SBCB-ENS03",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 21350571,
       "code": "SBCB-EN061",
       "rarity": "Common",
@@ -613,26 +571,8 @@
       "image_index": 0
     },
     {
-      "id": 300302010,
-      "code": "SBCB-ENS12",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 25005816,
       "code": "SBCB-EN106",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302011,
-      "code": "SBCB-ENS04",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302012,
-      "code": "SBCB-ENS02",
       "rarity": "Common",
       "image_index": 0
     },
@@ -709,12 +649,6 @@
       "image_index": 0
     },
     {
-      "id": 300302003,
-      "code": "SBCB-ENS19",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 42940404,
       "code": "SBCB-EN071",
       "rarity": "Common",
@@ -763,12 +697,6 @@
       "image_index": 0
     },
     {
-      "id": 300302013,
-      "code": "SBCB-ENS09",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 77133792,
       "code": "SBCB-EN041",
       "rarity": "Common",
@@ -777,12 +705,6 @@
     {
       "id": 17841166,
       "code": "SBCB-EN040",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302014,
-      "code": "SBCB-ENS15",
       "rarity": "Common",
       "image_index": 0
     },
@@ -889,12 +811,6 @@
       "image_index": 0
     },
     {
-      "id": 300302015,
-      "code": "SBCB-ENS11",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 71044499,
       "code": "SBCB-EN138",
       "rarity": "Common",
@@ -967,12 +883,6 @@
       "image_index": 0
     },
     {
-      "id": 300302016,
-      "code": "SBCB-ENS16",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 13048472,
       "code": "SBCB-EN121",
       "rarity": "Common",
@@ -1035,18 +945,6 @@
     {
       "id": 70344351,
       "code": "SBCB-EN059",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302017,
-      "code": "SBCB-ENS13",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302002,
-      "code": "SBCB-ENS18",
       "rarity": "Common",
       "image_index": 0
     },
@@ -1177,18 +1075,6 @@
       "image_index": 0
     },
     {
-      "id": 300302018,
-      "code": "SBCB-ENS08",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302053,
-      "code": "SBCB-ENS08",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 1669772,
       "code": "SBCB-EN196",
       "rarity": "Common",
@@ -1279,12 +1165,6 @@
       "image_index": 0
     },
     {
-      "id": 300302019,
-      "code": "SBCB-ENS05",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 40703393,
       "code": "SBCB-EN192",
       "rarity": "Common",
@@ -1317,12 +1197,6 @@
     {
       "id": 88494120,
       "code": "SBCB-EN039",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302020,
-      "code": "SBCB-ENS07",
       "rarity": "Common",
       "image_index": 0
     },

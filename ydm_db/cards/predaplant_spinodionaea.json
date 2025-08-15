@@ -3,19 +3,19 @@
   "name": "Predaplant Spinodionaea",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. After damage calculation, if this card battled a monster with an equal or lower Level: You can Special Summon 1 \"Predaplant\" monster from your Deck, except \"Predaplant Spinodionaea\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52792430.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. After damage calculation, if this card battled a monster with an equal or lower Level: You can Special Summon 1 \"Predaplant\" monster from your Deck, except \"Predaplant Spinodionaea\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1800,
-  "def": 0,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

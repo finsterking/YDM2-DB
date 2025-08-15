@@ -3,19 +3,19 @@
   "name": "Marincess Sleepy Maiden",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 1 \"Marincess\" card you control; Special Summon this card from your hand, and if you do, it gains this effect.\n● While this card is in the Monster Zone, the targeted card cannot be destroyed by your opponent's card effects.\nYou can banish this card from your GY, then target 1 \"Marincess\" Link Monster you control; equip it with 1 \"Marincess\" Link Monster from your GY. You can only use each effect of \"Marincess Sleepy Maiden\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57541158.jpg"
   ],
+  "text": "You can target 1 \"Marincess\" card you control; Special Summon this card from your hand, and if you do, it gains this effect.\n● While this card is in the Monster Zone, the targeted card cannot be destroyed by your opponent's card effects.\nYou can banish this card from your GY, then target 1 \"Marincess\" Link Monster you control; equip it with 1 \"Marincess\" Link Monster from your GY. You can only use each effect of \"Marincess Sleepy Maiden\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 500,
-  "def": 2500,
-  "level": 5,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2500,
+  "level": 5,
+  "is_tuner": false
 }

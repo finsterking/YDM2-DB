@@ -3,19 +3,19 @@
   "name": "Jurrac Gallim",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43332022.jpg"
   ],
+  "text": "When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1200,
-  "def": 0,
-  "level": 2,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
 }

@@ -3,10 +3,10 @@
   "name": "Reversal of Fate",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select 1 \"Arcana Force\" monster you control. That monster's effect is now treated as the opposite coin toss result.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36690018.jpg"
   ],
+  "text": "Select 1 \"Arcana Force\" monster you control. That monster's effect is now treated as the opposite coin toss result.",
   "type": "Trap",
   "trap_type": "Normal"
 }

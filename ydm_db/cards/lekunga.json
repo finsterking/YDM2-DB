@@ -3,19 +3,19 @@
   "name": "Lekunga",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can banish 2 WATER monsters from your Graveyard; Special Summon 1 \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62543393.jpg"
   ],
+  "text": "You can banish 2 WATER monsters from your Graveyard; Special Summon 1 \"Lekunga Token\" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1700,
-  "def": 500,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
 }

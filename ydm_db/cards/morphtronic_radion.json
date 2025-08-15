@@ -3,19 +3,19 @@
   "name": "Morphtronic Radion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "● While in Attack Position: \"Morphtronic\" monsters you control gain 800 ATK. ● While in Defense Position: \"Morphtronic\" monsters you control gain 1000 DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55119278.jpg"
   ],
+  "text": "● While in Attack Position: \"Morphtronic\" monsters you control gain 800 ATK. ● While in Defense Position: \"Morphtronic\" monsters you control gain 1000 DEF.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 900,
-  "level": 4,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
 }

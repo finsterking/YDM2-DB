@@ -3,24 +3,21 @@
   "name": "Ib the World Chalice Priestess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters with different Types and Attributes\nThis linked card cannot be destroyed by battle or card effects. Your opponent cannot target this linked card with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77610772.jpg"
   ],
+  "text": "2 monsters with different Types and Attributes\nThis linked card cannot be destroyed by battle or card effects. Your opponent cannot target this linked card with card effects. If a monster(s) this card points to would be destroyed by a card effect, you can send this card to the GY instead. If this card is sent from the field to the GY: You can Special Summon 1 \"World Chalice\" monster from your hand.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "WATER",
   "atk": 1800,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Left",
     "Right"
-  ],
-  "species": "Spellcaster",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

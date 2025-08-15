@@ -3,19 +3,19 @@
   "name": "Silent Psychic Wizard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 1 Psychic-Type monster in your Graveyard; banish that target. If this card is sent from the field to the Graveyard: Special Summon that monster banished by this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62950604.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can target 1 Psychic-Type monster in your Graveyard; banish that target. If this card is sent from the field to the Graveyard: Special Summon that monster banished by this effect.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1900,
-  "def": 0,
-  "level": 4,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

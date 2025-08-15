@@ -3,19 +3,19 @@
   "name": "Volcanic Rat",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33112041.jpg"
   ],
+  "text": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 500,
-  "def": 500,
-  "level": 1,
   "species": "Pyro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 500,
+  "level": 1,
+  "is_tuner": false
 }

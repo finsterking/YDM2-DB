@@ -3,19 +3,19 @@
   "name": "Mystical Fairy Elfuria",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next turn, neither player can Xyz Summon using monsters with a different Level from the revealed monster as Xyz Material.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85239662.jpg"
   ],
+  "text": "Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next turn, neither player can Xyz Summon using monsters with a different Level from the revealed monster as Xyz Material.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1500,
-  "def": 900,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

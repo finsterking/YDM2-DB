@@ -3,19 +3,19 @@
   "name": "S-Force Dog Tag",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Main Phase, your opponent cannot activate the effects of monsters in the same column as one of your \"S-Force\" monsters. If your opponent Normal or Special Summons a monster(s) while you control an \"S-Force\" monster (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"S-Force Dog Tag\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65479980.jpg"
   ],
+  "text": "During your Main Phase, your opponent cannot activate the effects of monsters in the same column as one of your \"S-Force\" monsters. If your opponent Normal or Special Summons a monster(s) while you control an \"S-Force\" monster (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"S-Force Dog Tag\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 2100,
-  "level": 5,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2100,
+  "level": 5,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Spell Absorption",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a Spell Card is activated, gain 500 LP immediately after it resolves.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51481927.jpg"
   ],
+  "text": "Each time a Spell Card is activated, gain 500 LP immediately after it resolves.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

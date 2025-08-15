@@ -3,19 +3,19 @@
   "name": "Naturia Guardian",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent Normal Summons a monster, this card gains 300 ATK until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80555116.jpg"
   ],
+  "text": "When your opponent Normal Summons a monster, this card gains 300 ATK until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1600,
-  "def": 400,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
 }

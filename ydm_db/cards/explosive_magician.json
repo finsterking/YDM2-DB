@@ -3,19 +3,19 @@
   "name": "Explosive Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner Spellcaster monsters\nYou can remove 2 Spell Counters from your field, then target 1 Spell/Trap your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33413279.jpg"
   ],
+  "text": "1 Tuner + 1+ non-Tuner Spellcaster monsters\nYou can remove 2 Spell Counters from your field, then target 1 Spell/Trap your opponent controls; destroy that target.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 1800,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

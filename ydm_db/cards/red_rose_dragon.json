@@ -3,19 +3,19 @@
   "name": "Red Rose Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the GY as Synchro Material: You can Special Summon 1 \"Rose Dragon\" monster from your hand or Deck, except \"Red Rose Dragon\", then, if it was sent for the Synchro Summon of \"Black Rose Dragon\" or a Plant Synchro Monster, you can also add 1 \"Frozen Rose\" or 1 \"Blooming of the Darkest Rose\" from your Deck to your hand. You can only use this effect of \"Red Rose Dragon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26118970.jpg"
   ],
+  "text": "If this card is sent to the GY as Synchro Material: You can Special Summon 1 \"Rose Dragon\" monster from your hand or Deck, except \"Red Rose Dragon\", then, if it was sent for the Synchro Summon of \"Black Rose Dragon\" or a Plant Synchro Monster, you can also add 1 \"Frozen Rose\" or 1 \"Blooming of the Darkest Rose\" from your Deck to your hand. You can only use this effect of \"Red Rose Dragon\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 1800,
-  "level": 3,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": true
 }

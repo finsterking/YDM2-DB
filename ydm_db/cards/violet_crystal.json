@@ -3,10 +3,10 @@
   "name": "Violet Crystal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is not treated as a \"Crystal\" card.)\nEquip only to a Zombie monster. It gains 300 ATK/DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15052462.jpg"
   ],
+  "text": "(This card is not treated as a \"Crystal\" card.)\nEquip only to a Zombie monster. It gains 300 ATK/DEF.",
   "type": "Spell",
   "spell_type": "Equip"
 }

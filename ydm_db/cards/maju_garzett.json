@@ -3,19 +3,19 @@
   "name": "Maju Garzett",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8794435.jpg"
   ],
+  "text": "The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": -1,
-  "def": 0,
-  "level": 7,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 7,
+  "is_tuner": false
 }

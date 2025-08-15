@@ -3,19 +3,19 @@
   "name": "Griggle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When the control of this face-up card on the field shifts to your opponent, increase your Life Points by 3000 points. This effect can only be used once as long as this card remains face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95744531.jpg"
   ],
+  "text": "When the control of this face-up card on the field shifts to your opponent, increase your Life Points by 3000 points. This effect can only be used once as long as this card remains face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 350,
-  "def": 300,
-  "level": 1,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
 }

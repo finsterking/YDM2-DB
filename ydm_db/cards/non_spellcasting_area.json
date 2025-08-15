@@ -3,10 +3,10 @@
   "name": "Non-Spellcasting Area",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20065549.jpg"
   ],
+  "text": "All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

@@ -3,19 +3,22 @@
   "name": "Shaddoll Zefranaga",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or sent to the GY: You can target 1 card in either player's Pendulum Zone; return it to the hand. You must have a \"Zefra\" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of \"Shaddoll Zefranaga\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58016954.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or sent to the GY: You can target 1 card in either player's Pendulum Zone; return it to the hand. You must have a \"Zefra\" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of \"Shaddoll Zefranaga\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 900,
-  "def": 100,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 100,
+  "level": 2,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
 }

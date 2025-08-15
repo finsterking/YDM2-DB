@@ -3,19 +3,19 @@
   "name": "Night Wing Sorceress",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can activate \"Assault Mode Activate\" the turn it is Set.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49826746.jpg"
   ],
+  "text": "You can activate \"Assault Mode Activate\" the turn it is Set.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1300,
-  "def": 1200,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "March Towards Ragnarok",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 \"Aesir\" monster you control; until the end of this turn, its effects are negated, also that face-up monster is unaffected by the effects of other Spells/Traps.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28643791.jpg"
   ],
+  "text": "Target 1 \"Aesir\" monster you control; until the end of this turn, its effects are negated, also that face-up monster is unaffected by the effects of other Spells/Traps.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

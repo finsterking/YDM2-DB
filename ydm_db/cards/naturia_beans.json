@@ -3,19 +3,19 @@
   "name": "Naturia Beans",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, this card cannot be destroyed by battle. When this face-up card is selected as an attack target, inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44789585.jpg"
   ],
+  "text": "Once per turn, this card cannot be destroyed by battle. When this face-up card is selected as an attack target, inflict 500 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "def": 1200,
-  "level": 2,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 2,
+  "is_tuner": false
 }

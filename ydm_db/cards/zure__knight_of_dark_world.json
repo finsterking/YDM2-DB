@@ -3,19 +3,19 @@
   "name": "Zure, Knight of Dark World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7459013.jpg"
   ],
+  "text": "The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1800,
-  "def": 1500,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Moon Gardna",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls 2 or more monsters, you can Special Summon this card (from your hand). You can only Special Summon \"Moon Gardna\" once per turn this way. If this card is Normal or Special Summoned and your opponent controls a monster: You can target 1 Level 4 LIGHT monster in your GY, except \"Moon Gardna\"; add it to your hand. You can only use this effect of \"Moon Gardna\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/336601.jpg"
   ],
+  "text": "If your opponent controls 2 or more monsters, you can Special Summon this card (from your hand). You can only Special Summon \"Moon Gardna\" once per turn this way. If this card is Normal or Special Summoned and your opponent controls a monster: You can target 1 Level 4 LIGHT monster in your GY, except \"Moon Gardna\"; add it to your hand. You can only use this effect of \"Moon Gardna\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 100,
-  "def": 2000,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

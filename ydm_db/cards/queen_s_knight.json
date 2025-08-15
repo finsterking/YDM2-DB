@@ -3,19 +3,19 @@
   "name": "Queen's Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This knight catches her opponents off guard, dominating them with swift yet graceful attacks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25652259.jpg"
   ],
+  "text": "This knight catches her opponents off guard, dominating them with swift yet graceful attacks.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1500,
-  "def": 1600,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Performapal Thunderhino",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Monsters your opponent controls cannot target face-up \"Performapal\" monsters for attacks, except this one. If a \"Performapal\" card(s) you control, except \"Performapal Thunderhino\", would be destroyed by battle or card effect while this card is in your Graveyard, you can banish this card instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70458081.jpg"
   ],
+  "text": "Monsters your opponent controls cannot target face-up \"Performapal\" monsters for attacks, except this one. If a \"Performapal\" card(s) you control, except \"Performapal Thunderhino\", would be destroyed by battle or card effect while this card is in your Graveyard, you can banish this card instead.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 200,
-  "def": 1800,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
 }

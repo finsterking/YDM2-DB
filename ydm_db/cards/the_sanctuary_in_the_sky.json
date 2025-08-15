@@ -3,10 +3,10 @@
   "name": "The Sanctuary in the Sky",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Battle damage to the controller of a Fairy monster from a battle involving that monster becomes 0.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56433456.jpg"
   ],
+  "text": "Battle damage to the controller of a Fairy monster from a battle involving that monster becomes 0.",
   "type": "Spell",
   "spell_type": "Field"
 }

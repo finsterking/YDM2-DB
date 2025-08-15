@@ -3,19 +3,22 @@
   "name": "Sky Dragoons of Draconia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce per turn, when a Normal Monster you control inflicts battle damage to your opponent: You can target 1 card on the field; destroy it.\n\n[ Monster Effect ] \n''Rumored as being formed to invade the neutral, floating Sky-State of Cxulub, these mounted air troops of the Draconia Empire have prompted bordering nations to strengthen their security.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68182934.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce per turn, when a Normal Monster you control inflicts battle damage to your opponent: You can target 1 card on the field; destroy it.\n\n[ Monster Effect ] \n''Rumored as being formed to invade the neutral, floating Sky-State of Cxulub, these mounted air troops of the Draconia Empire have prompted bordering nations to strengthen their security.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 2200,
-  "def": 200,
-  "level": 5,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 200,
+  "level": 5,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Once per turn, when a Normal Monster you control inflicts battle damage to your opponent: You can target 1 card on the field; destroy it.",
+  "pendulum_scale_left_blue": 7,
+  "pendulum_scale_right_red": 7
 }

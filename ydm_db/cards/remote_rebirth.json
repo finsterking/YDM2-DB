@@ -3,10 +3,10 @@
   "name": "Remote Rebirth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 monster in your opponent's GY; Special Summon it in an opponent's Main Monster Zone your Link Monster points to.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54658815.jpg"
   ],
+  "text": "Target 1 monster in your opponent's GY; Special Summon it in an opponent's Main Monster Zone your Link Monster points to.",
   "type": "Trap",
   "trap_type": "Normal"
 }

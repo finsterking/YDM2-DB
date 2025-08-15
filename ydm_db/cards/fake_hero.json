@@ -3,10 +3,10 @@
   "name": "Fake Hero",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Special Summon 1 \"Elemental HERO\" monster from your hand. That monster cannot attack, and returns to the hand during the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78387742.jpg"
   ],
+  "text": "Special Summon 1 \"Elemental HERO\" monster from your hand. That monster cannot attack, and returns to the hand during the End Phase.",
   "type": "Spell",
   "spell_type": "Normal"
 }

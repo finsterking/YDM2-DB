@@ -3,19 +3,19 @@
   "name": "Fortune Lady Fire",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this card is Special Summoned in Attack Position by the effect of a \"Fortune Lady\" card: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71870152.jpg"
   ],
+  "text": "This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this card is Special Summoned in Attack Position by the effect of a \"Fortune Lady\" card: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": -1,
-  "def": -1,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": -1,
+  "level": 2,
+  "is_tuner": false
 }

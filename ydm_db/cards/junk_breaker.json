@@ -3,19 +3,19 @@
   "name": "Junk Breaker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Main Phase, if this card was Normal Summoned this turn: You can Tribute this card; all face-up monsters on the field have their effects negated until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43436049.jpg"
   ],
+  "text": "During your Main Phase, if this card was Normal Summoned this turn: You can Tribute this card; all face-up monsters on the field have their effects negated until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 1000,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

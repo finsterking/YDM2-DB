@@ -3,19 +3,19 @@
   "name": "Geargiano Mk-II",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Flip Summoned: You can Special Summon 1 \"Geargia\" monster from your hand or Graveyard in Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1045143.jpg"
   ],
+  "text": "When this card is Normal or Flip Summoned: You can Special Summon 1 \"Geargia\" monster from your hand or Graveyard in Defense Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 500,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

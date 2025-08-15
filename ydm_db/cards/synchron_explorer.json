@@ -3,19 +3,19 @@
   "name": "Synchron Explorer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 1 \"Synchron\" monster in your Graveyard; Special Summon that target, but its effects are negated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36643046.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can target 1 \"Synchron\" monster in your Graveyard; Special Summon that target, but its effects are negated.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 0,
-  "def": 700,
-  "level": 2,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

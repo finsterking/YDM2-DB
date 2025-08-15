@@ -3,19 +3,19 @@
   "name": "Pot the Trick",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A not-so-powerful servant, he is an errand boy of a master sorcerer.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55567161.jpg"
   ],
+  "text": "''A not-so-powerful servant, he is an errand boy of a master sorcerer.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 400,
-  "def": 400,
-  "level": 2,
   "species": "Rock",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
 }

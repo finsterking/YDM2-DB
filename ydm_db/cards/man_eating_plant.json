@@ -3,19 +3,19 @@
   "name": "Man-Eating Plant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A meat-eating plant that is attractive to the eye but dangerous when approached.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49127943.jpg"
   ],
+  "text": "''A meat-eating plant that is attractive to the eye but dangerous when approached.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 800,
-  "def": 600,
-  "level": 2,
   "species": "Plant",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

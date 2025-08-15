@@ -3,24 +3,21 @@
   "name": "Prank-Kids Dodo-Doodle-Doo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"Prank-Kids\" monsters\nIf this card is Link Summoned: You can add 1 \"Prank-Kids\" Spell/Trap from your Deck to your hand. You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand. You can only use each effect of \"Prank-Kids Dodo-Doodle-Doo\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17382973.jpg"
   ],
+  "text": "2 \"Prank-Kids\" monsters\nIf this card is Link Summoned: You can add 1 \"Prank-Kids\" Spell/Trap from your Deck to your hand. You can Tribute this card, then target 2 \"Prank-Kids\" cards with different names in your GY, except Link Monsters; add them to your hand. You can only use each effect of \"Prank-Kids Dodo-Doodle-Doo\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "WIND",
   "atk": 2000,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Thunder",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Left",
     "Bottom"
-  ],
-  "species": "Thunder",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

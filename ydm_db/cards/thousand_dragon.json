@@ -3,20 +3,20 @@
   "name": "Thousand Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Time Wizard\" + \"Baby Dragon\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41462083.jpg",
     "https://images.ygoprodeck.com/images/cards/41462084.jpg"
   ],
+  "text": "\"Time Wizard\" + \"Baby Dragon\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WIND",
   "atk": 2400,
-  "def": 2000,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

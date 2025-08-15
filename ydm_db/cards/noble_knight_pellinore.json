@@ -3,19 +3,19 @@
   "name": "Noble Knight Pellinore",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 1 \"Noble Arms\" Equip Spell equipped to this card and 1 face-up monster your opponent controls; destroy them, then draw 1 card, also, this card cannot attack for the rest of this turn. You can only use this effect of \"Noble Knight Pellinore\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5361816.jpg"
   ],
+  "text": "You can target 1 \"Noble Arms\" Equip Spell equipped to this card and 1 face-up monster your opponent controls; destroy them, then draw 1 card, also, this card cannot attack for the rest of this turn. You can only use this effect of \"Noble Knight Pellinore\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1900,
-  "def": 500,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
 }

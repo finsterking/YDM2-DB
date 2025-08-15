@@ -3,19 +3,19 @@
   "name": "Gogogo Goram",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Summoned: Change the battle position of this card. If this card on the field is destroyed and sent to the Graveyard: Send 1 \"Gogogo\" monster from your Deck to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59911557.jpg"
   ],
+  "text": "If this card is Summoned: Change the battle position of this card. If this card on the field is destroyed and sent to the Graveyard: Send 1 \"Gogogo\" monster from your Deck to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2300,
-  "def": 0,
-  "level": 4,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

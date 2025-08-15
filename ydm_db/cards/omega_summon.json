@@ -3,10 +3,10 @@
   "name": "Omega Summon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target any number of your banished \"Invoked\" monsters with different names; Special Summon them in Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47457347.jpg"
   ],
+  "text": "Target any number of your banished \"Invoked\" monsters with different names; Special Summon them in Defense Position.",
   "type": "Trap",
   "trap_type": "Normal"
 }

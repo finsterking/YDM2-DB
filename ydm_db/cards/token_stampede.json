@@ -3,10 +3,10 @@
   "name": "Token Stampede",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14342283.jpg"
   ],
+  "text": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

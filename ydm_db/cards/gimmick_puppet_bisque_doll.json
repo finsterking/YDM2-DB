@@ -3,19 +3,19 @@
   "name": "Gimmick Puppet Bisque Doll",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) by discarding 1 \"Gimmick Puppet\" monster. You can banish this card from your GY; your opponent cannot target \"Gimmick Puppet\" monsters you control with card effects this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79086452.jpg"
   ],
+  "text": "You can Special Summon this card (from your hand) by discarding 1 \"Gimmick Puppet\" monster. You can banish this card from your GY; your opponent cannot target \"Gimmick Puppet\" monsters you control with card effects this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 1000,
-  "level": 8,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false
 }

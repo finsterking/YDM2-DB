@@ -3,19 +3,19 @@
   "name": "Skreech",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27655513.jpg"
   ],
+  "text": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1500,
-  "def": 400,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
 }

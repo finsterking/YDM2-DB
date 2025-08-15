@@ -3,10 +3,10 @@
   "name": "Realm of Light",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All \"Lightsworn\" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36099620.jpg"
   ],
+  "text": "Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All \"Lightsworn\" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.",
   "type": "Spell",
   "spell_type": "Field"
 }

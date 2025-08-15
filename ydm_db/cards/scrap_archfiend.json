@@ -3,19 +3,19 @@
   "name": "Scrap Archfiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45815891.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner monsters",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "EARTH",
   "atk": 2700,
-  "def": 1800,
-  "level": 7,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
 }

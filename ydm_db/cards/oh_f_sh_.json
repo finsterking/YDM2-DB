@@ -3,10 +3,10 @@
   "name": "Oh F!sh!",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an Effect Monster's effect activates: Shuffle 1 of your banished Fish, Sea Serpent, or Aqua-Type monsters into the Main Deck; negate the activation and destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87313164.jpg"
   ],
+  "text": "When an Effect Monster's effect activates: Shuffle 1 of your banished Fish, Sea Serpent, or Aqua-Type monsters into the Main Deck; negate the activation and destroy it.",
   "type": "Trap",
   "trap_type": "Counter"
 }

@@ -3,19 +3,19 @@
   "name": "M-Warrior #1",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56342351.jpg"
   ],
+  "text": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 500,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

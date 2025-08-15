@@ -3,19 +3,19 @@
   "name": "Frightfur Tiger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Edge Imp Sabres\" + 1 or more \"Fluffal\" monsters\nWhen this card is Fusion Summoned: You can target cards on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. All \"Frightfur\" monsters you control gain 300 ATK for each \"Fluffal\" monster and \"Frightfur\" monster you control. You can only control 1 \"Frightfur Tiger\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/464362.jpg"
   ],
+  "text": "\"Edge Imp Sabres\" + 1 or more \"Fluffal\" monsters\nWhen this card is Fusion Summoned: You can target cards on the field, up to the number of Fusion Materials used for its Fusion Summon; destroy them. All \"Frightfur\" monsters you control gain 300 ATK for each \"Fluffal\" monster and \"Frightfur\" monster you control. You can only control 1 \"Frightfur Tiger\".",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 1900,
-  "def": 1200,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
 }

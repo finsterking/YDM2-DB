@@ -3,26 +3,23 @@
   "name": "Topologic Bomber Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Effect Monsters\nIf another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Destroy all monsters in the Main Monster Zones, also your other monsters cannot attack for the rest of this turn. After damage calculation, if this card attacked an opponent's monster: Inflict damage to your opponent equal to that monster's original ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5821478.jpg"
   ],
+  "text": "2+ Effect Monsters\nIf another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Destroy all monsters in the Main Monster Zones, also your other monsters cannot attack for the rest of this turn. After damage calculation, if this card attacked an opponent's monster: Inflict damage to your opponent equal to that monster's original ATK.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 3000,
-  "def": null,
-  "level": null,
-  "link": 4,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 4,
   "link_arrows": [
     "Top",
     "Bottom-Left",
     "Bottom",
     "Bottom-Right"
-  ],
-  "species": "Cyberse",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

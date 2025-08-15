@@ -3,26 +3,23 @@
   "name": "Rasterliger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ monsters, except Tokens\nYou can target 1 Link Monster in either GY; this card gains ATK equal to that target's ATK until the end of this turn. You can Tribute any number of your monsters this card points to; destroy an equal number of cards on the field. You can only use each effect of \"Rasterliger\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88000953.jpg"
   ],
+  "text": "2+ monsters, except Tokens\nYou can target 1 Link Monster in either GY; this card gains ATK equal to that target's ATK until the end of this turn. You can Tribute any number of your monsters this card points to; destroy an equal number of cards on the field. You can only use each effect of \"Rasterliger\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": null,
-  "level": null,
-  "link": 4,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 4,
   "link_arrows": [
     "Top",
     "Left",
     "Right",
     "Bottom"
-  ],
-  "species": "Cyberse",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

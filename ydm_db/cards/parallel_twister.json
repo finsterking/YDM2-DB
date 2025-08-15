@@ -3,10 +3,10 @@
   "name": "Parallel Twister",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Send 1 other Spell/Trap Card you control to the Graveyard, then target 1 card on the field; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83102080.jpg"
   ],
+  "text": "Send 1 other Spell/Trap Card you control to the Graveyard, then target 1 card on the field; destroy it.",
   "type": "Spell",
   "spell_type": "Normal"
 }

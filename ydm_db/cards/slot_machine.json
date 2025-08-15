@@ -3,19 +3,19 @@
   "name": "Slot Machine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The machine's ability is said to vary according to its slot results.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3797883.jpg"
   ],
+  "text": "The machine's ability is said to vary according to its slot results.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 2000,
-  "def": 2300,
-  "level": 7,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
 }

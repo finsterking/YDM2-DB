@@ -3,10 +3,10 @@
   "name": "Windstorm of Etaqua",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Change the battle positions of all face-up monsters your opponent controls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59744639.jpg"
   ],
+  "text": "Change the battle positions of all face-up monsters your opponent controls.",
   "type": "Trap",
   "trap_type": "Normal"
 }

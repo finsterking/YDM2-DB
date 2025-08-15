@@ -3,19 +3,19 @@
   "name": "Evilswarm Obliviwisp",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card battles a monster, after damage calculation: Negate the effects of that monster (including in the Graveyard).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5284653.jpg"
   ],
+  "text": "If this card battles a monster, after damage calculation: Negate the effects of that monster (including in the Graveyard).",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 450,
-  "def": 2050,
-  "level": 4,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2050,
+  "level": 4,
+  "is_tuner": false
 }

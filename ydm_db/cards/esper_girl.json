@@ -3,19 +3,19 @@
   "name": "Esper Girl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this removed from play card is Special Summoned, remove from play the top card of your Deck, face-down. When this card is sent from the field to the Graveyard, add that removed card to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99070951.jpg"
   ],
+  "text": "When this removed from play card is Special Summoned, remove from play the top card of your Deck, face-down. When this card is sent from the field to the Graveyard, add that removed card to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 300,
-  "level": 2,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 2,
+  "is_tuner": true
 }

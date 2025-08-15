@@ -3,19 +3,19 @@
   "name": "Metal Armored Bug",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A gigantic insect-like creature covered by thick armor. Everything in his path is destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65957473.jpg"
   ],
+  "text": "A gigantic insect-like creature covered by thick armor. Everything in his path is destroyed.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2800,
-  "def": 1500,
-  "level": 8,
   "species": "Insect",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
 }

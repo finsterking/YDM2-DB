@@ -3,19 +3,19 @@
   "name": "Regenesis Sage",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a monster with 2500 original ATK or DEF is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Regenesis Sage\" once per turn this way. You can only use each of the following effects of \"Regenesis Sage\" once per turn. When your opponent activates a card or effect (Quick Effect): You can send 1 other \"Regenesis\" card from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card. During your opponent's End Phase, if this card is in the GY because it was sent there this turn: You can add this card to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22938501.jpg"
   ],
+  "text": "If a monster with 2500 original ATK or DEF is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Regenesis Sage\" once per turn this way. You can only use each of the following effects of \"Regenesis Sage\" once per turn. When your opponent activates a card or effect (Quick Effect): You can send 1 other \"Regenesis\" card from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card. During your opponent's End Phase, if this card is in the GY because it was sent there this turn: You can add this card to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 2500,
-  "def": 2500,
-  "level": 7,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2500,
+  "level": 7,
+  "is_tuner": false
 }

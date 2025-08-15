@@ -3,19 +3,19 @@
   "name": "Embryonic Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''An imperfect monster with a belly vortex that sucks in opponents of any size.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64154377.jpg"
   ],
+  "text": "''An imperfect monster with a belly vortex that sucks in opponents of any size.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 500,
-  "def": 750,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 750,
+  "level": 2,
+  "is_tuner": false
 }

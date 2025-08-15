@@ -3,10 +3,10 @@
   "name": "The Shallow Grave",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each player targets 1 monster in their own GY; each player Special Summons the target from their GY in face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43434803.jpg"
   ],
+  "text": "Each player targets 1 monster in their own GY; each player Special Summons the target from their GY in face-down Defense Position.",
   "type": "Spell",
   "spell_type": "Normal"
 }

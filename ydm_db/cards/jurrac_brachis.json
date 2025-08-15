@@ -3,19 +3,19 @@
   "name": "Jurrac Brachis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While another face-up \"Jurrac\" monster is on the field, this card cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8594079.jpg"
   ],
+  "text": "While another face-up \"Jurrac\" monster is on the field, this card cannot be destroyed by battle.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1000,
-  "def": 1000,
-  "level": 3,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": true
 }

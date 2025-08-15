@@ -3,19 +3,19 @@
   "name": "Mystic Macrocarpa Seed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be used as a Synchro Material Monster, except for the Synchro Summon of an EARTH monster. You can target 1 EARTH monster on the field; reduce its Level by 1. You can use the effect of \"Mystic Macrocarpa Seed\" up to twice per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51912531.jpg"
   ],
+  "text": "Cannot be used as a Synchro Material Monster, except for the Synchro Summon of an EARTH monster. You can target 1 EARTH monster on the field; reduce its Level by 1. You can use the effect of \"Mystic Macrocarpa Seed\" up to twice per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 1000,
-  "level": 3,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": true
 }

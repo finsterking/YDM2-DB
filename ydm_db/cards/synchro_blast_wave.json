@@ -3,10 +3,10 @@
   "name": "Synchro Blast Wave",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Synchro Monster: Target 1 monster your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35537860.jpg"
   ],
+  "text": "If you control a Synchro Monster: Target 1 monster your opponent controls; destroy that target.",
   "type": "Spell",
   "spell_type": "Normal"
 }

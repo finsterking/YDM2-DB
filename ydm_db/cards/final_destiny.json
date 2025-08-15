@@ -3,10 +3,10 @@
   "name": "Final Destiny",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Discard 5 cards from your hand. Destroy all cards on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18591904.jpg"
   ],
+  "text": "Discard 5 cards from your hand. Destroy all cards on the field.",
   "type": "Spell",
   "spell_type": "Normal"
 }

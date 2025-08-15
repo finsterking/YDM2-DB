@@ -3,19 +3,19 @@
   "name": "Sari of the Silverwing Axe",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(Quick Effect): You can target 1 face-up monster on the field; equip this card from your hand or field to it. It gains 100 ATK/DEF. You can only use this effect of \"Sari of the Silverwing Axe\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99801464.jpg"
   ],
+  "text": "(Quick Effect): You can target 1 face-up monster on the field; equip this card from your hand or field to it. It gains 100 ATK/DEF. You can only use this effect of \"Sari of the Silverwing Axe\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 500,
-  "def": 100,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
 }

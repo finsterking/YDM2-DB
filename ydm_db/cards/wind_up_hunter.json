@@ -3,19 +3,19 @@
   "name": "Wind-Up Hunter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute 1 face-up \"Wind-Up\" monster, except \"Wind-Up Hunter\"; send 1 random card from your opponent's hand to the Graveyard. This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16923472.jpg"
   ],
+  "text": "You can Tribute 1 face-up \"Wind-Up\" monster, except \"Wind-Up Hunter\"; send 1 random card from your opponent's hand to the Graveyard. This effect can only be used once while this card is face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 500,
-  "level": 3,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

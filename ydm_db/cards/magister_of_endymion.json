@@ -3,19 +3,22 @@
   "name": "Magister of Endymion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 face-up monster from your Extra Deck that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\n\n[ Monster Effect ] \nYou can only Special Summon \"Magister(s) of Endymion\" once per turn. When this card declares an attack: You can place 1 Spell Counter on it. Once per opponent's turn (Quick Effect): You can remove 3 Spell Counters from your field; Special Summon 1 monster from your Deck that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66104644.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 face-up monster from your Extra Deck that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\n\n[ Monster Effect ] \nYou can only Special Summon \"Magister(s) of Endymion\" once per turn. When this card declares an attack: You can place 1 Spell Counter on it. Once per opponent's turn (Quick Effect): You can remove 3 Spell Counters from your field; Special Summon 1 monster from your Deck that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 900,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 900,
+  "level": 3,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 face-up monster from your Extra Deck that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
 }

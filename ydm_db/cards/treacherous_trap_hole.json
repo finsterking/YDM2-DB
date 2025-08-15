@@ -3,10 +3,10 @@
   "name": "Treacherous Trap Hole",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99590524.jpg"
   ],
+  "text": "If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.",
   "type": "Trap",
   "trap_type": "Normal"
 }

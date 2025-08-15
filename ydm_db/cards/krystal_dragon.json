@@ -3,19 +3,19 @@
   "name": "Krystal Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during your Battle Step, if this card battled this turn: You can add 1 Level 8 Dragon-Type monster from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77363314.jpg"
   ],
+  "text": "Once per turn, during your Battle Step, if this card battled this turn: You can add 1 Level 8 Dragon-Type monster from your Deck to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 1000,
-  "level": 6,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Jurrac Titano",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. Cannot be targeted by Trap or monster effects. Once per turn: You can banish 1 \"Jurrac\" monster with 1700 or less ATK from your Graveyard; this card gains 1000 ATK until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85028288.jpg"
   ],
+  "text": "Cannot be Special Summoned. Cannot be targeted by Trap or monster effects. Once per turn: You can banish 1 \"Jurrac\" monster with 1700 or less ATK from your Graveyard; this card gains 1000 ATK until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 3000,
-  "def": 2800,
-  "level": 9,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2800,
+  "level": 9,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Green Baboon, Defender of the Forest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in your hand or Graveyard when a face-up Beast-Type monster you control is destroyed and sent to the Graveyard (except during the Damage Step): You can pay 1000 Life Points; Special Summon this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46668237.jpg"
   ],
+  "text": "If this card is in your hand or Graveyard when a face-up Beast-Type monster you control is destroyed and sent to the Graveyard (except during the Damage Step): You can pay 1000 Life Points; Special Summon this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2600,
-  "def": 1800,
-  "level": 7,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
 }

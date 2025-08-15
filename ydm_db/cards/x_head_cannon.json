@@ -3,19 +3,19 @@
   "name": "X-Head Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62651957.jpg"
   ],
+  "text": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 1500,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

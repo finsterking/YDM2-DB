@@ -3,23 +3,20 @@
   "name": "Relinquished Anima",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Level 1 monster, except a Token\nYou can target 1 face-up monster this card points to; equip that face-up monster to this card (max. 1). You can only use this effect of \"Relinquished Anima\" once per turn. This card gains ATK equal to that equipped monster's.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94259633.jpg"
   ],
+  "text": "1 Level 1 monster, except a Token\nYou can target 1 face-up monster this card points to; equip that face-up monster to this card (max. 1). You can only use this effect of \"Relinquished Anima\" once per turn. This card gains ATK equal to that equipped monster's.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 0,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Top"
-  ],
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Top"
+  ]
 }

@@ -3,19 +3,19 @@
   "name": "Outstanding Dog Marron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent to your Graveyard, add it to your Deck and shuffle it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11548522.jpg"
   ],
+  "text": "When this card is sent to your Graveyard, add it to your Deck and shuffle it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

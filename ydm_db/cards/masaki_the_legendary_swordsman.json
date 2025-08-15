@@ -3,19 +3,19 @@
   "name": "Masaki the Legendary Swordsman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Legendary swordmaster Masaki is a veteran of over 100 battles.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44287299.jpg"
   ],
+  "text": "Legendary swordmaster Masaki is a veteran of over 100 battles.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1100,
-  "def": 1100,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
 }

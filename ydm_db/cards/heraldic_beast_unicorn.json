@@ -3,19 +3,19 @@
   "name": "Heraldic Beast Unicorn",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can banish this card from your Graveyard to target 1 Psychic-Type Xyz Monster in your Graveyard; Special Summon it. Its effects are negated. You can only use the effect of \"Heraldic Beast Unicorn\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45705025.jpg"
   ],
+  "text": "You can banish this card from your Graveyard to target 1 Psychic-Type Xyz Monster in your Graveyard; Special Summon it. Its effects are negated. You can only use the effect of \"Heraldic Beast Unicorn\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1100,
-  "def": 1600,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

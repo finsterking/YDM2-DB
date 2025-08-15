@@ -3,19 +3,19 @@
   "name": "Gigantic Cephalotus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card gains 200 ATK each time a Plant-Type monster is sent from the field to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82116191.jpg"
   ],
+  "text": "This card gains 200 ATK each time a Plant-Type monster is sent from the field to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1850,
-  "def": 700,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Eternal Rest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy all monsters equipped with Equip Cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95051344.jpg"
   ],
+  "text": "Destroy all monsters equipped with Equip Cards.",
   "type": "Spell",
   "spell_type": "Normal"
 }

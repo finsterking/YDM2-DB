@@ -3,19 +3,19 @@
   "name": "Mystical Capture Chain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A mystical chain that binds enemies, rendering them immobile.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63515678.jpg"
   ],
+  "text": "''A mystical chain that binds enemies, rendering them immobile.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 700,
-  "def": 700,
-  "level": 2,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

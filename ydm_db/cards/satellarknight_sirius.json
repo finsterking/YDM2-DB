@@ -3,19 +3,19 @@
   "name": "Satellarknight Sirius",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Summoned: You can target 5 \"tellarknight\" monsters in your Graveyard; shuffle all 5 into the Deck, then draw 1 card. You can only use this effect of \"Satellarknight Sirius\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63274863.jpg"
   ],
+  "text": "If this card is Summoned: You can target 5 \"tellarknight\" monsters in your Graveyard; shuffle all 5 into the Deck, then draw 1 card. You can only use this effect of \"Satellarknight Sirius\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 900,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
 }

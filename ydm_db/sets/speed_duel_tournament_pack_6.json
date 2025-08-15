@@ -19,12 +19,6 @@
       "image_index": 0
     },
     {
-      "id": 300102003,
-      "code": "STP6-ENS02",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 48092532,
       "code": "STP6-EN002",
       "rarity": "Ultra Rare",
@@ -45,12 +39,6 @@
     {
       "id": 71200730,
       "code": "STP6-EN020",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300202003,
-      "code": "STP6-ENS01",
       "rarity": "Common",
       "image_index": 0
     },
@@ -103,12 +91,6 @@
       "image_index": 0
     },
     {
-      "id": 300302010,
-      "code": "STP6-ENS04",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 36021814,
       "code": "STP6-EN022",
       "rarity": "Common",
@@ -145,20 +127,8 @@
       "image_index": 0
     },
     {
-      "id": 300302015,
-      "code": "STP6-ENS03",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 17449108,
       "code": "STP6-EN026",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302051,
-      "code": "STP6-ENS05",
       "rarity": "Common",
       "image_index": 0
     },

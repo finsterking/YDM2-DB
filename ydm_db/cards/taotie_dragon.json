@@ -3,25 +3,22 @@
   "name": "Taotie Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ monsters Special Summoned from the Extra Deck\nThis card gains effects based on the card types (Fusion/Synchro/Xyz) of materials used for its Link Summon.\n● Fusion: Your opponent cannot activate monster effects during the Battle Phase.\n● Synchro: Your opponent cannot activate Spell/Trap Cards and effects during your Main Phase.\n● Xyz: Your opponent cannot activate the effects of cards in the GY during your Main Phase or Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82566662.jpg"
   ],
+  "text": "2+ monsters Special Summoned from the Extra Deck\nThis card gains effects based on the card types (Fusion/Synchro/Xyz) of materials used for its Link Summon.\n● Fusion: Your opponent cannot activate monster effects during the Battle Phase.\n● Synchro: Your opponent cannot activate Spell/Trap Cards and effects during your Main Phase.\n● Xyz: Your opponent cannot activate the effects of cards in the GY during your Main Phase or Battle Phase.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 2500,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Wyrm",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Bottom-Left",
     "Bottom",
     "Bottom-Right"
-  ],
-  "species": "Wyrm",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

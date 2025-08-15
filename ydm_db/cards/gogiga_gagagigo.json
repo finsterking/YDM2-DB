@@ -3,19 +3,19 @@
   "name": "Gogiga Gagagigo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "His soul long-since collapsed, his body recklessly continues onward, driven by a lust for more power. He no longer resembles his former self....",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39674352.jpg"
   ],
+  "text": "His soul long-since collapsed, his body recklessly continues onward, driven by a lust for more power. He no longer resembles his former self....",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 2950,
-  "def": 2800,
-  "level": 8,
   "species": "Reptile",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
 }

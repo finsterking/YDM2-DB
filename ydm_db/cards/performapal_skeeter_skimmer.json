@@ -3,19 +3,19 @@
   "name": "Performapal Skeeter Skimmer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this face-up Attack Position card is targeted for an attack: You can change this card to face-up Defense Position, and if you do, negate that attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42562690.jpg"
   ],
+  "text": "When this face-up Attack Position card is targeted for an attack: You can change this card to face-up Defense Position, and if you do, negate that attack.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 500,
-  "def": 1600,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Fairywitch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Though destined to be a fairy, this creature chose the way of the witch instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37160778.jpg"
   ],
+  "text": "Though destined to be a fairy, this creature chose the way of the witch instead.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 800,
-  "def": 1000,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

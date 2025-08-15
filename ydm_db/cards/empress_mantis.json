@@ -3,19 +3,19 @@
   "name": "Empress Mantis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Queen of an army of giant mantises whose command moves legions.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58818411.jpg"
   ],
+  "text": "Queen of an army of giant mantises whose command moves legions.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 2200,
-  "def": 1400,
-  "level": 6,
   "species": "Insect",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Minar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is discarded directly from your hand to the Graveyard by an effect of a card controlled by your opponent, inflict 1000 points of damage to your opponent's Life Points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32539892.jpg"
   ],
+  "text": "When this card is discarded directly from your hand to the Graveyard by an effect of a card controlled by your opponent, inflict 1000 points of damage to your opponent's Life Points.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 850,
-  "def": 750,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 750,
+  "level": 3,
+  "is_tuner": false
 }

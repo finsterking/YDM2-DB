@@ -3,10 +3,10 @@
   "name": "The Dark Door",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Only 1 monster can attack during each Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30606547.jpg"
   ],
+  "text": "Only 1 monster can attack during each Battle Phase.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

@@ -3,10 +3,10 @@
   "name": "Switcheroroo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control the same number of monsters as your opponent, switch control of all those monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30426226.jpg"
   ],
+  "text": "If you control the same number of monsters as your opponent, switch control of all those monsters.",
   "type": "Trap",
   "trap_type": "Normal"
 }

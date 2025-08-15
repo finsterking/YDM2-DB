@@ -3,19 +3,19 @@
   "name": "Sword Arm of Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This Jurassic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13069066.jpg"
   ],
+  "text": "This Jurassic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1750,
-  "def": 2030,
-  "level": 6,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2030,
+  "level": 6,
+  "is_tuner": false
 }

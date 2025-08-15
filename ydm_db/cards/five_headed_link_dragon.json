@@ -3,27 +3,24 @@
   "name": "Five-Headed Link Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "5 monsters\nMust be Link Summoned. If this card is Link Summoned using DARK, EARTH, WATER, FIRE, and WIND Attributes: You can destroy all cards your opponent controls. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster. Unaffected by other cards' effects. Once per turn, during your opponent's End Phase: You must banish 5 cards from your GY face-down (this is not optional), or send this card to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10669138.jpg"
   ],
+  "text": "5 monsters\nMust be Link Summoned. If this card is Link Summoned using DARK, EARTH, WATER, FIRE, and WIND Attributes: You can destroy all cards your opponent controls. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster. Unaffected by other cards' effects. Once per turn, during your opponent's End Phase: You must banish 5 cards from your GY face-down (this is not optional), or send this card to the GY.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 5000,
-  "def": null,
-  "level": null,
-  "link": 5,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 5,
   "link_arrows": [
     "Left",
     "Right",
     "Bottom-Left",
     "Bottom",
     "Bottom-Right"
-  ],
-  "species": "Dragon",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

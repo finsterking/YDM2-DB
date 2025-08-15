@@ -3,19 +3,19 @@
   "name": "Psychic Ace",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card in the Monster Zone is Tributed: You can target 1 card on the field; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84453939.jpg"
   ],
+  "text": "If this card in the Monster Zone is Tributed: You can target 1 card on the field; destroy it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 0,
-  "level": 2,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
 }

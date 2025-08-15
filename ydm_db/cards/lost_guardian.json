@@ -3,19 +3,19 @@
   "name": "Lost Guardian",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The original DEF of this card equals the number of your banished Rock-Type monsters × 700.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45871897.jpg"
   ],
+  "text": "The original DEF of this card equals the number of your banished Rock-Type monsters × 700.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "def": -1,
-  "level": 4,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": -1,
+  "level": 4,
+  "is_tuner": false
 }

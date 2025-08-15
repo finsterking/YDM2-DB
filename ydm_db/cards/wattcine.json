@@ -3,10 +3,10 @@
   "name": "Wattcine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a Thunder-Type monster you control inflicts Battle Damage to your opponent, gain Life Points equal to the damage inflicted.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1834107.jpg"
   ],
+  "text": "When a Thunder-Type monster you control inflicts Battle Damage to your opponent, gain Life Points equal to the damage inflicted.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

@@ -3,19 +3,19 @@
   "name": "Ice Doll",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 other WATER monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 WATER Spellcaster monster from your Deck to your hand. If this card is sent from the field to the GY: You can add 1 \"Ice Doll Mirror\" from your Deck to your hand. You can only use each effect of \"Ice Doll\" once per turn, also you cannot Special Summon the turn you activate any of this card's effects, except WATER monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97476032.jpg"
   ],
+  "text": "You can discard 1 other WATER monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 WATER Spellcaster monster from your Deck to your hand. If this card is sent from the field to the GY: You can add 1 \"Ice Doll Mirror\" from your Deck to your hand. You can only use each effect of \"Ice Doll\" once per turn, also you cannot Special Summon the turn you activate any of this card's effects, except WATER monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 800,
-  "def": 1000,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
 }

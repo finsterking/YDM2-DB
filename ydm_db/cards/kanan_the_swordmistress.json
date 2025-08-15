@@ -3,19 +3,19 @@
   "name": "Kanan the Swordmistress",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A lady warrior armed with sword and shield, she floats lightly and stings sharply.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12829151.jpg"
   ],
+  "text": "A lady warrior armed with sword and shield, she floats lightly and stings sharply.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 1400,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

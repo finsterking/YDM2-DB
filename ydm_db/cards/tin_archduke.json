@@ -3,19 +3,18 @@
   "name": "Tin Archduke",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 4 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position. (Flip monsters' effects are not activated.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66506689.jpg"
   ],
+  "text": "3 Level 4 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; change its battle position. (Flip monsters' effects are not activated.)",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 2200,
-  "def": 1200,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1200
 }

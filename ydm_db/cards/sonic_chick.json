@@ -3,19 +3,19 @@
   "name": "Sonic Chick",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36472900.jpg"
   ],
+  "text": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 300,
-  "def": 300,
-  "level": 1,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
 }

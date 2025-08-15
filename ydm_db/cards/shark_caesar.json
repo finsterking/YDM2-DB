@@ -3,19 +3,18 @@
   "name": "Shark Caesar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 or more (max. 5) Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; place 1 Shark Counter on this card. If this card attacks or is attacked, it gains 1000 ATK for each Shark Counter on it, during the Damage Step only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14306092.jpg"
   ],
+  "text": "3 or more (max. 5) Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; place 1 Shark Counter on this card. If this card attacks or is attacked, it gains 1000 ATK for each Shark Counter on it, during the Damage Step only.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "WATER",
   "atk": 1800,
-  "def": 2000,
-  "level": 3,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 3,
+  "def": 2000
 }

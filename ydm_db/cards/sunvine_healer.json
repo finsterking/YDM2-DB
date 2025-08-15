@@ -3,23 +3,20 @@
   "name": "Sunvine Healer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; gain LP equal to its Link Rating x 300. When your Plant Link Monster inflicts battle damage to your opponent: You can gain 600 LP.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65563871.jpg"
   ],
+  "text": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; gain LP equal to its Link Rating x 300. When your Plant Link Monster inflicts battle damage to your opponent: You can gain 600 LP.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 600,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Top"
-  ],
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Top"
+  ]
 }

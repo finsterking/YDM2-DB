@@ -3,19 +3,19 @@
   "name": "Tomozaurus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Small but vicious, this monster even attacks its own kind.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46457856.jpg"
   ],
+  "text": "Small but vicious, this monster even attacks its own kind.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 400,
-  "level": 2,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
 }

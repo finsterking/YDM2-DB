@@ -3,19 +3,19 @@
   "name": "Tiger Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Tribute Summoned by Tributing a Dragon monster: You can target up to 2 Set cards in your opponent's Spell & Trap Zone; destroy those targets.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10097168.jpg"
   ],
+  "text": "When this card is Tribute Summoned by Tributing a Dragon monster: You can target up to 2 Set cards in your opponent's Spell & Trap Zone; destroy those targets.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2400,
-  "def": 1800,
-  "level": 6,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

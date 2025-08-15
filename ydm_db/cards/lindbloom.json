@@ -3,19 +3,19 @@
   "name": "Lindbloom",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52339733.jpg"
   ],
+  "text": "If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 0,
-  "def": 1800,
-  "level": 4,
   "species": "Wyrm",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

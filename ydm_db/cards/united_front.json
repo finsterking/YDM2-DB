@@ -3,10 +3,10 @@
   "name": "United Front",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a Trap Card is activated while you control 2 or more face-up monsters with the same Level: Negate the activation and destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86474024.jpg"
   ],
+  "text": "When a Trap Card is activated while you control 2 or more face-up monsters with the same Level: Negate the activation and destroy it.",
   "type": "Trap",
   "trap_type": "Counter"
 }

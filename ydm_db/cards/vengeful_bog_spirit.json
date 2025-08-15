@@ -3,10 +3,10 @@
   "name": "Vengeful Bog Spirit",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Monsters cannot attack the turn they are Summoned.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95220856.jpg"
   ],
+  "text": "Monsters cannot attack the turn they are Summoned.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

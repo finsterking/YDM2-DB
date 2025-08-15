@@ -3,19 +3,19 @@
   "name": "Wonko, Noble Knight of the Forest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can add 1 \"Fairy Tale Prologue: Journey's Dawn\" from your Deck to your hand, or, if \"Fairy Tale Prologue: Journey's Dawn\" is in your field or GY, you can draw 1 card instead. You can only use this effect of \"Wonko, Noble Knight of the Forest\" once per turn. While a card is in a Field Zone, your opponent's monsters cannot target monsters for attacks, except this one. When this card is destroyed by battle: You can make the monster that destroyed it lose 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17832359.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Fairy Tale Prologue: Journey's Dawn\" from your Deck to your hand, or, if \"Fairy Tale Prologue: Journey's Dawn\" is in your field or GY, you can draw 1 card instead. You can only use this effect of \"Wonko, Noble Knight of the Forest\" once per turn. While a card is in a Field Zone, your opponent's monsters cannot target monsters for attacks, except this one. When this card is destroyed by battle: You can make the monster that destroyed it lose 500 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1100,
-  "def": 1600,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

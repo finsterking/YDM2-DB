@@ -3,19 +3,19 @@
   "name": "Gunkan Suship Ikura",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control \"Gunkan Suship Shari\", you can Special Summon this card (from your hand). You can only Special Summon \"Gunkan Suship Ikura\" once per turn this way. During your Main Phase: You can excavate the top 3 cards from your Deck, and if you do, you can either add to your hand or Special Summon 1 excavated \"Gunkan Suship Shari\", also shuffle the rest into your Deck. You can only use this effect of \"Gunkan Suship Ikura\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61027400.jpg"
   ],
+  "text": "If you control \"Gunkan Suship Shari\", you can Special Summon this card (from your hand). You can only Special Summon \"Gunkan Suship Ikura\" once per turn this way. During your Main Phase: You can excavate the top 3 cards from your Deck, and if you do, you can either add to your hand or Special Summon 1 excavated \"Gunkan Suship Shari\", also shuffle the rest into your Deck. You can only use this effect of \"Gunkan Suship Ikura\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 200,
-  "def": 300,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
 }

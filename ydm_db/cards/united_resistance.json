@@ -3,19 +3,19 @@
   "name": "United Resistance",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The people that gather to swear to fight their oppressors. A revolution is coming.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85936485.jpg"
   ],
+  "text": "The people that gather to swear to fight their oppressors. A revolution is coming.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1000,
-  "def": 400,
-  "level": 3,
   "species": "Thunder",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
 }

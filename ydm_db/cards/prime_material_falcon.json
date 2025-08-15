@@ -3,19 +3,19 @@
   "name": "Prime Material Falcon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an Effect Monster's effect to destroy a Spell or Trap Card(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1287123.jpg"
   ],
+  "text": "When an Effect Monster's effect to destroy a Spell or Trap Card(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 2200,
-  "def": 800,
-  "level": 5,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 5,
+  "is_tuner": false
 }

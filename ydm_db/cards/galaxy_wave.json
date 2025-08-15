@@ -3,10 +3,10 @@
   "name": "Galaxy Wave",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time you Xyz Summon: Inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77098449.jpg"
   ],
+  "text": "Each time you Xyz Summon: Inflict 500 damage to your opponent.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

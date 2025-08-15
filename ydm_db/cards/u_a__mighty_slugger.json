@@ -3,19 +3,19 @@
   "name": "U.A. Mighty Slugger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Mighty Slugger\". You can only Special Summon \"U.A. Mighty Slugger\" once per turn this way. If this card attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56421754.jpg"
   ],
+  "text": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Mighty Slugger\". You can only Special Summon \"U.A. Mighty Slugger\" once per turn this way. If this card attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2300,
-  "def": 700,
-  "level": 5,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 5,
+  "is_tuner": false
 }

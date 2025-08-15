@@ -3,19 +3,19 @@
   "name": "Mimighoul Armor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: If it is the Main Phase: Apply these effects in sequence.\n● This turn, \"Mimighoul\" monsters cannot be destroyed by battle.\n● Give control of this card to your opponent.\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if your opponent controls a monster, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Armor\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11677278.jpg"
   ],
+  "text": "FLIP: If it is the Main Phase: Apply these effects in sequence.\n● This turn, \"Mimighoul\" monsters cannot be destroyed by battle.\n● Give control of this card to your opponent.\nDuring your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position, or if your opponent controls a monster, you can Special Summon this card face-up on your field. You can only use each effect of \"Mimighoul Armor\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 600,
-  "def": 1500,
-  "level": 1,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 1,
+  "is_tuner": false
 }

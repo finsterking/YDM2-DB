@@ -3,19 +3,19 @@
   "name": "Prediction Princess Crystaldine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: You can add 1 Ritual Monster from your Deck or Graveyard to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67503139.jpg"
   ],
+  "text": "FLIP: You can add 1 Ritual Monster from your Deck or Graveyard to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1400,
-  "def": 2200,
-  "level": 5,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2200,
+  "level": 5,
+  "is_tuner": false
 }

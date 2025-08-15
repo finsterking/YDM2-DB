@@ -3,10 +3,10 @@
   "name": "Solemn Wishes",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Increase your Life Points by 500 points each time you draw a card (or cards).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35346968.jpg"
   ],
+  "text": "Increase your Life Points by 500 points each time you draw a card (or cards).",
   "type": "Trap",
   "trap_type": "Continuous"
 }

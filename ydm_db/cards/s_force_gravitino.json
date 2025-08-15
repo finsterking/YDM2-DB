@@ -3,19 +3,19 @@
   "name": "S-Force Gravitino",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters is banished when it leaves the field. If this card is Normal or Special Summoned: You can add 1 \"S-Force\" card from your Deck to your hand, except \"S-Force Gravitino\". You can only use this effect of \"S-Force Gravitino\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21368442.jpg"
   ],
+  "text": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters is banished when it leaves the field. If this card is Normal or Special Summoned: You can add 1 \"S-Force\" card from your Deck to your hand, except \"S-Force Gravitino\". You can only use this effect of \"S-Force Gravitino\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 1400,
-  "level": 5,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
 }

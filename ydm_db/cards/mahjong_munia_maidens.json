@@ -3,19 +3,19 @@
   "name": "Mahjong Munia Maidens",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: You can draw 1 card, then discard 1 card.\nOnce per turn: You can change this card to face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53620899.jpg"
   ],
+  "text": "FLIP: You can draw 1 card, then discard 1 card.\nOnce per turn: You can change this card to face-down Defense Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 200,
-  "def": 2000,
-  "level": 2,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 2,
+  "is_tuner": false
 }

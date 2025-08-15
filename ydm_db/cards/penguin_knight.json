@@ -3,19 +3,19 @@
   "name": "Penguin Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36039163.jpg"
   ],
+  "text": "When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 900,
-  "def": 800,
-  "level": 3,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

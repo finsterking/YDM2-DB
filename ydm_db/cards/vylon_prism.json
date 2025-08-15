@@ -3,19 +3,19 @@
   "name": "Vylon Prism",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster attacks or is attacked: It gains 1000 ATK during the Damage Step only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74064212.jpg"
   ],
+  "text": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster attacks or is attacked: It gains 1000 ATK during the Damage Step only.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1500,
-  "def": 1500,
-  "level": 4,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": true
 }

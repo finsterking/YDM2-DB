@@ -3,10 +3,10 @@
   "name": "The Flute of Summoning Kuriboh",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Take 1 \"Kuriboh\" or 1 \"Winged Kuriboh\" from your Deck, and either add it to your hand or Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20065322.jpg"
   ],
+  "text": "Take 1 \"Kuriboh\" or 1 \"Winged Kuriboh\" from your Deck, and either add it to your hand or Special Summon it.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

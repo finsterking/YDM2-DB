@@ -3,10 +3,10 @@
   "name": "Oops!",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 card you control; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55573346.jpg"
   ],
+  "text": "Target 1 card you control; destroy it.",
   "type": "Trap",
   "trap_type": "Normal"
 }

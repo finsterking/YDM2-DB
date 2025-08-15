@@ -3,19 +3,19 @@
   "name": "Fairy Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This beautiful Dragon spirit harbors hidden strength.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20315854.jpg"
   ],
+  "text": "This beautiful Dragon spirit harbors hidden strength.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1100,
-  "def": 1200,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,18 @@
   "name": "Heroic Champion - Kusanagi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 4 Warrior-Type monsters\nOnce per turn, during either player's turn, when a Trap Card is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it, then this card gains 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74593218.jpg"
   ],
+  "text": "3 Level 4 Warrior-Type monsters\nOnce per turn, during either player's turn, when a Trap Card is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it, then this card gains 500 ATK.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 2500,
-  "def": 2400,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2400
 }

@@ -3,19 +3,19 @@
   "name": "Morphtronic Boarden",
   "is_illegal": false,
   "is_custom": false,
-  "text": "● While in Attack Position: \"Morphtronic\" monsters you control can attack your opponent directly.\n● While in Defense Position: Other \"Morphtronic\" monsters you control cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48381268.jpg"
   ],
+  "text": "● While in Attack Position: \"Morphtronic\" monsters you control can attack your opponent directly.\n● While in Defense Position: Other \"Morphtronic\" monsters you control cannot be destroyed by battle.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 1800,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
 }

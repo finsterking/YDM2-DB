@@ -3,19 +3,19 @@
   "name": "Mataza the Zapper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22609617.jpg"
   ],
+  "text": "This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 800,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

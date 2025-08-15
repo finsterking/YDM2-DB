@@ -3,19 +3,19 @@
   "name": "Photon Cerberus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the turn this card was Normal Summoned, neither player can activate Trap Cards while this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28990150.jpg"
   ],
+  "text": "During the turn this card was Normal Summoned, neither player can activate Trap Cards while this card is face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1300,
-  "def": 600,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
 }

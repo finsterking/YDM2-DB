@@ -3,10 +3,10 @@
   "name": "The League of Uniform Nomenclature",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select 1 face-up Level 2 or lower Normal Monster you control to activate this card. Special Summon as many cards as possible from your Deck with the same name as the selected monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55008284.jpg"
   ],
+  "text": "Select 1 face-up Level 2 or lower Normal Monster you control to activate this card. Special Summon as many cards as possible from your Deck with the same name as the selected monster.",
   "type": "Trap",
   "trap_type": "Normal"
 }

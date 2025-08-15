@@ -3,19 +3,19 @@
   "name": "Undaunted Bumpkin Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the Main Phase, if your opponent Special Summoned 3 or more monsters this turn (Quick Effect): You can Special Summon this card from your hand or GY. You can only use this effect of \"Undaunted Bumpkin Beast\" once per turn. While you control no other monsters, this Attack Position card cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8700633.jpg"
   ],
+  "text": "During the Main Phase, if your opponent Special Summoned 3 or more monsters this turn (Quick Effect): You can Special Summon this card from your hand or GY. You can only use this effect of \"Undaunted Bumpkin Beast\" once per turn. While you control no other monsters, this Attack Position card cannot be destroyed by battle.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 900,
-  "def": 2000,
-  "level": 2,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 2,
+  "is_tuner": false
 }

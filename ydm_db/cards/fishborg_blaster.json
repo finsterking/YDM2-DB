@@ -3,19 +3,19 @@
   "name": "Fishborg Blaster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a face-up Level 3 or lower WATER monster: You can discard 1 card; Special Summon this card from your Graveyard. If this card is used as a Synchro Material Monster, all other Synchro Material Monsters must be WATER.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93369354.jpg"
   ],
+  "text": "If you control a face-up Level 3 or lower WATER monster: You can discard 1 card; Special Summon this card from your Graveyard. If this card is used as a Synchro Material Monster, all other Synchro Material Monsters must be WATER.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 100,
-  "def": 200,
-  "level": 1,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": true
 }

@@ -3,10 +3,10 @@
   "name": "Stygian Dirge",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Reduce the Levels of all monsters your opponent controls by 1.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81489939.jpg"
   ],
+  "text": "Reduce the Levels of all monsters your opponent controls by 1.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

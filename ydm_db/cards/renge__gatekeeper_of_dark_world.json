@@ -3,19 +3,19 @@
   "name": "Renge, Gatekeeper of Dark World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60606759.jpg"
   ],
+  "text": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 100,
-  "def": 2100,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
 }

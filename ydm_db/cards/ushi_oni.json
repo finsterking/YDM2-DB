@@ -3,19 +3,19 @@
   "name": "Ushi Oni",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A bull fiend restored by the dark arts, this monster appears out of a jar.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48649353.jpg"
   ],
+  "text": "A bull fiend restored by the dark arts, this monster appears out of a jar.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 2150,
-  "def": 1950,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1950,
+  "level": 6,
+  "is_tuner": false
 }

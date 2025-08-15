@@ -3,19 +3,19 @@
   "name": "Sorcerer of the Doomed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49218300.jpg"
   ],
+  "text": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1450,
-  "def": 1200,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

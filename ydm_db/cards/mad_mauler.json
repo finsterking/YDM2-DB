@@ -3,19 +3,19 @@
   "name": "Mad Mauler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card's name becomes \"Plaguespreader Zombie\" while on the field or in the GY. If this card is in your GY: You can target 1 Level 6 or higher monster you control; reduce its Level by 2, and if you do, Special Summon this card, also the player who Summoned it cannot Special Summon monsters, except Zombie monsters, while this card is face-up in the Monster Zone. You can only use this effect of \"Mad Mauler\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18760514.jpg"
   ],
+  "text": "This card's name becomes \"Plaguespreader Zombie\" while on the field or in the GY. If this card is in your GY: You can target 1 Level 6 or higher monster you control; reduce its Level by 2, and if you do, Special Summon this card, also the player who Summoned it cannot Special Summon monsters, except Zombie monsters, while this card is face-up in the Monster Zone. You can only use this effect of \"Mad Mauler\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 400,
-  "def": 200,
-  "level": 2,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 2,
+  "is_tuner": true
 }

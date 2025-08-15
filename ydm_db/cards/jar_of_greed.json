@@ -3,10 +3,10 @@
   "name": "Jar of Greed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83968380.jpg"
   ],
+  "text": "Draw 1 card.",
   "type": "Trap",
   "trap_type": "Normal"
 }

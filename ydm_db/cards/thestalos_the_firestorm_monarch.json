@@ -3,19 +3,19 @@
   "name": "Thestalos the Firestorm Monarch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Tribute Summoned: Discard 1 random card from your opponent's hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 100.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26205777.jpg"
   ],
+  "text": "If this card is Tribute Summoned: Discard 1 random card from your opponent's hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 100.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 2400,
-  "def": 1000,
-  "level": 6,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

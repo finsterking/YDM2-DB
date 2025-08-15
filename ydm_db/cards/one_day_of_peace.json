@@ -3,10 +3,10 @@
   "name": "One Day of Peace",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each player draws 1 card, and neither player takes damage until the end of the opponent's next turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33782437.jpg"
   ],
+  "text": "Each player draws 1 card, and neither player takes damage until the end of the opponent's next turn.",
   "type": "Spell",
   "spell_type": "Normal"
 }

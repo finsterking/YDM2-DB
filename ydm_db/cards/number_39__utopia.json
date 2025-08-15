@@ -3,20 +3,19 @@
   "name": "Number 39: Utopia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84013237.jpg",
     "https://images.ygoprodeck.com/images/cards/84013238.jpg"
   ],
+  "text": "2 Level 4 monsters\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 2000,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2000
 }

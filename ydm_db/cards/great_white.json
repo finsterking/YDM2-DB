@@ -3,19 +3,19 @@
   "name": "Great White",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A giant white shark with razor-sharp teeth.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13429800.jpg"
   ],
+  "text": "A giant white shark with razor-sharp teeth.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1600,
-  "def": 800,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

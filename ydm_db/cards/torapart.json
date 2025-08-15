@@ -3,19 +3,19 @@
   "name": "Torapart",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Warrior-Type Synchro Monster. If the Synchro Monster that used this card as a Synchro Material Monster attacks, your opponent cannot activate Trap Cards until the end of the Damage Step.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83370323.jpg"
   ],
+  "text": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Warrior-Type Synchro Monster. If the Synchro Monster that used this card as a Synchro Material Monster attacks, your opponent cannot activate Trap Cards until the end of the Damage Step.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 600,
-  "def": 600,
-  "level": 2,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 2,
+  "is_tuner": true
 }

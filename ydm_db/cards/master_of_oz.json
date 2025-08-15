@@ -3,19 +3,19 @@
   "name": "Master of Oz",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Big Koala\" + \"Des Kangaroo\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27134689.jpg"
   ],
+  "text": "\"Big Koala\" + \"Des Kangaroo\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "EARTH",
   "atk": 4200,
-  "def": 3700,
-  "level": 9,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 3700,
+  "level": 9,
+  "is_tuner": false
 }

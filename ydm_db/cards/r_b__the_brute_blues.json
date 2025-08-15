@@ -3,25 +3,22 @@
   "name": "R.B. The Brute Blues",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Machine monsters\nGains the following effects while this card points to an \"R.B.\" monster.\n● Gains ATK equal to the total original ATK of \"R.B.\" monsters it points to.\n● Can make a second attack during each Battle Phase.\n● Cannot be destroyed by battle or card effects.\nDuring your Main Phase: You can add 1 \"R.B.\" card from your Deck to your hand. You can only use this effect of \"R.B. The Brute Blues\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32216688.jpg"
   ],
+  "text": "2+ Machine monsters\nGains the following effects while this card points to an \"R.B.\" monster.\n● Gains ATK equal to the total original ATK of \"R.B.\" monsters it points to.\n● Can make a second attack during each Battle Phase.\n● Cannot be destroyed by battle or card effects.\nDuring your Main Phase: You can add 1 \"R.B.\" card from your Deck to your hand. You can only use this effect of \"R.B. The Brute Blues\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "WIND",
   "atk": 1500,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Bottom-Left",
     "Bottom",
     "Bottom-Right"
-  ],
-  "species": "Machine",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

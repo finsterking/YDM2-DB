@@ -3,10 +3,10 @@
   "name": "Fairy Meteor Crush",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97687912.jpg"
   ],
+  "text": "If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "type": "Spell",
   "spell_type": "Equip"
 }

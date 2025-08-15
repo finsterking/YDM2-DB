@@ -3,19 +3,18 @@
   "name": "Gigantic \"Champion\" Sargas",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Level 8 monsters\nOnce per turn, you can also Xyz Summon \"Gigantic \"Champion\" Sargas\" by using 1 \"Springans\" Xyz Monster you control. (Transfer its materials to this card.) While this card has material: You can add 1 \"Springans\" or \"Therion\" card from your Deck to your hand. If material is detached from a monster(s) on the field (except during the Damage Step): You can target 1 card on the field; either destroy it or return it to the hand. You can only use each effect of \"Gigantic \"Champion\" Sargas\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11132674.jpg"
   ],
+  "text": "2+ Level 8 monsters\nOnce per turn, you can also Xyz Summon \"Gigantic \"Champion\" Sargas\" by using 1 \"Springans\" Xyz Monster you control. (Transfer its materials to this card.) While this card has material: You can add 1 \"Springans\" or \"Therion\" card from your Deck to your hand. If material is detached from a monster(s) on the field (except during the Damage Step): You can target 1 card on the field; either destroy it or return it to the hand. You can only use each effect of \"Gigantic \"Champion\" Sargas\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "FIRE",
   "atk": 2800,
-  "def": 1500,
-  "level": 8,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 8,
+  "def": 1500
 }

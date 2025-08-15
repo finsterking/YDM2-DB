@@ -3,10 +3,10 @@
   "name": "Nordic Relic Brisingamen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up monster you control and 1 face-up monster your opponent controls; the ATK of the first target becomes equal to the original ATK of the second target, until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42793609.jpg"
   ],
+  "text": "Target 1 face-up monster you control and 1 face-up monster your opponent controls; the ATK of the first target becomes equal to the original ATK of the second target, until the end of this turn.",
   "type": "Trap",
   "trap_type": "Normal"
 }

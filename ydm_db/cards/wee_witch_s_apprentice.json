@@ -3,24 +3,21 @@
   "name": "Wee Witch's Apprentice",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 DARK monsters\nAll DARK monsters on the field gain 500 ATK/DEF, also all LIGHT monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 DARK monster in your GY; add it to your hand. You can only use this effect of \"Wee Witch's Apprentice\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71384012.jpg"
   ],
+  "text": "2 DARK monsters\nAll DARK monsters on the field gain 500 ATK/DEF, also all LIGHT monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 DARK monster in your GY; add it to your hand. You can only use this effect of \"Wee Witch's Apprentice\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 1400,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Bottom-Left",
     "Bottom-Right"
-  ],
-  "species": "Spellcaster",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

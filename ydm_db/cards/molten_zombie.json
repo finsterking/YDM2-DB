@@ -3,19 +3,19 @@
   "name": "Molten Zombie",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Special Summoned from the Graveyard: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/4732017.jpg"
   ],
+  "text": "When this card is Special Summoned from the Graveyard: Draw 1 card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1600,
-  "def": 400,
-  "level": 4,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
 }

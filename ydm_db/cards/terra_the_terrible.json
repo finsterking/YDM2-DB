@@ -3,19 +3,19 @@
   "name": "Terra the Terrible",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Known as a swamp dweller, this creature is a minion of the dark forces.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63308047.jpg"
   ],
+  "text": "Known as a swamp dweller, this creature is a minion of the dark forces.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 1300,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

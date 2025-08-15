@@ -3,19 +3,19 @@
   "name": "Hazy Flame Hyppogrif",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31303283.jpg"
   ],
+  "text": "Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 2100,
-  "def": 200,
-  "level": 6,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 6,
+  "is_tuner": false
 }

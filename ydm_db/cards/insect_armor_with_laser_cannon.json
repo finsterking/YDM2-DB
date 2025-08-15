@@ -3,10 +3,10 @@
   "name": "Insect Armor with Laser Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Equip only to an Insect monster. It gains 700 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3492538.jpg"
   ],
+  "text": "Equip only to an Insect monster. It gains 700 ATK.",
   "type": "Spell",
   "spell_type": "Equip"
 }

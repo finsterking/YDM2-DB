@@ -3,19 +3,19 @@
   "name": "Oni Tank T-34",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An armored tank possessed by a fiend that will pursue enemies until they're crushed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66927994.jpg"
   ],
+  "text": "An armored tank possessed by a fiend that will pursue enemies until they're crushed.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 1700,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
 }

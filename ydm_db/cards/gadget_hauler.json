@@ -3,19 +3,19 @@
   "name": "Gadget Hauler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can send any number of \"Morphtronic\" monsters from your hand to the Graveyard to have this card gain 800 ATK for each.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28002611.jpg"
   ],
+  "text": "Once per turn, you can send any number of \"Morphtronic\" monsters from your hand to the Graveyard to have this card gain 800 ATK for each.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1300,
-  "def": 0,
-  "level": 6,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 6,
+  "is_tuner": false
 }

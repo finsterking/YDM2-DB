@@ -3,19 +3,19 @@
   "name": "Stardust Chronicle Spark Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\nMust be Synchro Summoned. Once per turn (Quick Effect): You can banish 1 Synchro Monster from your GY; this card is unaffected by other cards' effects for the rest of this turn. If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 of your banished Dragon Synchro Monsters; Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89474727.jpg"
   ],
+  "text": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\nMust be Synchro Summoned. Once per turn (Quick Effect): You can banish 1 Synchro Monster from your GY; this card is unaffected by other cards' effects for the rest of this turn. If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 of your banished Dragon Synchro Monsters; Special Summon it.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 3000,
-  "def": 2500,
-  "level": 10,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Malfunction",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Pay 500 Life Points. Negate the activation of a Trap Card and return it to its original position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6137095.jpg"
   ],
+  "text": "Pay 500 Life Points. Negate the activation of a Trap Card and return it to its original position.",
   "type": "Trap",
   "trap_type": "Counter"
 }

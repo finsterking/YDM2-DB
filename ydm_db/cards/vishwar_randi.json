@@ -3,19 +3,19 @@
   "name": "Vishwar Randi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''This lady warrior with unquenchable bloodlust serves the forces of darkness.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78556320.jpg"
   ],
+  "text": "''This lady warrior with unquenchable bloodlust serves the forces of darkness.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 900,
-  "def": 700,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

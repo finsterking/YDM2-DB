@@ -3,10 +3,10 @@
   "name": "The Warrior Returning Alive",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95281259.jpg"
   ],
+  "text": "Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.",
   "type": "Spell",
   "spell_type": "Normal"
 }

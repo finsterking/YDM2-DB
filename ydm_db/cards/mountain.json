@@ -3,10 +3,10 @@
   "name": "Mountain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50913601.jpg"
   ],
+  "text": "All Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.",
   "type": "Spell",
   "spell_type": "Field"
 }

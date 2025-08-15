@@ -3,10 +3,10 @@
   "name": "World Legacy Struggle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target Spells/Traps on the field, up to the number of co-linked monsters on the field; destroy them.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58374719.jpg"
   ],
+  "text": "Target Spells/Traps on the field, up to the number of co-linked monsters on the field; destroy them.",
   "type": "Trap",
   "trap_type": "Normal"
 }

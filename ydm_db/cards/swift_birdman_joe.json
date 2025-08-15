@@ -3,19 +3,19 @@
   "name": "Swift Birdman Joe",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners' hands.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81896370.jpg"
   ],
+  "text": "If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners' hands.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 2300,
-  "def": 1400,
-  "level": 6,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 6,
+  "is_tuner": false
 }

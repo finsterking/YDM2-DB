@@ -3,19 +3,19 @@
   "name": "Interplanetary Invader \"A\"",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14729426.jpg"
   ],
+  "text": "Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 500,
-  "level": 1,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 1,
+  "is_tuner": false
 }

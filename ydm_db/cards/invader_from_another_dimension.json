@@ -3,19 +3,19 @@
   "name": "Invader from Another Dimension",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An extraterrestrial monster that came from a distant galaxy.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28450915.jpg"
   ],
+  "text": "An extraterrestrial monster that came from a distant galaxy.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 950,
-  "def": 1400,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

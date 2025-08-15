@@ -3,19 +3,18 @@
   "name": "Madolche Teacher Glassouffle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 \"Madolche\" monsters\n(Quick Effect): You can detach 1 material from this card, then target 1 \"Madolche\" monster on the field; this turn, that face-up monster is unaffected by monster effects, except its own. If a \"Madolche\" card is sent to your GY while this card is on the field (except during the Damage Step): You can shuffle up to 2 cards from the GYs into the Deck(s). You can only use each effect of \"Madolche Teacher Glassouffle\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20343502.jpg"
   ],
+  "text": "2 Level 4 \"Madolche\" monsters\n(Quick Effect): You can detach 1 material from this card, then target 1 \"Madolche\" monster on the field; this turn, that face-up monster is unaffected by monster effects, except its own. If a \"Madolche\" card is sent to your GY while this card is on the field (except during the Damage Step): You can shuffle up to 2 cards from the GYs into the Deck(s). You can only use each effect of \"Madolche Teacher Glassouffle\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 2500,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2500
 }

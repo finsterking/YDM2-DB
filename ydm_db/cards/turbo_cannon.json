@@ -3,19 +3,19 @@
   "name": "Turbo Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Turbo Rocket\" + 1 or more non-Tuner monsters\nOnce per turn, you can destroy 1 face-up monster on the field and inflict damage to its controller equal to half of its ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13574687.jpg"
   ],
+  "text": "\"Turbo Rocket\" + 1 or more non-Tuner monsters\nOnce per turn, you can destroy 1 face-up monster on the field and inflict damage to its controller equal to half of its ATK.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "FIRE",
   "atk": 0,
-  "def": 0,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
 }

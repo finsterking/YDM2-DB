@@ -3,19 +3,19 @@
   "name": "Steelswarm Genome",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a \"Steelswarm\" monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62729173.jpg"
   ],
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a \"Steelswarm\" monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 0,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
 }

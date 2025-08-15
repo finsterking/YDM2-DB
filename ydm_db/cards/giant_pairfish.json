@@ -3,19 +3,19 @@
   "name": "Giant Pairfish",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 monster; Special Summon 1 Level 4 or lower Wyrm-Type monster from your Deck. You can only use this effect of \"Giant Pairfish\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92723496.jpg"
   ],
+  "text": "You can discard 1 monster; Special Summon 1 Level 4 or lower Wyrm-Type monster from your Deck. You can only use this effect of \"Giant Pairfish\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 2000,
-  "def": 1200,
-  "level": 6,
   "species": "Wyrm",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
 }

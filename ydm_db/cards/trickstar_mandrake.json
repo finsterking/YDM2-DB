@@ -3,19 +3,19 @@
   "name": "Trickstar Mandrake",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent from the hand to the GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field. If this card is sent to the GY as Link Material for the Link Summon of a \"Trickstar\" monster: You can target 1 monster an opponent's Link Monster points to; destroy it. You can only use each effect of \"Trickstar Mandrake\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22219822.jpg"
   ],
+  "text": "If this card is sent from the hand to the GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field. If this card is sent to the GY as Link Material for the Link Summon of a \"Trickstar\" monster: You can target 1 monster an opponent's Link Monster points to; destroy it. You can only use each effect of \"Trickstar Mandrake\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 1000,
-  "level": 2,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
 }

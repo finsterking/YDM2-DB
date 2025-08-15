@@ -3,19 +3,19 @@
   "name": "Sauropod Brachion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned from the Deck. You can Tribute Summon this card face-up by Tributing 1 Dinosaur-Type monster. Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: Change all other monsters on the field to face-down Defense Position. If this card is attacked, any battle damage your opponent takes from that battle is doubled.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41753322.jpg"
   ],
+  "text": "Cannot be Special Summoned from the Deck. You can Tribute Summon this card face-up by Tributing 1 Dinosaur-Type monster. Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: Change all other monsters on the field to face-down Defense Position. If this card is attacked, any battle damage your opponent takes from that battle is doubled.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 3000,
-  "level": 8,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
 }

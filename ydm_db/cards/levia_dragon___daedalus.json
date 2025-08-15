@@ -3,19 +3,19 @@
   "name": "Levia-Dragon - Daedalus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send 1 face-up \"Umi\" you control to the GY; destroy all other cards on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37721209.jpg"
   ],
+  "text": "You can send 1 face-up \"Umi\" you control to the GY; destroy all other cards on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 2600,
-  "def": 1500,
-  "level": 7,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
 }

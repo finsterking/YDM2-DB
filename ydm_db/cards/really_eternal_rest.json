@@ -3,10 +3,10 @@
   "name": "Really Eternal Rest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy all monsters equipped with an Equip Card(s).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28121403.jpg"
   ],
+  "text": "Destroy all monsters equipped with an Equip Card(s).",
   "type": "Trap",
   "trap_type": "Normal"
 }

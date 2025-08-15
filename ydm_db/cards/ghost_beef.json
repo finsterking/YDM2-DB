@@ -3,19 +3,22 @@
   "name": "Ghost Beef",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).\n\n[ Monster Effect ] \n''The Ghost of Christmas Dinner.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84046493.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).\n\n[ Monster Effect ] \n''The Ghost of Christmas Dinner.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 2000,
-  "def": 1000,
-  "level": 7,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 1000,
+  "level": 7,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
 }

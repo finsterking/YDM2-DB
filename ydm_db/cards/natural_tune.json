@@ -3,10 +3,10 @@
   "name": "Natural Tune",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select 1 face-up Level 4 or lower Normal Monster you control. It is treated as a Tuner monster while it is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62896588.jpg"
   ],
+  "text": "Select 1 face-up Level 4 or lower Normal Monster you control. It is treated as a Tuner monster while it is face-up on the field.",
   "type": "Spell",
   "spell_type": "Normal"
 }

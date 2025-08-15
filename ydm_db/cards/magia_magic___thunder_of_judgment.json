@@ -3,10 +3,10 @@
   "name": "Magia Magic - Thunder of Judgment",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is always treated as a \"Magistus\" and \"Endymion\" card.)\nSend 1 other face-up \"Magistus\" card you control to the GY, or remove 2 Spell Counters from your field, then activate 1 of these effects (but you can only use each effect of \"Magia Magic - Thunder of Judgment\" once per turn);\n● Special Summon 1 Spellcaster monster from your hand, face-up Extra Deck, or GY.\n● Banish 1 other card on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59080.jpg"
   ],
+  "text": "(This card is always treated as a \"Magistus\" and \"Endymion\" card.)\nSend 1 other face-up \"Magistus\" card you control to the GY, or remove 2 Spell Counters from your field, then activate 1 of these effects (but you can only use each effect of \"Magia Magic - Thunder of Judgment\" once per turn);\n● Special Summon 1 Spellcaster monster from your hand, face-up Extra Deck, or GY.\n● Banish 1 other card on the field.",
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Jack Wyvern",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can banish this card and 1 face-up Machine monster you control, then target 1 DARK monster in your GY; Special Summon it. You can only use this effect of \"Jack Wyvern\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23850421.jpg"
   ],
+  "text": "You can banish this card and 1 face-up Machine monster you control, then target 1 DARK monster in your GY; Special Summon it. You can only use this effect of \"Jack Wyvern\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1800,
-  "def": 0,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

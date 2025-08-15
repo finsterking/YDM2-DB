@@ -3,19 +3,19 @@
   "name": "Gishki Vanity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Main Phase: You can discard this card; this turn, your opponent cannot activate Spells, Traps, Spell/Trap effects, or Monster Card effects when a \"Gishki\" monster is Ritual Summoned, or when a \"Gishki\" Ritual Spell Card is activated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93506862.jpg"
   ],
+  "text": "During your Main Phase: You can discard this card; this turn, your opponent cannot activate Spells, Traps, Spell/Trap effects, or Monster Card effects when a \"Gishki\" monster is Ritual Summoned, or when a \"Gishki\" Ritual Spell Card is activated.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1000,
-  "def": 800,
-  "level": 2,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
 }

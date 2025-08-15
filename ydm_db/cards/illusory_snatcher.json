@@ -3,19 +3,19 @@
   "name": "Illusory Snatcher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you Tribute Summon a monster: You can Special Summon this card from your hand, and if you do, the Type, Attribute, and Level of this card become the same as that face-up Tribute Summoned monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35073065.jpg"
   ],
+  "text": "When you Tribute Summon a monster: You can Special Summon this card from your hand, and if you do, the Type, Attribute, and Level of this card become the same as that face-up Tribute Summoned monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 1000,
-  "level": 7,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 7,
+  "is_tuner": false
 }

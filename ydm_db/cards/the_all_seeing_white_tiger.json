@@ -3,19 +3,19 @@
   "name": "The All-Seeing White Tiger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A proud ruler of the jungle that some fear and others respect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32269855.jpg"
   ],
+  "text": "A proud ruler of the jungle that some fear and others respect.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1300,
-  "def": 500,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Raidraptor - Readiness",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This turn, \"Raidraptor\" monsters you control cannot be destroyed by battle. If you have a \"Raidraptor\" monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21648584.jpg"
   ],
+  "text": "This turn, \"Raidraptor\" monsters you control cannot be destroyed by battle. If you have a \"Raidraptor\" monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.",
   "type": "Trap",
   "trap_type": "Normal"
 }

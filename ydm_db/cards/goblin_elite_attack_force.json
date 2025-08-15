@@ -3,19 +3,19 @@
   "name": "Goblin Elite Attack Force",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the end of your next turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85306040.jpg"
   ],
+  "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the end of your next turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2200,
-  "def": 1500,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

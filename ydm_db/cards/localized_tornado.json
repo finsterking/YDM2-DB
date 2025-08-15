@@ -3,10 +3,10 @@
   "name": "Localized Tornado",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Shuffle all cards from your hand and Graveyard into the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64681263.jpg"
   ],
+  "text": "Shuffle all cards from your hand and Graveyard into the Deck.",
   "type": "Trap",
   "trap_type": "Normal"
 }

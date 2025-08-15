@@ -3,19 +3,19 @@
   "name": "Rabid Horseman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Battle Ox\" + \"Mystic Horseman\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94905343.jpg"
   ],
+  "text": "\"Battle Ox\" + \"Mystic Horseman\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "EARTH",
   "atk": 2000,
-  "def": 1700,
-  "level": 6,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
 }

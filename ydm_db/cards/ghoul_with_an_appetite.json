@@ -3,19 +3,19 @@
   "name": "Ghoul with an Appetite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A monster with a heavy appetite that has never been satisfied.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95265975.jpg"
   ],
+  "text": "''A monster with a heavy appetite that has never been satisfied.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 1200,
-  "level": 4,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

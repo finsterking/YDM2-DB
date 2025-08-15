@@ -3,19 +3,19 @@
   "name": "Master of the Flaming Dragonswords",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a monster is Normal Summoned to your side of the field, except \"Master of the Flaming Dragonswords\": You can increase that monster's Level by 1, and this card gains 300 ATK until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34160055.jpg"
   ],
+  "text": "When a monster is Normal Summoned to your side of the field, except \"Master of the Flaming Dragonswords\": You can increase that monster's Level by 1, and this card gains 300 ATK until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1800,
-  "def": 1200,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

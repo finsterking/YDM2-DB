@@ -3,19 +3,19 @@
   "name": "Valkyrie Erste",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Special Summoned from your hand by a Spell effect: You can target 1 \"Mischief of the Time Goddess\" in your GY; add it to your hand. If you control a \"Valkyrie\" monster other than \"Valkyrie Erste\" (Quick Effect): You can banish 1 monster from your opponent's GY, then this card's ATK becomes equal to the banished monster's original ATK until the end of this turn. You can only use each effect of \"Valkyrie Erste\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66809920.jpg"
   ],
+  "text": "If this card is Special Summoned from your hand by a Spell effect: You can target 1 \"Mischief of the Time Goddess\" in your GY; add it to your hand. If you control a \"Valkyrie\" monster other than \"Valkyrie Erste\" (Quick Effect): You can banish 1 monster from your opponent's GY, then this card's ATK becomes equal to the banished monster's original ATK until the end of this turn. You can only use each effect of \"Valkyrie Erste\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 1800,
-  "level": 6,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Legendary Fiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during your Standby Phase: This card gains 700 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99747800.jpg"
   ],
+  "text": "Once per turn, during your Standby Phase: This card gains 700 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1500,
-  "def": 1800,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

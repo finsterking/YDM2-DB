@@ -3,19 +3,19 @@
   "name": "Naturia Cosmobeet",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent Normal Summons or Sets a monster, you can Special Summon this card from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98437424.jpg"
   ],
+  "text": "When your opponent Normal Summons or Sets a monster, you can Special Summon this card from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 700,
-  "level": 2,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 2,
+  "is_tuner": true
 }

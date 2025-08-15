@@ -3,19 +3,19 @@
   "name": "Influence Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can target 1 face-up monster you control; it becomes Dragon-Type until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54936498.jpg"
   ],
+  "text": "Once per turn: You can target 1 face-up monster you control; it becomes Dragon-Type until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 300,
-  "def": 900,
-  "level": 3,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 900,
+  "level": 3,
+  "is_tuner": true
 }

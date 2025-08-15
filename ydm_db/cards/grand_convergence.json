@@ -3,10 +3,10 @@
   "name": "Grand Convergence",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control \"Macro Cosmos\": Inflict 300 damage to your opponent and destroy all monsters on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38430673.jpg"
   ],
+  "text": "If you control \"Macro Cosmos\": Inflict 300 damage to your opponent and destroy all monsters on the field.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

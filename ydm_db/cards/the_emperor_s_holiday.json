@@ -3,10 +3,10 @@
   "name": "The Emperor's Holiday",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate all Equip Card effects on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68400115.jpg"
   ],
+  "text": "Negate all Equip Card effects on the field.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

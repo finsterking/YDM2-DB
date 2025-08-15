@@ -3,19 +3,19 @@
   "name": "Icejade Ran Aegirine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card's name becomes \"Icejade Cenote Enion Cradle\" while equipped with an Equip Card. You can discard 1 other \"Icejade\" card or WATER monster; Special Summon this card from your hand, then you can Special Summon 1 \"Icejade Token\" (Aqua/WATER/Level 3/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon from the Extra Deck, except WATER monsters. You can only use this effect of \"Icejade Ran Aegirine\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18494511.jpg"
   ],
+  "text": "This card's name becomes \"Icejade Cenote Enion Cradle\" while equipped with an Equip Card. You can discard 1 other \"Icejade\" card or WATER monster; Special Summon this card from your hand, then you can Special Summon 1 \"Icejade Token\" (Aqua/WATER/Level 3/ATK 0/DEF 0). While that Token is in the Monster Zone, the player who Summoned it cannot Special Summon from the Extra Deck, except WATER monsters. You can only use this effect of \"Icejade Ran Aegirine\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1500,
-  "def": 2500,
-  "level": 7,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2500,
+  "level": 7,
+  "is_tuner": true
 }

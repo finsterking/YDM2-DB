@@ -3,19 +3,19 @@
   "name": "Windwitch - Snow Bell",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control 2 or more WIND monsters, and no non-WIND monsters: You can Special Summon this card from your hand. A WIND Synchro Monster that was Summoned using this card as Synchro Material cannot be destroyed by your opponent's card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70117860.jpg"
   ],
+  "text": "If you control 2 or more WIND monsters, and no non-WIND monsters: You can Special Summon this card from your hand. A WIND Synchro Monster that was Summoned using this card as Synchro Material cannot be destroyed by your opponent's card effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": true
 }

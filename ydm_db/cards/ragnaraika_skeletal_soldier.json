@@ -3,24 +3,21 @@
   "name": "Ragnaraika Skeletal Soldier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters, including an Insect, Plant, or Reptile monster\nYou can target 1 \"Ragnaraika\" monster in your GY; Special Summon it in Defense Position. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card. You can only use each effect of \"Ragnaraika Skeletal Soldier\" once per turn, also you cannot Special Summon during the turn you activate either of this card's effects, except Insect, Plant, or Reptile monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43129357.jpg"
   ],
+  "text": "2 monsters, including an Insect, Plant, or Reptile monster\nYou can target 1 \"Ragnaraika\" monster in your GY; Special Summon it in Defense Position. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card. You can only use each effect of \"Ragnaraika Skeletal Soldier\" once per turn, also you cannot Special Summon during the turn you activate either of this card's effects, except Insect, Plant, or Reptile monsters.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "FIRE",
   "atk": 1600,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Plant",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Bottom-Left",
     "Bottom-Right"
-  ],
-  "species": "Plant",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

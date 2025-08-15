@@ -3,10 +3,10 @@
   "name": "No Entry!!",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Change all Attack Position monsters to Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60306104.jpg"
   ],
+  "text": "Change all Attack Position monsters to Defense Position.",
   "type": "Trap",
   "trap_type": "Normal"
 }

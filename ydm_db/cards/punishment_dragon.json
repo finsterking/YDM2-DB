@@ -3,19 +3,19 @@
   "name": "Punishment Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by possessing 4 or more banished \"Lightsworn\" monsters with different names. Once per turn (Quick Effect): You can pay 1000 LP; shuffle into the Decks, all cards in the GYs and all face-up banished cards, except \"Lightsworn\" monsters. Once per turn, if your \"Lightsworn\" monster's effect is activated: Send the top 4 cards of your Deck to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19959563.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by possessing 4 or more banished \"Lightsworn\" monsters with different names. Once per turn (Quick Effect): You can pay 1000 LP; shuffle into the Decks, all cards in the GYs and all face-up banished cards, except \"Lightsworn\" monsters. Once per turn, if your \"Lightsworn\" monster's effect is activated: Send the top 4 cards of your Deck to the GY.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 3000,
-  "def": 2600,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
 }

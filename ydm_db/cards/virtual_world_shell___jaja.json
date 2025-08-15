@@ -3,19 +3,18 @@
   "name": "Virtual World Shell - Jaja",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Level 3 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 face-up monster you control; it cannot be destroyed by battle until the end of your opponent's turn. Once per turn, after damage calculation, if this card battled an opponent's monster, while you have 2 or more monsters in your GY with the same original Type and Attribute as each other: You can banish that opponent's monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90664857.jpg"
   ],
+  "text": "2+ Level 3 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 face-up monster you control; it cannot be destroyed by battle until the end of your opponent's turn. Once per turn, after damage calculation, if this card battled an opponent's monster, while you have 2 or more monsters in your GY with the same original Type and Attribute as each other: You can banish that opponent's monster.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 2400,
-  "level": 3,
   "species": "Wyrm",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 3,
+  "def": 2400
 }

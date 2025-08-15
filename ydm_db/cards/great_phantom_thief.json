@@ -3,19 +3,19 @@
   "name": "Great Phantom Thief",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card inflicts battle damage to your opponent: Declare 1 card name; look at your opponent's hand, and if you do, discard all cards with that name in their hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10809984.jpg"
   ],
+  "text": "If this card inflicts battle damage to your opponent: Declare 1 card name; look at your opponent's hand, and if you do, discard all cards with that name in their hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 1000,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Molten Behemoth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A giant born from magma, it attacks with a magma punch.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17192817.jpg"
   ],
+  "text": "A giant born from magma, it attacks with a magma punch.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 1000,
-  "def": 2200,
-  "level": 5,
   "species": "Pyro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2200,
+  "level": 5,
+  "is_tuner": false
 }

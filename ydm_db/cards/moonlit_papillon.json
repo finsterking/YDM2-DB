@@ -3,19 +3,19 @@
   "name": "Moonlit Papillon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 4 or lower \"Butterspy\" monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16366944.jpg"
   ],
+  "text": "When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 4 or lower \"Butterspy\" monster from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": 1600,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

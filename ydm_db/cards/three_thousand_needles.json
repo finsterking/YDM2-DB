@@ -3,19 +3,19 @@
   "name": "Three Thousand Needles",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Damage Step, if this Defense Position card was attacked by a monster whose ATK is lower than this card's DEF: Destroy the attacking monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7852878.jpg"
   ],
+  "text": "At the end of the Damage Step, if this Defense Position card was attacked by a monster whose ATK is lower than this card's DEF: Destroy the attacking monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 3000,
-  "def": 1800,
-  "level": 8,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 8,
+  "is_tuner": false
 }

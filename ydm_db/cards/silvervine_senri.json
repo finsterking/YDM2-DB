@@ -3,19 +3,19 @@
   "name": "Silvervine Senri",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card, then target 1 Level 2 monster in your GY, except \"Silvervine Senri\"; Special Summon it, then you can Special Summon 1 Level 2 monster from your hand with a different Attribute than the monster Special Summoned by this effect. You can only use this effect of \"Silvervine Senri\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13382806.jpg"
   ],
+  "text": "You can Tribute this card, then target 1 Level 2 monster in your GY, except \"Silvervine Senri\"; Special Summon it, then you can Special Summon 1 Level 2 monster from your hand with a different Attribute than the monster Special Summoned by this effect. You can only use this effect of \"Silvervine Senri\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 0,
-  "def": 0,
-  "level": 2,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
 }

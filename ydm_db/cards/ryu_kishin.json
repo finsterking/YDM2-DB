@@ -3,19 +3,19 @@
   "name": "Ryu-Kishin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A very elusive creature that looks like a harmless statue until it attacks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15303296.jpg"
   ],
+  "text": "A very elusive creature that looks like a harmless statue until it attacks.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 500,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,24 +3,21 @@
   "name": "GranSolfachord Musecia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Pendulum Monsters\nDuring your Main Phase: You can add 1 Pendulum Monster from your hand to the Extra Deck face-up, and 1 face-up Pendulum Monster from your Extra Deck to the hand, as long as one of them has an even Pendulum Scale, and the other has an odd Pendulum Scale. When you Pendulum Summon a \"Solfachord\" monster(s): You can target 1 of them; add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, whose Level equals the Pendulum Scale of that monster. You can only activate each effect of \"GranSolfachord Musecia\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37972500.jpg"
   ],
+  "text": "2 Pendulum Monsters\nDuring your Main Phase: You can add 1 Pendulum Monster from your hand to the Extra Deck face-up, and 1 face-up Pendulum Monster from your Extra Deck to the hand, as long as one of them has an even Pendulum Scale, and the other has an odd Pendulum Scale. When you Pendulum Summon a \"Solfachord\" monster(s): You can target 1 of them; add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, whose Level equals the Pendulum Scale of that monster. You can only activate each effect of \"GranSolfachord Musecia\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 1900,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Bottom-Left",
     "Bottom-Right"
-  ],
-  "species": "Fairy",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

@@ -3,10 +3,10 @@
   "name": "Release Restraint",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Tribute 1 \"Gearfried the Iron Knight\"; Special Summon 1 \"Gearfried the Swordmaster\" from your hand or Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75417459.jpg"
   ],
+  "text": "Tribute 1 \"Gearfried the Iron Knight\"; Special Summon 1 \"Gearfried the Swordmaster\" from your hand or Deck.",
   "type": "Spell",
   "spell_type": "Normal"
 }

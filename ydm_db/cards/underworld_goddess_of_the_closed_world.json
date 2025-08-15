@@ -3,27 +3,24 @@
   "name": "Underworld Goddess of the Closed World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "4+ Effect Monsters\nYou can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that Special Summons a monster(s) from the GY (Quick Effect): You can negate the activation.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98127546.jpg"
   ],
+  "text": "4+ Effect Monsters\nYou can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that Special Summons a monster(s) from the GY (Quick Effect): You can negate the activation.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 3000,
-  "def": null,
-  "level": null,
-  "link": 5,
+  "species": "Fiend",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 5,
   "link_arrows": [
     "Top",
     "Top-Right",
     "Right",
     "Bottom",
     "Bottom-Right"
-  ],
-  "species": "Fiend",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

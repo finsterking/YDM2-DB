@@ -3,19 +3,19 @@
   "name": "Pumpkin Carriage",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Prinzessin\" you control can attack directly. Your opponent cannot target \"Golden Castle of Stromberg\" you control with card effects, also it cannot be destroyed by card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14512825.jpg"
   ],
+  "text": "\"Prinzessin\" you control can attack directly. Your opponent cannot target \"Golden Castle of Stromberg\" you control with card effects, also it cannot be destroyed by card effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 0,
-  "def": 300,
-  "level": 3,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
 }

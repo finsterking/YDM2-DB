@@ -3,19 +3,19 @@
   "name": "Stardust Sifr Divine Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned and cannot be Special Summoned by other ways. The first time each card you control would be destroyed each turn, by battle or card effect, it is not destroyed. Once per turn, during either player's turn, when your opponent activates a monster effect: You can negate that effect, and if you do, destroy 1 card on the field. You can banish this card from your Graveyard, then target 1 Level 8 or lower \"Stardust\" monster in your Graveyard; Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26268488.jpg"
   ],
+  "text": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned and cannot be Special Summoned by other ways. The first time each card you control would be destroyed each turn, by battle or card effect, it is not destroyed. Once per turn, during either player's turn, when your opponent activates a monster effect: You can negate that effect, and if you do, destroy 1 card on the field. You can banish this card from your Graveyard, then target 1 Level 8 or lower \"Stardust\" monster in your Graveyard; Special Summon it.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 4000,
-  "def": 4000,
-  "level": 12,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Steam Gyroid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Gyroid\" + \"Steamroid\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5368615.jpg"
   ],
+  "text": "\"Gyroid\" + \"Steamroid\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "EARTH",
   "atk": 2200,
-  "def": 1600,
-  "level": 6,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
 }

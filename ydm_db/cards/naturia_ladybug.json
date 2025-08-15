@@ -3,19 +3,19 @@
   "name": "Naturia Ladybug",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you Synchro Summon a \"Naturia\" Synchro Monster, you can Special Summon this card from your Graveyard. During your Main Phase, you can Tribute this card to select 1 face-up \"Naturia\" monster you control. It gains 1000 ATK until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19605133.jpg"
   ],
+  "text": "When you Synchro Summon a \"Naturia\" Synchro Monster, you can Special Summon this card from your Graveyard. During your Main Phase, you can Tribute this card to select 1 face-up \"Naturia\" monster you control. It gains 1000 ATK until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

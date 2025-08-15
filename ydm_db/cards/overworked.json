@@ -3,10 +3,10 @@
   "name": "Overworked",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy each monster whose ATK is higher than its original ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71272951.jpg"
   ],
+  "text": "Destroy each monster whose ATK is higher than its original ATK.",
   "type": "Trap",
   "trap_type": "Normal"
 }

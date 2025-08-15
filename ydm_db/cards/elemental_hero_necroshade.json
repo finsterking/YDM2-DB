@@ -3,19 +3,19 @@
   "name": "Elemental HERO Necroshade",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once, while this card is in the Graveyard, 1 Level 5 or higher \"Elemental HERO\" monster you Normal Summon can be Summoned without Tributing.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89252153.jpg"
   ],
+  "text": "Once, while this card is in the Graveyard, 1 Level 5 or higher \"Elemental HERO\" monster you Normal Summon can be Summoned without Tributing.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 1800,
-  "level": 5,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
 }

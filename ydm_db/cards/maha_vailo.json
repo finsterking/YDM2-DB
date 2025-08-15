@@ -3,19 +3,19 @@
   "name": "Maha Vailo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card gains 500 ATK for each Equip Card equipped to this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93013676.jpg"
   ],
+  "text": "This card gains 500 ATK for each Equip Card equipped to this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1550,
-  "def": 1400,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

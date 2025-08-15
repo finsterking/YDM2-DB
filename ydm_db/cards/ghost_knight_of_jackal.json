@@ -3,19 +3,19 @@
   "name": "Ghost Knight of Jackal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon an opponent's monster that is destroyed and sent to the Graveyard by this card as a result of battle to your side of the field in face-up Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13386503.jpg"
   ],
+  "text": "You can Special Summon an opponent's monster that is destroyed and sent to the Graveyard by this card as a result of battle to your side of the field in face-up Defense Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1700,
-  "def": 1600,
-  "level": 5,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
 }

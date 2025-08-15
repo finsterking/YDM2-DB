@@ -3,19 +3,22 @@
   "name": "Prima Materiactor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nXyz Monsters you control gain 100 ATK for each Xyz Material on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.\n\n[ Monster Effect ] \n''An alien life form that suddenly flew in from the heavens far away. Many researchers have tried to determine its true identity, but its luminosity and the miasma emitted have long shrouded its existence in mystery, making it extremely difficult to see the full extent of its existence. Recently, however, a number of new species have been discovered by up-and-coming researchers, and it appears that the full extent of the species' existence is finally being revealed.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57448410.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nXyz Monsters you control gain 100 ATK for each Xyz Material on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.\n\n[ Monster Effect ] \n''An alien life form that suddenly flew in from the heavens far away. Many researchers have tried to determine its true identity, but its luminosity and the miasma emitted have long shrouded its existence in mystery, making it extremely difficult to see the full extent of its existence. Recently, however, a number of new species have been discovered by up-and-coming researchers, and it appears that the full extent of the species' existence is finally being revealed.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 0,
-  "level": 3,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 0,
+  "level": 3,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Xyz Monsters you control gain 100 ATK for each Xyz Material on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
 }

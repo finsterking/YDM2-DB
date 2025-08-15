@@ -3,19 +3,19 @@
   "name": "Wulf, Lightsworn Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY: Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58996430.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY: Special Summon it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2100,
-  "def": 300,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
 }

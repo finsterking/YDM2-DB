@@ -3,19 +3,19 @@
   "name": "Gaia Drake, the Universal Force",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Gaia Knight, the Force of Earth\" + 1 non-Effect Synchro Monster\nThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58601383.jpg"
   ],
+  "text": "1 \"Gaia Knight, the Force of Earth\" + 1 non-Effect Synchro Monster\nThis card cannot be targeted by, or destroyed by, the effects of Effect Monsters.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "EARTH",
   "atk": 3500,
-  "def": 2800,
-  "level": 10,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2800,
+  "level": 10,
+  "is_tuner": false
 }

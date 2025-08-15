@@ -3,19 +3,19 @@
   "name": "Millennium Scorpion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time this card destroys 1 monster on your opponent's side of the field by battle and sends it to the Graveyard, this card gains 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82482194.jpg"
   ],
+  "text": "Each time this card destroys 1 monster on your opponent's side of the field by battle and sends it to the Graveyard, this card gains 500 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2000,
-  "def": 1800,
-  "level": 5,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
 }

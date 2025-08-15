@@ -3,19 +3,18 @@
   "name": "Photon Strike Bounzer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 6 monsters\nOnce per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the effect, and if you do, inflict 1000 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92661479.jpg"
   ],
+  "text": "2 Level 6 monsters\nOnce per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the effect, and if you do, inflict 1000 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2700,
-  "def": 2000,
-  "level": 6,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 6,
+  "def": 2000
 }

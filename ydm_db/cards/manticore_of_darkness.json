@@ -3,19 +3,19 @@
   "name": "Manticore of Darkness",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the End Phase of the turn this card was sent to the Graveyard: You can send to the Graveyard 1 Beast, Beast-Warrior, or Winged Beast-Type monster from your hand or your side of the field; Special Summon this card from your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77121851.jpg"
   ],
+  "text": "During the End Phase of the turn this card was sent to the Graveyard: You can send to the Graveyard 1 Beast, Beast-Warrior, or Winged Beast-Type monster from your hand or your side of the field; Special Summon this card from your Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 2300,
-  "def": 1000,
-  "level": 6,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

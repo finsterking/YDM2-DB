@@ -3,19 +3,18 @@
   "name": "Number 7: Lucky Straight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 7 monsters\nYou can detach 1 Xyz Material from this card; roll a six-sided die twice and this card's ATK becomes the larger number rolled x 700 until your opponent's next End Phase, then if the total roll was exactly 7, apply 1 of these effects.\n● Send all other cards on the field to the Graveyard.\n● Special Summon 1 monster from your hand or from either Graveyard.\n● Draw 3 cards, then discard 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82308875.jpg"
   ],
+  "text": "3 Level 7 monsters\nYou can detach 1 Xyz Material from this card; roll a six-sided die twice and this card's ATK becomes the larger number rolled x 700 until your opponent's next End Phase, then if the total roll was exactly 7, apply 1 of these effects.\n● Send all other cards on the field to the Graveyard.\n● Special Summon 1 monster from your hand or from either Graveyard.\n● Draw 3 cards, then discard 2 cards.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 700,
-  "def": 700,
-  "level": 7,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 7,
+  "def": 700
 }

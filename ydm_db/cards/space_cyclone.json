@@ -3,10 +3,10 @@
   "name": "Space Cyclone",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Detach 1 Xyz Material from a monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69176131.jpg"
   ],
+  "text": "Detach 1 Xyz Material from a monster.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

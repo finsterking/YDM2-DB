@@ -3,10 +3,10 @@
   "name": "Quick Charger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Add 2 Level 4 or lower \"Batteryman\" monsters from your Graveyard to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/49479374.jpg"
   ],
+  "text": "Add 2 Level 4 or lower \"Batteryman\" monsters from your Graveyard to your hand.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

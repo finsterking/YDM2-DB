@@ -3,19 +3,19 @@
   "name": "Judge Man",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This club-wielding warrior battles to the end and will never surrender.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30113682.jpg"
   ],
+  "text": "This club-wielding warrior battles to the end and will never surrender.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2200,
-  "def": 1500,
-  "level": 6,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
 }

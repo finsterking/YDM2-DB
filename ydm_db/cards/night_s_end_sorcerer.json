@@ -3,19 +3,19 @@
   "name": "Night's End Sorcerer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Special Summoned: You can target up to 2 cards in your opponent's GY; banish them.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36107810.jpg"
   ],
+  "text": "When this card is Special Summoned: You can target up to 2 cards in your opponent's GY; banish them.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 400,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 2,
+  "is_tuner": true
 }

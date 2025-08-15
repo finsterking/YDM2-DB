@@ -3,10 +3,10 @@
   "name": "Quadogmatika Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 monster in your GY or banishment; send 1 monster from your Extra Deck, or 1 \"Dogmatika\" monster from your Deck, with an equal or higher ATK to the GY, and if you do, Special Summon the targeted monster. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Quadogmatika Beast\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16693934.jpg"
   ],
+  "text": "Target 1 monster in your GY or banishment; send 1 monster from your Extra Deck, or 1 \"Dogmatika\" monster from your Deck, with an equal or higher ATK to the GY, and if you do, Special Summon the targeted monster. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck. You can only activate 1 \"Quadogmatika Beast\" per turn.",
   "type": "Trap",
   "trap_type": "Normal"
 }

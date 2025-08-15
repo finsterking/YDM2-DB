@@ -3,19 +3,19 @@
   "name": "Succubus Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A warrior wizard adept in casting bone-chilling spells.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55291359.jpg"
   ],
+  "text": "A warrior wizard adept in casting bone-chilling spells.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1650,
-  "def": 1300,
-  "level": 5,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
 }

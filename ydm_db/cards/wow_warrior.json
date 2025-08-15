@@ -3,19 +3,19 @@
   "name": "Wow Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A fish with arms, legs, and some very sharp teeth.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69750536.jpg"
   ],
+  "text": "A fish with arms, legs, and some very sharp teeth.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1250,
-  "def": 900,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
 }

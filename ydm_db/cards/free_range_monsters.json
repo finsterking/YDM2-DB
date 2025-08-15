@@ -3,10 +3,10 @@
   "name": "Free-Range Monsters",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the Main Phase: Immediately after this effect resolves, Normal Summon/Set 1 monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75025112.jpg"
   ],
+  "text": "During the Main Phase: Immediately after this effect resolves, Normal Summon/Set 1 monster.",
   "type": "Trap",
   "trap_type": "Normal"
 }

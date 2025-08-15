@@ -3,19 +3,19 @@
   "name": "Winged Cleaver",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Few can withstand the scythe-like arms of this dangerous creature.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39175982.jpg"
   ],
+  "text": "Few can withstand the scythe-like arms of this dangerous creature.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 700,
-  "def": 700,
-  "level": 2,
   "species": "Insect",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

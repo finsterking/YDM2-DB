@@ -3,19 +3,19 @@
   "name": "Quick-Span Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the Graveyard for a Synchro Summon: Target 1 face-up monster your opponent controls; that target loses 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11287364.jpg"
   ],
+  "text": "If this card is sent to the Graveyard for a Synchro Summon: Target 1 face-up monster your opponent controls; that target loses 500 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 800,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": true
 }

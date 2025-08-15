@@ -3,19 +3,19 @@
   "name": "Hanewata",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20450925.jpg"
   ],
+  "text": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 200,
-  "def": 300,
-  "level": 1,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 1,
+  "is_tuner": true
 }

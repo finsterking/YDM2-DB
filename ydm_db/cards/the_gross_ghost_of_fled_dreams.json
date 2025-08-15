@@ -3,19 +3,19 @@
   "name": "The Gross Ghost of Fled Dreams",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68049471.jpg"
   ],
+  "text": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 1800,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

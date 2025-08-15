@@ -3,19 +3,19 @@
   "name": "Ignihorse Dragonith",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A draco-horse racing around freely upon the boiling sea. It continues to run on the water surface today in order to prevent its own flames from extinguishing. It dreams of one day setting foot upon its homeland.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28103028.jpg"
   ],
+  "text": "''A draco-horse racing around freely upon the boiling sea. It continues to run on the water surface today in order to prevent its own flames from extinguishing. It dreams of one day setting foot upon its homeland.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 2400,
-  "def": 1000,
-  "level": 7,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 7,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Timeater",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44913552.jpg"
   ],
+  "text": "If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1900,
-  "def": 1700,
-  "level": 6,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
 }

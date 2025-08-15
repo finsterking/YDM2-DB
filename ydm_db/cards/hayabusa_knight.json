@@ -3,19 +3,19 @@
   "name": "Hayabusa Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can make a second attack during each Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21015833.jpg"
   ],
+  "text": "This card can make a second attack during each Battle Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 700,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

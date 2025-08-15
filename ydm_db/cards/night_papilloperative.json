@@ -3,19 +3,18 @@
   "name": "Night Papilloperative",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 4 monsters\n Once per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to a monster on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2191144.jpg"
   ],
+  "text": "3 Level 4 monsters\n Once per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to a monster on the field.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2600,
-  "def": 2000,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2000
 }

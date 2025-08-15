@@ -3,19 +3,19 @@
   "name": "Pharaonic Protector",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The mummy of a soldier that has been guarding the royal family for thousands of years. Even now, its spirit does not allow anybody to trespass.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89959682.jpg"
   ],
+  "text": "The mummy of a soldier that has been guarding the royal family for thousands of years. Even now, its spirit does not allow anybody to trespass.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 0,
-  "level": 2,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
 }

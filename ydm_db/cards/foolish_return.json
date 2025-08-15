@@ -3,10 +3,10 @@
   "name": "Foolish Return",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Select 1 card in your opponent's Graveyard. Return it to the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88369727.jpg"
   ],
+  "text": "Select 1 card in your opponent's Graveyard. Return it to the Deck.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

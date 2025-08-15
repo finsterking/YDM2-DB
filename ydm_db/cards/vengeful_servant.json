@@ -3,10 +3,10 @@
   "name": "Vengeful Servant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When control of the equipped monster changes, inflict damage equal to its original ATK to its new controller.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21702241.jpg"
   ],
+  "text": "When control of the equipped monster changes, inflict damage equal to its original ATK to its new controller.",
   "type": "Spell",
   "spell_type": "Equip"
 }

@@ -3,19 +3,19 @@
   "name": "Reborn Tengu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this face-up card leaves the field: Special Summon 1 \"Reborn Tengu\" from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10028593.jpg"
   ],
+  "text": "If this face-up card leaves the field: Special Summon 1 \"Reborn Tengu\" from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1700,
-  "def": 600,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

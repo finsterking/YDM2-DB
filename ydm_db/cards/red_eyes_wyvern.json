@@ -3,19 +3,19 @@
   "name": "Red-Eyes Wyvern",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67300516.jpg"
   ],
+  "text": "During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1800,
-  "def": 1600,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

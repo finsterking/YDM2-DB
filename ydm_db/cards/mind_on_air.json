@@ -3,19 +3,19 @@
   "name": "Mind on Air",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent must play with their hand revealed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66690411.jpg"
   ],
+  "text": "Your opponent must play with their hand revealed.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 1600,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
 }

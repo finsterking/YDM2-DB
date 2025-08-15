@@ -3,19 +3,19 @@
   "name": "Griffore",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster's tough hide deflects almost any attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53829412.jpg"
   ],
+  "text": "This monster's tough hide deflects almost any attack.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 1500,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

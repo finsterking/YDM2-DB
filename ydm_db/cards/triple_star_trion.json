@@ -3,19 +3,19 @@
   "name": "Triple Star Trion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the End Phase, if this card is in the Graveyard because it was sent there this turn as a Tribute for a successful Tribute Summon: You can Special Summon this card from your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34796454.jpg"
   ],
+  "text": "During the End Phase, if this card is in the Graveyard because it was sent there this turn as a Tribute for a successful Tribute Summon: You can Special Summon this card from your Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

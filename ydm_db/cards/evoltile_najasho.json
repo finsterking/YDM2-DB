@@ -3,19 +3,19 @@
   "name": "Evoltile Najasho",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card on the field is Tributed: You can Special Summon 1 \"Evolsaur\" monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88095331.jpg"
   ],
+  "text": "If this card on the field is Tributed: You can Special Summon 1 \"Evolsaur\" monster from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 100,
-  "def": 2000,
-  "level": 2,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 2,
+  "is_tuner": false
 }

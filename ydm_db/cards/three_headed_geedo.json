@@ -3,19 +3,19 @@
   "name": "Three-Headed Geedo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A three-headed nocturnal monster that is absolutely ruthless when fighting.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78423643.jpg"
   ],
+  "text": "A three-headed nocturnal monster that is absolutely ruthless when fighting.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 1400,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

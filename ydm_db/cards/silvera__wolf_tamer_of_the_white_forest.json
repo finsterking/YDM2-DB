@@ -3,19 +3,19 @@
   "name": "Silvera, Wolf Tamer of the White Forest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can change all face-up monsters your opponent controls to face-down Defense Position. Illusion and Spellcaster Synchro Monsters you control gain 500 ATK, also if they attack a Defense Position monster, inflict double piercing battle damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41924516.jpg"
   ],
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can change all face-up monsters your opponent controls to face-down Defense Position. Illusion and Spellcaster Synchro Monsters you control gain 500 ATK, also if they attack a Defense Position monster, inflict double piercing battle damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 1900,
-  "def": 2400,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 2400,
+  "level": 6,
+  "is_tuner": true
 }

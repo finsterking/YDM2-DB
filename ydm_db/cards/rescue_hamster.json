@@ -3,19 +3,22 @@
   "name": "Rescue Hamster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nYou can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.\n\n[ Monster Effect ] \nIf this card was Normal Summoned this turn and you have a face-up Level 5 or lower Pendulum Monster Card in your Extra Deck: You can Tribute this card; choose 1 face-up Level 5 or lower Pendulum Monster Card in your Extra Deck, and Special Summon 2 monsters from your Deck with the same name as that card, but they have their effects negated, also they are destroyed during the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50485594.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nYou can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.\n\n[ Monster Effect ] \nIf this card was Normal Summoned this turn and you have a face-up Level 5 or lower Pendulum Monster Card in your Extra Deck: You can Tribute this card; choose 1 face-up Level 5 or lower Pendulum Monster Card in your Extra Deck, and Special Summon 2 monsters from your Deck with the same name as that card, but they have their effects negated, also they are destroyed during the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 300,
-  "def": 100,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 100,
+  "level": 4,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "You can banish this card from your Pendulum Zone; add 2 face-up Pendulum Monster Cards with the same name from your Extra Deck to your hand. You can only use this effect of \"Rescue Hamster\" once per Duel.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5
 }

@@ -3,19 +3,19 @@
   "name": "Worm Dimikles",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: This card gains 300 ATK and DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88438982.jpg"
   ],
+  "text": "FLIP: This card gains 300 ATK and DEF.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1700,
-  "def": 1400,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

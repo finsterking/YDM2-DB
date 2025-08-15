@@ -3,10 +3,10 @@
   "name": "Jurrac Impact",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Dinosaur-Type monster with 2500 or more ATK: Destroy all cards on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5479217.jpg"
   ],
+  "text": "If you control a Dinosaur-Type monster with 2500 or more ATK: Destroy all cards on the field.",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Twin-Headed Fire Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Two dragons fused as one from the effects of the Big Bang.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78984772.jpg"
   ],
+  "text": "Two dragons fused as one from the effects of the Big Bang.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 2200,
-  "def": 1700,
-  "level": 6,
   "species": "Pyro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
 }

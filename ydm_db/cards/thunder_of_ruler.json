@@ -3,10 +3,10 @@
   "name": "Thunder of Ruler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent's Standby Phase: You can activate this card; there is no Battle Phase this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91781589.jpg"
   ],
+  "text": "During your opponent's Standby Phase: You can activate this card; there is no Battle Phase this turn.",
   "type": "Trap",
   "trap_type": "Normal"
 }

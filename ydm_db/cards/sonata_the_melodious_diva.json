@@ -3,19 +3,19 @@
   "name": "Sonata the Melodious Diva",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a \"Melodious\" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76990617.jpg"
   ],
+  "text": "If you control a \"Melodious\" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": 1000,
-  "level": 3,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

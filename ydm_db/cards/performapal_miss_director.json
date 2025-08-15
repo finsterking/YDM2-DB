@@ -3,19 +3,19 @@
   "name": "Performapal Miss Director",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While you control an \"Odd-Eyes\" monster, your opponent's monsters cannot target this card for attacks. While this card is in Defense Position, your \"Odd-Eyes\" monsters cannot be destroyed by battle, also you take no battle damage from that battle. You can target 1 Level 1 monster in your GY; Special Summon it, but negate its effects (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only that monster and this card. You can only use this effect of \"Performapal Miss Director\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92932860.jpg"
   ],
+  "text": "While you control an \"Odd-Eyes\" monster, your opponent's monsters cannot target this card for attacks. While this card is in Defense Position, your \"Odd-Eyes\" monsters cannot be destroyed by battle, also you take no battle damage from that battle. You can target 1 Level 1 monster in your GY; Special Summon it, but negate its effects (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only that monster and this card. You can only use this effect of \"Performapal Miss Director\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "def": 2000,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": true
 }

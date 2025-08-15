@@ -3,19 +3,19 @@
   "name": "Phantasos, the Dream Mirror Foe",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: This card can attack directly this turn. During the Main or Battle Phase, if \"Dream Mirror of Joy\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Phantasos, the Dream Mirror Friend\" from your Deck. You can only use each effect of \"Phantasos, the Dream Mirror Foe\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99792080.jpg"
   ],
+  "text": "If this card is Special Summoned by the effect of a \"Dream Mirror\" monster: This card can attack directly this turn. During the Main or Battle Phase, if \"Dream Mirror of Joy\" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 \"Phantasos, the Dream Mirror Friend\" from your Deck. You can only use each effect of \"Phantasos, the Dream Mirror Foe\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1900,
-  "def": 900,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Mist Body",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The equipped monster cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47529357.jpg"
   ],
+  "text": "The equipped monster cannot be destroyed by battle.",
   "type": "Spell",
   "spell_type": "Equip"
 }

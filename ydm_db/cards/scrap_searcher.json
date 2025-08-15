@@ -3,19 +3,19 @@
   "name": "Scrap Searcher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a \"Scrap\" monster you control, except \"Scrap Searcher\", is destroyed and sent to the Graveyard while this card is in the Graveyard, you can Special Summon this card from your Graveyard. When this card is Special Summoned, destroy all face-up monsters you control, except \"Scrap\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92901944.jpg"
   ],
+  "text": "When a \"Scrap\" monster you control, except \"Scrap Searcher\", is destroyed and sent to the Graveyard while this card is in the Graveyard, you can Special Summon this card from your Graveyard. When this card is Special Summoned, destroy all face-up monsters you control, except \"Scrap\" monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "def": 300,
-  "level": 1,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
 }

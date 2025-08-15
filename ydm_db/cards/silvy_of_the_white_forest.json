@@ -3,19 +3,19 @@
   "name": "Silvy of the White Forest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can add 1 \"White Forest\" Spell/Trap from your Deck to your hand. If this card is in your GY (Quick Effect): You can target 1 \"White Forest\" Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but negate its effects. You can only use each effect of \"Silvy of the White Forest\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98385955.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"White Forest\" Spell/Trap from your Deck to your hand. If this card is in your GY (Quick Effect): You can target 1 \"White Forest\" Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but negate its effects. You can only use each effect of \"Silvy of the White Forest\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1500,
-  "def": 200,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 4,
+  "is_tuner": true
 }

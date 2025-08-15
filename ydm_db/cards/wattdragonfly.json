@@ -3,19 +3,19 @@
   "name": "Wattdragonfly",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is destroyed by your opponent's card (either by battle or by card effect), you can Special Summon 1 \"Watt\" monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97885363.jpg"
   ],
+  "text": "If this card is destroyed by your opponent's card (either by battle or by card effect), you can Special Summon 1 \"Watt\" monster from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 900,
-  "def": 100,
-  "level": 2,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
 }

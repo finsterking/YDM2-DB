@@ -3,19 +3,19 @@
   "name": "Evilswarm Ketos",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40921545.jpg"
   ],
+  "text": "You can Tribute this card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1750,
-  "def": 1050,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1050,
+  "level": 4,
+  "is_tuner": false
 }

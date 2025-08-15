@@ -3,19 +3,19 @@
   "name": "Nekogal #1",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A pussycat-fairy. Contrary to her lovely beauty, she claws on her enemies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1761063.jpg"
   ],
+  "text": "A pussycat-fairy. Contrary to her lovely beauty, she claws on her enemies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1100,
-  "def": 900,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

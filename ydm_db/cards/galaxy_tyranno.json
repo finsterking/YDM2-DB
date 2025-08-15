@@ -3,19 +3,19 @@
   "name": "Galaxy Tyranno",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a \"Galaxy\" monster you control is targeted for an attack: You can Special Summon this card from your hand in Defense Position. When Summoned this way, you can: Immediately after this effect resolves, Xyz Summon 1 \"Galaxy\" Xyz Monster, using only \"Galaxy\" monsters you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24658418.jpg"
   ],
+  "text": "When a \"Galaxy\" monster you control is targeted for an attack: You can Special Summon this card from your hand in Defense Position. When Summoned this way, you can: Immediately after this effect resolves, Xyz Summon 1 \"Galaxy\" Xyz Monster, using only \"Galaxy\" monsters you control.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 0,
-  "level": 8,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
 }

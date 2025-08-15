@@ -3,19 +3,19 @@
   "name": "Soul Hunter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Lord of the Lamp\" + \"Invader from Another Dimension\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72869010.jpg"
   ],
+  "text": "\"Lord of the Lamp\" + \"Invader from Another Dimension\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2200,
-  "def": 1800,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

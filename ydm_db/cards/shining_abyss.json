@@ -3,19 +3,19 @@
   "name": "Shining Abyss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster employs the powers of both Light and Darkness.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87303357.jpg"
   ],
+  "text": "This monster employs the powers of both Light and Darkness.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 1800,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

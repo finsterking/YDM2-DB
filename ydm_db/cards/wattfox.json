@@ -3,19 +3,19 @@
   "name": "Wattfox",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is destroyed by your opponent's card (either by battle or by card effect), your opponent cannot Special Summon a monster, or activate Spells, Traps, Spell/Trap effects, or Monster Card effects, for the rest of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46897277.jpg"
   ],
+  "text": "If this card is destroyed by your opponent's card (either by battle or by card effect), your opponent cannot Special Summon a monster, or activate Spells, Traps, Spell/Trap effects, or Monster Card effects, for the rest of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 800,
-  "def": 100,
-  "level": 2,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 2,
+  "is_tuner": true
 }

@@ -3,10 +3,10 @@
   "name": "Lightning Blade",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Equip only to a Warrior-Type monster. It gains 800 ATK. All WATER monsters lose 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55226821.jpg"
   ],
+  "text": "Equip only to a Warrior-Type monster. It gains 800 ATK. All WATER monsters lose 500 ATK.",
   "type": "Spell",
   "spell_type": "Equip"
 }

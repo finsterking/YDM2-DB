@@ -3,19 +3,19 @@
   "name": "Montage Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 other monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original Levels of the sent monsters x 300.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23303072.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 other monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original Levels of the sent monsters x 300.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": -1,
-  "def": 0,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
 }

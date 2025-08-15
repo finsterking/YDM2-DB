@@ -3,19 +3,19 @@
   "name": "Spirit of the Pot of Greed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is in face-up Attack Position on the field, if a player activates \"Pot of Greed\", they can draw 1 more card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/4896788.jpg"
   ],
+  "text": "While this card is in face-up Attack Position on the field, if a player activates \"Pot of Greed\", they can draw 1 more card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

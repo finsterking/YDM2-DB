@@ -3,19 +3,19 @@
   "name": "Vortex the Whirlwind",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nWhen this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Level 4 or lower Winged Beast-Type monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25373678.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner Winged Beast-Type monsters\nWhen this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Level 4 or lower Winged Beast-Type monster from your Deck.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "WIND",
   "atk": 2100,
-  "def": 700,
-  "level": 5,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 700,
+  "level": 5,
+  "is_tuner": false
 }

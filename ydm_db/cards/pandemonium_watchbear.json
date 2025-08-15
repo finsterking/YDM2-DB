@@ -3,19 +3,19 @@
   "name": "Pandemonium Watchbear",
   "is_illegal": false,
   "is_custom": false,
-  "text": "As long as this card remains face-up on your side of the field, \"Pandemonium\" on your side of the field is not destroyed by your opponent's card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75375465.jpg"
   ],
+  "text": "As long as this card remains face-up on your side of the field, \"Pandemonium\" on your side of the field is not destroyed by your opponent's card effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 1800,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

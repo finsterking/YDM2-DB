@@ -3,19 +3,19 @@
   "name": "Flare Resonator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A Synchro Monster that used this card as a Synchro Material gains 300 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13708425.jpg"
   ],
+  "text": "A Synchro Monster that used this card as a Synchro Material gains 300 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 300,
-  "def": 1300,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 3,
+  "is_tuner": true
 }

@@ -3,19 +3,19 @@
   "name": "Sonic Shooter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If there are no cards in your opponent's Spell & Trap Zone, this card can attack your opponent directly. If it does, the battle damage inflicted to your opponent is the original ATK of this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40384720.jpg"
   ],
+  "text": "If there are no cards in your opponent's Spell & Trap Zone, this card can attack your opponent directly. If it does, the battle damage inflicted to your opponent is the original ATK of this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1300,
-  "def": 600,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

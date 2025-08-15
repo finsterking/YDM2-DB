@@ -3,19 +3,19 @@
   "name": "The Weather Painter Aurora",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can place 1 \"The Weather\" Spell/Trap from your hand, Deck, or GY face-up in your Spell & Trap Zone. Your opponent cannot target \"The Weather\" Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27784944.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can place 1 \"The Weather\" Spell/Trap from your hand, Deck, or GY face-up in your Spell & Trap Zone. Your opponent cannot target \"The Weather\" Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2200,
-  "def": 2000,
-  "level": 6,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
 }

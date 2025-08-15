@@ -3,19 +3,19 @@
   "name": "Rabidragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95788410.jpg"
   ],
+  "text": "It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 2950,
-  "def": 2900,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
 }

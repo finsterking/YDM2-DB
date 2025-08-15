@@ -3,10 +3,10 @@
   "name": "Pot of Greed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Draw 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55144522.jpg"
   ],
+  "text": "Draw 2 cards.",
   "type": "Spell",
   "spell_type": "Normal"
 }

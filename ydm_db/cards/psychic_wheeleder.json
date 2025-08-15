@@ -3,19 +3,19 @@
   "name": "Psychic Wheeleder",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Level 3 monster other than \"Psychic Wheeleder\", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Psychic Wheeleder\" once per turn this way. If this card is sent to the GY as Synchro Material: You can target 1 monster on the field with less ATK than the Synchro Monster that used this card as material; destroy it. You can only use this effect of \"Psychic Wheeleder\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3233859.jpg"
   ],
+  "text": "If you control a Level 3 monster other than \"Psychic Wheeleder\", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Psychic Wheeleder\" once per turn this way. If this card is sent to the GY as Synchro Material: You can target 1 monster on the field with less ATK than the Synchro Monster that used this card as material; destroy it. You can only use this effect of \"Psychic Wheeleder\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 600,
-  "def": 0,
-  "level": 3,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 3,
+  "is_tuner": true
 }

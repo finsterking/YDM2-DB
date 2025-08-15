@@ -3,19 +3,19 @@
   "name": "Fiend Reflection #2",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A bird-beast that summons reinforcements with a hand mirror.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2863439.jpg"
   ],
+  "text": "A bird-beast that summons reinforcements with a hand mirror.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1100,
-  "def": 1400,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Kurivolt",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40817915.jpg"
   ],
+  "text": "You can target 1 Xyz Monster that has material; detach 1 material from it, and if you do, Special Summon 1 \"Kurivolt\" from your Deck. Cannot be used as Synchro Material.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 300,
-  "def": 200,
-  "level": 1,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
 }

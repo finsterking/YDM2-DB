@@ -3,19 +3,19 @@
   "name": "Spell Striker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93187568.jpg"
   ],
+  "text": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 600,
-  "def": 200,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,18 @@
   "name": "Exosister Kaspitell",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Kaspitell\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: Neither player can Special Summon monsters from the GYs for the rest of this turn. You can detach 1 material from this card; add 1 \"Exosister\" monster from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78135071.jpg"
   ],
+  "text": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Kaspitell\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: Neither player can Special Summon monsters from the GYs for the rest of this turn. You can detach 1 material from this card; add 1 \"Exosister\" monster from your Deck to your hand.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2300,
-  "def": 800,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 800
 }

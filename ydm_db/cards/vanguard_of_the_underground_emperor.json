@@ -3,19 +3,19 @@
   "name": "Vanguard of the Underground Emperor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a monster(s) is sent from the hand to the GY, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but place it on the bottom of the Deck when it leaves the field. You can only use this effect of \"Vanguard of the Underground Emperor\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84366728.jpg"
   ],
+  "text": "If a monster(s) is sent from the hand to the GY, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but place it on the bottom of the Deck when it leaves the field. You can only use this effect of \"Vanguard of the Underground Emperor\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2600,
-  "def": 2200,
-  "level": 8,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2200,
+  "level": 8,
+  "is_tuner": false
 }

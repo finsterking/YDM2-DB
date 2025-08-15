@@ -3,19 +3,19 @@
   "name": "Neck Hunter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A fiend that wields a mean sickle and fires devastating beams from its eyes.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70084224.jpg"
   ],
+  "text": "A fiend that wields a mean sickle and fires devastating beams from its eyes.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1750,
-  "def": 1900,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
 }

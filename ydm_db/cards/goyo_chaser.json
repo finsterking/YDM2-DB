@@ -3,19 +3,19 @@
   "name": "Goyo Chaser",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 300 ATK for each EARTH Warrior-Type Synchro Monster on the field (other than this card). When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field, but its ATK becomes halved.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63364266.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nThis card gains 300 ATK for each EARTH Warrior-Type Synchro Monster on the field (other than this card). When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field, but its ATK becomes halved.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "EARTH",
   "atk": 1900,
-  "def": 1000,
-  "level": 5,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
 }

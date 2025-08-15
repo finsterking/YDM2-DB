@@ -3,19 +3,19 @@
   "name": "Little Chimera",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68658728.jpg"
   ],
+  "text": "All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 600,
-  "def": 550,
-  "level": 2,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 550,
+  "level": 2,
+  "is_tuner": false
 }

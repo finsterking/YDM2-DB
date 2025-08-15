@@ -3,19 +3,19 @@
   "name": "Sky Scourge Cidhels",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. If this card is Tribute Summoned by Tributing one of the following monsters from the field: You can apply that effect.\n● LIGHT Fairy: Add 1 LIGHT Fairy or 1 DARK Fiend monster from your Deck to your hand.\n● DARK Fiend: Send 1 LIGHT Fairy monster and/or 1 DARK Fiend monster from your Deck to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15792576.jpg"
   ],
+  "text": "Cannot be Special Summoned. If this card is Tribute Summoned by Tributing one of the following monsters from the field: You can apply that effect.\n● LIGHT Fairy: Add 1 LIGHT Fairy or 1 DARK Fiend monster from your Deck to your hand.\n● DARK Fiend: Send 1 LIGHT Fairy monster and/or 1 DARK Fiend monster from your Deck to the GY.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2200,
-  "def": 1600,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Gimmick Puppet Humpty Dumpty",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Special Summoned: You can Special Summon 1 \"Gimmick Puppet\" monster from your hand. You can only use this effect of \"Gimmick Puppet Humpty Dumpty\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8226374.jpg"
   ],
+  "text": "When this card is Normal or Special Summoned: You can Special Summon 1 \"Gimmick Puppet\" monster from your hand. You can only use this effect of \"Gimmick Puppet Humpty Dumpty\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "def": 100,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
 }

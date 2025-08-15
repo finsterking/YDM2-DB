@@ -3,19 +3,19 @@
   "name": "Yellow Dragon Ninja",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned, except with the effect of a \"Ninja\" monster or \"Ninjitsu Art\" card. Once per turn (Quick Effect): You can send 1 \"Ninja\" monster and 1 \"Ninjitsu Art\" card from your hand and/or face-up field to the GY, then target up to 2 Spells/Traps on the field; destroy them.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90247311.jpg"
   ],
+  "text": "Cannot be Special Summoned, except with the effect of a \"Ninja\" monster or \"Ninjitsu Art\" card. Once per turn (Quick Effect): You can send 1 \"Ninja\" monster and 1 \"Ninjitsu Art\" card from your hand and/or face-up field to the GY, then target up to 2 Spells/Traps on the field; destroy them.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 3000,
-  "def": 1500,
-  "level": 8,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 8,
+  "is_tuner": false
 }

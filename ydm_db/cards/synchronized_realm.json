@@ -3,10 +3,10 @@
   "name": "Synchronized Realm",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time you Synchro Summon a Synchro Monster, inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61032879.jpg"
   ],
+  "text": "Each time you Synchro Summon a Synchro Monster, inflict 500 damage to your opponent.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

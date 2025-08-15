@@ -3,19 +3,19 @@
   "name": "High Tide Gyojin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A very agile half-fish warrior known for its relentless attacks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54579801.jpg"
   ],
+  "text": "A very agile half-fish warrior known for its relentless attacks.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1650,
-  "def": 1300,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

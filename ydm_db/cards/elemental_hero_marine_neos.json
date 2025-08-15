@@ -3,19 +3,19 @@
   "name": "Elemental HERO Marine Neos",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Elemental HERO Neos\" + \"Neo-Spacian Marine Dolphin\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can destroy 1 random card in your opponent's hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5128859.jpg"
   ],
+  "text": "\"Elemental HERO Neos\" + \"Neo-Spacian Marine Dolphin\"\nMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can destroy 1 random card in your opponent's hand.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WATER",
   "atk": 2800,
-  "def": 2300,
-  "level": 8,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2300,
+  "level": 8,
+  "is_tuner": false
 }

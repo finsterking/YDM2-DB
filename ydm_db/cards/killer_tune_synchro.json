@@ -3,10 +3,10 @@
   "name": "Killer Tune Synchro",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Add 1 \"Killer Tune\" card from your Deck to your hand, except \"Killer Tune Synchro\", then immediately after this effect resolves, you can Synchro Summon 1 Tuner. For the rest of this turn after this card resolves, you cannot Special Summon, except Tuners. You can only activate 2 \"Killer Tune Synchro\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/100446039.jpg"
   ],
+  "text": "Add 1 \"Killer Tune\" card from your Deck to your hand, except \"Killer Tune Synchro\", then immediately after this effect resolves, you can Synchro Summon 1 Tuner. For the rest of this turn after this card resolves, you cannot Special Summon, except Tuners. You can only activate 2 \"Killer Tune Synchro\" per turn.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

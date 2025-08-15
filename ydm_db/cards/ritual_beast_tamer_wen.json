@@ -3,19 +3,19 @@
   "name": "Ritual Beast Tamer Wen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal Summoned: You can target 1 of your banished \"Ritual Beast\" monsters; Special Summon it. You can only Special Summon \"Ritual Beast Tamer Wen(s)\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40907115.jpg"
   ],
+  "text": "If this card is Normal Summoned: You can target 1 of your banished \"Ritual Beast\" monsters; Special Summon it. You can only Special Summon \"Ritual Beast Tamer Wen(s)\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1500,
-  "def": 1000,
-  "level": 3,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

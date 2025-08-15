@@ -3,10 +3,10 @@
   "name": "Eternal Dread",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Place 2 Clock Counters on each \"Clock Tower Prison\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35787450.jpg"
   ],
+  "text": "Place 2 Clock Counters on each \"Clock Tower Prison\".",
   "type": "Trap",
   "trap_type": "Normal"
 }

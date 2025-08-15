@@ -3,19 +3,18 @@
   "name": "Goblin Bikers Gone Bonkers",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Level 6 monsters\nYou can target face-up monsters your opponent controls, up to the number of \"Goblin\" monsters you control; detach 1 material from a monster you control, and if you do, attach those monsters to this card as material. During your opponent's turn (Quick Effect): You can target cards your opponent controls, up to the number of \"Goblin\" Xyz Monsters you control; detach 3 materials from a monster(s) you control, and if you do, send those targeted cards to the GY. You can only use each effect of \"Goblin Bikers Gone Bonkers\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46014517.jpg"
   ],
+  "text": "2+ Level 6 monsters\nYou can target face-up monsters your opponent controls, up to the number of \"Goblin\" monsters you control; detach 1 material from a monster you control, and if you do, attach those monsters to this card as material. During your opponent's turn (Quick Effect): You can target cards your opponent controls, up to the number of \"Goblin\" Xyz Monsters you control; detach 3 materials from a monster(s) you control, and if you do, send those targeted cards to the GY. You can only use each effect of \"Goblin Bikers Gone Bonkers\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2500,
-  "def": 2000,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 6,
+  "def": 2000
 }

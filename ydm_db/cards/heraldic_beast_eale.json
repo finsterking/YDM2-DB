@@ -3,19 +3,19 @@
   "name": "Heraldic Beast Eale",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control 2 or more \"Heraldic Beast\" monsters, you can Special Summon this card (from your hand).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82315772.jpg"
   ],
+  "text": "If you control 2 or more \"Heraldic Beast\" monsters, you can Special Summon this card (from your hand).",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 1800,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

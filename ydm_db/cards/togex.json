@@ -3,19 +3,19 @@
   "name": "Togex",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''An agile monster that rolls up to ram its opponents.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33878931.jpg"
   ],
+  "text": "''An agile monster that rolls up to ram its opponents.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1600,
-  "def": 1800,
-  "level": 5,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
 }

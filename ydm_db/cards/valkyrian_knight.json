@@ -3,19 +3,19 @@
   "name": "Valkyrian Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Monsters your opponent controls cannot target face-up Warrior-Type monsters for attacks, except \"Valkyrian Knight\". When this card is destroyed by battle and sent to the Graveyard: You can banish 1 Warrior-Type monster and this card from your Graveyard, then target 1 Level 5 or higher Warrior-Type monster in your Graveyard; Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99348756.jpg"
   ],
+  "text": "Monsters your opponent controls cannot target face-up Warrior-Type monsters for attacks, except \"Valkyrian Knight\". When this card is destroyed by battle and sent to the Graveyard: You can banish 1 Warrior-Type monster and this card from your Graveyard, then target 1 Level 5 or higher Warrior-Type monster in your Graveyard; Special Summon that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1900,
-  "def": 1200,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

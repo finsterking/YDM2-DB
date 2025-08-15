@@ -3,19 +3,19 @@
   "name": "Jurrac Dino",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once during each player's End Phase, if this card destroyed an opponent's monster by battle this turn, you can Tribute 1 \"Jurrac\" monster to draw 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17948378.jpg"
   ],
+  "text": "Once during each player's End Phase, if this card destroyed an opponent's monster by battle this turn, you can Tribute 1 \"Jurrac\" monster to draw 2 cards.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1700,
-  "def": 800,
-  "level": 3,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": true
 }

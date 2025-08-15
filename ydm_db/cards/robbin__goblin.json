@@ -3,10 +3,10 @@
   "name": "Robbin' Goblin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88279736.jpg"
   ],
+  "text": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

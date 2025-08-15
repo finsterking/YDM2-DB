@@ -3,19 +3,19 @@
   "name": "Heliosphere Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While your opponent has 4 or less cards in their hand and this card is the only monster you control, your opponent cannot declare an attack. Once per turn, if you control a Level 8 Dragon-Type monster: You can make this card become Level 8 until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51043053.jpg"
   ],
+  "text": "While your opponent has 4 or less cards in their hand and this card is the only monster you control, your opponent cannot declare an attack. Once per turn, if you control a Level 8 Dragon-Type monster: You can make this card become Level 8 until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 1900,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
 }

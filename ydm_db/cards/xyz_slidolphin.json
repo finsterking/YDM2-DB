@@ -3,19 +3,19 @@
   "name": "Xyz Slidolphin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If an Xyz Monster is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. If an Xyz Monster(s) is Special Summoned to your field while this card is in your GY, except the turn this card was sent to your GY (and except during the Damage Step): You can target 1 of those Xyz Monsters; attach this card to it as material. You can only use each effect of \"Xyz Slidolphin\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7850740.jpg"
   ],
+  "text": "If an Xyz Monster is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. If an Xyz Monster(s) is Special Summoned to your field while this card is in your GY, except the turn this card was sent to your GY (and except during the Damage Step): You can target 1 of those Xyz Monsters; attach this card to it as material. You can only use each effect of \"Xyz Slidolphin\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1200,
-  "def": 1800,
-  "level": 4,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

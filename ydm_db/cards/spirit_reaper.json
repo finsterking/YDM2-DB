@@ -3,19 +3,19 @@
   "name": "Spirit Reaper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23205979.jpg"
   ],
+  "text": "Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 300,
-  "def": 200,
-  "level": 3,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 3,
+  "is_tuner": false
 }

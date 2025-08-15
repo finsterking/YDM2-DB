@@ -3,19 +3,19 @@
   "name": "Monstrous Bird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''Few have set eyes on this dive-bombing bird and lived to tell the tale.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35712107.jpg"
   ],
+  "text": "''Few have set eyes on this dive-bombing bird and lived to tell the tale.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 2000,
-  "def": 1900,
-  "level": 6,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
 }

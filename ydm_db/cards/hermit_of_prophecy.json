@@ -3,19 +3,19 @@
   "name": "Hermit of Prophecy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a \"Spellbook\" Spell Card is activated, increase this card's Level by 2 and ATK by 300.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90743290.jpg"
   ],
+  "text": "Each time a \"Spellbook\" Spell Card is activated, increase this card's Level by 2 and ATK by 300.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 700,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

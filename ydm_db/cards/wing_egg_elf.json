@@ -3,19 +3,19 @@
   "name": "Wing Egg Elf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''This fairy in an eggshell uses massive wings to blow back almost any projectile attack.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98582704.jpg"
   ],
+  "text": "''This fairy in an eggshell uses massive wings to blow back almost any projectile attack.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 500,
-  "def": 1300,
-  "level": 3,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
 }

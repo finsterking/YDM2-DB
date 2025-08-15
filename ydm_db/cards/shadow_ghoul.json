@@ -3,19 +3,19 @@
   "name": "Shadow Ghoul",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card gains 100 ATK for each monster in your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30778711.jpg"
   ],
+  "text": "This card gains 100 ATK for each monster in your Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 1300,
-  "level": 5,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 5,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Green Phantom King",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This youthful king of the forests lives in a green world, abundant with trees and wildlife.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22910685.jpg"
   ],
+  "text": "This youthful king of the forests lives in a green world, abundant with trees and wildlife.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 1600,
-  "level": 3,
   "species": "Plant",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
 }

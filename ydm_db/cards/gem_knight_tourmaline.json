@@ -3,19 +3,19 @@
   "name": "Gem-Knight Tourmaline",
   "is_illegal": false,
   "is_custom": false,
-  "text": "He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54620698.jpg"
   ],
+  "text": "He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1600,
-  "def": 1800,
-  "level": 4,
   "species": "Thunder",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Iron Chain Coil",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can select 1 \"Iron Chain\" monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53152590.jpg"
   ],
+  "text": "Once per turn, you can select 1 \"Iron Chain\" monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1100,
-  "def": 1600,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 3,
+  "is_tuner": true
 }

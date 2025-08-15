@@ -3,19 +3,19 @@
   "name": "Electric Snake",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is discarded from your hand to the Graveyard by an effect of a card controlled by your opponent, draw 2 cards from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11324436.jpg"
   ],
+  "text": "When this card is discarded from your hand to the Graveyard by an effect of a card controlled by your opponent, draw 2 cards from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 800,
-  "def": 900,
-  "level": 3,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

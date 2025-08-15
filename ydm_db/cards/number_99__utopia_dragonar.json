@@ -3,19 +3,18 @@
   "name": "Number 99: Utopia Dragonar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3+ Level 12 monsters\n(Quick Effect): You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 \"Number\" monster that has a number between \"1\" and \"100\" in its name. (This is treated as an Xyz Summon.) The turn you activate this effect, other monsters you control cannot attack directly, also you cannot Special Summon from the Extra Deck, except Xyz Monsters. When an opponent's monster declares an attack: You can change the ATK of the opponent's monster to 0. You can only use each effect of \"Number 99: Utopia Dragonar\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95134948.jpg"
   ],
+  "text": "3+ Level 12 monsters\n(Quick Effect): You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 \"Number\" monster that has a number between \"1\" and \"100\" in its name. (This is treated as an Xyz Summon.) The turn you activate this effect, other monsters you control cannot attack directly, also you cannot Special Summon from the Extra Deck, except Xyz Monsters. When an opponent's monster declares an attack: You can change the ATK of the opponent's monster to 0. You can only use each effect of \"Number 99: Utopia Dragonar\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 3000,
-  "def": 3000,
-  "level": 12,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 12,
+  "def": 3000
 }

@@ -3,23 +3,20 @@
   "name": "Superheavy Samurai Scarecrow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Superheavy Samurai\" monster\nCannot be used as Link Material. While you have no Spells/Traps in your GY, you take no battle damage from attacks involving this card. If you have no Spells/Traps in your GY: You can discard 1 monster, then target 1 \"Superheavy Samurai\" monster in your GY; Special Summon it to your zone this card points to, in Defense Position. You can only use this effect of \"Superheavy Samurai Scarecrow\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33918636.jpg"
   ],
+  "text": "1 \"Superheavy Samurai\" monster\nCannot be used as Link Material. While you have no Spells/Traps in your GY, you take no battle damage from attacks involving this card. If you have no Spells/Traps in your GY: You can discard 1 monster, then target 1 \"Superheavy Samurai\" monster in your GY; Special Summon it to your zone this card points to, in Defense Position. You can only use this effect of \"Superheavy Samurai Scarecrow\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 0,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Bottom-Left"
-  ],
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom-Left"
+  ]
 }

@@ -3,19 +3,19 @@
   "name": "Laval Forest Sprite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent from the field to the Graveyard: All face-up \"Laval\" monsters you currently control gain 200 ATK for each \"Laval\" monster in your Graveyard, until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15169262.jpg"
   ],
+  "text": "When this card is sent from the field to the Graveyard: All face-up \"Laval\" monsters you currently control gain 200 ATK for each \"Laval\" monster in your Graveyard, until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 300,
-  "def": 200,
-  "level": 2,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 2,
+  "is_tuner": true
 }

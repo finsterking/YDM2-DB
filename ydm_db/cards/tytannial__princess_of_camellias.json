@@ -3,19 +3,19 @@
   "name": "Tytannial, Princess of Camellias",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a card or effect is activated that targets a card(s) on the field (Quick Effect): You can Tribute 1 face-up Plant monster; negate the activation, and if you do, destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11819616.jpg"
   ],
+  "text": "When a card or effect is activated that targets a card(s) on the field (Quick Effect): You can Tribute 1 face-up Plant monster; negate the activation, and if you do, destroy it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 2800,
-  "def": 2600,
-  "level": 8,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
 }

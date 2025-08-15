@@ -3,19 +3,19 @@
   "name": "Enlightenment Paladin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned using a \"Magician\" Pendulum Monster as Material: You can target 1 Spell Card in your Graveyard; add it to your hand. You can only use this effect of \"Enlightenment Paladin\" once per turn. When this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that monster's original ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59123194.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nIf this card is Synchro Summoned using a \"Magician\" Pendulum Monster as Material: You can target 1 Spell Card in your Graveyard; add it to your hand. You can only use this effect of \"Enlightenment Paladin\" once per turn. When this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that monster's original ATK.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "DARK",
   "atk": 2500,
-  "def": 2000,
-  "level": 8,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
 }

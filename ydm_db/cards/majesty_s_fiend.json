@@ -3,19 +3,19 @@
   "name": "Majesty's Fiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. Neither player can activate monster effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33746252.jpg"
   ],
+  "text": "Cannot be Special Summoned. Neither player can activate monster effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2400,
-  "def": 1000,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

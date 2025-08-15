@@ -3,19 +3,19 @@
   "name": "Time Thief Bezel Ship",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(Quick Effect): You can Tribute this card, then target 1 \"Time Thief\" Xyz Monster you control; attach 1 card from your opponent's GY to that monster as material. If this card is in the GY: You can detach 1 material from an Xyz Monster you control; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Time Thief Bezel Ship\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82496097.jpg"
   ],
+  "text": "(Quick Effect): You can Tribute this card, then target 1 \"Time Thief\" Xyz Monster you control; attach 1 card from your opponent's GY to that monster as material. If this card is in the GY: You can detach 1 material from an Xyz Monster you control; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Time Thief Bezel Ship\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 2000,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

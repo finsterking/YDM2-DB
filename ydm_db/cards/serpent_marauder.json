@@ -3,19 +3,19 @@
   "name": "Serpent Marauder",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A snake with a single eye that blows an icy breath to freeze its opponents.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82742611.jpg"
   ],
+  "text": "''A snake with a single eye that blows an icy breath to freeze its opponents.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 700,
-  "def": 600,
-  "level": 2,
   "species": "Reptile",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

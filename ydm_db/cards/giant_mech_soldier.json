@@ -3,19 +3,19 @@
   "name": "Giant Mech-Soldier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster swings an earth-shaking axe that cannot be blocked by a common sword.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72299832.jpg"
   ],
+  "text": "This monster swings an earth-shaking axe that cannot be blocked by a common sword.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1750,
-  "def": 1900,
-  "level": 6,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
 }

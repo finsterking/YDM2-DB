@@ -3,19 +3,19 @@
   "name": "Floowandereeze & Eglen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this face-up card would leave the field, banish it instead. You can only use each of the following effects of \"Floowandereeze & Eglen\" once per turn, and cannot Special Summon during the turn you activate either effect. If this card is Normal Summoned: You can add 1 Level 7 or higher Winged Beast monster from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 Winged Beast monster. If a Winged Beast monster is Normal Summoned to your field while this card is banished: You can add this card to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54334420.jpg"
   ],
+  "text": "If this face-up card would leave the field, banish it instead. You can only use each of the following effects of \"Floowandereeze & Eglen\" once per turn, and cannot Special Summon during the turn you activate either effect. If this card is Normal Summoned: You can add 1 Level 7 or higher Winged Beast monster from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 Winged Beast monster. If a Winged Beast monster is Normal Summoned to your field while this card is banished: You can add this card to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 800,
-  "def": 1000,
-  "level": 1,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 1,
+  "is_tuner": false
 }

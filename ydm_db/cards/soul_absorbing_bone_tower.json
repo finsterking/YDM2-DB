@@ -3,19 +3,19 @@
   "name": "Soul-Absorbing Bone Tower",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control another Zombie-Type monster, your opponent cannot target this card for attacks. Each time a Zombie-Type monster(s) is Special Summoned: Send the top 2 cards of your opponent's Deck to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63012333.jpg"
   ],
+  "text": "If you control another Zombie-Type monster, your opponent cannot target this card for attacks. Each time a Zombie-Type monster(s) is Special Summoned: Send the top 2 cards of your opponent's Deck to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 400,
-  "def": 1500,
-  "level": 3,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
 }

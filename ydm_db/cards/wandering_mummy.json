@@ -3,19 +3,19 @@
   "name": "Wandering Mummy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can flip this card into face-down Defense Position once per turn during your Main Phase. After you use this effect, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42994702.jpg"
   ],
+  "text": "You can flip this card into face-down Defense Position once per turn during your Main Phase. After you use this effect, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 1500,
-  "level": 4,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

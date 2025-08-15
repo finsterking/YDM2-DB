@@ -3,19 +3,19 @@
   "name": "Punished Eagle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Blue-Winged Crown\" + \"Niwatori\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74703140.jpg"
   ],
+  "text": "\"Blue-Winged Crown\" + \"Niwatori\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WIND",
   "atk": 2100,
-  "def": 1800,
-  "level": 6,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

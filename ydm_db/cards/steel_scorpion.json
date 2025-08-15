@@ -3,19 +3,19 @@
   "name": "Steel Scorpion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13599884.jpg"
   ],
+  "text": "A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 250,
-  "def": 300,
-  "level": 1,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
 }

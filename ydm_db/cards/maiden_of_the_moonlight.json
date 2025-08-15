@@ -3,19 +3,19 @@
   "name": "Maiden of the Moonlight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A sorcerer blessed by lunar light with powers far beyond mortal comprehension.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79629370.jpg"
   ],
+  "text": "A sorcerer blessed by lunar light with powers far beyond mortal comprehension.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1500,
-  "def": 1300,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

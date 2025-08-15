@@ -3,10 +3,10 @@
   "name": "Soul Taker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81510157.jpg"
   ],
+  "text": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
   "type": "Spell",
   "spell_type": "Normal"
 }

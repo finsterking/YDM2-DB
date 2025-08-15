@@ -3,19 +3,19 @@
   "name": "Knight of Armor Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with \"Armor Dragon Ritual\". At the start of the Damage Step, if this card battles a monster that was Special Summoned from the Extra Deck: You can shuffle that monster into the Deck. You can Tribute this card; Special Summon 1 Level 5 or higher WIND Dragon monster from your hand or Deck. You can only use each effect of \"Knight of Armor Dragon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75901113.jpg"
   ],
+  "text": "You can Ritual Summon this card with \"Armor Dragon Ritual\". At the start of the Damage Step, if this card battles a monster that was Special Summoned from the Extra Deck: You can shuffle that monster into the Deck. You can Tribute this card; Special Summon 1 Level 5 or higher WIND Dragon monster from your hand or Deck. You can only use each effect of \"Knight of Armor Dragon\" once per turn.",
   "type": "Monster",
-  "monster_type": "Ritual",
   "attribute": "WIND",
   "atk": 1900,
-  "def": 1200,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Ritual",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

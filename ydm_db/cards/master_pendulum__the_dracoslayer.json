@@ -3,19 +3,22 @@
   "name": "Master Pendulum, the Dracoslayer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.\n\n[ Monster Effect ] \n''\"Luster Pendulum, the Dracoslayer\" continues his journey to uncover the secrets of Dragon Alchemy, believing it is the key to dispelling his curse and restoring his memory. His power continues to grow... perhaps the same power used by the Dracofiends?''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75195825.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.\n\n[ Monster Effect ] \n''\"Luster Pendulum, the Dracoslayer\" continues his journey to uncover the secrets of Dragon Alchemy, believing it is the key to dispelling his curse and restoring his memory. His power continues to grow... perhaps the same power used by the Dracofiends?''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1950,
-  "def": 0,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Once, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
 }

@@ -3,10 +3,10 @@
   "name": "O - Oversoul",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 \"Elemental HERO\" Normal Monster in your Graveyard; Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63703130.jpg"
   ],
+  "text": "Target 1 \"Elemental HERO\" Normal Monster in your Graveyard; Special Summon that target.",
   "type": "Spell",
   "spell_type": "Normal"
 }

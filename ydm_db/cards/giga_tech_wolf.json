@@ -3,19 +3,19 @@
   "name": "Giga-Tech Wolf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An iron wolf with razor-sharp fangs that can penetrate any armor.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8471389.jpg"
   ],
+  "text": "An iron wolf with razor-sharp fangs that can penetrate any armor.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 1200,
-  "def": 1400,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

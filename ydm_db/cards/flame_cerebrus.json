@@ -3,19 +3,19 @@
   "name": "Flame Cerebrus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Known to many as the \"Burning Executioner\", this monster is capable of burning enemies to cinders.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60862676.jpg"
   ],
+  "text": "Known to many as the \"Burning Executioner\", this monster is capable of burning enemies to cinders.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 2100,
-  "def": 1800,
-  "level": 6,
   "species": "Pyro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

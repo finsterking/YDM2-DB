@@ -3,19 +3,19 @@
   "name": "Garvas",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A wicked beast that resembles a winged lion.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69780745.jpg"
   ],
+  "text": "''A wicked beast that resembles a winged lion.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2000,
-  "def": 1700,
-  "level": 6,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
 }

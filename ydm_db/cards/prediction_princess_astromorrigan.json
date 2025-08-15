@@ -3,19 +3,19 @@
   "name": "Prediction Princess Astromorrigan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: During the End Phase of this turn, destroy as many Defense Position monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5010422.jpg"
   ],
+  "text": "FLIP: During the End Phase of this turn, destroy as many Defense Position monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 0,
-  "level": 3,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
 }

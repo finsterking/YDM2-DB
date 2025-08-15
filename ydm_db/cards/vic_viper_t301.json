@@ -3,19 +3,19 @@
   "name": "Vic Viper T301",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an attack is declared involving your face-up monster and an opponent's monster: You can Special Summon this card from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Vic Viper T301\" once per turn. Other LIGHT Machine monsters you control gain 1200 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10642488.jpg"
   ],
+  "text": "When an attack is declared involving your face-up monster and an opponent's monster: You can Special Summon this card from your hand or GY, but banish it when it leaves the field. You can only use this effect of \"Vic Viper T301\" once per turn. Other LIGHT Machine monsters you control gain 1200 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": 800,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

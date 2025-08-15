@@ -3,19 +3,19 @@
   "name": "Windwitch - Glass Bell",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can add 1 \"Windwitch\" monster from your Deck to your hand, except \"Windwitch - Glass Bell\", also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Windwitch - Glass Bell\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71007216.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Windwitch\" monster from your Deck to your hand, except \"Windwitch - Glass Bell\", also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Windwitch - Glass Bell\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1500,
-  "def": 1500,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": true
 }

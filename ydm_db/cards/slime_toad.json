@@ -3,19 +3,19 @@
   "name": "Slime Toad",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A slime with the head of a frog, it attacks by croaking terribly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68638985.jpg"
   ],
+  "text": "A slime with the head of a frog, it attacks by croaking terribly.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 700,
-  "def": 500,
-  "level": 2,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

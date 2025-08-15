@@ -3,19 +3,19 @@
   "name": "Zone Eater",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86100785.jpg"
   ],
+  "text": "A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 250,
-  "def": 200,
-  "level": 1,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
 }

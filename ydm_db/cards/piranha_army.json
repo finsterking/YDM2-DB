@@ -3,19 +3,19 @@
   "name": "Piranha Army",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The Battle Damage this card inflicts by attacking your opponent's Life Points directly is doubled.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50823978.jpg"
   ],
+  "text": "The Battle Damage this card inflicts by attacking your opponent's Life Points directly is doubled.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 800,
-  "def": 200,
-  "level": 2,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
 }

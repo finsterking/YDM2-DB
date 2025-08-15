@@ -55,12 +55,6 @@
       "image_index": 0
     },
     {
-      "id": 300202007,
-      "code": "SS02-ENCS1",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 88819587,
       "code": "SS02-ENB06",
       "rarity": "Common",
@@ -69,12 +63,6 @@
     {
       "id": 5053103,
       "code": "SS02-ENA02",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300202002,
-      "code": "SS02-ENAS2",
       "rarity": "Common",
       "image_index": 0
     },
@@ -127,12 +115,6 @@
       "image_index": 0
     },
     {
-      "id": 300202003,
-      "code": "SS02-ENAS3",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 20638610,
       "code": "SS02-ENA16",
       "rarity": "Common",
@@ -157,12 +139,6 @@
       "image_index": 0
     },
     {
-      "id": 300202008,
-      "code": "SS02-ENCS2",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 33550694,
       "code": "SS02-ENV02",
       "rarity": "Ultra Rare",
@@ -177,12 +153,6 @@
     {
       "id": 74137509,
       "code": "SS02-ENB16",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300202004,
-      "code": "SS02-ENBS1",
       "rarity": "Common",
       "image_index": 0
     },
@@ -235,12 +205,6 @@
       "image_index": 0
     },
     {
-      "id": 300202005,
-      "code": "SS02-ENBS2",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 61854111,
       "code": "SS02-ENB13",
       "rarity": "Common",
@@ -279,18 +243,6 @@
     {
       "id": 50913601,
       "code": "SS02-ENA14",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300202006,
-      "code": "SS02-ENBS3",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300202001,
-      "code": "SS02-ENAS1",
       "rarity": "Common",
       "image_index": 0
     },
@@ -387,12 +339,6 @@
     {
       "id": 12181376,
       "code": "SS02-ENC11",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300202009,
-      "code": "SS02-ENCS3",
       "rarity": "Common",
       "image_index": 0
     },

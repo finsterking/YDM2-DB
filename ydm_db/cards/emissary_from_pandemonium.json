@@ -3,19 +3,19 @@
   "name": "Emissary from Pandemonium",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Special Summoned. You can Normal Summon this card with 1 Tribute. If you do, it becomes Level 5 and its original ATK and DEF are halved.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42685062.jpg"
   ],
+  "text": "This card cannot be Special Summoned. You can Normal Summon this card with 1 Tribute. If you do, it becomes Level 5 and its original ATK and DEF are halved.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2600,
-  "def": 1800,
-  "level": 7,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 7,
+  "is_tuner": true
 }

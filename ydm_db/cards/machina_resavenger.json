@@ -3,19 +3,19 @@
   "name": "Machina Resavenger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(Quick Effect): You can send this card from your hand or field to the GY, then target 1 \"Machina\" monster you control; it gains 1200 ATK until the end of this turn. When your \"Machina\" monster destroys an opponent's monster by battle, while this card is in your GY: You can add this card to your hand. You can only use each effect of \"Machina Resavenger\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54563536.jpg"
   ],
+  "text": "(Quick Effect): You can send this card from your hand or field to the GY, then target 1 \"Machina\" monster you control; it gains 1200 ATK until the end of this turn. When your \"Machina\" monster destroys an opponent's monster by battle, while this card is in your GY: You can add this card to your hand. You can only use each effect of \"Machina Resavenger\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 1800,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

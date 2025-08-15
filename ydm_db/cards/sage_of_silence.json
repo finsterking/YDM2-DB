@@ -3,19 +3,19 @@
   "name": "Sage of Silence",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card destroys an opponent's monster by battle, your opponent cannot activate Spell Cards during the next turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26669055.jpg"
   ],
+  "text": "If this card destroys an opponent's monster by battle, your opponent cannot activate Spell Cards during the next turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1400,
-  "def": 1000,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

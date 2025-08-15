@@ -3,19 +3,19 @@
   "name": "Oppressed People",
   "is_illegal": false,
   "is_custom": false,
-  "text": "They are oppressed, but believe they will have their freedom someday.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58538870.jpg"
   ],
+  "text": "They are oppressed, but believe they will have their freedom someday.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 400,
-  "def": 2000,
-  "level": 1,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2000,
+  "level": 1,
+  "is_tuner": false
 }

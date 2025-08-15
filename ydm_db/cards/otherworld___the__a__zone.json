@@ -3,10 +3,10 @@
   "name": "Otherworld - The \"A\" Zone",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent's monster battles an \"Alien\" monster you control, the opponent's monster loses 300 ATK and DEF during damage calculation only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60946968.jpg"
   ],
+  "text": "If your opponent's monster battles an \"Alien\" monster you control, the opponent's monster loses 300 ATK and DEF during damage calculation only.",
   "type": "Spell",
   "spell_type": "Field"
 }

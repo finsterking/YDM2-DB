@@ -3,19 +3,19 @@
   "name": "Skullbird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Takuhee\" + \"Temple of Skulls\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8327462.jpg"
   ],
+  "text": "\"Takuhee\" + \"Temple of Skulls\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WIND",
   "atk": 1900,
-  "def": 1700,
-  "level": 6,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
 }

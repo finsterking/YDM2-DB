@@ -3,19 +3,19 @@
   "name": "Fossil Dyna Pachycephalo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is flipped face-up: Destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42009836.jpg"
   ],
+  "text": "If this card is flipped face-up: Destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 1300,
-  "level": 4,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

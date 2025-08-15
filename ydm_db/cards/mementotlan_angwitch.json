@@ -3,19 +3,19 @@
   "name": "Mementotlan Angwitch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can add 1 \"Memento\" monster from your Deck to your hand, except \"Mementotlan Angwitch\". You can target 1 Level 2 or lower \"Memento\" monster in your GY; destroy 1 \"Memento\" monster you control, and if you do, Special Summon the targeted monster. You can only use each effect of \"Mementotlan Angwitch\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54550967.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Memento\" monster from your Deck to your hand, except \"Mementotlan Angwitch\". You can target 1 Level 2 or lower \"Memento\" monster in your GY; destroy 1 \"Memento\" monster you control, and if you do, Special Summon the targeted monster. You can only use each effect of \"Mementotlan Angwitch\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 800,
-  "def": 1000,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

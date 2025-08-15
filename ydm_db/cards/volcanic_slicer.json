@@ -3,19 +3,19 @@
   "name": "Volcanic Slicer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can inflict 500 damage to your opponent. If you activate this effect, this card cannot attack during this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17415895.jpg"
   ],
+  "text": "Once per turn, you can inflict 500 damage to your opponent. If you activate this effect, this card cannot attack during this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1800,
-  "def": 1200,
-  "level": 4,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Genex Solar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Normal Summon this card by Tributing 1 \"Genex\" monster. Inflict 500 damage to your opponent each time a face-up \"Genex\" monster you control is sent to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15605085.jpg"
   ],
+  "text": "You can Normal Summon this card by Tributing 1 \"Genex\" monster. Inflict 500 damage to your opponent each time a face-up \"Genex\" monster you control is sent to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 1500,
-  "level": 7,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
 }

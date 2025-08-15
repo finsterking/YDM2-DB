@@ -25,12 +25,6 @@
       "image_index": 0
     },
     {
-      "id": 300302022,
-      "code": "SGX1-ENS04",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 31557782,
       "code": "SGX1-END08",
       "rarity": "Common",
@@ -97,12 +91,6 @@
       "image_index": 0
     },
     {
-      "id": 300302023,
-      "code": "SGX1-ENS11",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 980973,
       "code": "SGX1-ENC06",
       "rarity": "Common",
@@ -157,12 +145,6 @@
       "image_index": 0
     },
     {
-      "id": 300302024,
-      "code": "SGX1-ENS08",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 5464695,
       "code": "SGX1-ENH02",
       "rarity": "Common",
@@ -201,12 +183,6 @@
     {
       "id": 16956455,
       "code": "SGX1-ENC05",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302025,
-      "code": "SGX1-ENS20",
       "rarity": "Common",
       "image_index": 0
     },
@@ -313,12 +289,6 @@
       "image_index": 0
     },
     {
-      "id": 300302026,
-      "code": "SGX1-ENS06",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 47408488,
       "code": "SGX1-ENF15",
       "rarity": "Common",
@@ -339,12 +309,6 @@
     {
       "id": 91668401,
       "code": "SGX1-ENE12",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302027,
-      "code": "SGX1-ENS05",
       "rarity": "Common",
       "image_index": 0
     },
@@ -459,12 +423,6 @@
     {
       "id": 3019642,
       "code": "SGX1-ENG07",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302028,
-      "code": "SGX1-ENS15",
       "rarity": "Common",
       "image_index": 0
     },
@@ -727,12 +685,6 @@
       "image_index": 0
     },
     {
-      "id": 300302029,
-      "code": "SGX1-ENS17",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 11460577,
       "code": "SGX1-ENE06",
       "rarity": "Common",
@@ -760,12 +712,6 @@
       "id": 69599136,
       "code": "SGX1-ENI23",
       "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300302030,
-      "code": "SGX1-ENS07",
-      "rarity": "Common",
       "image_index": 0
     },
     {
@@ -835,12 +781,6 @@
       "image_index": 0
     },
     {
-      "id": 300302031,
-      "code": "SGX1-ENS01",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 22020907,
       "code": "SGX1-ENA20",
       "rarity": "Common",
@@ -871,12 +811,6 @@
       "image_index": 0
     },
     {
-      "id": 300302032,
-      "code": "SGX1-ENS19",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 98954106,
       "code": "SGX1-ENE20",
       "rarity": "Common",
@@ -885,24 +819,6 @@
     {
       "id": 62271284,
       "code": "SGX1-ENI22",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302033,
-      "code": "SGX1-ENS03",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302034,
-      "code": "SGX1-ENS10",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302035,
-      "code": "SGX1-ENS13",
       "rarity": "Common",
       "image_index": 0
     },
@@ -939,12 +855,6 @@
     {
       "id": 37580756,
       "code": "SGX1-ENH17",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302036,
-      "code": "SGX1-ENS12",
       "rarity": "Common",
       "image_index": 0
     },
@@ -1093,12 +1003,6 @@
       "image_index": 0
     },
     {
-      "id": 300302037,
-      "code": "SGX1-ENS02",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 26439287,
       "code": "SGX1-ENG03",
       "rarity": "Common",
@@ -1113,12 +1017,6 @@
     {
       "id": 90810762,
       "code": "SGX1-ENH06",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302038,
-      "code": "SGX1-ENS14",
       "rarity": "Common",
       "image_index": 0
     },
@@ -1185,12 +1083,6 @@
     {
       "id": 54351224,
       "code": "SGX1-ENE14",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302039,
-      "code": "SGX1-ENS18",
       "rarity": "Common",
       "image_index": 0
     },
@@ -1267,12 +1159,6 @@
       "image_index": 0
     },
     {
-      "id": 300302041,
-      "code": "SGX1-ENS09",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 38479725,
       "code": "SGX1-END04",
       "rarity": "Common",
@@ -1341,12 +1227,6 @@
     {
       "id": 81020140,
       "code": "SGX1-ENH08",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302042,
-      "code": "SGX1-ENS16",
       "rarity": "Common",
       "image_index": 0
     },

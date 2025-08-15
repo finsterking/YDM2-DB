@@ -3,19 +3,19 @@
   "name": "Sleeping Lion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40200834.jpg"
   ],
+  "text": "A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 700,
-  "def": 1700,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
 }

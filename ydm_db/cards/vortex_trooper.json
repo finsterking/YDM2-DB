@@ -3,19 +3,19 @@
   "name": "Vortex Trooper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. If this card is destroyed: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7736719.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. If this card is destroyed: Draw 1 card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 0,
-  "def": 600,
-  "level": 3,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
 }

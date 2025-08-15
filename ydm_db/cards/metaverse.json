@@ -3,10 +3,10 @@
   "name": "Metaverse",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Take 1 Field Spell from your Deck, and either activate it or add it to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89208725.jpg"
   ],
+  "text": "Take 1 Field Spell from your Deck, and either activate it or add it to your hand.",
   "type": "Trap",
   "trap_type": "Normal"
 }

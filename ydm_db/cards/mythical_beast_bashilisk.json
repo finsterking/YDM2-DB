@@ -3,19 +3,22 @@
   "name": "Mythical Beast Bashilisk",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nIf you have no card in your other Pendulum Zone: You can destroy this card, and if you do, shuffle 1 face-up Spellcaster Pendulum Monster from your Extra Deck into your Main Deck, except \"Mythical Beast Bashilisk\", then draw 1 card. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.\n\n[ Monster Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field; return 1 \"Mythical Beast\" card from your Pendulum Zone or face-up from your Extra Deck to the hand. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80959027.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nIf you have no card in your other Pendulum Zone: You can destroy this card, and if you do, shuffle 1 face-up Spellcaster Pendulum Monster from your Extra Deck into your Main Deck, except \"Mythical Beast Bashilisk\", then draw 1 card. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.\n\n[ Monster Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field; return 1 \"Mythical Beast\" card from your Pendulum Zone or face-up from your Extra Deck to the hand. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 500,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 500,
+  "level": 4,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "If you have no card in your other Pendulum Zone: You can destroy this card, and if you do, shuffle 1 face-up Spellcaster Pendulum Monster from your Extra Deck into your Main Deck, except \"Mythical Beast Bashilisk\", then draw 1 card. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
+  "pendulum_scale_left_blue": 4,
+  "pendulum_scale_right_red": 4
 }

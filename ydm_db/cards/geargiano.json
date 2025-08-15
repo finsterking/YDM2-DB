@@ -3,19 +3,19 @@
   "name": "Geargiano",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71786742.jpg"
   ],
+  "text": "You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 1000,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

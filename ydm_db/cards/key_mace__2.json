@@ -3,19 +3,19 @@
   "name": "Key Mace #2",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This fiend brings out the worst in everyone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20541432.jpg"
   ],
+  "text": "This fiend brings out the worst in everyone.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1050,
-  "def": 1200,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

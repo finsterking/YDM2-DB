@@ -3,19 +3,19 @@
   "name": "Wood Remains",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A living corpse of wood re-animated by the power of darkness.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17733394.jpg"
   ],
+  "text": "''A living corpse of wood re-animated by the power of darkness.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 900,
-  "level": 3,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

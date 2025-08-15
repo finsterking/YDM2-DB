@@ -3,19 +3,19 @@
   "name": "Tongyo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster captures other fish with its long tongue and sucks the energy out of them.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69572024.jpg"
   ],
+  "text": "This monster captures other fish with its long tongue and sucks the energy out of them.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1350,
-  "def": 800,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Leghul",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster may attack your opponent's Life Points directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12472242.jpg"
   ],
+  "text": "This monster may attack your opponent's Life Points directly.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 300,
-  "def": 350,
-  "level": 1,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 350,
+  "level": 1,
+  "is_tuner": false
 }

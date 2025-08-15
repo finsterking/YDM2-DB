@@ -3,10 +3,10 @@
   "name": "Fire Darts",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only while you have no cards in your hand. Roll a six-sided die 3 times, and inflict damage to your opponent equal to the sum of the die rolls × 100.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43061293.jpg"
   ],
+  "text": "Activate only while you have no cards in your hand. Roll a six-sided die 3 times, and inflict damage to your opponent equal to the sum of the die rolls × 100.",
   "type": "Trap",
   "trap_type": "Normal"
 }

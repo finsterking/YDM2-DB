@@ -3,19 +3,19 @@
   "name": "Kabuki Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, before damage calculation, if your monster attacked an opponent's monster: You can change the battle position of that monster your opponent controls. Once per turn, before damage calculation, if an opponent's monster attacked your monster: You can change the battle position of that monster you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7541475.jpg"
   ],
+  "text": "Once per turn, before damage calculation, if your monster attacked an opponent's monster: You can change the battle position of that monster your opponent controls. Once per turn, before damage calculation, if an opponent's monster attacked your monster: You can change the battle position of that monster you control.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2300,
-  "def": 2100,
-  "level": 6,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2100,
+  "level": 6,
+  "is_tuner": false
 }

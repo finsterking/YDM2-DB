@@ -3,19 +3,19 @@
   "name": "Plague Wolf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can make this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55696885.jpg"
   ],
+  "text": "Once per turn: You can make this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 1000,
-  "level": 3,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

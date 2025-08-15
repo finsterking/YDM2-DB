@@ -3,10 +3,10 @@
   "name": "House of Adhesive Tape",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If the DEF of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15083728.jpg"
   ],
+  "text": "If the DEF of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.",
   "type": "Trap",
   "trap_type": "Normal"
 }

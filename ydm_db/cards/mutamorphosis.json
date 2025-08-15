@@ -3,10 +3,10 @@
   "name": "Mutamorphosis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Tribute 1 Fusion or Synchro Monster; Special Summon 1 monster from your Deck with the same Level as the Tributed monster's original Level, but return it to the hand during the End Phase. You can only activate 1 \"Mutamorphosis\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88654892.jpg"
   ],
+  "text": "Tribute 1 Fusion or Synchro Monster; Special Summon 1 monster from your Deck with the same Level as the Tributed monster's original Level, but return it to the hand during the End Phase. You can only activate 1 \"Mutamorphosis\" per turn.",
   "type": "Spell",
   "spell_type": "Normal"
 }

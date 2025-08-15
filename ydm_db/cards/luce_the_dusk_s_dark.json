@@ -3,19 +3,19 @@
   "name": "Luce the Dusk's Dark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Fiend and/or Fairy monsters in your GY\nMonsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects. You can only use each of the following effects of \"Luce the Dusk's Dark\" once per turn. You can target 1 card your opponent controls; send 1 Fiend or Fairy monster from your Deck to the GY, and if you do, destroy that card. If another card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 card on the field; destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45409943.jpg"
   ],
+  "text": "3 Fiend and/or Fairy monsters in your GY\nMonsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects. You can only use each of the following effects of \"Luce the Dusk's Dark\" once per turn. You can target 1 card your opponent controls; send 1 Fiend or Fairy monster from your Deck to the GY, and if you do, destroy that card. If another card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 card on the field; destroy it.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 3500,
-  "def": 3000,
-  "level": 8,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
 }

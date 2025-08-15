@@ -3,19 +3,19 @@
   "name": "Neo-Spacian Air Hummingbird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can gain 500 LP for each card in your opponent's hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54959865.jpg"
   ],
+  "text": "Once per turn: You can gain 500 LP for each card in your opponent's hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 800,
-  "def": 600,
-  "level": 3,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
 }

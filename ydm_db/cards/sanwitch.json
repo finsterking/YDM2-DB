@@ -3,19 +3,19 @@
   "name": "Sanwitch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Sangan\" + \"Witch of the Black Forest\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53539634.jpg"
   ],
+  "text": "\"Sangan\" + \"Witch of the Black Forest\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2100,
-  "def": 1800,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

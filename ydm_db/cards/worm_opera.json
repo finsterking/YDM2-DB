@@ -3,19 +3,19 @@
   "name": "Worm Opera",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: All face-up monsters on the field lose 500 ATK, except Reptile-Type \"Worm\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28465301.jpg"
   ],
+  "text": "FLIP: All face-up monsters on the field lose 500 ATK, except Reptile-Type \"Worm\" monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 400,
-  "def": 800,
-  "level": 2,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
 }

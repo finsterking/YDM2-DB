@@ -3,19 +3,19 @@
   "name": "Majestic Mech - Ohka",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69303178.jpg"
   ],
+  "text": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2400,
-  "def": 1400,
-  "level": 6,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 6,
+  "is_tuner": false
 }

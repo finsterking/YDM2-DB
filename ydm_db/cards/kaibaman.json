@@ -3,19 +3,19 @@
   "name": "Kaibaman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34627841.jpg"
   ],
+  "text": "You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 200,
-  "def": 700,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

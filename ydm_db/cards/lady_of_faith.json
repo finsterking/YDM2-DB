@@ -3,19 +3,19 @@
   "name": "Lady of Faith",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Soothes the souls of others by chanting a mysterious spell.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17358176.jpg"
   ],
+  "text": "Soothes the souls of others by chanting a mysterious spell.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1100,
-  "def": 800,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

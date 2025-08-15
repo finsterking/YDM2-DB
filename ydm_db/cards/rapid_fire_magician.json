@@ -3,19 +3,19 @@
   "name": "Rapid-Fire Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Inflict 400 damage to your opponent each time you activate a Normal Spell Card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6337436.jpg"
   ],
+  "text": "Inflict 400 damage to your opponent each time you activate a Normal Spell Card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 1200,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

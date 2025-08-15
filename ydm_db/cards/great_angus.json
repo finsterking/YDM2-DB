@@ -3,19 +3,19 @@
   "name": "Great Angus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A very violent beast, it is always berserk. People say that they have never seen it silent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11813953.jpg"
   ],
+  "text": "A very violent beast, it is always berserk. People say that they have never seen it silent.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 1800,
-  "def": 600,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

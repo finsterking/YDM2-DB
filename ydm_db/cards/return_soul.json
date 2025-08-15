@@ -3,10 +3,10 @@
   "name": "Return Soul",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only during the End Phase. You can return up to 3 monsters destroyed this turn from the Graveyard to their owners' Decks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10537981.jpg"
   ],
+  "text": "Activate only during the End Phase. You can return up to 3 monsters destroyed this turn from the Graveyard to their owners' Decks.",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Reptilianne Viper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42303365.jpg"
   ],
+  "text": "When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "def": 0,
-  "level": 2,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
 }

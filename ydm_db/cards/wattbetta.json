@@ -3,19 +3,19 @@
   "name": "Wattbetta",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts Battle Damage to your opponent by a direct attack, your opponent discards 1 card of their choice.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18407024.jpg"
   ],
+  "text": "When this card inflicts Battle Damage to your opponent by a direct attack, your opponent discards 1 card of their choice.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 100,
-  "def": 0,
-  "level": 2,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
 }

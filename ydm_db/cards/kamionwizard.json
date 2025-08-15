@@ -3,19 +3,19 @@
   "name": "Kamionwizard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Mystical Elf\" + \"Curtain of the Dark Ones\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41544074.jpg"
   ],
+  "text": "\"Mystical Elf\" + \"Curtain of the Dark Ones\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 1100,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
 }

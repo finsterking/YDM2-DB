@@ -3,19 +3,19 @@
   "name": "Odd-Eyes Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53025096.jpg"
   ],
+  "text": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2500,
-  "def": 2000,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

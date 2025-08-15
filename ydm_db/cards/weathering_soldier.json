@@ -3,19 +3,19 @@
   "name": "Weathering Soldier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is destroyed by battle or sent to the GY by a card effect: You can add 1 \"Fossil Fusion\", or 1 card that specifically lists \"Fossil Fusion\" in its text except \"Weathering Soldier\", from your Deck to your hand. You can only use this effect of \"Weathering Soldier\" once per turn. Once per turn, during your End Phase: This card loses 600 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23147658.jpg"
   ],
+  "text": "If this card is destroyed by battle or sent to the GY by a card effect: You can add 1 \"Fossil Fusion\", or 1 card that specifically lists \"Fossil Fusion\" in its text except \"Weathering Soldier\", from your Deck to your hand. You can only use this effect of \"Weathering Soldier\" once per turn. Once per turn, during your End Phase: This card loses 600 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2000,
-  "def": 1200,
-  "level": 4,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

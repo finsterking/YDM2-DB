@@ -3,19 +3,19 @@
   "name": "Royal Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys a monster by battle and sends it to the Graveyard, gain Life Points equal to the DEF of the destroyed monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68280530.jpg"
   ],
+  "text": "When this card destroys a monster by battle and sends it to the Graveyard, gain Life Points equal to the DEF of the destroyed monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1300,
-  "def": 800,
-  "level": 3,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Escher the Frost Vassal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls 2 or more cards in their Spell & Trap Zones, you can Special Summon this card (from your hand).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24326617.jpg"
   ],
+  "text": "If your opponent controls 2 or more cards in their Spell & Trap Zones, you can Special Summon this card (from your hand).",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 800,
-  "def": 1000,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

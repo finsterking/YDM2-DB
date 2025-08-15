@@ -3,19 +3,19 @@
   "name": "Ryu-Ran",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A vicious little dragon sheltered in an egg that looks deceptively harmless.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2964201.jpg"
   ],
+  "text": "A vicious little dragon sheltered in an egg that looks deceptively harmless.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 2200,
-  "def": 2600,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2600,
+  "level": 7,
+  "is_tuner": false
 }

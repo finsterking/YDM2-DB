@@ -3,19 +3,19 @@
   "name": "Hungry Burger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Hamburger Recipe\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30243636.jpg"
   ],
+  "text": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Hamburger Recipe\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
   "type": "Monster",
-  "monster_type": "Ritual",
   "attribute": "DARK",
   "atk": 2000,
-  "def": 1850,
-  "level": 6,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Ritual",
+  "def": 1850,
+  "level": 6,
+  "is_tuner": false
 }

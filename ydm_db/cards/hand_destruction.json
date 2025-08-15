@@ -3,10 +3,10 @@
   "name": "Hand Destruction",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74519184.jpg"
   ],
+  "text": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

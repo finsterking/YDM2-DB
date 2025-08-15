@@ -3,19 +3,19 @@
   "name": "Sandaion, the Timelord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned from the Deck. You can only control 1 \"Sandaion, the Timelord\". If only your opponent controls a monster, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. Neither player takes battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Inflict 2000 damage to your opponent. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33015627.jpg"
   ],
+  "text": "Cannot be Special Summoned from the Deck. You can only control 1 \"Sandaion, the Timelord\". If only your opponent controls a monster, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. Neither player takes battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Inflict 2000 damage to your opponent. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 4000,
-  "def": 4000,
-  "level": 10,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 4000,
+  "level": 10,
+  "is_tuner": false
 }

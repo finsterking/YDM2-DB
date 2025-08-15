@@ -3,19 +3,19 @@
   "name": "Numen erat Testudo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can Special Summon monsters with 1800 or less ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83061014.jpg"
   ],
+  "text": "Neither player can Special Summon monsters with 1800 or less ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1800,
-  "def": 0,
-  "level": 5,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
 }

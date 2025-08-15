@@ -3,19 +3,19 @@
   "name": "Road Synchron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When using this card as Synchro Material for the Synchro Summon of a monster other than \"Road Warrior\", reduce this card's Level by 2. If this card attacks, at the end of the Damage Step: Increase its Level by 1 until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71971554.jpg"
   ],
+  "text": "When using this card as Synchro Material for the Synchro Summon of a monster other than \"Road Warrior\", reduce this card's Level by 2. If this card attacks, at the end of the Damage Step: Increase its Level by 1 until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 800,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 4,
+  "is_tuner": true
 }

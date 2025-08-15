@@ -3,19 +3,19 @@
   "name": "Salvage Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Tribute Summoned, you can Special Summon 1 Tuner monster from your hand or Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41705642.jpg"
   ],
+  "text": "When this card is Tribute Summoned, you can Special Summon 1 Tuner monster from your hand or Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1900,
-  "def": 1600,
-  "level": 5,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
 }

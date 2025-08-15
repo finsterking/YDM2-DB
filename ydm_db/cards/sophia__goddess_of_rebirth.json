@@ -3,19 +3,19 @@
   "name": "Sophia, Goddess of Rebirth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up Ritual, Fusion, Synchro, and Xyz Monster from anywhere on the field, and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. When this card is Special Summoned: Banish all other cards from both players' hands, fields, and Graveyards. Cards and effects cannot be activated in response to this effect's activation.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/4335427.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 face-up Ritual, Fusion, Synchro, and Xyz Monster from anywhere on the field, and cannot be Special Summoned by other ways. This card's Special Summon cannot be negated. When this card is Special Summoned: Banish all other cards from both players' hands, fields, and Graveyards. Cards and effects cannot be activated in response to this effect's activation.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 3600,
-  "def": 3400,
-  "level": 11,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 3400,
+  "level": 11,
+  "is_tuner": false
 }

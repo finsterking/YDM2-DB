@@ -3,19 +3,19 @@
   "name": "Hyo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''None can survive the cold touch of this sub-zero warrior.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38982356.jpg"
   ],
+  "text": "''None can survive the cold touch of this sub-zero warrior.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 800,
-  "def": 1200,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
 }

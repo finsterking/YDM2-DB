@@ -3,19 +3,19 @@
   "name": "Man-Eating Treasure Chest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13723605.jpg"
   ],
+  "text": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 1000,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Swift Gaia the Fierce Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16589042.jpg"
   ],
+  "text": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2300,
-  "def": 2100,
-  "level": 7,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
 }

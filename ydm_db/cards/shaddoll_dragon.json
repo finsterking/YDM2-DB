@@ -3,19 +3,19 @@
   "name": "Shaddoll Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: You can target 1 card your opponent controls; return it to the hand.\nIf this card is sent to the GY by a card effect: You can target 1 Spell/Trap on the field; destroy it. You can only use 1 \"Shaddoll Dragon\" effect per turn, and only once that turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77723643.jpg"
   ],
+  "text": "FLIP: You can target 1 card your opponent controls; return it to the hand.\nIf this card is sent to the GY by a card effect: You can target 1 Spell/Trap on the field; destroy it. You can only use 1 \"Shaddoll Dragon\" effect per turn, and only once that turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1900,
-  "def": 0,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

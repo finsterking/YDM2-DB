@@ -3,19 +3,19 @@
   "name": "Gishki Diviner",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72403299.jpg"
   ],
+  "text": "Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1200,
-  "def": 800,
-  "level": 3,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

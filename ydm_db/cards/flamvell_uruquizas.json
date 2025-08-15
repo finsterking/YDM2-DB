@@ -3,19 +3,19 @@
   "name": "Flamvell Uruquizas",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nDuring battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. This card gains 300 ATK each time it inflicts Battle Damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53714009.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nDuring battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. This card gains 300 ATK each time it inflicts Battle Damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "FIRE",
   "atk": 2100,
-  "def": 400,
-  "level": 6,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 400,
+  "level": 6,
+  "is_tuner": false
 }

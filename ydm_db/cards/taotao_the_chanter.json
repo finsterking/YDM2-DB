@@ -3,19 +3,19 @@
   "name": "Taotao the Chanter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card battles a monster, neither can be destroyed by that battle. If you take battle or effect damage: You can Special Summon 1 Level 3 or higher Illusion monster from your hand or GY, or, if you took 2000 or more damage, you can Special Summon it from your Deck or Extra Deck instead. You can only use this effect of \"Taotao the Chanter\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45016904.jpg"
   ],
+  "text": "If this card battles a monster, neither can be destroyed by that battle. If you take battle or effect damage: You can Special Summon 1 Level 3 or higher Illusion monster from your hand or GY, or, if you took 2000 or more damage, you can Special Summon it from your Deck or Extra Deck instead. You can only use this effect of \"Taotao the Chanter\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 600,
-  "level": 2,
   "species": "Illusion",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 2,
+  "is_tuner": true
 }

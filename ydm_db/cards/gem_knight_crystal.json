@@ -3,19 +3,19 @@
   "name": "Gem-Knight Crystal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A Gem-Knight officer of high rank, who has optimized the use of the crystal powers. Despite his ability to overwhelm most opponents, he's wary of stretching himself too thin, and opts for solidarity with his comrades.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76908448.jpg"
   ],
+  "text": "A Gem-Knight officer of high rank, who has optimized the use of the crystal powers. Despite his ability to overwhelm most opponents, he's wary of stretching himself too thin, and opts for solidarity with his comrades.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2450,
-  "def": 1950,
-  "level": 7,
   "species": "Rock",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1950,
+  "level": 7,
+  "is_tuner": false
 }

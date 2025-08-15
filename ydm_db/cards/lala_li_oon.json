@@ -3,19 +3,19 @@
   "name": "LaLa Li-oon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''An electric cloud creature, its acid rain makes it very dangerous.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9430387.jpg"
   ],
+  "text": "''An electric cloud creature, its acid rain makes it very dangerous.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 600,
-  "def": 600,
-  "level": 2,
   "species": "Thunder",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

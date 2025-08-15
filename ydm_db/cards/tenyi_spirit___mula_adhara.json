@@ -3,19 +3,19 @@
   "name": "Tenyi Spirit - Mula Adhara",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned and 2 or more Wyrm monsters are in your GY and/or banishment: You can add 1 Field Spell from your Deck to your hand. You can only use this effect of \"Tenyi Spirit - Mula Adhara\" once per turn. While a non-Effect Monster is face-up on the field, this card gains these effects.\n● Cannot be destroyed by an opponent's card effects.\n● Your opponent cannot target this card with card effects.\n● Can make a second attack during each Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73121813.jpg"
   ],
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned and 2 or more Wyrm monsters are in your GY and/or banishment: You can add 1 Field Spell from your Deck to your hand. You can only use this effect of \"Tenyi Spirit - Mula Adhara\" once per turn. While a non-Effect Monster is face-up on the field, this card gains these effects.\n● Cannot be destroyed by an opponent's card effects.\n● Your opponent cannot target this card with card effects.\n● Can make a second attack during each Battle Phase.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 3000,
-  "def": 0,
-  "level": 8,
   "species": "Wyrm",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
 }

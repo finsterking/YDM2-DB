@@ -3,19 +3,18 @@
   "name": "Wollow, Founder of the Drudge Dragons",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Level 6 monsters\nMonsters you control gain 100 ATK/DEF for each card in your opponent's GY. (Quick Effect): You can target 1 card in your opponent's GY and detach 1 or 2 materials from this card, then activate the appropriate effect;\n● 1: Return it to the Deck.\n● 2: If the target is a monster, Special Summon it face-up, or in face-down Defense Position, to your field. If it is not, Set it on your field.\nYou can only use this effect of \"Wollow, Founder of the Drudge Dragons\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45935145.jpg"
   ],
+  "text": "2+ Level 6 monsters\nMonsters you control gain 100 ATK/DEF for each card in your opponent's GY. (Quick Effect): You can target 1 card in your opponent's GY and detach 1 or 2 materials from this card, then activate the appropriate effect;\n● 1: Return it to the Deck.\n● 2: If the target is a monster, Special Summon it face-up, or in face-down Defense Position, to your field. If it is not, Set it on your field.\nYou can only use this effect of \"Wollow, Founder of the Drudge Dragons\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 1300,
-  "level": 6,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 6,
+  "def": 1300
 }

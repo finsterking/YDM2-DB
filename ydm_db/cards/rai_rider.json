@@ -3,19 +3,19 @@
   "name": "Rai Rider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card battles an opponent's monster: That monster cannot attack while it is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31173519.jpg"
   ],
+  "text": "If this card battles an opponent's monster: That monster cannot attack while it is face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": 1400,
-  "level": 3,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 3,
+  "is_tuner": false
 }

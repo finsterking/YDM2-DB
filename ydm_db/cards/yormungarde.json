@@ -3,19 +3,19 @@
   "name": "Yormungarde",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''An extremely long snake that dwells in the world of myth.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17115745.jpg"
   ],
+  "text": "''An extremely long snake that dwells in the world of myth.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 900,
-  "level": 3,
   "species": "Reptile",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

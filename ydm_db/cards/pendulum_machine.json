@@ -3,20 +3,20 @@
   "name": "Pendulum Machine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A horrible torture machine with a large pendulum blade.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24433920.jpg",
     "https://images.ygoprodeck.com/images/cards/24433921.jpg"
   ],
+  "text": "A horrible torture machine with a large pendulum blade.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1750,
-  "def": 2000,
-  "level": 6,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Windaar, Sage of Gusto",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys a monster by battle and sends it to the Graveyard: You can target 1 Level 3 or lower \"Gusto\" monster in your Graveyard; Special Summon that target in face-up Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27944249.jpg"
   ],
+  "text": "When this card destroys a monster by battle and sends it to the Graveyard: You can target 1 Level 3 or lower \"Gusto\" monster in your Graveyard; Special Summon that target in face-up Defense Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 2000,
-  "def": 1000,
-  "level": 6,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

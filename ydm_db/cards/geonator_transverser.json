@@ -3,24 +3,21 @@
   "name": "Geonator Transverser",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Effect Monsters\nThis linked card and monsters it points to cannot be destroyed by your opponent's card effects. If this card points to 2 monsters: You can switch control of those monsters. You can only use this effect of \"Geonator Transverser\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52119435.jpg"
   ],
+  "text": "2 Effect Monsters\nThis linked card and monsters it points to cannot be destroyed by your opponent's card effects. If this card points to 2 monsters: You can switch control of those monsters. You can only use this effect of \"Geonator Transverser\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Rock",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Top-Right",
     "Bottom-Left"
-  ],
-  "species": "Rock",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

@@ -3,19 +3,19 @@
   "name": "Night Lizard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A lizard warrior protected by a hide of very tough emerald scales.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78402798.jpg"
   ],
+  "text": "''A lizard warrior protected by a hide of very tough emerald scales.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1150,
-  "def": 1300,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Ojamandala",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Pay 1000 Life Points. Special Summon 1 \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/100000101.jpg"
   ],
+  "text": "Pay 1000 Life Points. Special Summon 1 \"Ojama Green\", \"Ojama Yellow\" and \"Ojama Black\" from your Graveyard.",
   "type": "Spell",
   "spell_type": "Normal"
 }

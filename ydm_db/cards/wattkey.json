@@ -3,10 +3,10 @@
   "name": "Wattkey",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Face-up \"Watt\" monsters you control can attack your opponent directly this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53193261.jpg"
   ],
+  "text": "Face-up \"Watt\" monsters you control can attack your opponent directly this turn.",
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Sylvan Snapdrassinagon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent from the field or the hand to the Graveyard: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47741109.jpg"
   ],
+  "text": "If this card is sent from the field or the hand to the Graveyard: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 900,
-  "def": 400,
-  "level": 1,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 1,
+  "is_tuner": false
 }

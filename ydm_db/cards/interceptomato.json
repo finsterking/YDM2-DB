@@ -3,19 +3,19 @@
   "name": "Interceptomato",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent's turn: You can banish this card from your Graveyard; this turn, any effect damage you take becomes 0 (this is a Quick Effect).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19113101.jpg"
   ],
+  "text": "During your opponent's turn: You can banish this card from your Graveyard; this turn, any effect damage you take becomes 0 (this is a Quick Effect).",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 800,
-  "def": 800,
-  "level": 2,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
 }

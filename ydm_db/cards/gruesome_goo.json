@@ -3,19 +3,19 @@
   "name": "Gruesome Goo",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A slime boss that is definitely tougher than it looks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65623423.jpg"
   ],
+  "text": "A slime boss that is definitely tougher than it looks.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1300,
-  "def": 700,
-  "level": 3,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

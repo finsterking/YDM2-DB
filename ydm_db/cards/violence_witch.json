@@ -3,19 +3,19 @@
   "name": "Violence Witch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control \"Black Rose Dragon\", a monster that mentions it, or a Plant Synchro Monster: You can Special Summon this card from your hand. If this card is sent to the GY and a Synchro Monster is on the field: You can discard 1 card; Special Summon 1 Plant monster with 1500 or less DEF from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of \"Violence Witch\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66100116.jpg"
   ],
+  "text": "If you control \"Black Rose Dragon\", a monster that mentions it, or a Plant Synchro Monster: You can Special Summon this card from your hand. If this card is sent to the GY and a Synchro Monster is on the field: You can discard 1 card; Special Summon 1 Plant monster with 1500 or less DEF from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of \"Violence Witch\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1100,
-  "def": 1200,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

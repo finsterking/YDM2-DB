@@ -3,19 +3,19 @@
   "name": "Muse-A",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A fairy of the arts that is unbeatable on the harp.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69992868.jpg"
   ],
+  "text": "''A fairy of the arts that is unbeatable on the harp.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 850,
-  "def": 900,
-  "level": 3,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Royal Tribute",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control \"Necrovalley\": Both players discard any monsters in their hands.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72405967.jpg"
   ],
+  "text": "If you control \"Necrovalley\": Both players discard any monsters in their hands.",
   "type": "Spell",
   "spell_type": "Normal"
 }

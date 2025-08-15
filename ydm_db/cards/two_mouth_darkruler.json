@@ -3,19 +3,19 @@
   "name": "Two-Mouth Darkruler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57305373.jpg"
   ],
+  "text": "A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 700,
-  "level": 3,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

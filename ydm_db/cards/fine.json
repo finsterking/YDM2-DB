@@ -3,10 +3,10 @@
   "name": "Fine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Discard 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92595643.jpg"
   ],
+  "text": "Discard 2 cards.",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Magical Hound",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in your hand or GY: You can target 1 face-up Spell/Trap your opponent controls; return it to the hand, and if you do, Special Summon this card. You can only use this effect of \"Magical Hound\" once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51916853.jpg"
   ],
+  "text": "If this card is in your hand or GY: You can target 1 face-up Spell/Trap your opponent controls; return it to the hand, and if you do, Special Summon this card. You can only use this effect of \"Magical Hound\" once per Duel.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 800,
-  "level": 1,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 1,
+  "is_tuner": true
 }

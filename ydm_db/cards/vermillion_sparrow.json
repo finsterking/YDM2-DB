@@ -3,19 +3,19 @@
   "name": "Vermillion Sparrow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35752363.jpg"
   ],
+  "text": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "FIRE",
   "atk": 1900,
-  "def": 1500,
-  "level": 5,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
 }

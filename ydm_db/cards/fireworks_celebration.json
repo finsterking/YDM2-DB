@@ -3,10 +3,10 @@
   "name": "Fireworks Celebration",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate this card by placing 5 Celebration Counters on it. If a monster(s) is Special Summoned from the Extra Deck, and/or a card(s) is sent from the Deck to the GY, by a Spell/Trap effect: Remove 1 Celebration Counter from this card, then, if there are no Celebration Counters on it, destroy it, and if you do, gain 4000 LP, then Set 1 \"Celebration\" Trap from your Deck or GY, then, if you have 1 or less cards in your Deck, you win the Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/101206080.jpg"
   ],
+  "text": "Activate this card by placing 5 Celebration Counters on it. If a monster(s) is Special Summoned from the Extra Deck, and/or a card(s) is sent from the Deck to the GY, by a Spell/Trap effect: Remove 1 Celebration Counter from this card, then, if there are no Celebration Counters on it, destroy it, and if you do, gain 4000 LP, then Set 1 \"Celebration\" Trap from your Deck or GY, then, if you have 1 or less cards in your Deck, you win the Duel.",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Lizard Soldier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A beast soldier derived from dragons, it is small for a Dragon-Type. Moving very quickly, this monster is an excellent strategist.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20831168.jpg"
   ],
+  "text": "A beast soldier derived from dragons, it is small for a Dragon-Type. Moving very quickly, this monster is an excellent strategist.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1100,
-  "def": 800,
-  "level": 3,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

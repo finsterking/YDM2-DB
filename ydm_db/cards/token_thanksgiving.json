@@ -3,10 +3,10 @@
   "name": "Token Thanksgiving",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy all tokens on the field. Increase your Life Points by the number of tokens destroyed x 800 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57182235.jpg"
   ],
+  "text": "Destroy all tokens on the field. Increase your Life Points by the number of tokens destroyed x 800 points.",
   "type": "Spell",
   "spell_type": "Normal"
 }

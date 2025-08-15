@@ -3,19 +3,19 @@
   "name": "Whiptail Crow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Attacks from the skies with a whip-like tail.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91996584.jpg"
   ],
+  "text": "Attacks from the skies with a whip-like tail.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1650,
-  "def": 1600,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

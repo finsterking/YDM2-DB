@@ -3,19 +3,19 @@
   "name": "The Bystial Lubellion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 1 Level 6 or higher DARK Dragon monster. You can only Special Summon \"The Bystial Lubellion\" once per turn this way. You can send this card from your hand to the GY; add 1 \"Bystial\" monster from your Deck to your hand, except \"The Bystial Lubellion\". During your Main Phase: You can place 1 \"Branded\" Continuous Spell/Trap from your Deck face-up on your field. You can only use each effect of \"The Bystial Lubellion\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32731036.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 1 Level 6 or higher DARK Dragon monster. You can only Special Summon \"The Bystial Lubellion\" once per turn this way. You can send this card from your hand to the GY; add 1 \"Bystial\" monster from your Deck to your hand, except \"The Bystial Lubellion\". During your Main Phase: You can place 1 \"Branded\" Continuous Spell/Trap from your Deck face-up on your field. You can only use each effect of \"The Bystial Lubellion\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 3000,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
 }

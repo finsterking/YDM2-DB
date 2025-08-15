@@ -3,10 +3,10 @@
   "name": "Evo-Diversity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Add 1 \"Evoltile\" or \"Evolsaur\" monster from your Deck to your hand. You can only activate 1 \"Evo-Diversity\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88760522.jpg"
   ],
+  "text": "Add 1 \"Evoltile\" or \"Evolsaur\" monster from your Deck to your hand. You can only activate 1 \"Evo-Diversity\" per turn.",
   "type": "Spell",
   "spell_type": "Normal"
 }

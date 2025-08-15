@@ -3,19 +3,19 @@
   "name": "Granadora",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this monster is Normal Summoned, Flip Summoned or Special Summoned, increase your Life Points by 1000 points. When this card is destroyed and sent to the Graveyard, you take 2000 points of damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13944422.jpg"
   ],
+  "text": "When this monster is Normal Summoned, Flip Summoned or Special Summoned, increase your Life Points by 1000 points. When this card is destroyed and sent to the Graveyard, you take 2000 points of damage.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1900,
-  "def": 700,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Heraldic Beast Berners Falcon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Summoned: You can make all face-up Level 5 or higher monsters you currently control become Level 4.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96704018.jpg"
   ],
+  "text": "When this card is Summoned: You can make all face-up Level 5 or higher monsters you currently control become Level 4.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1000,
-  "def": 1600,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

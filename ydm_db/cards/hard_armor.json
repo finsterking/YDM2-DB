@@ -3,19 +3,19 @@
   "name": "Hard Armor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A living suit of armor that attacks enemies with a bone-jarring tackle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20060230.jpg"
   ],
+  "text": "A living suit of armor that attacks enemies with a bone-jarring tackle.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 300,
-  "def": 1200,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
 }

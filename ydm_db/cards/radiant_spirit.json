@@ -3,19 +3,19 @@
   "name": "Radiant Spirit",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-LIGHT monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12624008.jpg"
   ],
+  "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-LIGHT monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 1500,
-  "level": 7,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
 }

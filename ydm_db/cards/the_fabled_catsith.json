@@ -3,19 +3,19 @@
   "name": "The Fabled Catsith",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is discarded to the Graveyard, select 1 face-up card on the field, and destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56399890.jpg"
   ],
+  "text": "When this card is discarded to the Graveyard, select 1 face-up card on the field, and destroy it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 800,
-  "def": 600,
-  "level": 1,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 1,
+  "is_tuner": true
 }

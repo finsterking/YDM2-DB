@@ -3,10 +3,10 @@
   "name": "Searing Fire Wall",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Banish any number of \"Laval\" monsters from your Graveyard; Special Summon an equal number of \"Laval Tokens\" (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47658964.jpg"
   ],
+  "text": "Banish any number of \"Laval\" monsters from your Graveyard; Special Summon an equal number of \"Laval Tokens\" (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

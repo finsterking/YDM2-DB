@@ -3,19 +3,19 @@
   "name": "Mermail Abyssnose",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can discard 1 WATER monster to the Graveyard; Special Summon 1 \"Mermail\" monster from your Deck in face-up Defense Position. You can only use the effect of \"Mermail Abyssnose\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/282886.jpg"
   ],
+  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can discard 1 WATER monster to the Graveyard; Special Summon 1 \"Mermail\" monster from your Deck in face-up Defense Position. You can only use the effect of \"Mermail Abyssnose\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1500,
-  "def": 1500,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

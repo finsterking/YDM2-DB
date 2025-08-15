@@ -3,19 +3,19 @@
   "name": "Flower Cardian Zebra Grass",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While you control a Level 7 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. If this card is Normal or Special Summoned: You can reveal any number of \"Flower Cardian\" monsters in your hand, shuffle them into the Deck, then draw the same number of cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17141718.jpg"
   ],
+  "text": "While you control a Level 7 or lower \"Flower Cardian\" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Flower Cardian\" monsters. If this card is Normal or Special Summoned: You can reveal any number of \"Flower Cardian\" monsters in your hand, shuffle them into the Deck, then draw the same number of cards.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 100,
-  "def": 100,
-  "level": 8,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 8,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Rock Spirit",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A fairy of boulders that looks like an earthenware statue. It is quite strong in terms of both attack and defense.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82818645.jpg"
   ],
+  "text": "''A fairy of boulders that looks like an earthenware statue. It is quite strong in terms of both attack and defense.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1650,
-  "def": 1900,
-  "level": 5,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1900,
+  "level": 5,
+  "is_tuner": false
 }

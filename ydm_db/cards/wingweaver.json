@@ -3,19 +3,19 @@
   "name": "Wingweaver",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A six-winged fairy who prays for peace and hope.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31447217.jpg"
   ],
+  "text": "A six-winged fairy who prays for peace and hope.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 2750,
-  "def": 2400,
-  "level": 7,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
 }

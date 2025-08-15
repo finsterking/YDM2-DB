@@ -3,19 +3,18 @@
   "name": "Number 96: Dark Mist",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 2 monsters\nOnce per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; halve the ATK of the opponent's monster, and if you do, this card gains that same amount of ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55727845.jpg"
   ],
+  "text": "3 Level 2 monsters\nOnce per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; halve the ATK of the opponent's monster, and if you do, this card gains that same amount of ATK.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 100,
-  "def": 1000,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 2,
+  "def": 1000
 }

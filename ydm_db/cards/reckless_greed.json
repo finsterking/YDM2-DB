@@ -3,10 +3,10 @@
   "name": "Reckless Greed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Draw 2 cards and skip your next 2 Draw Phases.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37576645.jpg"
   ],
+  "text": "Draw 2 cards and skip your next 2 Draw Phases.",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Evilswarm Heliotrope",
   "is_illegal": false,
   "is_custom": false,
-  "text": ".ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT \"!etanimretxE !etacidarE !etanimilE\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77542832.jpg"
   ],
+  "text": ".ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT \"!etanimretxE !etacidarE !etanimilE\"",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1950,
-  "def": 650,
-  "level": 4,
   "species": "Rock",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 650,
+  "level": 4,
+  "is_tuner": false
 }

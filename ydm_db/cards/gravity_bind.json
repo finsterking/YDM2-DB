@@ -3,10 +3,10 @@
   "name": "Gravity Bind",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Level 4 or higher monsters cannot attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85742772.jpg"
   ],
+  "text": "Level 4 or higher monsters cannot attack.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

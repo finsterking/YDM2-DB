@@ -3,19 +3,19 @@
   "name": "Gimmick Puppet Des Troy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once while face-up on the field: You can target 1 \"Gimmick Puppet\" monster on the field; destroy it. When this card is sent from the field to the GY: You can Special Summon 1 or 2 \"Gimmick Puppet\" monsters from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76543119.jpg"
   ],
+  "text": "Once while face-up on the field: You can target 1 \"Gimmick Puppet\" monster on the field; destroy it. When this card is sent from the field to the GY: You can Special Summon 1 or 2 \"Gimmick Puppet\" monsters from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 2000,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

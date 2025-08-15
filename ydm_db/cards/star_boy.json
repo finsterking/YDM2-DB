@@ -3,19 +3,19 @@
   "name": "Star Boy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "As long as this card remains face-up on the field, increase the ATK of all WATER monsters by 500 points and decrease the ATK of all FIRE monsters by 400 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8201910.jpg"
   ],
+  "text": "As long as this card remains face-up on the field, increase the ATK of all WATER monsters by 500 points and decrease the ATK of all FIRE monsters by 400 points.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 550,
-  "def": 500,
-  "level": 2,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

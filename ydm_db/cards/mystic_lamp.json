@@ -3,19 +3,19 @@
   "name": "Mystic Lamp",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster can attack your opponent's Life Points directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98049915.jpg"
   ],
+  "text": "This monster can attack your opponent's Life Points directly.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 400,
-  "def": 300,
-  "level": 1,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
 }

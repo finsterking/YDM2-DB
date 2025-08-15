@@ -3,19 +3,19 @@
   "name": "XX-Saber Ragigura",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Special Summoned, you can add 1 \"X-Saber\" monster from your Graveyard to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87292536.jpg"
   ],
+  "text": "When this card is Normal or Special Summoned, you can add 1 \"X-Saber\" monster from your Graveyard to your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 200,
-  "def": 1000,
-  "level": 1,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 1,
+  "is_tuner": false
 }

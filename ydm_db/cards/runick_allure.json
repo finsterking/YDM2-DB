@@ -3,10 +3,10 @@
   "name": "Runick Allure",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a Quick-Play Spell Card activates: Banish the top card of your opponent's Deck. You can only control 1 \"Runick Allure\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29595202.jpg"
   ],
+  "text": "Each time a Quick-Play Spell Card activates: Banish the top card of your opponent's Deck. You can only control 1 \"Runick Allure\".",
   "type": "Spell",
   "spell_type": "Continuous"
 }

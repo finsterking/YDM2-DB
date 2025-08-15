@@ -3,19 +3,19 @@
   "name": "Level Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If there are no monsters on the field, you can Normal Summon this card as a Level 2 monster. If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand) as a Level 4 monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97385276.jpg"
   ],
+  "text": "If there are no monsters on the field, you can Normal Summon this card as a Level 2 monster. If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand) as a Level 4 monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 300,
-  "def": 600,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
 }

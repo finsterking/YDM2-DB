@@ -3,19 +3,19 @@
   "name": "Seismic Crasher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Twice per turn, you can send 1 face-up Continuous Spell or Continuous Trap Card you control to the Graveyard to inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/114932.jpg"
   ],
+  "text": "Twice per turn, you can send 1 face-up Continuous Spell or Continuous Trap Card you control to the Graveyard to inflict 500 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 300,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
 }

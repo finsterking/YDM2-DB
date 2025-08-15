@@ -3,10 +3,10 @@
   "name": "Soul Release",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target up to 5 cards in any GY(s); banish them.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5758500.jpg"
   ],
+  "text": "Target up to 5 cards in any GY(s); banish them.",
   "type": "Spell",
   "spell_type": "Normal"
 }

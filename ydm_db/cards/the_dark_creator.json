@@ -3,19 +3,19 @@
   "name": "The Dark Creator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 DARK monster in your Graveyard; Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92719314.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 DARK monster in your Graveyard; Special Summon that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2300,
-  "def": 3000,
-  "level": 8,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
 }

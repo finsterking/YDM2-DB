@@ -3,19 +3,19 @@
   "name": "Geomancer of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56704140.jpg"
   ],
+  "text": "Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 800,
-  "def": 1200,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": true
 }

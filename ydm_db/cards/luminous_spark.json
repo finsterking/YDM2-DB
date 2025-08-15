@@ -3,10 +3,10 @@
   "name": "Luminous Spark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All LIGHT monsters gain 500 ATK and lose 400 DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81777047.jpg"
   ],
+  "text": "All LIGHT monsters gain 500 ATK and lose 400 DEF.",
   "type": "Spell",
   "spell_type": "Field"
 }

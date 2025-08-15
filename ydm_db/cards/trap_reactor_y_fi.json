@@ -3,19 +3,19 @@
   "name": "Trap Reactor Y FI",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, when your opponent activates a Trap Card, you can destroy the Trap Card and inflict 800 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52286175.jpg"
   ],
+  "text": "Once per turn, when your opponent activates a Trap Card, you can destroy the Trap Card and inflict 800 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 800,
-  "def": 1800,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

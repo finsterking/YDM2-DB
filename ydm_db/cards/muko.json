@@ -3,10 +3,10 @@
   "name": "Muko",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when an effect of drawing card(s) is activated. Both players see the cards drawn by the effect and discard them all to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80863132.jpg"
   ],
+  "text": "Activate only when an effect of drawing card(s) is activated. Both players see the cards drawn by the effect and discard them all to the Graveyard.",
   "type": "Trap",
   "trap_type": "Normal"
 }

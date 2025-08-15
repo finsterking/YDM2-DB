@@ -3,19 +3,19 @@
   "name": "Hoshiningen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All LIGHT monsters on the field gain 500 ATK, also all DARK monsters on the field lose 400 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67629977.jpg"
   ],
+  "text": "All LIGHT monsters on the field gain 500 ATK, also all DARK monsters on the field lose 400 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 500,
-  "def": 700,
-  "level": 2,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

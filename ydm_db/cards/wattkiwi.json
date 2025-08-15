@@ -3,19 +3,19 @@
   "name": "Wattkiwi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Watt\" monsters you control cannot be destroyed by battle while they are attacking.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24996659.jpg"
   ],
+  "text": "\"Watt\" monsters you control cannot be destroyed by battle while they are attacking.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 600,
-  "def": 100,
-  "level": 3,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 3,
+  "is_tuner": true
 }

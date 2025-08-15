@@ -3,23 +3,20 @@
   "name": "Link Spider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Normal Monster\nOnce per turn: You can Special Summon 1 Level 4 or lower Normal Monster from your hand to your zone this card points to.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98978921.jpg"
   ],
+  "text": "1 Normal Monster\nOnce per turn: You can Special Summon 1 Level 4 or lower Normal Monster from your hand to your zone this card points to.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Bottom"
-  ],
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
 }

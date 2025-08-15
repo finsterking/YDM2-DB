@@ -3,19 +3,19 @@
   "name": "Kelbek",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A monster that attacks this card returns to the hand. Damage calculation is applied normally.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54878498.jpg"
   ],
+  "text": "A monster that attacks this card returns to the hand. Damage calculation is applied normally.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 1800,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

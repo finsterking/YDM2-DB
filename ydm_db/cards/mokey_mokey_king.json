@@ -3,19 +3,19 @@
   "name": "Mokey Mokey King",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"\nWhen this card is removed from the field, you can Special Summon as many \"Mokey Mokey\" as possible from your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13803864.jpg"
   ],
+  "text": "\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"\nWhen this card is removed from the field, you can Special Summon as many \"Mokey Mokey\" as possible from your Graveyard.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 300,
-  "def": 100,
-  "level": 6,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 100,
+  "level": 6,
+  "is_tuner": false
 }

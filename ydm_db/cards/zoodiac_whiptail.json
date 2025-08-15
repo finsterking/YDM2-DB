@@ -3,19 +3,19 @@
   "name": "Zoodiac Whiptail",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(Quick Effect): You can target 1 Beast-Warrior Xyz Monster you control; attach this card from your hand or field to it as material. An Xyz Monster whose original Type is Beast-Warrior and has this card as material gains this effect.\n● If this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31755044.jpg"
   ],
+  "text": "(Quick Effect): You can target 1 Beast-Warrior Xyz Monster you control; attach this card from your hand or field to it as material. An Xyz Monster whose original Type is Beast-Warrior and has this card as material gains this effect.\n● If this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 400,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
 }

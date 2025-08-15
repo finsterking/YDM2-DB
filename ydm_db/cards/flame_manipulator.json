@@ -3,19 +3,19 @@
   "name": "Flame Manipulator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34460851.jpg"
   ],
+  "text": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 900,
-  "def": 1000,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

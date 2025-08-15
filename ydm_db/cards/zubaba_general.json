@@ -3,19 +3,18 @@
   "name": "Zubaba General",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; equip 1 Warrior-Type monster from your hand to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31563350.jpg"
   ],
+  "text": "2 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; equip 1 Warrior-Type monster from your hand to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 2000,
-  "def": 1000,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1000
 }

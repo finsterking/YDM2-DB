@@ -3,19 +3,19 @@
   "name": "Roaring Ocean Snake",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Mystic Lamp\" + \"Hyosube\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19066538.jpg"
   ],
+  "text": "\"Mystic Lamp\" + \"Hyosube\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WATER",
   "atk": 2100,
-  "def": 1800,
-  "level": 6,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Mystical Sand",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Giant Soldier of Stone\" + \"Ancient Elf\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32751480.jpg"
   ],
+  "text": "\"Giant Soldier of Stone\" + \"Ancient Elf\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "EARTH",
   "atk": 2100,
-  "def": 1700,
-  "level": 6,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
 }

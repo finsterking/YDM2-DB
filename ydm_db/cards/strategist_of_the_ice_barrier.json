@@ -3,19 +3,19 @@
   "name": "Strategist of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50032342.jpg"
   ],
+  "text": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1600,
-  "def": 1600,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

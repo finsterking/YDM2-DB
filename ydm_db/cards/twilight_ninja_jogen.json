@@ -3,19 +3,22 @@
   "name": "Twilight Ninja Jogen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nIf your \"Ninja\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\n[ Monster Effect ] \nYou can reveal 1 \"Ninjitsu Art\" card in your hand; Special Summon this card from your hand. If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79441381.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nIf your \"Ninja\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\n[ Monster Effect ] \nYou can reveal 1 \"Ninjitsu Art\" card in your hand; Special Summon this card from your hand. If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2000,
-  "def": 1000,
-  "level": 7,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 1000,
+  "level": 7,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "If your \"Ninja\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
 }

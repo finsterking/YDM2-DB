@@ -3,19 +3,19 @@
   "name": "Hand of Nephthys",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card and 1 other monster; Special Summon 1 \"Sacred Phoenix of Nephthys\" from your hand or Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98446407.jpg"
   ],
+  "text": "You can Tribute this card and 1 other monster; Special Summon 1 \"Sacred Phoenix of Nephthys\" from your hand or Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 600,
-  "def": 600,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

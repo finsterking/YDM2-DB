@@ -3,19 +3,19 @@
   "name": "Fortress Whale",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Ritual Summon this card with \"Fortress Whale's Oath\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62337487.jpg"
   ],
+  "text": "You can Ritual Summon this card with \"Fortress Whale's Oath\".",
   "type": "Monster",
-  "monster_type": "Ritual",
   "attribute": "WATER",
   "atk": 2350,
-  "def": 2150,
-  "level": 7,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Ritual",
+  "def": 2150,
+  "level": 7,
+  "is_tuner": false
 }

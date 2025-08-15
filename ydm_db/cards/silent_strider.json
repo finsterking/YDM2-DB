@@ -3,19 +3,19 @@
   "name": "Silent Strider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send this card from your hand to the Graveyard to reduce the Level of 1 monster on the field by 1, until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18235577.jpg"
   ],
+  "text": "You can send this card from your hand to the Graveyard to reduce the Level of 1 monster on the field by 1, until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 300,
-  "def": 700,
-  "level": 2,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

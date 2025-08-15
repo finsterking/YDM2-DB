@@ -3,10 +3,10 @@
   "name": "Spirit Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While you control a monster, you take no battle damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53239672.jpg"
   ],
+  "text": "While you control a monster, you take no battle damage.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

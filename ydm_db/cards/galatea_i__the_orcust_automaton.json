@@ -3,23 +3,20 @@
   "name": "Galatea-I, the Orcust Automaton",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Orcust\" or \"World Legacy\" monster\nYou can only Link Summon \"Galatea-I, the Orcust Automaton\" once per turn. Cannot be used as material for an Xyz Summon. You can send 1 card from your hand to the GY; add 1 \"World Legacy\" monster or 1 \"Orcustrated Babel\" from your Deck or GY to your hand. If this card is in your GY: You can banish 1 other \"Orcust\" card from your GY; Special Summon this card. You can only use each effect of \"Galatea-I, the Orcust Automaton\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48835607.jpg"
   ],
+  "text": "1 \"Orcust\" or \"World Legacy\" monster\nYou can only Link Summon \"Galatea-I, the Orcust Automaton\" once per turn. Cannot be used as material for an Xyz Summon. You can send 1 card from your hand to the GY; add 1 \"World Legacy\" monster or 1 \"Orcustrated Babel\" from your Deck or GY to your hand. If this card is in your GY: You can banish 1 other \"Orcust\" card from your GY; Special Summon this card. You can only use each effect of \"Galatea-I, the Orcust Automaton\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 0,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Bottom-Left"
-  ],
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom-Left"
+  ]
 }

@@ -3,19 +3,18 @@
   "name": "Number 103: Ragnazero",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster your opponent controls, whose current ATK is different from its original ATK; destroy it, and if you do, draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94380860.jpg"
   ],
+  "text": "2 Level 4 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster your opponent controls, whose current ATK is different from its original ATK; destroy it, and if you do, draw 1 card.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "WATER",
   "atk": 2400,
-  "def": 1200,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1200
 }

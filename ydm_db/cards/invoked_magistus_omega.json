@@ -3,19 +3,19 @@
   "name": "Invoked Magistus Omega",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Aleister the Invoker\" + 1 Fusion, Synchro, Xyz, or Link Monster\nIf this card is Special Summoned: You can target 1 Fusion, Synchro, Xyz, or Link Monster in your GY and 1 monster on the field; banish them. If this Fusion Summoned card is destroyed by battle or card effect: You can Special Summon 1 Level 4 Spellcaster monster from your Deck, then you can equip this card to it as an Equip Spell that gives it 1000 ATK. You can only use each effect of \"Invoked Magistus Omega\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38423248.jpg"
   ],
+  "text": "\"Aleister the Invoker\" + 1 Fusion, Synchro, Xyz, or Link Monster\nIf this card is Special Summoned: You can target 1 Fusion, Synchro, Xyz, or Link Monster in your GY and 1 monster on the field; banish them. If this Fusion Summoned card is destroyed by battle or card effect: You can Special Summon 1 Level 4 Spellcaster monster from your Deck, then you can equip this card to it as an Equip Spell that gives it 1000 ATK. You can only use each effect of \"Invoked Magistus Omega\" once per turn.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2800,
-  "def": 2000,
-  "level": 8,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
 }

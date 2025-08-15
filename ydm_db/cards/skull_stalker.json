@@ -3,19 +3,19 @@
   "name": "Skull Stalker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54844990.jpg"
   ],
+  "text": "Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 900,
-  "def": 800,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

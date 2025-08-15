@@ -3,19 +3,19 @@
   "name": "Gishki Emilia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Negate all Trap Card effects on the field, until the End Phase. You must control another face-up \"Gishki\" monster to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73551138.jpg"
   ],
+  "text": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Negate all Trap Card effects on the field, until the End Phase. You must control another face-up \"Gishki\" monster to activate and to resolve this effect.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1600,
-  "def": 800,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

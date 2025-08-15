@@ -3,10 +3,10 @@
   "name": "Recurring Nightmare",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81191584.jpg"
   ],
+  "text": "Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.",
   "type": "Spell",
   "spell_type": "Normal"
 }

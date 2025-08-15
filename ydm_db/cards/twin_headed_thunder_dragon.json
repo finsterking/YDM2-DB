@@ -3,19 +3,19 @@
   "name": "Twin-Headed Thunder Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Thunder Dragon\" + \"Thunder Dragon\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54752875.jpg"
   ],
+  "text": "\"Thunder Dragon\" + \"Thunder Dragon\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2800,
-  "def": 2100,
-  "level": 7,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
 }

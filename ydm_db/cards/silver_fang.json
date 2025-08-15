@@ -3,19 +3,19 @@
   "name": "Silver Fang",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90357090.jpg"
   ],
+  "text": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 800,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

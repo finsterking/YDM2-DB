@@ -3,19 +3,19 @@
   "name": "Galaxy Wizard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can increase this card's Level by 4 until the end of this turn. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98555327.jpg"
   ],
+  "text": "Once per turn: You can increase this card's Level by 4 until the end of this turn. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 1800,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

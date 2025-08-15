@@ -3,19 +3,19 @@
   "name": "Elemental HERO Absolute Zero",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"HERO\" monster + 1 WATER monster\nMust be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except \"Elemental HERO Absolute Zero\". If this card leaves the field: Destroy all monsters your opponent controls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40854197.jpg"
   ],
+  "text": "1 \"HERO\" monster + 1 WATER monster\nMust be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except \"Elemental HERO Absolute Zero\". If this card leaves the field: Destroy all monsters your opponent controls.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WATER",
   "atk": 2500,
-  "def": 2000,
-  "level": 8,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
 }

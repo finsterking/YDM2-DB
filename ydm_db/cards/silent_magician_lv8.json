@@ -3,19 +3,19 @@
   "name": "Silent Magician LV8",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72443568.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 3500,
-  "def": 1000,
-  "level": 8,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false
 }

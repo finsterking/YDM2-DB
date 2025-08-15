@@ -3,19 +3,19 @@
   "name": "Masked Sorcerer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10189126.jpg"
   ],
+  "text": "When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 900,
-  "def": 1400,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

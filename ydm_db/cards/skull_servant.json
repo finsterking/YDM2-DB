@@ -3,19 +3,19 @@
   "name": "Skull Servant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A skeletal ghost that isn't strong but can mean trouble in large numbers.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32274490.jpg"
   ],
+  "text": "A skeletal ghost that isn't strong but can mean trouble in large numbers.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 300,
-  "def": 200,
-  "level": 1,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
 }

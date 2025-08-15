@@ -3,19 +3,19 @@
   "name": "Rescueroid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a \"roid\" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24311595.jpg"
   ],
+  "text": "When a \"roid\" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1600,
-  "def": 1800,
-  "level": 6,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

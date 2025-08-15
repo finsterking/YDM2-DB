@@ -3,19 +3,19 @@
   "name": "Insect Soldiers of the Sky",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card attacks a WIND monster, it gains 1000 ATK during the Damage Step only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7019529.jpg"
   ],
+  "text": "If this card attacks a WIND monster, it gains 1000 ATK during the Damage Step only.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1000,
-  "def": 800,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

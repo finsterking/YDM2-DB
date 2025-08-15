@@ -3,10 +3,10 @@
   "name": "Raptor Wing Strike",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Shuffle 1 \"Blackwing\" monster you control into the Main Deck; add 1 \"Blackwing\" monster from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94681654.jpg"
   ],
+  "text": "Shuffle 1 \"Blackwing\" monster you control into the Main Deck; add 1 \"Blackwing\" monster from your Deck to your hand.",
   "type": "Spell",
   "spell_type": "Normal"
 }

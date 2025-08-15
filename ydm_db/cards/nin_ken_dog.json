@@ -3,19 +3,19 @@
   "name": "Nin-Ken Dog",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11987744.jpg"
   ],
+  "text": "A Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1800,
-  "def": 1000,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

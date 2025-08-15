@@ -3,19 +3,19 @@
   "name": "Vylon Stigma",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during either player's turn: You can target 1 face-up \"Vylon\" Equip Card you control and 1 appropriate face-up monster; equip the first target to the second target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10712320.jpg"
   ],
+  "text": "Once per turn, during either player's turn: You can target 1 face-up \"Vylon\" Equip Card you control and 1 appropriate face-up monster; equip the first target to the second target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 1000,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

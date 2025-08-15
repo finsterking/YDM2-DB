@@ -3,19 +3,19 @@
   "name": "Shark Stickers",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a Fish, Sea Serpent, or Aqua-Type monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20838380.jpg"
   ],
+  "text": "When a Fish, Sea Serpent, or Aqua-Type monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 200,
-  "def": 1000,
-  "level": 3,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

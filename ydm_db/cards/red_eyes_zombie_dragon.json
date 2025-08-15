@@ -3,19 +3,19 @@
   "name": "Red-Eyes Zombie Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute Summon this card in Attack Position by Tributing 1 Zombie monster. When this card destroys a Zombie monster by battle and sends it to the GY: You can Special Summon that Zombie monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5186893.jpg"
   ],
+  "text": "You can Tribute Summon this card in Attack Position by Tributing 1 Zombie monster. When this card destroys a Zombie monster by battle and sends it to the GY: You can Special Summon that Zombie monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 2000,
-  "level": 7,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

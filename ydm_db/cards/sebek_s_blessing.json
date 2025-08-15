@@ -3,10 +3,10 @@
   "name": "Sebek's Blessing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your monster inflicts battle damage to your opponent by a direct attack: Gain the same amount of LP.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22537443.jpg"
   ],
+  "text": "If your monster inflicts battle damage to your opponent by a direct attack: Gain the same amount of LP.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

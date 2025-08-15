@@ -3,19 +3,19 @@
   "name": "Express Train Trolley Olley",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If it is Xyz Summoned: It gains 800 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7080743.jpg"
   ],
+  "text": "An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If it is Xyz Summoned: It gains 800 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 1000,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

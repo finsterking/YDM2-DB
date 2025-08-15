@@ -3,10 +3,10 @@
   "name": "Pulling the Rug",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34717238.jpg"
   ],
+  "text": "Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster.",
   "type": "Trap",
   "trap_type": "Counter"
 }

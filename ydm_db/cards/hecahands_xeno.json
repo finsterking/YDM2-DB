@@ -3,19 +3,19 @@
   "name": "Hecahands Xeno",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 \"Hecahands\" monsters\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Xeno\" once per turn. During the Main Phase (Quick Effect): You can look at 2 random face-down cards in your opponent's Extra Deck, and if you do, you can Special Summon 1 of them to your field. If this Fusion Summoned card in its owner's control is destroyed by an opponent's card effect: You can take control of any number of monsters they control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/100446007.jpg"
   ],
+  "text": "3 \"Hecahands\" monsters\nIf this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Xeno\" once per turn. During the Main Phase (Quick Effect): You can look at 2 random face-down cards in your opponent's Extra Deck, and if you do, you can Special Summon 1 of them to your field. If this Fusion Summoned card in its owner's control is destroyed by an opponent's card effect: You can take control of any number of monsters they control.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 3400,
-  "def": 3500,
-  "level": 9,
   "species": "Illusion",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 3500,
+  "level": 9,
+  "is_tuner": false
 }

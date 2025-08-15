@@ -3,19 +3,19 @@
   "name": "Fusionist",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Petit Angel\" + \"Mystical Sheep #2\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1641882.jpg"
   ],
+  "text": "\"Petit Angel\" + \"Mystical Sheep #2\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 700,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

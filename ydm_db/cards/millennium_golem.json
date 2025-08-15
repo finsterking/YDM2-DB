@@ -3,19 +3,19 @@
   "name": "Millennium Golem",
   "is_illegal": false,
   "is_custom": false,
-  "text": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47986555.jpg"
   ],
+  "text": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2000,
-  "def": 2200,
-  "level": 6,
   "species": "Rock",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
 }

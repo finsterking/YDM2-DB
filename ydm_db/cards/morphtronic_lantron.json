@@ -3,19 +3,19 @@
   "name": "Morphtronic Lantron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "● While in Attack Position: Any effect damage you would take from an opponent's card effect is inflicted to your opponent instead.\n● While in Defense Position: When this card is destroyed by battle and sent to the Graveyard, you take no Battle Damage this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76865611.jpg"
   ],
+  "text": "● While in Attack Position: Any effect damage you would take from an opponent's card effect is inflicted to your opponent instead.\n● While in Defense Position: When this card is destroyed by battle and sent to the Graveyard, you take no Battle Damage this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 200,
-  "def": 200,
-  "level": 1,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": true
 }

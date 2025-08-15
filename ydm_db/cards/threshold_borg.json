@@ -3,19 +3,19 @@
   "name": "Threshold Borg",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control no monsters, you can Special Summon this card (from your hand) by discarding 1 Cyberse monster. All monsters your opponent controls lose 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31944175.jpg"
   ],
+  "text": "If you control no monsters, you can Special Summon this card (from your hand) by discarding 1 Cyberse monster. All monsters your opponent controls lose 500 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2400,
-  "def": 2000,
-  "level": 7,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Gora Turtle of Illusion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate the effect of Spell and Trap Cards controlled by your opponent that target this face-up card on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42868711.jpg"
   ],
+  "text": "Negate the effect of Spell and Trap Cards controlled by your opponent that target this face-up card on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1200,
-  "def": 1400,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

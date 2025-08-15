@@ -3,19 +3,19 @@
   "name": "Goblin Calligrapher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A Goblin who devotes himself to mastering perfect calligraphy of the word \"False\". He gives his all to each stroke.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12057781.jpg"
   ],
+  "text": "A Goblin who devotes himself to mastering perfect calligraphy of the word \"False\". He gives his all to each stroke.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 400,
-  "def": 400,
-  "level": 1,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 400,
+  "level": 1,
+  "is_tuner": false
 }

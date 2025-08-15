@@ -3,19 +3,19 @@
   "name": "Island Turtle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A huge turtle that is often mistaken for an island.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/4042268.jpg"
   ],
+  "text": "A huge turtle that is often mistaken for an island.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1100,
-  "def": 2000,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

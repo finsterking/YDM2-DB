@@ -3,19 +3,18 @@
   "name": "Evilswarm Bahamut",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 \"lswarm\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster your opponent controls; discard 1 \"lswarm\" monster, and if you do, take control of that opponent's monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36757171.jpg"
   ],
+  "text": "2 Level 4 \"lswarm\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster your opponent controls; discard 1 \"lswarm\" monster, and if you do, take control of that opponent's monster.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2350,
-  "def": 1350,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1350
 }

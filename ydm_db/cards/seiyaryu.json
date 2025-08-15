@@ -3,19 +3,19 @@
   "name": "Seiyaryu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A mystical dragon that burns away the unworthy with its mystic flames.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6740720.jpg"
   ],
+  "text": "A mystical dragon that burns away the unworthy with its mystic flames.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 2300,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
 }

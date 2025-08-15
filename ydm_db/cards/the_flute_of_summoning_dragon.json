@@ -3,10 +3,10 @@
   "name": "The Flute of Summoning Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43973174.jpg"
   ],
+  "text": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.",
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Kairyu-Shin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76634149.jpg"
   ],
+  "text": "A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1800,
-  "def": 1500,
-  "level": 5,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
 }

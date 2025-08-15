@@ -3,19 +3,19 @@
   "name": "Flamvell Firedog",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except \"Flamvell Firedog\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23297235.jpg"
   ],
+  "text": "When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except \"Flamvell Firedog\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1900,
-  "def": 200,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
 }

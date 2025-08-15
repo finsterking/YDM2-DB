@@ -3,19 +3,19 @@
   "name": "Ebon Magician Curran",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your Standby Phase, inflict 300 damage to your opponent for each monster they control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46128076.jpg"
   ],
+  "text": "During your Standby Phase, inflict 300 damage to your opponent for each monster they control.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 0,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
 }

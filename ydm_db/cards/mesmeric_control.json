@@ -3,10 +3,10 @@
   "name": "Mesmeric Control",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48642904.jpg"
   ],
+  "text": "During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.",
   "type": "Spell",
   "spell_type": "Normal"
 }

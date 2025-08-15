@@ -3,19 +3,19 @@
   "name": "Galaxy Brave",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in your hand: You can reveal 1 \"Photon\" monster in your hand; Special Summon this card, and if you do, its Level becomes the Level of that \"Photon\" monster. If this card is Normal or Special Summoned: You can target 1 \"Galaxy\" monster in your GY; this card's ATK/DEF become that monster's ATK/DEF. You can only use each effect of \"Galaxy Brave\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55168550.jpg"
   ],
+  "text": "If this card is in your hand: You can reveal 1 \"Photon\" monster in your hand; Special Summon this card, and if you do, its Level becomes the Level of that \"Photon\" monster. If this card is Normal or Special Summoned: You can target 1 \"Galaxy\" monster in your GY; this card's ATK/DEF become that monster's ATK/DEF. You can only use each effect of \"Galaxy Brave\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 0,
-  "level": 8,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
 }

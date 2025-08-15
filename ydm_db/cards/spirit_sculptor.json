@@ -3,19 +3,19 @@
   "name": "Spirit Sculptor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute 1 monster; add 1 monster from your Deck to your hand, whose combined original ATK/DEF equals the combined original ATK/DEF of the Tributed monster. You can only use this effect of \"Spirit Sculptor\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19307353.jpg"
   ],
+  "text": "You can Tribute 1 monster; add 1 monster from your Deck to your hand, whose combined original ATK/DEF equals the combined original ATK/DEF of the Tributed monster. You can only use this effect of \"Spirit Sculptor\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 2100,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2100,
+  "level": 4,
+  "is_tuner": false
 }

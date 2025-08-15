@@ -3,19 +3,19 @@
   "name": "Symphonic Warrior Piaano",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can declare 1 Monster Type and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Monster Type. You can declare 1 Monster Type and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Monster Type.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31826057.jpg"
   ],
+  "text": "Once per turn, you can declare 1 Monster Type and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Monster Type. You can declare 1 Monster Type and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Monster Type.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 900,
-  "def": 1300,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 3,
+  "is_tuner": true
 }

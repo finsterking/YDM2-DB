@@ -3,23 +3,20 @@
   "name": "Sunavalon Dryas",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Level 4 or lower Plant monster\nIf this card is Link Summoned in the Extra Monster Zone using \"Sunseed Genius Loci\" as material: You can add 1 \"Sunvine\" Spell/Trap from your Deck to your hand. This card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Once per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 \"Sunvine\" monster from your Extra Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93896655.jpg"
   ],
+  "text": "1 Level 4 or lower Plant monster\nIf this card is Link Summoned in the Extra Monster Zone using \"Sunseed Genius Loci\" as material: You can add 1 \"Sunvine\" Spell/Trap from your Deck to your hand. This card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Once per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 \"Sunvine\" monster from your Extra Deck.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 0,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Bottom"
-  ],
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
 }

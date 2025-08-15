@@ -3,19 +3,19 @@
   "name": "Enchanting Mermaid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A beautiful mermaid that lures voyagers to a watery grave.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75376965.jpg"
   ],
+  "text": "A beautiful mermaid that lures voyagers to a watery grave.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1200,
-  "def": 900,
-  "level": 3,
   "species": "Fish",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

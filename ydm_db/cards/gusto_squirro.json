@@ -3,19 +3,19 @@
   "name": "Gusto Squirro",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 Level 5 or higher \"Gusto\" monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/336369.jpg"
   ],
+  "text": "When this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 Level 5 or higher \"Gusto\" monster from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 0,
-  "def": 1800,
-  "level": 2,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 2,
+  "is_tuner": true
 }

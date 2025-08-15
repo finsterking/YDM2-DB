@@ -3,19 +3,19 @@
   "name": "Junk Destroyer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target cards on the field, up to the number of non-Tuner monsters used for the Synchro Summon of this card; destroy those targets.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74860293.jpg"
   ],
+  "text": "\"Junk Synchron\" + 1 or more non-Tuner monsters\nWhen this card is Synchro Summoned: You can target cards on the field, up to the number of non-Tuner monsters used for the Synchro Summon of this card; destroy those targets.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "EARTH",
   "atk": 2600,
-  "def": 2500,
-  "level": 8,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Gate Guardian",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25833572.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 3750,
-  "def": 3400,
-  "level": 11,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 3400,
+  "level": 11,
+  "is_tuner": false
 }

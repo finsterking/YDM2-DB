@@ -3,19 +3,19 @@
   "name": "Powered Crawler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can destroy 1 monster your opponent controls with less ATK than this card. You can only use this effect of \"Powered Crawler\" once per turn. All monsters your opponent controls must attack, if able.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87742943.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can destroy 1 monster your opponent controls with less ATK than this card. You can only use this effect of \"Powered Crawler\" once per turn. All monsters your opponent controls must attack, if able.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2700,
-  "def": 2000,
-  "level": 7,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Superheavy Samurai Swordsman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Special Summoned: You can change its battle position. If a \"Superheavy Samurai\" monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77013169.jpg"
   ],
+  "text": "When this card is Normal or Special Summoned: You can change its battle position. If a \"Superheavy Samurai\" monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 1800,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
 }

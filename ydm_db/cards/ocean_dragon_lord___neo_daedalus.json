@@ -3,19 +3,19 @@
   "name": "Ocean Dragon Lord - Neo-Daedalus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Levia-Dragon - Daedalus\". You can send \"Umi\" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10485110.jpg"
   ],
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Levia-Dragon - Daedalus\". You can send \"Umi\" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 2900,
-  "def": 1600,
-  "level": 8,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 8,
+  "is_tuner": false
 }

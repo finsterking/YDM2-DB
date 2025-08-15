@@ -3,25 +3,22 @@
   "name": "Gaia Saber, the Lightning Shadow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ monsters",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67598234.jpg"
   ],
+  "text": "2+ monsters",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 2600,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Machine",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Left",
     "Right",
     "Bottom"
-  ],
-  "species": "Machine",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

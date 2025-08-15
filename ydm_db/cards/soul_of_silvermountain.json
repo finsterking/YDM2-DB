@@ -3,19 +3,18 @@
   "name": "Soul of Silvermountain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 EARTH monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 Set card in your opponent's Spell & Trap Card Zone; it cannot be activated while this card is face-up on the field. If this card destroys an opponent's monster by battle while it has Xyz Material: You can target 1 EARTH monster in your Graveyard; Special Summon that target in face-up Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91895091.jpg"
   ],
+  "text": "2 Level 3 EARTH monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 Set card in your opponent's Spell & Trap Card Zone; it cannot be activated while this card is face-up on the field. If this card destroys an opponent's monster by battle while it has Xyz Material: You can target 1 EARTH monster in your Graveyard; Special Summon that target in face-up Defense Position.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 2200,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 3,
+  "def": 2200
 }

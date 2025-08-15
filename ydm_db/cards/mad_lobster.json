@@ -3,19 +3,19 @@
   "name": "Mad Lobster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A gourmet food renowned by the Dark World upper crust. It has sensational flavor.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97240270.jpg"
   ],
+  "text": "A gourmet food renowned by the Dark World upper crust. It has sensational flavor.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1700,
-  "def": 1000,
-  "level": 3,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

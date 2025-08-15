@@ -3,19 +3,19 @@
   "name": "Gravekeeper's Priestess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". All \"Gravekeeper's\" monsters on the field gain 200 ATK/DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3381441.jpg"
   ],
+  "text": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". All \"Gravekeeper's\" monsters on the field gain 200 ATK/DEF.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 1500,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
 }

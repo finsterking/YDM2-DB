@@ -3,19 +3,19 @@
   "name": "Raidraptor - Fuzzy Lanius",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a \"Raidraptor\" monster other than \"Raidraptor - Fuzzy Lanius\": You can Special Summon this card from your hand. If this card is sent to the Graveyard: You can add 1 \"Raidraptor - Fuzzy Lanius\" from your Deck to your hand. You can only use each effect of \"Raidraptor - Fuzzy Lanius\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except \"Raidraptor\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5929801.jpg"
   ],
+  "text": "If you control a \"Raidraptor\" monster other than \"Raidraptor - Fuzzy Lanius\": You can Special Summon this card from your hand. If this card is sent to the Graveyard: You can add 1 \"Raidraptor - Fuzzy Lanius\" from your Deck to your hand. You can only use each effect of \"Raidraptor - Fuzzy Lanius\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except \"Raidraptor\" monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 500,
-  "def": 1500,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

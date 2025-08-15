@@ -3,10 +3,10 @@
   "name": "Hey, Trunade!",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Return all Set Spells and Traps on the field to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64697431.jpg"
   ],
+  "text": "Return all Set Spells and Traps on the field to the hand.",
   "type": "Spell",
   "spell_type": "Normal"
 }

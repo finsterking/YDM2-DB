@@ -3,19 +3,19 @@
   "name": "R-Genex Overseer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower \"Genex\" monster from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32744558.jpg"
   ],
+  "text": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower \"Genex\" monster from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 200,
-  "def": 100,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 2,
+  "is_tuner": true
 }

@@ -3,19 +3,19 @@
   "name": "Jinzo the Machine Menace",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a Trap is face-up on the field or in either GY: You can Special Summon this card from your hand, and if you do, it becomes Level 6 until the end of this turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Jinzo\" from your hand or GY, then you can destroy all Traps your opponent controls (if a card is Set, reveal it). You can only use each effect of \"Jinzo the Machine Menace\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39987731.jpg"
   ],
+  "text": "If a Trap is face-up on the field or in either GY: You can Special Summon this card from your hand, and if you do, it becomes Level 6 until the end of this turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Jinzo\" from your hand or GY, then you can destroy all Traps your opponent controls (if a card is Set, reveal it). You can only use each effect of \"Jinzo the Machine Menace\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 1500,
-  "level": 7,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
 }

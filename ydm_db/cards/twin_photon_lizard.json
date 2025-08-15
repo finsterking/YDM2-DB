@@ -3,19 +3,19 @@
   "name": "Twin Photon Lizard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"Photon\" monsters\nYou can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29455728.jpg"
   ],
+  "text": "2 \"Photon\" monsters\nYou can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2400,
-  "def": 1000,
-  "level": 6,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

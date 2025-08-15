@@ -3,19 +3,18 @@
   "name": "Lightning Chidori",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 WIND monsters\nIf this card is Xyz Summoned: Target 1 Set card your opponent controls; return that target to the bottom of the Deck. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up card your opponent controls; return that target to the top of the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22653490.jpg"
   ],
+  "text": "2 Level 4 WIND monsters\nIf this card is Xyz Summoned: Target 1 Set card your opponent controls; return that target to the bottom of the Deck. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up card your opponent controls; return that target to the top of the Deck.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "WIND",
   "atk": 1900,
-  "def": 1600,
-  "level": 4,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1600
 }

@@ -3,23 +3,20 @@
   "name": "Salamangreat Balelynx",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Level 4 or lower Cyberse monster\nIf this card is Link Summoned: You can add 1 \"Salamangreat Sanctuary\" from your Deck to your hand. If a \"Salamangreat\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Salamangreat Balelynx\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14812471.jpg"
   ],
+  "text": "1 Level 4 or lower Cyberse monster\nIf this card is Link Summoned: You can add 1 \"Salamangreat Sanctuary\" from your Deck to your hand. If a \"Salamangreat\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of \"Salamangreat Balelynx\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "FIRE",
   "atk": 500,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Bottom"
-  ],
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
 }

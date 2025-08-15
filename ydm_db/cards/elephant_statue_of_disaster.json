@@ -3,19 +3,19 @@
   "name": "Elephant Statue of Disaster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent from your hand to your Graveyard by an opponent's card effect: Inflict 2000 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12160911.jpg"
   ],
+  "text": "When this card is sent from your hand to your Graveyard by an opponent's card effect: Inflict 2000 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 0,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
 }

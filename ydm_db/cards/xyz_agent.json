@@ -3,19 +3,19 @@
   "name": "Xyz Agent",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in your Graveyard: You can target 1 \"Utopia\" Xyz Monster you control; attach this card from the Graveyard to it as an Xyz Material. You can only use the effect of \"Xyz Agent\" once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72502414.jpg"
   ],
+  "text": "If this card is in your Graveyard: You can target 1 \"Utopia\" Xyz Monster you control; attach this card from the Graveyard to it as an Xyz Material. You can only use the effect of \"Xyz Agent\" once per Duel.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 900,
-  "def": 300,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
 }

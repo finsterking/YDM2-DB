@@ -3,19 +3,19 @@
   "name": "Junk Collector",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(Quick Effect): You can banish this card on the field and 1 Normal Trap in your GY; apply that banished Trap's effect. (The Trap's activation requirements must still be correct, but costs are not paid.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58242947.jpg"
   ],
+  "text": "(Quick Effect): You can banish this card on the field and 1 Normal Trap in your GY; apply that banished Trap's effect. (The Trap's activation requirements must still be correct, but costs are not paid.)",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 2200,
-  "level": 5,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2200,
+  "level": 5,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Traptrix Atrax",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. You can activate \"Hole\" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55428242.jpg"
   ],
+  "text": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. You can activate \"Hole\" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 1000,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

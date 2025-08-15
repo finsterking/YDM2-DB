@@ -3,19 +3,18 @@
   "name": "Fairy King Albverdich",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 EARTH monsters\nOnce per turn: You can detach 1 Xyz Material from this card; all non-EARTH monsters currently on the field lose 500 ATK and DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28290705.jpg"
   ],
+  "text": "2 Level 4 EARTH monsters\nOnce per turn: You can detach 1 Xyz Material from this card; all non-EARTH monsters currently on the field lose 500 ATK and DEF.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 2300,
-  "def": 1400,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1400
 }

@@ -3,20 +3,20 @@
   "name": "Mystic Tomato",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83011278.jpg",
     "https://images.ygoprodeck.com/images/cards/83011277.jpg"
   ],
+  "text": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1400,
-  "def": 1100,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
 }

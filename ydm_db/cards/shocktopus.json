@@ -3,19 +3,19 @@
   "name": "Shocktopus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2584136.jpg"
   ],
+  "text": "When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1600,
-  "def": 800,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

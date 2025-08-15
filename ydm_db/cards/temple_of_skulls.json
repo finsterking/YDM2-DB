@@ -3,19 +3,19 @@
   "name": "Temple of Skulls",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/732302.jpg"
   ],
+  "text": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 900,
-  "def": 1300,
-  "level": 4,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

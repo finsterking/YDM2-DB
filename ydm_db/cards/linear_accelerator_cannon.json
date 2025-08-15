@@ -3,10 +3,10 @@
   "name": "Linear Accelerator Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64238008.jpg"
   ],
+  "text": "Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.",
   "type": "Spell",
   "spell_type": "Normal"
 }

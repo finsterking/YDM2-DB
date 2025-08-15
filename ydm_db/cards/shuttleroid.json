@@ -3,19 +3,19 @@
   "name": "Shuttleroid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is targeted for an attack: You can banish this card. During your next Standby Phase: Special Summon this card banished by this effect. If Summoned this way: Inflict 1000 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10449150.jpg"
   ],
+  "text": "When this card is targeted for an attack: You can banish this card. During your next Standby Phase: Special Summon this card banished by this effect. If Summoned this way: Inflict 1000 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1000,
-  "def": 1200,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

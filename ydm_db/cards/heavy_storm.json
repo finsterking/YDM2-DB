@@ -3,10 +3,10 @@
   "name": "Heavy Storm",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy all Spell and Trap Cards on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19613556.jpg"
   ],
+  "text": "Destroy all Spell and Trap Cards on the field.",
   "type": "Spell",
   "spell_type": "Normal"
 }

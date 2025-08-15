@@ -3,19 +3,19 @@
   "name": "The Judgement Hand",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An all-powerful hand that delivers ruthless attacks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28003512.jpg"
   ],
+  "text": "An all-powerful hand that delivers ruthless attacks.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 700,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Traptrix Mantis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can add 1 \"Traptrix\" monster from your Deck to your hand. Unaffected by the effects of \"Hole\" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82738277.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can add 1 \"Traptrix\" monster from your Deck to your hand. Unaffected by the effects of \"Hole\" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 1300,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

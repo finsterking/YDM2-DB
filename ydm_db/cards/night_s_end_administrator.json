@@ -3,19 +3,19 @@
   "name": "Night's End Administrator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Night's End Sorcerer\" + 1+ non-Tuner monsters\nIf this card is Special Summoned, or if another Spellcaster monster(s) is Special Summoned to your field: You can target 1 card in your opponent's GY; banish it. If this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon it. You can only use this effect of \"Night's End Administrator\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3779493.jpg"
   ],
+  "text": "\"Night's End Sorcerer\" + 1+ non-Tuner monsters\nIf this card is Special Summoned, or if another Spellcaster monster(s) is Special Summoned to your field: You can target 1 card in your opponent's GY; banish it. If this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon it. You can only use this effect of \"Night's End Administrator\" once per turn.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 2300,
-  "def": 1400,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1400,
+  "level": 6,
+  "is_tuner": false
 }

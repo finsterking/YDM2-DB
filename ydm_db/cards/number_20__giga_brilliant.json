@@ -3,19 +3,18 @@
   "name": "Number 20: Giga-Brilliant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; all face-up monsters you currently control gain 300 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47805931.jpg"
   ],
+  "text": "2 Level 3 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; all face-up monsters you currently control gain 300 ATK.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 1800,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 3,
+  "def": 1800
 }

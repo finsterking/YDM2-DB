@@ -3,10 +3,10 @@
   "name": "Fullmetalfoes Fusion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Fusion Summon 1 \"Metalfoes\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39564736.jpg"
   ],
+  "text": "Fusion Summon 1 \"Metalfoes\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

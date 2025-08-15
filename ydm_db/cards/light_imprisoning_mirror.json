@@ -3,10 +3,10 @@
   "name": "Light-Imprisoning Mirror",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate all LIGHT monster effects activated on the field or in the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53341729.jpg"
   ],
+  "text": "Negate all LIGHT monster effects activated on the field or in the Graveyard.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

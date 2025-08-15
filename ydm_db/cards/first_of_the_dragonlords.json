@@ -3,19 +3,19 @@
   "name": "First of the Dragonlords",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Normal Monsters\nMust be Fusion Summoned. You can only control 1 \"First of the Dragonlords\". Cannot be destroyed by battle, and is unaffected by other monsters' effects. Once, while face-up on the field, when a Spell/Trap Card or effect is activated (Quick Effect): You can destroy all Spells and Traps on the field. You can only use this effect of \"First of the Dragonlords\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53466722.jpg"
   ],
+  "text": "3 Normal Monsters\nMust be Fusion Summoned. You can only control 1 \"First of the Dragonlords\". Cannot be destroyed by battle, and is unaffected by other monsters' effects. Once, while face-up on the field, when a Spell/Trap Card or effect is activated (Quick Effect): You can destroy all Spells and Traps on the field. You can only use this effect of \"First of the Dragonlords\" once per turn.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 3700,
-  "def": 3000,
-  "level": 11,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 3000,
+  "level": 11,
+  "is_tuner": false
 }

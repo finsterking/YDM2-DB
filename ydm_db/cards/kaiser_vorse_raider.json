@@ -3,19 +3,19 @@
   "name": "Kaiser Vorse Raider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control no monsters, you can Special Summon this card (from your hand). If this card destroys an opponent's monster by battle: This card gains 500 ATK. If this card is destroyed by battle: The monster that destroyed it loses 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93927067.jpg"
   ],
+  "text": "If you control no monsters, you can Special Summon this card (from your hand). If this card destroys an opponent's monster by battle: This card gains 500 ATK. If this card is destroyed by battle: The monster that destroyed it loses 500 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1900,
-  "def": 1200,
-  "level": 5,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 5,
+  "is_tuner": false
 }

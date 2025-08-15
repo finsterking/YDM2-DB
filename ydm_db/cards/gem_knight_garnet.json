@@ -3,19 +3,19 @@
   "name": "Gem-Knight Garnet",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The Gem-Knight Warrior who carries the Garnet Soul. His Flaming Iron Fist crushes all enemies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91731841.jpg"
   ],
+  "text": "The Gem-Knight Warrior who carries the Garnet Soul. His Flaming Iron Fist crushes all enemies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1900,
-  "def": 0,
-  "level": 4,
   "species": "Pyro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

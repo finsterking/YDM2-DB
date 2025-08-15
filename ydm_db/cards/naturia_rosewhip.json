@@ -3,19 +3,19 @@
   "name": "Naturia Rosewhip",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent can only activate 1 Spell/Trap Card per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61049315.jpg"
   ],
+  "text": "Your opponent can only activate 1 Spell/Trap Card per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 400,
-  "def": 1700,
-  "level": 3,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1700,
+  "level": 3,
+  "is_tuner": true
 }

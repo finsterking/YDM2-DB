@@ -3,10 +3,10 @@
   "name": "Smashing Ground",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97169186.jpg"
   ],
+  "text": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
   "type": "Spell",
   "spell_type": "Normal"
 }

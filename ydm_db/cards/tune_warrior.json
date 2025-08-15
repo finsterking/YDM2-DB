@@ -3,19 +3,19 @@
   "name": "Tune Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The Warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74093656.jpg"
   ],
+  "text": "The Warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1600,
-  "def": 200,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 200,
+  "level": 3,
+  "is_tuner": true
 }

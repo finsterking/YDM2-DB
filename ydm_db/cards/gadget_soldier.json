@@ -3,19 +3,19 @@
   "name": "Gadget Soldier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A rust-free machine warrior born to battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86281779.jpg"
   ],
+  "text": "A rust-free machine warrior born to battle.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 1800,
-  "def": 2000,
-  "level": 6,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
 }

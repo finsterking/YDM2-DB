@@ -3,23 +3,20 @@
   "name": "Prototype Sky Striker Ace - Amatsu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Sky Striker Ace\" monster\nYou can only Special Summon \"Protoype Sky Striker Ace - Amatsu\" once per turn. When a monster your opponent controls with 2000 or more ATK activates its effect (Quick Effect): You can make the activated effect become \"Destroy 1 \"Sky Striker Ace\" Link Monster your opponent controls\". When an attack is declared involving this card and an opponent's monster: You can target 1 \"Sky Striker Ace\" monster you control and 1 card your opponent controls; destroy them. You can only use each effect of \"Prototype Sky Striker Ace - Amatsu\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25072579.jpg"
   ],
+  "text": "1 \"Sky Striker Ace\" monster\nYou can only Special Summon \"Protoype Sky Striker Ace - Amatsu\" once per turn. When a monster your opponent controls with 2000 or more ATK activates its effect (Quick Effect): You can make the activated effect become \"Destroy 1 \"Sky Striker Ace\" Link Monster your opponent controls\". When an attack is declared involving this card and an opponent's monster: You can target 1 \"Sky Striker Ace\" monster you control and 1 card your opponent controls; destroy them. You can only use each effect of \"Prototype Sky Striker Ace - Amatsu\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 1500,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Bottom"
-  ],
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
 }

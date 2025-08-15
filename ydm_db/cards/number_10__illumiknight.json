@@ -3,19 +3,18 @@
   "name": "Number 10: Illumiknight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; send 1 card from your hand to the Graveyard, and if you do, draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11411223.jpg"
   ],
+  "text": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card; send 1 card from your hand to the Graveyard, and if you do, draw 1 card.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2400,
-  "def": 2400,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2400
 }

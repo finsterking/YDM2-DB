@@ -3,19 +3,19 @@
   "name": "Hellebore the Rikka Fairy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent activates a monster effect that targets a monster(s) you control, while you control a \"Rikka\" monster (Quick Effect): You can Tribute this card from your hand or face-up field; negate that effect. If this card is in your GY: You can Tribute 1 Plant monster; Special Summon this card in Defense Position, but banish it when it leaves the field. You can only use each effect of \"Hellebore the Rikka Fairy\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60880471.jpg"
   ],
+  "text": "When your opponent activates a monster effect that targets a monster(s) you control, while you control a \"Rikka\" monster (Quick Effect): You can Tribute this card from your hand or face-up field; negate that effect. If this card is in your GY: You can Tribute 1 Plant monster; Special Summon this card in Defense Position, but banish it when it leaves the field. You can only use each effect of \"Hellebore the Rikka Fairy\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 2600,
-  "def": 1200,
-  "level": 8,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 8,
+  "is_tuner": false
 }

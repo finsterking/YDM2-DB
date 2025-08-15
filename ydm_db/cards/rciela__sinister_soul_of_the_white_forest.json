@@ -3,19 +3,19 @@
   "name": "Rciela, Sinister Soul of the White Forest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can send 1 Spell/Trap from your hand or field to the GY; add 1 \"White Forest\" card or 1 LIGHT Spellcaster monster from your Deck to your hand. You can only use this effect of \"Rciela, Sinister Soul of the White Forest\" once per turn. Illusion and Spellcaster Synchro Monsters you control gain 500 ATK, also they cannot be destroyed by your opponent's card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77313225.jpg"
   ],
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can send 1 Spell/Trap from your hand or field to the GY; add 1 \"White Forest\" card or 1 LIGHT Spellcaster monster from your Deck to your hand. You can only use this effect of \"Rciela, Sinister Soul of the White Forest\" once per turn. Illusion and Spellcaster Synchro Monsters you control gain 500 ATK, also they cannot be destroyed by your opponent's card effects.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 1600,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1600,
+  "level": 6,
+  "is_tuner": true
 }

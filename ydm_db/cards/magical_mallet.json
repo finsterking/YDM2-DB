@@ -3,10 +3,10 @@
   "name": "Magical Mallet",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85852291.jpg"
   ],
+  "text": "Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.",
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Monster Egg",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A warrior hidden within an egg that attacks enemies by flinging eggshells.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36121917.jpg"
   ],
+  "text": "A warrior hidden within an egg that attacks enemies by flinging eggshells.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 600,
-  "def": 900,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

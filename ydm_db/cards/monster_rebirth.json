@@ -3,10 +3,10 @@
   "name": "Monster Rebirth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a monster(s) was destroyed by battle this turn: Send 1 \"Monster Reborn\" from your hand or Deck to the GY, then target 1 monster in either GY; Special Summon that monster to your field. (This is treated as a Special Summon by the effect of \"Monster Reborn\".)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54564198.jpg"
   ],
+  "text": "If a monster(s) was destroyed by battle this turn: Send 1 \"Monster Reborn\" from your hand or Deck to the GY, then target 1 monster in either GY; Special Summon that monster to your field. (This is treated as a Special Summon by the effect of \"Monster Reborn\".)",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,18 @@
   "name": "Number 23: Lancelot, Dark Knight of the Underworld",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 8 monsters\nThis card can attack your opponent directly while it has Xyz Material. When this card inflicts battle damage to your opponent: You can target 1 face-up monster your opponent controls; destroy it. Once per turn, during either player's turn, when a Spell/Trap Card, or another monster's effect, is activated: Detach 1 Xyz Material from this card; negate the activation.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66547759.jpg"
   ],
+  "text": "2 Level 8 monsters\nThis card can attack your opponent directly while it has Xyz Material. When this card inflicts battle damage to your opponent: You can target 1 face-up monster your opponent controls; destroy it. Once per turn, during either player's turn, when a Spell/Trap Card, or another monster's effect, is activated: Detach 1 Xyz Material from this card; negate the activation.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2000,
-  "def": 1500,
-  "level": 8,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 8,
+  "def": 1500
 }

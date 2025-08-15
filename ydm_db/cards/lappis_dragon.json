@@ -3,19 +3,19 @@
   "name": "Lappis Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is added from the Deck to your hand: You can reveal this card; Special Summon it. If this card is added from your GY to your hand by a card effect: You can reveal this card; Special Summon this card, but banish it when it leaves the field. You can only use 1 \"Lappis Dragon\" effect per turn, and only once that turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3111207.jpg"
   ],
+  "text": "If this card is added from the Deck to your hand: You can reveal this card; Special Summon it. If this card is added from your GY to your hand by a card effect: You can reveal this card; Special Summon this card, but banish it when it leaves the field. You can only use 1 \"Lappis Dragon\" effect per turn, and only once that turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 0,
-  "def": 2600,
-  "level": 5,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2600,
+  "level": 5,
+  "is_tuner": true
 }

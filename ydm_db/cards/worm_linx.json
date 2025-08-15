@@ -3,19 +3,19 @@
   "name": "Worm Linx",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: During each End Phase, if this card is face-up, draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44811425.jpg"
   ],
+  "text": "FLIP: During each End Phase, if this card is face-up, draw 1 card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 300,
-  "def": 1000,
-  "level": 2,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
 }

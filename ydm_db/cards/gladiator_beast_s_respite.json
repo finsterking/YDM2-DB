@@ -3,10 +3,10 @@
   "name": "Gladiator Beast's Respite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Shuffle 2 \"Gladiator Beast\" cards from your hand into the Deck, then draw 3 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98891840.jpg"
   ],
+  "text": "Shuffle 2 \"Gladiator Beast\" cards from your hand into the Deck, then draw 3 cards.",
   "type": "Spell",
   "spell_type": "Normal"
 }

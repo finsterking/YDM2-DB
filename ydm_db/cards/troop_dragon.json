@@ -3,19 +3,19 @@
   "name": "Troop Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is destroyed by battle and sent to the GY: Special Summon 1 \"Troop Dragon\" from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55013285.jpg"
   ],
+  "text": "If this card is destroyed by battle and sent to the GY: Special Summon 1 \"Troop Dragon\" from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 700,
-  "def": 800,
-  "level": 2,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
 }

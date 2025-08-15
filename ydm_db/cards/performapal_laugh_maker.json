@@ -3,19 +3,22 @@
   "name": "Performapal Laugh Maker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce per turn, if your opponent controls a monster whose current ATK is higher than its original ATK: You can gain 1000 LP.\n\n[ Monster Effect ] \nWhen this card declares an attack: You can make this card gain 1000 ATK for each monster on the field whose current ATK is higher than its original ATK, except other monsters you control, until the end of the Battle Phase. If this card is destroyed by battle or card effect while its current ATK is higher than its original ATK: You can target 1 monster in your Graveyard; Special Summon it. You can only use 1 monster effect of \"Performapal Laugh Maker\" per turn, and only once that turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44944304.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce per turn, if your opponent controls a monster whose current ATK is higher than its original ATK: You can gain 1000 LP.\n\n[ Monster Effect ] \nWhen this card declares an attack: You can make this card gain 1000 ATK for each monster on the field whose current ATK is higher than its original ATK, except other monsters you control, until the end of the Battle Phase. If this card is destroyed by battle or card effect while its current ATK is higher than its original ATK: You can target 1 monster in your Graveyard; Special Summon it. You can only use 1 monster effect of \"Performapal Laugh Maker\" per turn, and only once that turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 2000,
-  "level": 8,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 2000,
+  "level": 8,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Once per turn, if your opponent controls a monster whose current ATK is higher than its original ATK: You can gain 1000 LP.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5
 }

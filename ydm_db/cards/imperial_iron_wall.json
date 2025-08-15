@@ -3,10 +3,10 @@
   "name": "Imperial Iron Wall",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can banish cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30459350.jpg"
   ],
+  "text": "Neither player can banish cards.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

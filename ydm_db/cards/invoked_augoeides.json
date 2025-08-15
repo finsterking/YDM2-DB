@@ -3,19 +3,19 @@
   "name": "Invoked Augoeides",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Aleister the Invoker\" + 1 Fusion Monster\nIf this card is Special Summoned, or a monster(s) is Special Summoned to your opponent's field: You can target 1 monster your opponent controls; destroy it. You can only use this effect of \"Invoked Augoeides\" once per turn. Once per turn: You can banish 1 Fusion Monster from your GY; this card gains ATK equal to that banished monster's ATK, until the end of your opponent's turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97300502.jpg"
   ],
+  "text": "\"Aleister the Invoker\" + 1 Fusion Monster\nIf this card is Special Summoned, or a monster(s) is Special Summoned to your opponent's field: You can target 1 monster your opponent controls; destroy it. You can only use this effect of \"Invoked Augoeides\" once per turn. Once per turn: You can banish 1 Fusion Monster from your GY; this card gains ATK equal to that banished monster's ATK, until the end of your opponent's turn.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 2800,
-  "level": 8,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
 }

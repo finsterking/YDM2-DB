@@ -3,25 +3,22 @@
   "name": "Vector Scare Archfiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Cyberse monsters\nWhen this card destroys an opponent's monster by battle and sends it to the GY: You can Tribute 1 monster that this card points to; Special Summon that destroyed monster to any zone this card points to. If you Special Summon to your opponent's field by this effect, this card can make a second attack during this Battle Phase (although your opponent gains control of that Special Summoned monster).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13452889.jpg"
   ],
+  "text": "2+ Cyberse monsters\nWhen this card destroys an opponent's monster by battle and sends it to the GY: You can Tribute 1 monster that this card points to; Special Summon that destroyed monster to any zone this card points to. If you Special Summon to your opponent's field by this effect, this card can make a second attack during this Battle Phase (although your opponent gains control of that Special Summoned monster).",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 2400,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Top",
     "Right",
     "Bottom-Left"
-  ],
-  "species": "Cyberse",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

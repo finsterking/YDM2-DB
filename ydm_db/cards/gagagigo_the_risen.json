@@ -3,19 +3,18 @@
   "name": "Gagagigo the Risen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 4 monsters",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9053187.jpg"
   ],
+  "text": "3 Level 4 monsters",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "WATER",
   "atk": 2950,
-  "def": 2800,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2800
 }

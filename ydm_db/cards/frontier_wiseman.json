@@ -3,19 +3,19 @@
   "name": "Frontier Wiseman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate any Spell effects that target a Warrior-Type monster you control, and if you do, destroy that card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38742075.jpg"
   ],
+  "text": "Negate any Spell effects that target a Warrior-Type monster you control, and if you do, destroy that card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1600,
-  "def": 800,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

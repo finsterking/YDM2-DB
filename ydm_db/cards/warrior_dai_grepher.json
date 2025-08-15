@@ -3,19 +3,19 @@
   "name": "Warrior Dai Grepher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The warrior who can manipulate dragons. Nobody knows his mysterious past.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75953262.jpg"
   ],
+  "text": "The warrior who can manipulate dragons. Nobody knows his mysterious past.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1700,
-  "def": 1600,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

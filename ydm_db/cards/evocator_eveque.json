@@ -3,19 +3,19 @@
   "name": "Evocator Eveque",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● If this card is Normal or Special Summoned: You can target 1 FIRE Warrior monster or 1 Gemini monster in your GY, except \"Evocator Eveque\"; Special Summon it. You can only use this effect of \"Evocator Eveque\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16146511.jpg"
   ],
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● If this card is Normal or Special Summoned: You can target 1 FIRE Warrior monster or 1 Gemini monster in your GY, except \"Evocator Eveque\"; Special Summon it. You can only use this effect of \"Evocator Eveque\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1500,
-  "def": 1000,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

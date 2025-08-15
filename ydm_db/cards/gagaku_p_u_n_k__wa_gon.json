@@ -3,19 +3,19 @@
   "name": "Gagaku-P.U.N.K. Wa Gon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can pay 600 LP; add 1 \"P.U.N.K.\" Spell from your Deck to your hand. When your opponent activates a card or effect that targets a \"P.U.N.K.\" monster(s) you control, or when your opponent's monster targets one for an attack (Quick Effect): You can draw 1 card. You can only use each effect of \"Gagaku-P.U.N.K. Wa Gon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50642380.jpg"
   ],
+  "text": "You can pay 600 LP; add 1 \"P.U.N.K.\" Spell from your Deck to your hand. When your opponent activates a card or effect that targets a \"P.U.N.K.\" monster(s) you control, or when your opponent's monster targets one for an attack (Quick Effect): You can draw 1 card. You can only use each effect of \"Gagaku-P.U.N.K. Wa Gon\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 600,
-  "level": 3,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": true
 }

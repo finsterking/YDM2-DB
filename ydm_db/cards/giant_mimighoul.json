@@ -3,19 +3,18 @@
   "name": "Giant Mimighoul",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 1 monsters\nYour non-Xyz \"Mimighoul\" monsters can attack directly while your opponent controls a face-down monster. You can only use each of the following effects of \"Giant Mimighoul\" once per turn. If this card is Xyz Summoned: You can add 1 \"Mimighoul\" card from your Deck to your hand. You can detach 1 material from this card, then target face-up cards on the field up to the number of face-down monsters your opponent controls; destroy them, and if you do, inflict 1000 damage to your opponent for each card destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16955631.jpg"
   ],
+  "text": "2 Level 1 monsters\nYour non-Xyz \"Mimighoul\" monsters can attack directly while your opponent controls a face-down monster. You can only use each of the following effects of \"Giant Mimighoul\" once per turn. If this card is Xyz Summoned: You can add 1 \"Mimighoul\" card from your Deck to your hand. You can detach 1 material from this card, then target face-up cards on the field up to the number of face-down monsters your opponent controls; destroy them, and if you do, inflict 1000 damage to your opponent for each card destroyed.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 1300,
-  "def": 2000,
-  "level": 1,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 1,
+  "def": 2000
 }

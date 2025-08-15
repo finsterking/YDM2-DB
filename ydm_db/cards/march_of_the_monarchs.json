@@ -3,10 +3,10 @@
   "name": "March of the Monarchs",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Tribute Summoned monsters you control cannot be targeted by, or destroyed by, card effects. You cannot Special Summon monsters from the Extra Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19870120.jpg"
   ],
+  "text": "Tribute Summoned monsters you control cannot be targeted by, or destroyed by, card effects. You cannot Special Summon monsters from the Extra Deck.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

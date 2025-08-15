@@ -3,19 +3,19 @@
   "name": "Judgment, the Dragon of Heaven",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nIf you Synchro Summon this card, all materials must be the same Attribute. Once per turn, if you have 4 or more Tuners with different names in your GY and control this Synchro Summoned card: You can pay half your LP; destroy all other cards on the field, also, you cannot Special Summon monsters for the rest of this turn, except Dragon monsters. Once per turn, during your End Phase: Banish 4 cards from the top of your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41659072.jpg"
   ],
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf you Synchro Summon this card, all materials must be the same Attribute. Once per turn, if you have 4 or more Tuners with different names in your GY and control this Synchro Summoned card: You can pay half your LP; destroy all other cards on the field, also, you cannot Special Summon monsters for the rest of this turn, except Dragon monsters. Once per turn, during your End Phase: Banish 4 cards from the top of your Deck.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 3000,
-  "def": 2600,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
 }

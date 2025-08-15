@@ -3,19 +3,19 @@
   "name": "Lord of D.",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can target Dragon monsters on the field with card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17985575.jpg"
   ],
+  "text": "Neither player can target Dragon monsters on the field with card effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 1100,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
 }

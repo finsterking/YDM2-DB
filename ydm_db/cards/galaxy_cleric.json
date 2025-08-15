@@ -3,19 +3,19 @@
   "name": "Galaxy Cleric",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in your hand: You can target 1 \"Photon\" or \"Galaxy\" Xyz Monster you control; attach this card to it as material. If this card is Normal or Special Summoned: You can target 5 \"Photon\" and/or \"Galaxy\" cards with different names in your GY; shuffle them into the Deck, then draw 2 cards. You can only use 1 \"Galaxy Cleric\" effect per turn, and only once that turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28770951.jpg"
   ],
+  "text": "If this card is in your hand: You can target 1 \"Photon\" or \"Galaxy\" Xyz Monster you control; attach this card to it as material. If this card is Normal or Special Summoned: You can target 5 \"Photon\" and/or \"Galaxy\" cards with different names in your GY; shuffle them into the Deck, then draw 2 cards. You can only use 1 \"Galaxy Cleric\" effect per turn, and only once that turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1500,
-  "def": 600,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

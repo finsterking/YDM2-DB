@@ -3,19 +3,19 @@
   "name": "Lightning Rod Lord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can activate Spell Cards during Main Phase 1.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40672993.jpg"
   ],
+  "text": "Neither player can activate Spell Cards during Main Phase 1.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 100,
-  "level": 4,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
 }

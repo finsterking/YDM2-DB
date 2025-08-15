@@ -3,19 +3,19 @@
   "name": "Shield Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, in either player's turn: You can banish this card from your Graveyard; monsters you control cannot be destroyed by this battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95360850.jpg"
   ],
+  "text": "During damage calculation, in either player's turn: You can banish this card from your Graveyard; monsters you control cannot be destroyed by this battle.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 800,
-  "def": 1600,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
 }

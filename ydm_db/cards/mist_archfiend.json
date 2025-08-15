@@ -3,19 +3,19 @@
   "name": "Mist Archfiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Destroy this card, and if you do, take 1000 damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28601770.jpg"
   ],
+  "text": "You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Destroy this card, and if you do, take 1000 damage.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 0,
-  "level": 5,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
 }

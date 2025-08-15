@@ -3,10 +3,10 @@
   "name": "Stray Lambs",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Special Summon 2 \"Lamb Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60764581.jpg"
   ],
+  "text": "Special Summon 2 \"Lamb Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).",
   "type": "Spell",
   "spell_type": "Normal"
 }

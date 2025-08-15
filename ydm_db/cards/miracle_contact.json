@@ -3,10 +3,10 @@
   "name": "Miracle Contact",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Shuffle into the Deck, from your hand, field, or GY, the Fusion Materials that are listed on an \"Elemental HERO\" Fusion Monster that lists \"Elemental HERO Neos\" as Fusion Material, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35255456.jpg"
   ],
+  "text": "Shuffle into the Deck, from your hand, field, or GY, the Fusion Materials that are listed on an \"Elemental HERO\" Fusion Monster that lists \"Elemental HERO Neos\" as Fusion Material, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions.",
   "type": "Spell",
   "spell_type": "Normal"
 }

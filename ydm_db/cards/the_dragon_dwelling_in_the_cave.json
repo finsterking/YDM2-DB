@@ -3,19 +3,19 @@
   "name": "The Dragon Dwelling in the Cave",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93346024.jpg"
   ],
+  "text": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1300,
-  "def": 2000,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

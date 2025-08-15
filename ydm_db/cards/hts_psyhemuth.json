@@ -3,19 +3,19 @@
   "name": "HTS Psyhemuth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nAfter damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15028680.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nAfter damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "EARTH",
   "atk": 2400,
-  "def": 1800,
-  "level": 6,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

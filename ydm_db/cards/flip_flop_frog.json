@@ -3,19 +3,19 @@
   "name": "Flip Flop Frog",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up \"Frog\" monsters you control, except \"Frog the Jam\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81278754.jpg"
   ],
+  "text": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up \"Frog\" monsters you control, except \"Frog the Jam\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 500,
-  "def": 200,
-  "level": 2,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
 }

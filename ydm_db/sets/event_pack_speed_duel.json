@@ -1,5 +1,5 @@
 {
-  "name": "Speed Duel: Scars of Battle Launch Event participation card",
+  "name": "Event Pack Speed Duel",
   "code": "EVSD",
   "type": "",
   "date": "",
@@ -7,21 +7,9 @@
   "pull_type": "full",
   "cards": [
     {
-      "id": 300103003,
-      "code": "EVSD-ENS02",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 38033121,
       "code": "EVSD-EN001",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300302021,
-      "code": "EVSD-ENS01",
-      "rarity": "Super Rare",
       "image_index": 0
     },
     {

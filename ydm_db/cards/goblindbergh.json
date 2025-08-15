@@ -3,19 +3,19 @@
   "name": "Goblindbergh",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25259669.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 0,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

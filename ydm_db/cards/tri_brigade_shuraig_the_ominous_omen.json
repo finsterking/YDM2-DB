@@ -3,26 +3,23 @@
   "name": "Tri-Brigade Shuraig the Ominous Omen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Beast, Beast-Warrior, and/or Winged Beast monsters\nIf this card is Special Summoned, or if another Beast, Beast-Warrior, or Winged Beast monster(s) is Special Summoned to your field: You can banish 1 card on the field. If this card is sent to the GY: You can add 1 Beast, Beast-Warrior, or Winged Beast monster from your Deck to your hand, whose Level is less than or equal to the number of your banished Beast, Beast-Warrior, and Winged Beast monsters. You can only use each effect of \"Tri-Brigade Shuraig the Ominous Omen\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99726621.jpg"
   ],
+  "text": "2+ Beast, Beast-Warrior, and/or Winged Beast monsters\nIf this card is Special Summoned, or if another Beast, Beast-Warrior, or Winged Beast monster(s) is Special Summoned to your field: You can banish 1 card on the field. If this card is sent to the GY: You can add 1 Beast, Beast-Warrior, or Winged Beast monster from your Deck to your hand, whose Level is less than or equal to the number of your banished Beast, Beast-Warrior, and Winged Beast monsters. You can only use each effect of \"Tri-Brigade Shuraig the Ominous Omen\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 3000,
-  "def": null,
-  "level": null,
-  "link": 4,
+  "species": "Winged Beast",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 4,
   "link_arrows": [
     "Left",
     "Right",
     "Bottom-Left",
     "Bottom-Right"
-  ],
-  "species": "Winged Beast",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

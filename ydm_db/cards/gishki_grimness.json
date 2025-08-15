@@ -3,19 +3,19 @@
   "name": "Gishki Grimness",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire Tribute. If this card is Normal or Special Summoned: You can Special Summon 1 \"Gishki\" monster from your Deck, except \"Gishki Grimness\", also you can only declare attacks with Ritual Monsters until the end of this turn. You can only use this effect of \"Gishki Grimness\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38356857.jpg"
   ],
+  "text": "If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire Tribute. If this card is Normal or Special Summoned: You can Special Summon 1 \"Gishki\" monster from your Deck, except \"Gishki Grimness\", also you can only declare attacks with Ritual Monsters until the end of this turn. You can only use this effect of \"Gishki Grimness\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 600,
-  "def": 700,
-  "level": 2,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

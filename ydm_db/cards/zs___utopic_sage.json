@@ -3,19 +3,18 @@
   "name": "ZS - Utopic Sage",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nYou can detach 2 materials from this card; Special Summon 1 \"ZW -\" or \"ZS -\" monster from your Deck, also for the rest of this turn, you can only attack with \"Number\" monsters, and you cannot Special Summon from the Extra Deck, except Xyz Monsters. You can only use this effect of \"ZS - Utopic Sage\" once per turn. If a \"Utopia\" or \"Utopic\" Xyz Monster(s) you control whose original Attribute is LIGHT would be destroyed by battle or card effect, except \"ZS - Utopic Sage\", you can banish this card from your field or GY instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31123642.jpg"
   ],
+  "text": "2 Level 4 monsters\nYou can detach 2 materials from this card; Special Summon 1 \"ZW -\" or \"ZS -\" monster from your Deck, also for the rest of this turn, you can only attack with \"Number\" monsters, and you cannot Special Summon from the Extra Deck, except Xyz Monsters. You can only use this effect of \"ZS - Utopic Sage\" once per turn. If a \"Utopia\" or \"Utopic\" Xyz Monster(s) you control whose original Attribute is LIGHT would be destroyed by battle or card effect, except \"ZS - Utopic Sage\", you can banish this card from your field or GY instead.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 2500,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2500
 }

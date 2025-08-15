@@ -3,19 +3,19 @@
   "name": "Gorgonic Gargoyle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you Normal Summon a Rock-Type monster: You can Special Summon this card from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64379261.jpg"
   ],
+  "text": "When you Normal Summon a Rock-Type monster: You can Special Summon this card from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 800,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

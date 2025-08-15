@@ -3,19 +3,19 @@
   "name": "Stronghold Guardian",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a Defense Position monster you control is attacked, you can send this card from your hand to the Graveyard during the Damage Step to have your attacked monster gain 1500 DEF until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23535429.jpg"
   ],
+  "text": "If a Defense Position monster you control is attacked, you can send this card from your hand to the Graveyard during the Damage Step to have your attacked monster gain 1500 DEF until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 0,
-  "def": 1500,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

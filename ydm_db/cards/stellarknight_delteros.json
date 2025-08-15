@@ -3,19 +3,18 @@
   "name": "Stellarknight Delteros",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 4 monsters\nWhile this card has Xyz Material, your opponent cannot activate cards or effects when you Normal or Special Summon a monster(s). Once per turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it. If this card is sent from the field to the Graveyard: You can Special Summon 1 \"tellarknight\" monster from your hand or Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56638325.jpg"
   ],
+  "text": "3 Level 4 monsters\nWhile this card has Xyz Material, your opponent cannot activate cards or effects when you Normal or Special Summon a monster(s). Once per turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it. If this card is sent from the field to the Graveyard: You can Special Summon 1 \"tellarknight\" monster from your hand or Deck.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 2100,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2100
 }

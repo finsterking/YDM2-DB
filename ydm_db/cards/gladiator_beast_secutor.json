@@ -3,19 +3,19 @@
   "name": "Gladiator Beast Secutor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, then at the end of any Battle Phase in which this card attacked or was attacked: Special Summon 2 \"Gladiator Beast\" monsters from your Deck, except \"Gladiator Beast Secutor\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77642288.jpg"
   ],
+  "text": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, then at the end of any Battle Phase in which this card attacked or was attacked: Special Summon 2 \"Gladiator Beast\" monsters from your Deck, except \"Gladiator Beast Secutor\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 400,
-  "def": 300,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
 }

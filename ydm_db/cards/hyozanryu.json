@@ -3,19 +3,19 @@
   "name": "Hyozanryu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A dragon created from a massive diamond that sparkles with blinding light.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/62397231.jpg"
   ],
+  "text": "A dragon created from a massive diamond that sparkles with blinding light.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 2100,
-  "def": 2800,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2800,
+  "level": 7,
+  "is_tuner": false
 }

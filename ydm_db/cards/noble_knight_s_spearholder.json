@@ -3,19 +3,19 @@
   "name": "Noble Knight's Spearholder",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can target 1 Level 8 or lower monster you control; its name becomes \"Fleur Synchron\", also it is treated as a Tuner, until the End Phase. You can Tribute this card; add 1 Equip Spell from your Deck to your hand. You can only use each effect of \"Noble Knight's Spearholder\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7721912.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can target 1 Level 8 or lower monster you control; its name becomes \"Fleur Synchron\", also it is treated as a Tuner, until the End Phase. You can Tribute this card; add 1 Equip Spell from your Deck to your hand. You can only use each effect of \"Noble Knight's Spearholder\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 800,
-  "def": 400,
-  "level": 2,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
 }

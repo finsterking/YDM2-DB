@@ -3,19 +3,19 @@
   "name": "Invoked Cocytus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Aleister the Invoker\" + 1 WATER monster\nCannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects. This card can attack while in face-up Defense Position. If it does, apply its ATK for damage calculation.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85908279.jpg"
   ],
+  "text": "\"Aleister the Invoker\" + 1 WATER monster\nCannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects. This card can attack while in face-up Defense Position. If it does, apply its ATK for damage calculation.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WATER",
   "atk": 1800,
-  "def": 2900,
-  "level": 6,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2900,
+  "level": 6,
+  "is_tuner": false
 }

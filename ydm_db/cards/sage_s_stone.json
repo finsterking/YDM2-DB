@@ -3,10 +3,10 @@
   "name": "Sage's Stone",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a face-up \"Dark Magician Girl\": Special Summon 1 \"Dark Magician\" from your hand or Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13604200.jpg"
   ],
+  "text": "If you control a face-up \"Dark Magician Girl\": Special Summon 1 \"Dark Magician\" from your hand or Deck.",
   "type": "Spell",
   "spell_type": "Normal"
 }

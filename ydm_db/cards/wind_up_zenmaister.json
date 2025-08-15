@@ -3,19 +3,18 @@
   "name": "Wind-Up Zenmaister",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nThis card gains 300 ATK for each Xyz Material attached to this card. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster you control; change that face-up monster to face-down Defense Position, and if you do, during the End Phase of this turn, change it to face-up Attack Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68597372.jpg"
   ],
+  "text": "2 Level 4 monsters\nThis card gains 300 ATK for each Xyz Material attached to this card. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster you control; change that face-up monster to face-down Defense Position, and if you do, during the End Phase of this turn, change it to face-up Attack Position.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 1900,
-  "def": 1500,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1500
 }

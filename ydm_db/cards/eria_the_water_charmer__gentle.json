@@ -3,24 +3,21 @@
   "name": "Eria the Water Charmer, Gentle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters, including a WATER monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 WATER monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WATER monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Eria the Water Charmer, Gentle\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73309655.jpg"
   ],
+  "text": "2 monsters, including a WATER monster\n(This card is always treated as a \"Familiar-Possessed\" card.)\nYou can target 1 WATER monster in your opponent's GY; Special Summon it to your zone this card points to. If this Link Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 WATER monster with 1500 or less DEF from your Deck to your hand. You can only use each effect of \"Eria the Water Charmer, Gentle\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "WATER",
   "atk": 1850,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Spellcaster",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Bottom-Left",
     "Bottom-Right"
-  ],
-  "species": "Spellcaster",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

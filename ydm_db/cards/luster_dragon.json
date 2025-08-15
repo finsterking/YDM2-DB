@@ -3,19 +3,19 @@
   "name": "Luster Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11091375.jpg"
   ],
+  "text": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1900,
-  "def": 1600,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

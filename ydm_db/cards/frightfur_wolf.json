@@ -3,19 +3,19 @@
   "name": "Frightfur Wolf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Edge Imp Sabres\" + 1 or more \"Fluffal\" monsters\nMust be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. This card can attack a number of times each Battle Phase, up to the number of Fusion Materials used for its Fusion Summon.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11039171.jpg"
   ],
+  "text": "\"Edge Imp Sabres\" + 1 or more \"Fluffal\" monsters\nMust be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. This card can attack a number of times each Battle Phase, up to the number of Fusion Materials used for its Fusion Summon.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2000,
-  "def": 1500,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
 }

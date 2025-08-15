@@ -3,25 +3,22 @@
   "name": "Trickstar Foxglove Witch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Fairy monsters\nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each card they control. If this Link Summoned card is destroyed by battle or effect: You can Special Summon 1 Link-2 or lower \"Trickstar\" monster from your Extra Deck, then inflict 200 damage to your opponent for each card they control. You can only use each effect of \"Trickstar Foxglove Witch\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86750474.jpg"
   ],
+  "text": "2+ Fairy monsters\nIf this card is Special Summoned: You can inflict 200 damage to your opponent for each card they control. If this Link Summoned card is destroyed by battle or effect: You can Special Summon 1 Link-2 or lower \"Trickstar\" monster from your Extra Deck, then inflict 200 damage to your opponent for each card they control. You can only use each effect of \"Trickstar Foxglove Witch\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 2200,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Fairy",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Top",
     "Left",
     "Right"
-  ],
-  "species": "Fairy",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

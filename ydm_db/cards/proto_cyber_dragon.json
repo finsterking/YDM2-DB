@@ -3,19 +3,19 @@
   "name": "Proto-Cyber Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card's name becomes \"Cyber Dragon\" while on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26439287.jpg"
   ],
+  "text": "This card's name becomes \"Cyber Dragon\" while on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1100,
-  "def": 600,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
 }

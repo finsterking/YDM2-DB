@@ -3,19 +3,19 @@
   "name": "Gatling Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Barrel Dragon\" + \"Blowback Dragon\"\nOnce per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87751584.jpg"
   ],
+  "text": "\"Barrel Dragon\" + \"Blowback Dragon\"\nOnce per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2600,
-  "def": 1200,
-  "level": 8,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1200,
+  "level": 8,
+  "is_tuner": false
 }

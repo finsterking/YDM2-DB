@@ -3,10 +3,10 @@
   "name": "Vylon Material",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74657662.jpg"
   ],
+  "text": "Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
   "type": "Spell",
   "spell_type": "Equip"
 }

@@ -3,19 +3,19 @@
   "name": "The Fabled Ganashia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is discarded to the Graveyard, Special Summon it. If this card is Special Summoned this way, it gains 200 ATK and is removed from play when it is removed from the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18282103.jpg"
   ],
+  "text": "When this card is discarded to the Graveyard, Special Summon it. If this card is Special Summoned this way, it gains 200 ATK and is removed from play when it is removed from the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 1000,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

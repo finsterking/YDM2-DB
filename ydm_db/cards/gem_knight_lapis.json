@@ -3,19 +3,19 @@
   "name": "Gem-Knight Lapis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99645428.jpg"
   ],
+  "text": "The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 100,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
 }

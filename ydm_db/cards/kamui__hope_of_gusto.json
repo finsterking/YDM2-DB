@@ -3,19 +3,19 @@
   "name": "Kamui, Hope of Gusto",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Special Summon 1 \"Gusto\" Tuner monster from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72439556.jpg"
   ],
+  "text": "FLIP: Special Summon 1 \"Gusto\" Tuner monster from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 200,
-  "def": 1000,
-  "level": 2,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
 }

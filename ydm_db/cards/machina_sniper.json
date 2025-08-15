@@ -3,19 +3,19 @@
   "name": "Machina Sniper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Monsters cannot attack \"Machina\" monsters, except \"Machina Sniper\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23782705.jpg"
   ],
+  "text": "Monsters cannot attack \"Machina\" monsters, except \"Machina Sniper\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 800,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

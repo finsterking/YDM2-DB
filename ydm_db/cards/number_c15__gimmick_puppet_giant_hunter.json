@@ -3,19 +3,18 @@
   "name": "Number C15: Gimmick Puppet Giant Hunter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 9 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 card your opponent controls; destroy it, and if you do, and it was a monster, inflict damage to your opponent equal to its original ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33776843.jpg"
   ],
+  "text": "3 Level 9 monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 card your opponent controls; destroy it, and if you do, and it was a monster, inflict damage to your opponent equal to its original ATK.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2500,
-  "def": 1500,
-  "level": 9,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 9,
+  "def": 1500
 }

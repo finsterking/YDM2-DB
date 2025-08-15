@@ -3,10 +3,10 @@
   "name": "Weed Out",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Pay 500 Life Points. Destroy all face-up Attack Position Level 3 monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28604635.jpg"
   ],
+  "text": "Pay 500 Life Points. Destroy all face-up Attack Position Level 3 monsters.",
   "type": "Trap",
   "trap_type": "Normal"
 }

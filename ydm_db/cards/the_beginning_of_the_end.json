@@ -3,10 +3,10 @@
   "name": "The Beginning of the End",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters from your GY; draw 3 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73680966.jpg"
   ],
+  "text": "If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters from your GY; draw 3 cards.",
   "type": "Spell",
   "spell_type": "Normal"
 }

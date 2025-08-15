@@ -3,19 +3,19 @@
   "name": "Spell Strider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is in your hand: You can target 2 face-up Spell Cards on the field (1 from each side of the field); banish them, and if you do, Special Summon this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93966624.jpg"
   ],
+  "text": "If this card is in your hand: You can target 2 face-up Spell Cards on the field (1 from each side of the field); banish them, and if you do, Special Summon this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 600,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,25 +3,22 @@
   "name": "Traffic Ghost",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 monsters",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41248270.jpg"
   ],
+  "text": "3 monsters",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 1800,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Bottom-Left",
     "Bottom",
     "Bottom-Right"
-  ],
-  "species": "Cyberse",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

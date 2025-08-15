@@ -3,19 +3,19 @@
   "name": "Potato & Chips",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''Potato and Chips always get along. They always idle in their room eating potato chips. Consommé punch ones are delicious too. Norishio ones are delicious too. Potato and Chips' delicious life.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54112932.jpg"
   ],
+  "text": "''Potato and Chips always get along. They always idle in their room eating potato chips. Consommé punch ones are delicious too. Norishio ones are delicious too. Potato and Chips' delicious life.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 200,
-  "def": 200,
-  "level": 2,
   "species": "Plant",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
 }

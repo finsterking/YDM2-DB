@@ -3,19 +3,19 @@
   "name": "Starliege Seyfert",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send any number of Dragon monsters from your hand and/or face-up field to the GY; add 1 Dragon monster from your Deck to your hand, whose Level equals the total original Levels of those monsters sent to the GY. You can banish this card from your GY, then target 1 Level 8 LIGHT or DARK Dragon monster in your GY; add it to your hand. You can only use each effect of \"Starliege Seyfert\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15381421.jpg"
   ],
+  "text": "You can send any number of Dragon monsters from your hand and/or face-up field to the GY; add 1 Dragon monster from your Deck to your hand, whose Level equals the total original Levels of those monsters sent to the GY. You can banish this card from your GY, then target 1 Level 8 LIGHT or DARK Dragon monster in your GY; add it to your hand. You can only use each effect of \"Starliege Seyfert\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 0,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,18 @@
   "name": "Fairy Knight Ingunar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 6 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect's activation.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19684740.jpg"
   ],
+  "text": "3 Level 6 monsters\nOnce per turn: You can detach 2 Xyz Materials from this card; return all other cards on the field to the hand. Your opponent cannot activate cards or effects in response to this effect's activation.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 2200,
-  "def": 3000,
-  "level": 6,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 6,
+  "def": 3000
 }

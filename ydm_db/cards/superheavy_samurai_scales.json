@@ -3,19 +3,19 @@
   "name": "Superheavy Samurai Scales",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls 2 or more monsters and you control no monsters, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: You can target 1 Level 4 or lower \"Superheavy Samurai\" monster in your Graveyard, except \"Superheavy Samurai Scales\"; Special Summon it in Defense Position. You can only use this effect of \"Superheavy Samurai Scales\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78391364.jpg"
   ],
+  "text": "If your opponent controls 2 or more monsters and you control no monsters, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: You can target 1 Level 4 or lower \"Superheavy Samurai\" monster in your Graveyard, except \"Superheavy Samurai Scales\"; Special Summon it in Defense Position. You can only use this effect of \"Superheavy Samurai Scales\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 800,
-  "def": 1800,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

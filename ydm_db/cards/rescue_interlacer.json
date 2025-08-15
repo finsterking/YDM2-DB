@@ -3,19 +3,19 @@
   "name": "Rescue Interlacer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, if your Cyberse monster is attacked (Quick Effect): You can discard this card; you take no battle damage from that battle. You can only use this effect of \"Rescue Interlacer\" once per turn. Once per turn, during the End Phase, if this card is in the GY because it was discarded there to activate this effect this turn: Special Summon this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63009228.jpg"
   ],
+  "text": "During damage calculation, if your Cyberse monster is attacked (Quick Effect): You can discard this card; you take no battle damage from that battle. You can only use this effect of \"Rescue Interlacer\" once per turn. Once per turn, during the End Phase, if this card is in the GY because it was discarded there to activate this effect this turn: Special Summon this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 1200,
-  "level": 3,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
 }

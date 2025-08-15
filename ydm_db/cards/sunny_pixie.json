@@ -3,19 +3,19 @@
   "name": "Sunny Pixie",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the Graveyard for the Synchro Summon of a LIGHT Synchro Monster: Gain 1000 Life Points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73837870.jpg"
   ],
+  "text": "If this card is sent to the Graveyard for the Synchro Summon of a LIGHT Synchro Monster: Gain 1000 Life Points.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 300,
-  "def": 400,
-  "level": 1,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 1,
+  "is_tuner": true
 }

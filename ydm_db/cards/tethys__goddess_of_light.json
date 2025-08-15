@@ -3,19 +3,19 @@
   "name": "Tethys, Goddess of Light",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you draw a Fairy monster(s) (except during the Damage Step): You can reveal 1 of those monsters; draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87148330.jpg"
   ],
+  "text": "When you draw a Fairy monster(s) (except during the Damage Step): You can reveal 1 of those monsters; draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2400,
-  "def": 1800,
-  "level": 5,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 5,
+  "is_tuner": false
 }

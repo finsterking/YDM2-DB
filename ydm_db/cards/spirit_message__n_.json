@@ -3,10 +3,10 @@
   "name": "Spirit Message \"N\"",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can only be placed on the field by the effect of \"Destiny Board\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67287533.jpg"
   ],
+  "text": "This card can only be placed on the field by the effect of \"Destiny Board\".",
   "type": "Spell",
   "spell_type": "Continuous"
 }

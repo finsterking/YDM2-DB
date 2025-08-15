@@ -3,19 +3,19 @@
   "name": "Photon Pirate",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can banish 1 \"Photon\" monster from your Graveyard; this card gains 1000 ATK until the End Phase. You can use the effect of \"Photon Pirate\" up to twice per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36834155.jpg"
   ],
+  "text": "You can banish 1 \"Photon\" monster from your Graveyard; this card gains 1000 ATK until the End Phase. You can use the effect of \"Photon Pirate\" up to twice per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 1000,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

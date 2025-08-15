@@ -3,10 +3,10 @@
   "name": "Upstart Goblin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Draw 1 card, then your opponent gains 1000 LP.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70368879.jpg"
   ],
+  "text": "Draw 1 card, then your opponent gains 1000 LP.",
   "type": "Spell",
   "spell_type": "Normal"
 }

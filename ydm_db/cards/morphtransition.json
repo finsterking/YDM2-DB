@@ -3,10 +3,10 @@
   "name": "Morphtransition",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when a face-up \"Morphtronic\" monster you control is selected as an attack target. Negate the attack, and change the battle position of the selected \"Morphtronic\" monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92890308.jpg"
   ],
+  "text": "Activate only when a face-up \"Morphtronic\" monster you control is selected as an attack target. Negate the attack, and change the battle position of the selected \"Morphtronic\" monster.",
   "type": "Trap",
   "trap_type": "Normal"
 }

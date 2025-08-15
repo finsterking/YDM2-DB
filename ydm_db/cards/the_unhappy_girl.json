@@ -3,19 +3,19 @@
   "name": "The Unhappy Girl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is in face-up Attack Position on the field, this card is not destroyed as a result of battle. (Damage calculation is applied normally.) A monster that battled with this card cannot change its battle position, except with a card effect, or attack while this card is in face-up Attack Position on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27618634.jpg"
   ],
+  "text": "While this card is in face-up Attack Position on the field, this card is not destroyed as a result of battle. (Damage calculation is applied normally.) A monster that battled with this card cannot change its battle position, except with a card effect, or attack while this card is in face-up Attack Position on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 400,
-  "def": 300,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 2,
+  "is_tuner": false
 }

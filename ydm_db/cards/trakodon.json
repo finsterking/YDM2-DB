@@ -3,19 +3,19 @@
   "name": "Trakodon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42348802.jpg"
   ],
+  "text": "A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1300,
-  "def": 800,
-  "level": 3,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

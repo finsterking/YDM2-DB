@@ -3,10 +3,10 @@
   "name": "Timidity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Neither player can destroy Set Spell and Trap Cards on the field until your opponent's next End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40350910.jpg"
   ],
+  "text": "Neither player can destroy Set Spell and Trap Cards on the field until your opponent's next End Phase.",
   "type": "Spell",
   "spell_type": "Normal"
 }

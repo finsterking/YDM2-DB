@@ -3,19 +3,19 @@
   "name": "Shinobird Crane",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. Once per turn, if another Spirit monster is Normal or Special Summoned while this monster is on the field: You can draw 1 card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66815913.jpg"
   ],
+  "text": "Cannot be Special Summoned. Once per turn, if another Spirit monster is Normal or Special Summoned while this monster is on the field: You can draw 1 card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1500,
-  "def": 1500,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

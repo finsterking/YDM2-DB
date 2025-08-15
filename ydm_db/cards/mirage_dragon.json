@@ -3,19 +3,19 @@
   "name": "Mirage Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent cannot activate Trap Cards during the Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15960641.jpg"
   ],
+  "text": "Your opponent cannot activate Trap Cards during the Battle Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 600,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

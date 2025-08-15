@@ -3,10 +3,10 @@
   "name": "Red Medicine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Increase your Life Points by 500 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38199696.jpg"
   ],
+  "text": "Increase your Life Points by 500 points.",
   "type": "Spell",
   "spell_type": "Normal"
 }

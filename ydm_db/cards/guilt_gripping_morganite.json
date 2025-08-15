@@ -3,10 +3,10 @@
   "name": "Guilt-Gripping Morganite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "For the rest of this Duel, apply the following effects.\n● You cannot activate monster effects in the hand.\n● You can Normal Summon Level 5 or higher monsters without Tributing.\n● You do not pay LP to activate Spell/Trap Cards.\nYou can banish this card from your GY, then reveal 1 \"Morganite\" card in your hand; place the revealed card on the bottom of the Deck, then draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61822419.jpg"
   ],
+  "text": "For the rest of this Duel, apply the following effects.\n● You cannot activate monster effects in the hand.\n● You can Normal Summon Level 5 or higher monsters without Tributing.\n● You do not pay LP to activate Spell/Trap Cards.\nYou can banish this card from your GY, then reveal 1 \"Morganite\" card in your hand; place the revealed card on the bottom of the Deck, then draw 1 card.",
   "type": "Spell",
   "spell_type": "Normal"
 }

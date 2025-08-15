@@ -3,19 +3,19 @@
   "name": "Tyhone",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72842870.jpg"
   ],
+  "text": "Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1200,
-  "def": 1400,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

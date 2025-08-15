@@ -3,19 +3,19 @@
   "name": "The Snake Hair",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29491031.jpg"
   ],
+  "text": "A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1500,
-  "def": 1200,
-  "level": 4,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

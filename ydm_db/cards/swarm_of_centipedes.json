@@ -3,19 +3,19 @@
   "name": "Swarm of Centipedes",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is flipped face-up: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. You can only use this effect of \"Swarm of Centipedes\" once per turn. Once per turn, during your Main Phase: You can change this card to face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6116731.jpg"
   ],
+  "text": "If this card is flipped face-up: You can target 1 other monster on the field; change it to face-up Attack Position or face-down Defense Position. You can only use this effect of \"Swarm of Centipedes\" once per turn. Once per turn, during your Main Phase: You can change this card to face-down Defense Position.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1500,
-  "def": 500,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,22 @@
   "name": "Luster Pendulum, the Dracoslayer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce per turn, if you have a card in your other Pendulum Zone: You can destroy that card, and if you do, add 1 card from your Deck to your hand, with the same name as that card.\n\n[ Monster Effect ] \nCannot Special Summon Fusion, Synchro, or Xyz Monsters using this card as material, except \"Dracoslayer\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92746535.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce per turn, if you have a card in your other Pendulum Zone: You can destroy that card, and if you do, add 1 card from your Deck to your hand, with the same name as that card.\n\n[ Monster Effect ] \nCannot Special Summon Fusion, Synchro, or Xyz Monsters using this card as material, except \"Dracoslayer\" monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1850,
-  "def": 0,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 0,
+  "level": 4,
   "is_tuner": true,
-  "ability": ""
+  "pendulum_text": "Once per turn, if you have a card in your other Pendulum Zone: You can destroy that card, and if you do, add 1 card from your Deck to your hand, with the same name as that card.",
+  "pendulum_scale_left_blue": 5,
+  "pendulum_scale_right_red": 5
 }

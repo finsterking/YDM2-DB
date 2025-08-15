@@ -3,19 +3,19 @@
   "name": "Salamangreat Meer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon it from your hand. If this card is in your hand: You can discard 1 other \"Salamangreat\" card; Special Summon this card from your hand. You can only use each effect of \"Salamangreat Meer\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67225377.jpg"
   ],
+  "text": "If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon it from your hand. If this card is in your hand: You can discard 1 other \"Salamangreat\" card; Special Summon this card from your hand. You can only use each effect of \"Salamangreat Meer\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 800,
-  "def": 600,
-  "level": 2,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

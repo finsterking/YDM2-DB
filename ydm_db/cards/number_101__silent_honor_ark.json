@@ -3,19 +3,18 @@
   "name": "Number 101: Silent Honor ARK",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nYou can detach 2 materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48739166.jpg"
   ],
+  "text": "2 Level 4 monsters\nYou can detach 2 materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "WATER",
   "atk": 2100,
-  "def": 1000,
-  "level": 4,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 1000
 }

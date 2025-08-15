@@ -3,10 +3,10 @@
   "name": "Massivemorph",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up monster your opponent controls; its ATK and DEF become double its current ATK and DEF, but it cannot attack directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67820935.jpg"
   ],
+  "text": "Target 1 face-up monster your opponent controls; its ATK and DEF become double its current ATK and DEF, but it cannot attack directly.",
   "type": "Trap",
   "trap_type": "Normal"
 }

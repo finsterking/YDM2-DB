@@ -3,19 +3,19 @@
   "name": "Gishki Avance",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can choose 1 \"Gishki\" monster from your Deck and place it on top of your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16693254.jpg"
   ],
+  "text": "Once per turn: You can choose 1 \"Gishki\" monster from your Deck and place it on top of your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1500,
-  "def": 800,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

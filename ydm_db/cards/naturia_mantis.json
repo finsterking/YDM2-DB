@@ -3,19 +3,19 @@
   "name": "Naturia Mantis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51254980.jpg"
   ],
+  "text": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1700,
-  "def": 1500,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

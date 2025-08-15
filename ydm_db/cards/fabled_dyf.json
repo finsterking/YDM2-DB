@@ -3,19 +3,19 @@
   "name": "Fabled Dyf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a \"Fabled\" monster is sent from the hand to your Graveyard, you can Tribute this card to select that monster, and Special Summon it from the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86840720.jpg"
   ],
+  "text": "When a \"Fabled\" monster is sent from the hand to your Graveyard, you can Tribute this card to select that monster, and Special Summon it from the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1400,
-  "def": 1700,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1700,
+  "level": 3,
+  "is_tuner": false
 }

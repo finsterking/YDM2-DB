@@ -3,19 +3,19 @@
   "name": "Uraby",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1784619.jpg"
   ],
+  "text": "Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 800,
-  "level": 4,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

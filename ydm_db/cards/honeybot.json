@@ -3,24 +3,21 @@
   "name": "Honeybot",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Cyberse monsters\nNeither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34472920.jpg"
   ],
+  "text": "2 Cyberse monsters\nNeither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 1900,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Left",
     "Right"
-  ],
-  "species": "Cyberse",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

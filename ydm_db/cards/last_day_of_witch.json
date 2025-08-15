@@ -3,11 +3,11 @@
   "name": "Last Day of Witch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy all face-up Spellcaster-Type monsters on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90330453.jpg",
     "https://images.ygoprodeck.com/images/cards/90330454.jpg"
   ],
+  "text": "Destroy all face-up Spellcaster-Type monsters on the field.",
   "type": "Spell",
   "spell_type": "Normal"
 }

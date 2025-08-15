@@ -3,19 +3,19 @@
   "name": "Kaiser Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94566432.jpg"
   ],
+  "text": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2300,
-  "def": 2000,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

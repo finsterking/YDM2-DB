@@ -3,19 +3,19 @@
   "name": "The Wandering Doomed",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A monster that wanders the edges of the netherworld.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93788854.jpg"
   ],
+  "text": "''A monster that wanders the edges of the netherworld.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 800,
-  "def": 600,
-  "level": 2,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

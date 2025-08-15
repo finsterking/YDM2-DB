@@ -3,19 +3,19 @@
   "name": "Magical Ghost",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This creature casts a spell of terror and confusion just before attacking its enemies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46474915.jpg"
   ],
+  "text": "This creature casts a spell of terror and confusion just before attacking its enemies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 1400,
-  "level": 4,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

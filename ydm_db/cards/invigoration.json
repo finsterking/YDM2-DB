@@ -3,10 +3,10 @@
   "name": "Invigoration",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An EARTH monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98374133.jpg"
   ],
+  "text": "An EARTH monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
   "type": "Spell",
   "spell_type": "Equip"
 }

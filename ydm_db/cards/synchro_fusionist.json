@@ -3,19 +3,19 @@
   "name": "Synchro Fusionist",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the Graveyard as a Synchro Material Monster, you can add 1 Spell Card from your Deck to your hand with \"Polymerization\" or \"Fusion\" in the card name, except \"Diffusion Wave-Motion\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15839054.jpg"
   ],
+  "text": "If this card is sent to the Graveyard as a Synchro Material Monster, you can add 1 Spell Card from your Deck to your hand with \"Polymerization\" or \"Fusion\" in the card name, except \"Diffusion Wave-Motion\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 800,
-  "def": 600,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

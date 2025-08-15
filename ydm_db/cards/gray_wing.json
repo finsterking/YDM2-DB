@@ -3,19 +3,19 @@
   "name": "Gray Wing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Discard 1 card from your hand during your Main Phase 1. This monster can attack twice during the Battle Phase of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29618570.jpg"
   ],
+  "text": "Discard 1 card from your hand during your Main Phase 1. This monster can attack twice during the Battle Phase of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1300,
-  "def": 700,
-  "level": 3,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Sasuke Samurai #3",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts Battle Damage to your opponent's Life Points, your opponent draws cards until his/her hand has 7 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77379481.jpg"
   ],
+  "text": "When this card inflicts Battle Damage to your opponent's Life Points, your opponent draws cards until his/her hand has 7 cards.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 1000,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

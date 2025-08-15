@@ -3,19 +3,19 @@
   "name": "Turtle Bird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72929454.jpg"
   ],
+  "text": "An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1900,
-  "def": 1700,
-  "level": 6,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
 }

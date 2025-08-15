@@ -3,19 +3,19 @@
   "name": "Epigonen, the Impersonation Invader",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute 1 Effect Monster: Special Summon this card from your hand, then Special Summon 1 \"Epigonos Token\" (Level 1/ATK 0/ DEF 0) with the same Type and Attribute as the Tributed monster's original Type and Attribute. You can only use this effect of \"Epigonen, the Impersonation Invader\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51611041.jpg"
   ],
+  "text": "You can Tribute 1 Effect Monster: Special Summon this card from your hand, then Special Summon 1 \"Epigonos Token\" (Level 1/ATK 0/ DEF 0) with the same Type and Attribute as the Tributed monster's original Type and Attribute. You can only use this effect of \"Epigonen, the Impersonation Invader\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 2000,
-  "level": 7,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

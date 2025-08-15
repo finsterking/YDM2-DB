@@ -55,12 +55,6 @@
       "image_index": 0
     },
     {
-      "id": 300201002,
-      "code": "SS01-ENAS2",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 44436472,
       "code": "SS01-ENA07",
       "rarity": "Common",
@@ -69,12 +63,6 @@
     {
       "id": 41392891,
       "code": "SS01-ENA02",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300201003,
-      "code": "SS01-ENAS3",
       "rarity": "Common",
       "image_index": 0
     },
@@ -99,12 +87,6 @@
     {
       "id": 50712728,
       "code": "SS01-ENB01",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300201005,
-      "code": "SS01-ENBS2",
       "rarity": "Common",
       "image_index": 0
     },
@@ -157,12 +139,6 @@
       "image_index": 0
     },
     {
-      "id": 300201007,
-      "code": "SS01-ENCS1",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 83968380,
       "code": "SS01-ENC16",
       "rarity": "Common",
@@ -193,44 +169,14 @@
       "image_index": 0
     },
     {
-      "id": 300201009,
-      "code": "SS01-ENCS3",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300201006,
-      "code": "SS01-ENBS3",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 88032456,
       "code": "SS01-ENV03",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 300201008,
-      "code": "SS01-ENCS2",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 62762898,
       "code": "SS01-ENC03",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300201001,
-      "code": "SS01-ENAS1",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300201004,
-      "code": "SS01-ENBS1",
       "rarity": "Common",
       "image_index": 0
     },

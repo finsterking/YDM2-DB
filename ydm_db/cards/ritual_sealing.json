@@ -3,10 +3,10 @@
   "name": "Ritual Sealing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy 1 face-up Ritual Monster on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9145181.jpg"
   ],
+  "text": "Destroy 1 face-up Ritual Monster on the field.",
   "type": "Trap",
   "trap_type": "Normal"
 }

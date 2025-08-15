@@ -3,19 +3,19 @@
   "name": "Starship Spy Plane",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). When this card is Special Summoned from the hand: Target 1 Spell/Trap Card your opponent controls; return that target to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15458892.jpg"
   ],
+  "text": "If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). When this card is Special Summoned from the hand: Target 1 Spell/Trap Card your opponent controls; return that target to the hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1100,
-  "def": 500,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 4,
+  "is_tuner": false
 }

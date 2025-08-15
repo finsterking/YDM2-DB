@@ -3,19 +3,19 @@
   "name": "Tenderness",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''An adorable fairy that celebrates the gift of love.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57935140.jpg"
   ],
+  "text": "''An adorable fairy that celebrates the gift of love.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 700,
-  "def": 1400,
-  "level": 3,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 3,
+  "is_tuner": false
 }

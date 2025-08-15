@@ -3,10 +3,10 @@
   "name": "Snatch Steal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Equip only to a monster your opponent controls. Take control of the equipped monster. During each of your opponent's Standby Phases: They gain 1000 Life Points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45986603.jpg"
   ],
+  "text": "Equip only to a monster your opponent controls. Take control of the equipped monster. During each of your opponent's Standby Phases: They gain 1000 Life Points.",
   "type": "Spell",
   "spell_type": "Equip"
 }

@@ -3,19 +3,19 @@
   "name": "Suppression Collider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''All data crushed by this network warrior's hammer is irretrievably compressed.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92176681.jpg"
   ],
+  "text": "''All data crushed by this network warrior's hammer is irretrievably compressed.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 2800,
-  "def": 2600,
-  "level": 8,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
 }

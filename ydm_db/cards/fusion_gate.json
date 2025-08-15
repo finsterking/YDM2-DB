@@ -3,10 +3,10 @@
   "name": "Fusion Gate",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is on the field: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their hand or field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33550694.jpg"
   ],
+  "text": "While this card is on the field: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their hand or field.",
   "type": "Spell",
   "spell_type": "Field"
 }

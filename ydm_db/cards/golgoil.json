@@ -3,19 +3,19 @@
   "name": "Golgoil",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An iron giant that appears from a dimensional rift.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7526150.jpg"
   ],
+  "text": "An iron giant that appears from a dimensional rift.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 1600,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

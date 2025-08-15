@@ -3,10 +3,10 @@
   "name": "R.B. Stage Landing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Special Summon 1 \"R.B.\" monster from your Deck/Extra Deck with a different name than the cards you control. If an \"R.B.\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You cannot Special Summon from the Extra Deck the turn you activate this card, except Machine monsters with 1500 or less original ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5109321.jpg"
   ],
+  "text": "Special Summon 1 \"R.B.\" monster from your Deck/Extra Deck with a different name than the cards you control. If an \"R.B.\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You cannot Special Summon from the Extra Deck the turn you activate this card, except Machine monsters with 1500 or less original ATK.",
   "type": "Spell",
   "spell_type": "Normal"
 }

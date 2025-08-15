@@ -3,19 +3,19 @@
   "name": "Prior of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a face-up \"Ice Barrier\" monster, you can Special Summon this card (from your hand). You cannot Special Summon any Level 5 or higher monsters the turn you use this effect. You can Tribute this card to target 1 \"Ice Barrier\" monster in your Graveyard, except \"Prior of the Ice Barrier\"; Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50088247.jpg"
   ],
+  "text": "If you control a face-up \"Ice Barrier\" monster, you can Special Summon this card (from your hand). You cannot Special Summon any Level 5 or higher monsters the turn you use this effect. You can Tribute this card to target 1 \"Ice Barrier\" monster in your Graveyard, except \"Prior of the Ice Barrier\"; Special Summon that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1000,
-  "def": 400,
-  "level": 2,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
 }

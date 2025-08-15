@@ -3,19 +3,19 @@
   "name": "Ghostrick Mary",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When you take damage: You can discard this card; Special Summon 1 \"Ghostrick\" monster from your Deck in face-down Defense Position. You can only use this effect of \"Ghostrick Mary\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98707192.jpg"
   ],
+  "text": "Cannot be Normal Summoned, unless you control a \"Ghostrick\" monster. Once per turn: You can change this card to face-down Defense Position. When you take damage: You can discard this card; Special Summon 1 \"Ghostrick\" monster from your Deck in face-down Defense Position. You can only use this effect of \"Ghostrick Mary\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 100,
-  "def": 1600,
-  "level": 1,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 1,
+  "is_tuner": false
 }

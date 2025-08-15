@@ -3,19 +3,19 @@
   "name": "Laval Judgment Lord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can banish 1 \"Laval\" monster from your Graveyard; inflict 1000 damage to your opponent. \"Laval Judgment Lord\" cannot declare an attack the turn this effect is activated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14047624.jpg"
   ],
+  "text": "Once per turn: You can banish 1 \"Laval\" monster from your Graveyard; inflict 1000 damage to your opponent. \"Laval Judgment Lord\" cannot declare an attack the turn this effect is activated.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 2700,
-  "def": 1800,
-  "level": 7,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
 }

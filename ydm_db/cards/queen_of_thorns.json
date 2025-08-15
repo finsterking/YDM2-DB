@@ -3,19 +3,19 @@
   "name": "Queen of Thorns",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner Plant-Type monsters\nEach player must pay 1000 LP for each monster Normal or Special Summoned from their hand, except for Plant-Type monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45500495.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner Plant-Type monsters\nEach player must pay 1000 LP for each monster Normal or Special Summoned from their hand, except for Plant-Type monsters.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 2200,
-  "def": 1800,
-  "level": 6,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

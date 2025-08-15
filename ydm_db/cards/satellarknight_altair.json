@@ -3,19 +3,19 @@
   "name": "Satellarknight Altair",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Summoned: You can target 1 \"tellarknight\" monster in your Graveyard, except \"Satellarknight Altair\"; Special Summon that monster in Defense Position, also monsters you control cannot attack for the rest of this turn, except \"tellarknight\" monsters. You can only use this effect of \"Satellarknight Altair\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2273734.jpg"
   ],
+  "text": "If this card is Summoned: You can target 1 \"tellarknight\" monster in your Graveyard, except \"Satellarknight Altair\"; Special Summon that monster in Defense Position, also monsters you control cannot attack for the rest of this turn, except \"tellarknight\" monsters. You can only use this effect of \"Satellarknight Altair\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1700,
-  "def": 1300,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

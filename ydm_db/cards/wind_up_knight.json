@@ -3,19 +3,19 @@
   "name": "Wind-Up Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a face-up \"Wind-Up\" monster you control is targeted for an attack: You can negate the attack. This effect can only be used once while this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80538728.jpg"
   ],
+  "text": "When a face-up \"Wind-Up\" monster you control is targeted for an attack: You can negate the attack. This effect can only be used once while this card is face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 1200,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

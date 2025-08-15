@@ -3,19 +3,18 @@
   "name": "Mira the Star-Bearer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 1 monsters\nIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Level 4 or lower monsters you control cannot be destroyed by card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60181553.jpg"
   ],
+  "text": "3 Level 1 monsters\nIf this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Level 4 or lower monsters you control cannot be destroyed by card effects.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 1100,
-  "def": 1000,
-  "level": 1,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 1,
+  "def": 1000
 }

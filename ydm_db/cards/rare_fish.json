@@ -3,19 +3,19 @@
   "name": "Rare Fish",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Fusionist\" + \"Enchanting Mermaid\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80516007.jpg"
   ],
+  "text": "\"Fusionist\" + \"Enchanting Mermaid\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WATER",
   "atk": 1500,
-  "def": 1200,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

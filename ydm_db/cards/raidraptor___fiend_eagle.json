@@ -3,19 +3,18 @@
   "name": "Raidraptor - Fiend Eagle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 \"Raidraptor\" monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up Special Summoned monster your opponent controls; inflict damage to your opponent equal to its original ATK on the field. You can only use this effect of \"Raidraptor - Fiend Eagle\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52323874.jpg"
   ],
+  "text": "2 Level 3 \"Raidraptor\" monsters\nYou can detach 1 Xyz Material from this card, then target 1 face-up Special Summoned monster your opponent controls; inflict damage to your opponent equal to its original ATK on the field. You can only use this effect of \"Raidraptor - Fiend Eagle\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 0,
-  "level": 3,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 3,
+  "def": 0
 }

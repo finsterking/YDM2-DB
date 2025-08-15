@@ -3,10 +3,10 @@
   "name": "Molten Conduction Field",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Send 2 \"Laval\" monsters from your Deck to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72142276.jpg"
   ],
+  "text": "Send 2 \"Laval\" monsters from your Deck to the Graveyard.",
   "type": "Spell",
   "spell_type": "Normal"
 }

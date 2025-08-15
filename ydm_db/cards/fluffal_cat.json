@@ -3,19 +3,19 @@
   "name": "Fluffal Cat",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can target 1 \"Polymerization\" in your Graveyard; add it to your hand. You can only use this effect of \"Fluffal Cat\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2729285.jpg"
   ],
+  "text": "If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can target 1 \"Polymerization\" in your Graveyard; add it to your hand. You can only use this effect of \"Fluffal Cat\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 700,
-  "def": 300,
-  "level": 1,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Infernoid Decatron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can send 1 \"Infernoid\" monster from your Deck to the Graveyard, except \"Infernoid Decatron\", and if you do, increase this card's Level by the Level of the sent monster, and if you do that, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58446973.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can send 1 \"Infernoid\" monster from your Deck to the Graveyard, except \"Infernoid Decatron\", and if you do, increase this card's Level by the Level of the sent monster, and if you do that, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 500,
-  "def": 200,
-  "level": 1,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": true
 }

@@ -3,10 +3,10 @@
   "name": "Xyz Veil",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96457619.jpg"
   ],
+  "text": "Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

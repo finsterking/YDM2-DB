@@ -3,19 +3,19 @@
   "name": "Penguin Brave",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nYour opponent cannot target face-down Defense Position monsters you control with card effects. You can only use each of the following effects of \"Penguin Brave\" once per turn. If this card is Synchro Summoned: You can Special Summon 1 \"Penguin\" monster from your Deck in face-down Defense Position. When your opponent activates a monster effect (Quick Effect): You can flip 1 face-down Defense Position WATER monster you control face-up.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91397409.jpg"
   ],
+  "text": "1 Tuner + 1+ non-Tuner monsters\nYour opponent cannot target face-down Defense Position monsters you control with card effects. You can only use each of the following effects of \"Penguin Brave\" once per turn. If this card is Synchro Summoned: You can Special Summon 1 \"Penguin\" monster from your Deck in face-down Defense Position. When your opponent activates a monster effect (Quick Effect): You can flip 1 face-down Defense Position WATER monster you control face-up.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "WATER",
   "atk": 2400,
-  "def": 1200,
-  "level": 6,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
 }
