@@ -3,19 +3,18 @@
   "name": "Divine Dragon Knight Felgrand",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 8 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; this turn, its effects are negated, but it is unaffected by other card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1639384.jpg"
   ],
+  "text": "2 Level 8 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; this turn, its effects are negated, but it is unaffected by other card effects.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2800,
-  "def": 1800,
-  "level": 8,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 8,
+  "def": 1800
 }

@@ -3,19 +3,19 @@
   "name": "Bee List Soldier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card and 1 face-up Insect monster, except \"Bee List Soldier\"; draw 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1474910.jpg"
   ],
+  "text": "You can Tribute this card and 1 face-up Insect monster, except \"Bee List Soldier\"; draw 2 cards.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 500,
-  "def": 400,
-  "level": 1,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 1,
+  "is_tuner": false
 }

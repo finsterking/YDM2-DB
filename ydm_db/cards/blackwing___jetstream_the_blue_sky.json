@@ -3,19 +3,19 @@
   "name": "Blackwing - Jetstream the Blue Sky",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation, you can send this card from your hand to the Graveyard to prevent a \"Blackwing\" monster you control from being destroyed by this battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87390067.jpg"
   ],
+  "text": "During damage calculation, you can send this card from your hand to the Graveyard to prevent a \"Blackwing\" monster you control from being destroyed by this battle.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 100,
-  "def": 800,
-  "level": 1,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 1,
+  "is_tuner": false
 }

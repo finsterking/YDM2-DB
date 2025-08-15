@@ -3,19 +3,19 @@
   "name": "Binding Chain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''The mystic links of this chain can rob enemies of their power.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8058240.jpg"
   ],
+  "text": "''The mystic links of this chain can rob enemies of their power.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 1100,
-  "level": 3,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
 }

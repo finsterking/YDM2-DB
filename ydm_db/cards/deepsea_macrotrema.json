@@ -3,19 +3,19 @@
   "name": "Deepsea Macrotrema",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent from the field to the Graveyard, all face-up WATER monsters you control gain 500 ATK until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13314457.jpg"
   ],
+  "text": "When this card is sent from the field to the Graveyard, all face-up WATER monsters you control gain 500 ATK until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 600,
-  "def": 100,
-  "level": 1,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

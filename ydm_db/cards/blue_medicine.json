@@ -3,10 +3,10 @@
   "name": "Blue Medicine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Increase your Life Points by 400 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20871001.jpg"
   ],
+  "text": "Increase your Life Points by 400 points.",
   "type": "Spell",
   "spell_type": "Normal"
 }

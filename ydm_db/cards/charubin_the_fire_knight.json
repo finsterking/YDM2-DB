@@ -3,19 +3,19 @@
   "name": "Charubin the Fire Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Monster Egg\" + \"Hinotama Soul\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37421579.jpg"
   ],
+  "text": "\"Monster Egg\" + \"Hinotama Soul\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "FIRE",
   "atk": 1100,
-  "def": 800,
-  "level": 3,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

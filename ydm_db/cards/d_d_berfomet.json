@@ -3,19 +3,19 @@
   "name": "D/D Berfomet",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can target 1 \"D/D\" monster you control that has a Level, except \"D/D Berfomet\", and declare a Level from 1 to 8; it becomes that Level until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"D/D\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19808608.jpg"
   ],
+  "text": "Once per turn: You can target 1 \"D/D\" monster you control that has a Level, except \"D/D Berfomet\", and declare a Level from 1 to 8; it becomes that Level until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"D/D\" monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1400,
-  "def": 1800,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

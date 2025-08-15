@@ -3,19 +3,19 @@
   "name": "Amano-Iwato",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. Monsters cannot activate their effects, except Spirit monsters. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32181268.jpg"
   ],
+  "text": "Cannot be Special Summoned. Monsters cannot activate their effects, except Spirit monsters. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1900,
-  "def": 1200,
-  "level": 4,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

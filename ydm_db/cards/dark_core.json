@@ -3,10 +3,10 @@
   "name": "Dark Core",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Discard 1 card, then target 1 face-up monster on the field; banish that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70231910.jpg"
   ],
+  "text": "Discard 1 card, then target 1 face-up monster on the field; banish that target.",
   "type": "Spell",
   "spell_type": "Normal"
 }

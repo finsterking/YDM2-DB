@@ -3,19 +3,19 @@
   "name": "Atlantean Pikeman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26976414.jpg"
   ],
+  "text": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1400,
-  "def": 0,
-  "level": 2,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
 }

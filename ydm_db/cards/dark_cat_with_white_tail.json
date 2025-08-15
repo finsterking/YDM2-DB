@@ -3,19 +3,19 @@
   "name": "Dark Cat with White Tail",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Return 2 Monster Cards on your opponent's side of the field and 1 Monster Card on your side of the field to their owners' hands.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8634636.jpg"
   ],
+  "text": "FLIP: Return 2 Monster Cards on your opponent's side of the field and 1 Monster Card on your side of the field to their owners' hands.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 800,
-  "def": 500,
-  "level": 2,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

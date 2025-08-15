@@ -3,10 +3,10 @@
   "name": "Curse of Royal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate the activation and the effect of a Spell or Trap Card that includes the effect of destroying 1 Spell or Trap Card and destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2926176.jpg"
   ],
+  "text": "Negate the activation and the effect of a Spell or Trap Card that includes the effect of destroying 1 Spell or Trap Card and destroy it.",
   "type": "Trap",
   "trap_type": "Counter"
 }

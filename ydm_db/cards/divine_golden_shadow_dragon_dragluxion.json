@@ -3,19 +3,18 @@
   "name": "Divine Golden Shadow Dragon Dragluxion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 8 monsters\nIf this card is Special Summoned from the Extra Deck: You can add 1 \"Galaxy\" or \"Tachyon\" card from your Deck to your hand. You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 Rank 8 Dragon Xyz Monster with 3000 ATK, using this card you control as material (this is treated as an Xyz Summon, transfer its materials to the Summoned monster), then you can attach 1 \"Galaxy\" monster from your Extra Deck to it. You can only use each effect of \"Divine Golden Shadow Dragon Dragluxion\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44698398.jpg"
   ],
+  "text": "2 Level 8 monsters\nIf this card is Special Summoned from the Extra Deck: You can add 1 \"Galaxy\" or \"Tachyon\" card from your Deck to your hand. You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 Rank 8 Dragon Xyz Monster with 3000 ATK, using this card you control as material (this is treated as an Xyz Summon, transfer its materials to the Summoned monster), then you can attach 1 \"Galaxy\" monster from your Extra Deck to it. You can only use each effect of \"Divine Golden Shadow Dragon Dragluxion\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 3000,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 8,
+  "def": 3000
 }

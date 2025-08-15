@@ -3,19 +3,19 @@
   "name": "Ally of Justice Core Destroyer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36629203.jpg"
   ],
+  "text": "At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 200,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 3,
+  "is_tuner": false
 }

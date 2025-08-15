@@ -3,19 +3,19 @@
   "name": "Dimension Shifter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you have no cards in your GY (Quick Effect): You can send this card from your hand to the GY; until the end of the next turn, any card sent to the GY is banished instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91800273.jpg"
   ],
+  "text": "If you have no cards in your GY (Quick Effect): You can send this card from your hand to the GY; until the end of the next turn, any card sent to the GY is banished instead.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 2200,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
 }

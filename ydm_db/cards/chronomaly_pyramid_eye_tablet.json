@@ -3,10 +3,10 @@
   "name": "Chronomaly Pyramid Eye Tablet",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All \"Chronomaly\" monsters you control gain 800 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26345570.jpg"
   ],
+  "text": "All \"Chronomaly\" monsters you control gain 800 ATK.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

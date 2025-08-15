@@ -3,19 +3,19 @@
   "name": "An Owl of Luck",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If \"Necrovalley\" is on the field, you can add the selected Field Spell Card to your hand instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23927567.jpg"
   ],
+  "text": "FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If \"Necrovalley\" is on the field, you can add the selected Field Spell Card to your hand instead.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 300,
-  "def": 500,
-  "level": 2,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

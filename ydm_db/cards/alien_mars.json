@@ -3,19 +3,19 @@
   "name": "Alien Mars",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The effects of Effect Monsters with A-Counters are negated, except for \"Alien Mars\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99532708.jpg"
   ],
+  "text": "The effects of Effect Monsters with A-Counters are negated, except for \"Alien Mars\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1000,
-  "def": 1000,
-  "level": 3,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

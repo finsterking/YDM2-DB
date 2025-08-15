@@ -3,19 +3,19 @@
   "name": "Creeping Doom Manta",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned successfully, no Trap Cards can be activated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52571838.jpg"
   ],
+  "text": "When this card is Normal Summoned successfully, no Trap Cards can be activated.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1300,
-  "def": 1200,
-  "level": 3,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
 }

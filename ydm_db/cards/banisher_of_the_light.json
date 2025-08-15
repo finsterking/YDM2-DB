@@ -3,19 +3,19 @@
   "name": "Banisher of the Light",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Any card sent to the Graveyard is banished instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61528025.jpg"
   ],
+  "text": "Any card sent to the Graveyard is banished instead.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 100,
-  "def": 2000,
-  "level": 3,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,18 @@
   "name": "Cerzebuth, Laimargia of the Ebon Irons",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Level 7 monsters\nGains 700 ATK for each material attached to it. Once per Chain, when a Normal or Quick-Play Spell Card is activated (Quick Effect): You can attach that card on the field to this face-up card, and if you do, this card is unaffected by that activated effect. During the End Phase: You can Set 1 Spell attached to this card. You can only use this effect of \"Cerzebuth, Laimargia of the Ebon Irons\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94503794.jpg"
   ],
+  "text": "2+ Level 7 monsters\nGains 700 ATK for each material attached to it. Once per Chain, when a Normal or Quick-Play Spell Card is activated (Quick Effect): You can attach that card on the field to this face-up card, and if you do, this card is unaffected by that activated effect. During the End Phase: You can Set 1 Spell attached to this card. You can only use this effect of \"Cerzebuth, Laimargia of the Ebon Irons\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 700,
-  "def": 2500,
-  "level": 7,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 7,
+  "def": 2500
 }

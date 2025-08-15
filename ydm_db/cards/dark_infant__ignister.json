@@ -3,23 +3,20 @@
   "name": "Dark Infant @Ignister",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 non-Link \"@Ignister\" monster\nIf this card is Link Summoned: You can add 1 \"Ignister A.I.Land\" from your Deck to your hand. When a Cyberse monster with 2300 original ATK activates its effect (Quick Effect): You can move this card to your Main Monster Zone this card points to, then, you can change it to any Attribute until the end of this turn. You can only use each effect of \"Dark Infant @Ignister\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74567889.jpg"
   ],
+  "text": "1 non-Link \"@Ignister\" monster\nIf this card is Link Summoned: You can add 1 \"Ignister A.I.Land\" from your Deck to your hand. When a Cyberse monster with 2300 original ATK activates its effect (Quick Effect): You can move this card to your Main Monster Zone this card points to, then, you can change it to any Attribute until the end of this turn. You can only use each effect of \"Dark Infant @Ignister\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 500,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Left"
-  ],
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Left"
+  ]
 }

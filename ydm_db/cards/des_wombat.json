@@ -3,19 +3,19 @@
   "name": "Des Wombat",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Any damage to you from a card effect becomes 0.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9637706.jpg"
   ],
+  "text": "Any damage to you from a card effect becomes 0.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1600,
-  "def": 300,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
 }

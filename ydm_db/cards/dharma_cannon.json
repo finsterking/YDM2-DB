@@ -3,19 +3,19 @@
   "name": "Dharma Cannon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A monstrous creature whose body is lined with cannons that never miss their targets.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96967123.jpg"
   ],
+  "text": "A monstrous creature whose body is lined with cannons that never miss their targets.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 900,
-  "def": 500,
-  "level": 2,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

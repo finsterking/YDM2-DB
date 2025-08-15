@@ -3,19 +3,19 @@
   "name": "Crystron Rion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent's Main Phase or Battle Phase: You can target 1 of your banished non-Tuner monsters; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine-Type Synchro Monster using only that monster and this card (this is a Quick Effect). These Synchro Materials are shuffled into the Deck instead of being sent to the Graveyard. You can only use this effect of \"Crystron Rion\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66938505.jpg"
   ],
+  "text": "During your opponent's Main Phase or Battle Phase: You can target 1 of your banished non-Tuner monsters; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine-Type Synchro Monster using only that monster and this card (this is a Quick Effect). These Synchro Materials are shuffled into the Deck instead of being sent to the Graveyard. You can only use this effect of \"Crystron Rion\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 500,
-  "def": 500,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 3,
+  "is_tuner": true
 }

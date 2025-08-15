@@ -3,10 +3,10 @@
   "name": "Dragon Laser",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Send 1 \"Trigon\" equipped to a face-up \"Delta Tri\" you control to the Graveyard, and destroy all monsters your opponent controls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29228350.jpg"
   ],
+  "text": "Send 1 \"Trigon\" equipped to a face-up \"Delta Tri\" you control to the Graveyard, and destroy all monsters your opponent controls.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

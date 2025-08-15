@@ -3,19 +3,19 @@
   "name": "Deepsea Shark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Bottom Dweller\" + \"Tongyo\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28593363.jpg"
   ],
+  "text": "\"Bottom Dweller\" + \"Tongyo\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WATER",
   "atk": 1900,
-  "def": 1600,
-  "level": 5,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Different Dimension Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be destroyed by Spell/Trap effects that do not target it. This card cannot be destroyed by battle with a monster that has 1900 or less ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50939127.jpg"
   ],
+  "text": "This card cannot be destroyed by Spell/Trap effects that do not target it. This card cannot be destroyed by battle with a monster that has 1900 or less ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": 1500,
-  "level": 5,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
 }

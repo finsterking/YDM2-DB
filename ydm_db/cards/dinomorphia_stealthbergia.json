@@ -3,19 +3,19 @@
   "name": "Dinomorphia Stealthbergia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"Dinomorphia\" monsters with different names\nWhile your LP are 2000 or less, you do not pay LP to activate Trap Cards or \"Dinomorphia\" monster effects. You can only use each of the following effects of \"Dinomorphia Stealthbergia\" once per turn. When your opponent activates a monster effect (Quick Effect): You can inflict damage to your opponent equal to that monster's original ATK. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower \"Dinomorphia\" monster from your GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74936480.jpg"
   ],
+  "text": "2 \"Dinomorphia\" monsters with different names\nWhile your LP are 2000 or less, you do not pay LP to activate Trap Cards or \"Dinomorphia\" monster effects. You can only use each of the following effects of \"Dinomorphia Stealthbergia\" once per turn. When your opponent activates a monster effect (Quick Effect): You can inflict damage to your opponent equal to that monster's original ATK. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower \"Dinomorphia\" monster from your GY.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 0,
-  "def": 2500,
-  "level": 6,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2500,
+  "level": 6,
+  "is_tuner": false
 }

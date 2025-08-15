@@ -3,19 +3,19 @@
   "name": "Celestial Wolf Lord, Blue Sirius",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card on the field is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; it loses 2400 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32995007.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card on the field is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; it loses 2400 ATK.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "DARK",
   "atk": 2400,
-  "def": 1500,
-  "level": 6,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
 }

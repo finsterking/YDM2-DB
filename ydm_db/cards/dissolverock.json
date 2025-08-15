@@ -3,19 +3,19 @@
   "name": "Dissolverock",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A monster born in the lava pits, it generates intense heat that can melt away its enemies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40826495.jpg"
   ],
+  "text": "A monster born in the lava pits, it generates intense heat that can melt away its enemies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 1000,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

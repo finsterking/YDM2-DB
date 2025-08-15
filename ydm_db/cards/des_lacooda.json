@@ -3,19 +3,19 @@
   "name": "Des Lacooda",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2326738.jpg"
   ],
+  "text": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 600,
-  "level": 3,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
 }

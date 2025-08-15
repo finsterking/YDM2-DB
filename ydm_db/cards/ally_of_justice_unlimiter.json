@@ -3,19 +3,19 @@
   "name": "Ally of Justice Unlimiter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card to select 1 face-up \"Ally of Justice\" monster you control. Double its original ATK until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82377606.jpg"
   ],
+  "text": "You can Tribute this card to select 1 face-up \"Ally of Justice\" monster you control. Double its original ATK until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 600,
-  "def": 200,
-  "level": 2,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "B. Dragon Jungle King",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A jet-black dragon found in the deepest jungles who normally devours trees.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89832901.jpg"
   ],
+  "text": "''A jet-black dragon found in the deepest jungles who normally devours trees.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2100,
-  "def": 1800,
-  "level": 6,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

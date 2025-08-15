@@ -3,19 +3,19 @@
   "name": "Bone Mouse",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A mouse that has returned as a zombie to seek revenge on cats.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21239280.jpg"
   ],
+  "text": "''A mouse that has returned as a zombie to seek revenge on cats.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 400,
-  "def": 300,
-  "level": 1,
   "species": "Zombie",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 300,
+  "level": 1,
+  "is_tuner": false
 }

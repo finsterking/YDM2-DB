@@ -3,19 +3,19 @@
   "name": "Ancient Elf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93221206.jpg"
   ],
+  "text": "This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1450,
-  "def": 1200,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Dust Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Send 1 EARTH monster from your Deck to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35195612.jpg"
   ],
+  "text": "FLIP: Send 1 EARTH monster from your Deck to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 1200,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Aztekipede, the Worm Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by banishing 1 Insect-Type monster from your Graveyard, and cannot be Special Summoned by other ways. If this card inflicts battle damage to your opponent: Send the top card of their Deck to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75081613.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by banishing 1 Insect-Type monster from your Graveyard, and cannot be Special Summoned by other ways. If this card inflicts battle damage to your opponent: Send the top card of their Deck to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1900,
-  "def": 400,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
 }

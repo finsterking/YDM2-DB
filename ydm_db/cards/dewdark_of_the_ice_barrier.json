@@ -3,19 +3,19 @@
   "name": "Dewdark of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If the only face-up monsters you control are Level 2 or lower, this card can attack your opponent directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90311614.jpg"
   ],
+  "text": "If the only face-up monsters you control are Level 2 or lower, this card can attack your opponent directly.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1200,
-  "def": 800,
-  "level": 2,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": true
 }

@@ -3,19 +3,18 @@
   "name": "Battlin' Boxer Cheat Commissioner",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 3 monsters\nAll monsters your opponent controls must attack, if able. While you control another \"Battlin' Boxer\" monster, your opponent cannot target this card for attacks. When an attack is declared involving another \"Battlin' Boxer\" monster you control: You can detach 2 Xyz Materials from this card; look at your opponent's hand, then Set 1 Spell Card from their hand to your side of the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76589815.jpg"
   ],
+  "text": "2 Level 3 monsters\nAll monsters your opponent controls must attack, if able. While you control another \"Battlin' Boxer\" monster, your opponent cannot target this card for attacks. When an attack is declared involving another \"Battlin' Boxer\" monster you control: You can detach 2 Xyz Materials from this card; look at your opponent's hand, then Set 1 Spell Card from their hand to your side of the field.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "FIRE",
   "atk": 0,
-  "def": 1300,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 3,
+  "def": 1300
 }

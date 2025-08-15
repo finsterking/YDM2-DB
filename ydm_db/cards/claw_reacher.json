@@ -3,19 +3,19 @@
   "name": "Claw Reacher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Stretching arms and razor-sharp claws make this monster a formidable opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41218256.jpg"
   ],
+  "text": "Stretching arms and razor-sharp claws make this monster a formidable opponent.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 800,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

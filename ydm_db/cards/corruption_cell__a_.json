@@ -3,10 +3,10 @@
   "name": "Corruption Cell \"A\"",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Place 1 A-Counter on 1 face-up monster on your opponent's side of the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2561846.jpg"
   ],
+  "text": "Place 1 A-Counter on 1 face-up monster on your opponent's side of the field.",
   "type": "Spell",
   "spell_type": "Normal"
 }

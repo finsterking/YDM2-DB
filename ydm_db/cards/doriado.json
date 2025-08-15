@@ -3,19 +3,19 @@
   "name": "Doriado",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A spirit of the forest powered by the surrounding trees and wildlife.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84916669.jpg"
   ],
+  "text": "''A spirit of the forest powered by the surrounding trees and wildlife.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1200,
-  "def": 1400,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

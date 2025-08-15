@@ -3,10 +3,10 @@
   "name": "Cloudian Squall",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During each of your Standby Phases, place 1 Fog Counter on every face-up monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90135989.jpg"
   ],
+  "text": "During each of your Standby Phases, place 1 Fog Counter on every face-up monster.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

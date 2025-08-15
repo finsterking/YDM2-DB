@@ -3,19 +3,19 @@
   "name": "Artifact Labrys",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. When an \"Artifact\" card(s) is destroyed and sent to your Graveyard (except during the Damage Step): You can Special Summon this card from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47863787.jpg"
   ],
+  "text": "You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. When an \"Artifact\" card(s) is destroyed and sent to your Graveyard (except during the Damage Step): You can Special Summon this card from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2300,
-  "def": 1000,
-  "level": 5,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 5,
+  "is_tuner": false
 }

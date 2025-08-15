@@ -3,19 +3,19 @@
   "name": "Crystron Quan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent's Main Phase or Battle Phase: You can Special Summon 1 non-Tuner monster from your hand, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine-Type Synchro Monster using only that monster and this card (this is a Quick Effect). You can only use this effect of \"Crystron Quan\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93665266.jpg"
   ],
+  "text": "During your opponent's Main Phase or Battle Phase: You can Special Summon 1 non-Tuner monster from your hand, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 Machine-Type Synchro Monster using only that monster and this card (this is a Quick Effect). You can only use this effect of \"Crystron Quan\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 500,
-  "def": 500,
-  "level": 1,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 1,
+  "is_tuner": true
 }

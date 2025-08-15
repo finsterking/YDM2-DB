@@ -3,10 +3,10 @@
   "name": "Cold Feet",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40383551.jpg"
   ],
+  "text": "You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

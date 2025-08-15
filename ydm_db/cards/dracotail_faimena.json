@@ -3,19 +3,19 @@
   "name": "Dracotail Faimena",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/1498449.jpg"
   ],
+  "text": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1300,
-  "def": 2500,
-  "level": 5,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2500,
+  "level": 5,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Disk Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster hides in a saucer and only appears when executing an attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76446915.jpg"
   ],
+  "text": "This monster hides in a saucer and only appears when executing an attack.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1350,
-  "def": 1000,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

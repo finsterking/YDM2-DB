@@ -3,19 +3,19 @@
   "name": "Des Mosquito",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Special Summoned: Place 2 counters on it. It gains 500 ATK for each of these counters. If this card would be destroyed by battle, remove 1 of these counters instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33695750.jpg"
   ],
+  "text": "When this card is Normal or Special Summoned: Place 2 counters on it. It gains 500 ATK for each of these counters. If this card would be destroyed by battle, remove 1 of these counters instead.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 500,
-  "def": 500,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

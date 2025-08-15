@@ -3,19 +3,19 @@
   "name": "Burning Algae",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is sent to the Graveyard, increase your opponent's Life Points by 1000 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41859700.jpg"
   ],
+  "text": "When this card is sent to the Graveyard, increase your opponent's Life Points by 1000 points.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 500,
-  "def": 1500,
-  "level": 3,
   "species": "Pyro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 3,
+  "is_tuner": false
 }

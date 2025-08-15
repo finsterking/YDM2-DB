@@ -3,10 +3,10 @@
   "name": "Chain Energy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each player must pay 500 Life Points per card to Normal Summon, Special Summon, Set or activate cards from his/her respective hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79323590.jpg"
   ],
+  "text": "Each player must pay 500 Life Points per card to Normal Summon, Special Summon, Set or activate cards from his/her respective hand.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

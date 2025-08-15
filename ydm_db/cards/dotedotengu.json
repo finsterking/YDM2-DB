@@ -3,19 +3,19 @@
   "name": "Dotedotengu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card in your possession is sent to your Graveyard by an opponent's card effect: You can target 1 card your opponent controls; return it to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82050203.jpg"
   ],
+  "text": "If this card in your possession is sent to your Graveyard by an opponent's card effect: You can target 1 card your opponent controls; return it to the hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 0,
-  "def": 800,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

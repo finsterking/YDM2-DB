@@ -3,19 +3,19 @@
   "name": "Boot Staggered",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a Cyberse monster is Normal Summoned to your field: You can Special Summon this card from your hand. You can only use this effect of \"Boot Staggered\" once per turn. When this card inflicts battle damage to your opponent: You can Special Summon 1 \"Stag Token\" (Cyberse/EARTH/Level 1/ATK 0/DEF 0).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70950698.jpg"
   ],
+  "text": "When a Cyberse monster is Normal Summoned to your field: You can Special Summon this card from your hand. You can only use this effect of \"Boot Staggered\" once per turn. When this card inflicts battle damage to your opponent: You can Special Summon 1 \"Stag Token\" (Cyberse/EARTH/Level 1/ATK 0/DEF 0).",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2300,
-  "def": 500,
-  "level": 5,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 5,
+  "is_tuner": false
 }

@@ -3,7 +3,6 @@
   "name": "Dark Magician Girl",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38033121.jpg",
     "https://images.ygoprodeck.com/images/cards/38033122.jpg",
@@ -12,15 +11,16 @@
     "https://images.ygoprodeck.com/images/cards/38033125.jpg",
     "https://images.ygoprodeck.com/images/cards/38033126.jpg"
   ],
+  "text": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2000,
-  "def": 1700,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
 }

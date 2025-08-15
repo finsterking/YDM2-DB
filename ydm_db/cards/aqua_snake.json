@@ -3,19 +3,19 @@
   "name": "Aqua Snake",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12436646.jpg"
   ],
+  "text": "''This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1050,
-  "def": 900,
-  "level": 3,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

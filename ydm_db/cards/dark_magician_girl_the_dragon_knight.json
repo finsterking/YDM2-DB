@@ -3,20 +3,20 @@
   "name": "Dark Magician Girl the Dragon Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Dark Magician Girl\" + 1 Dragon monster\nMust be Fusion Summoned with the above Fusion Materials or with \"The Eye of Timaeus\". Once per turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 face-up card on the field; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43892408.jpg",
     "https://images.ygoprodeck.com/images/cards/43892409.jpg"
   ],
+  "text": "\"Dark Magician Girl\" + 1 Dragon monster\nMust be Fusion Summoned with the above Fusion Materials or with \"The Eye of Timaeus\". Once per turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 face-up card on the field; destroy that target.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2600,
-  "def": 1700,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1700,
+  "level": 7,
+  "is_tuner": false
 }

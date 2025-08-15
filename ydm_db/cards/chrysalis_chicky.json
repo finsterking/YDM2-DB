@@ -3,19 +3,19 @@
   "name": "Chrysalis Chicky",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Air Hummingbird\" from your hand or Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17363041.jpg"
   ],
+  "text": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Air Hummingbird\" from your hand or Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 600,
-  "def": 400,
-  "level": 2,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
 }

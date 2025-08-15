@@ -3,19 +3,19 @@
   "name": "Dark Resonator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97021916.jpg"
   ],
+  "text": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 300,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": true
 }

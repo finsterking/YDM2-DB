@@ -3,26 +3,23 @@
   "name": "Accesscode Talker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Effect Monsters\nYour opponent cannot activate cards or effects in response to this card's effect activations. If this card is Link Summoned: You can target 1 Link Monster that was used as material for its Link Summon; this card gains ATK equal to that monster's Link Rating x 1000. You can banish 1 Link Monster from your field or GY; destroy 1 card your opponent controls, also for the rest of this turn, you cannot banish monsters with that same Attribute to activate this effect of \"Accesscode Talker\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86066372.jpg"
   ],
+  "text": "2+ Effect Monsters\nYour opponent cannot activate cards or effects in response to this card's effect activations. If this card is Link Summoned: You can target 1 Link Monster that was used as material for its Link Summon; this card gains ATK equal to that monster's Link Rating x 1000. You can banish 1 Link Monster from your field or GY; destroy 1 card your opponent controls, also for the rest of this turn, you cannot banish monsters with that same Attribute to activate this effect of \"Accesscode Talker\".",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 2300,
-  "def": null,
-  "level": null,
-  "link": 4,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 4,
   "link_arrows": [
     "Top",
     "Left",
     "Right",
     "Bottom"
-  ],
-  "species": "Cyberse",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

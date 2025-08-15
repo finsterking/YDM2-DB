@@ -3,19 +3,19 @@
   "name": "Ancient Crimson Ape",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50781944.jpg"
   ],
+  "text": "When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2600,
-  "def": 1800,
-  "level": 7,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
 }

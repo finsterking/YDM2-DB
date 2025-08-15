@@ -3,19 +3,19 @@
   "name": "Chthonian Emperor Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● This card can attack twice during the same Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95888876.jpg"
   ],
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:\n● This card can attack twice during the same Battle Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 2400,
-  "def": 1500,
-  "level": 6,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "4-Starred Ladybug of Doom",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Destroy all Level 4 monsters your opponent controls.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83994646.jpg"
   ],
+  "text": "FLIP: Destroy all Level 4 monsters your opponent controls.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 800,
-  "def": 1200,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 3,
+  "is_tuner": false
 }

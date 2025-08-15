@@ -3,19 +3,19 @@
   "name": "Dragard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 1 Normal Monster with 1000 or less ATK in your Graveyard; Special Summon that target in face-up Defense Position. Once per turn: You can Tribute 1 Dragon-Type monster, then target 1 face-up monster you control; until the End Phase, its Level becomes 8, and if it does, it gains 800 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65737274.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can target 1 Normal Monster with 1000 or less ATK in your Graveyard; Special Summon that target in face-up Defense Position. Once per turn: You can Tribute 1 Dragon-Type monster, then target 1 face-up monster you control; until the End Phase, its Level becomes 8, and if it does, it gains 800 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 1900,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
 }

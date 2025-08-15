@@ -3,19 +3,19 @@
   "name": "Blackwing Armed Wing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Blackwing\" Tuner + 1 or more non-Tuner monsters\nIf this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only, also inflict piercing battle damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76913983.jpg"
   ],
+  "text": "1 \"Blackwing\" Tuner + 1 or more non-Tuner monsters\nIf this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only, also inflict piercing battle damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "DARK",
   "atk": 2300,
-  "def": 1000,
-  "level": 6,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

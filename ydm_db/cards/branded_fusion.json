@@ -3,10 +3,10 @@
   "name": "Branded Fusion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Fusion Summon 1 Fusion Monster that mentions \"Fallen of Albaz\" as material from your Extra Deck, using 2 monsters from your hand, Deck, or field as material. You cannot Special Summon from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Branded Fusion\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44362883.jpg"
   ],
+  "text": "Fusion Summon 1 Fusion Monster that mentions \"Fallen of Albaz\" as material from your Extra Deck, using 2 monsters from your hand, Deck, or field as material. You cannot Special Summon from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Branded Fusion\" per turn.",
   "type": "Spell",
   "spell_type": "Normal"
 }

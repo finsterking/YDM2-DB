@@ -3,10 +3,10 @@
   "name": "Counter Counter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate the activation of a Counter Trap Card, and destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42309337.jpg"
   ],
+  "text": "Negate the activation of a Counter Trap Card, and destroy it.",
   "type": "Trap",
   "trap_type": "Counter"
 }

@@ -3,10 +3,10 @@
   "name": "Cloak and Dagger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Declare 1 Monster Card name. If your opponent Normal Summons, Special Summons, or flips that monster(s) face-up, remove that monster(s) and this card from play.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8323633.jpg"
   ],
+  "text": "Declare 1 Monster Card name. If your opponent Normal Summons, Special Summons, or flips that monster(s) face-up, remove that monster(s) and this card from play.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

@@ -3,19 +3,19 @@
   "name": "Archfiend Heiress",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent to the Graveyard because of a card effect or being destroyed by battle: You can add 1 \"Archfiend\" card from your Deck to your hand, except \"Archfiend Heiress\". You can only use the effect of \"Archfiend Heiress\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66540884.jpg"
   ],
+  "text": "If this card is sent to the Graveyard because of a card effect or being destroyed by battle: You can add 1 \"Archfiend\" card from your Deck to your hand, except \"Archfiend Heiress\". You can only use the effect of \"Archfiend Heiress\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 0,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
 }

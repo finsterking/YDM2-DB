@@ -3,10 +3,10 @@
   "name": "Blackboost",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Banish 2 face-up \"Blackwing\" Tuner monsters you control; draw 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53519297.jpg"
   ],
+  "text": "Banish 2 face-up \"Blackwing\" Tuner monsters you control; draw 2 cards.",
   "type": "Trap",
   "trap_type": "Normal"
 }

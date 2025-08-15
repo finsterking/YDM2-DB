@@ -3,10 +3,10 @@
   "name": "D.D. Dynamite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Inflict 300 damage to your opponent for each of their removed from play cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8628798.jpg"
   ],
+  "text": "Inflict 300 damage to your opponent for each of their removed from play cards.",
   "type": "Trap",
   "trap_type": "Normal"
 }

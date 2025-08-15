@@ -3,19 +3,19 @@
   "name": "Blue-Winged Crown",
   "is_illegal": false,
   "is_custom": false,
-  "text": "With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41396436.jpg"
   ],
+  "text": "With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1600,
-  "def": 1200,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

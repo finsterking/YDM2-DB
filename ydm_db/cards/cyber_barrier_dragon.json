@@ -3,19 +3,19 @@
   "name": "Cyber Barrier Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Attack Reflector Unit\". Once per turn, while this card is in Attack Position, your opponent's next attack is negated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68774379.jpg"
   ],
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Attack Reflector Unit\". Once per turn, while this card is in Attack Position, your opponent's next attack is negated.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 800,
-  "def": 2800,
-  "level": 6,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2800,
+  "level": 6,
+  "is_tuner": false
 }

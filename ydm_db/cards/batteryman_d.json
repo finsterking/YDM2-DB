@@ -3,19 +3,19 @@
   "name": "Batteryman D",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent cannot select a Thunder-Type monster you control as an attack target (except \"Batteryman D\").",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55401221.jpg"
   ],
+  "text": "Your opponent cannot select a Thunder-Type monster you control as an attack target (except \"Batteryman D\").",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 1900,
-  "level": 1,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1900,
+  "level": 1,
+  "is_tuner": false
 }

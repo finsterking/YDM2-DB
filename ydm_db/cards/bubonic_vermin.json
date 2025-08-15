@@ -3,19 +3,19 @@
   "name": "Bubonic Vermin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/6104968.jpg"
   ],
+  "text": "FLIP: You can Special Summon 1 \"Bubonic Vermin\" from your Deck in face-down Defense Position. Then shuffle your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 600,
-  "level": 3,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 3,
+  "is_tuner": false
 }

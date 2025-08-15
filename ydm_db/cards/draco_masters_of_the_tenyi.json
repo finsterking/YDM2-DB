@@ -3,25 +3,22 @@
   "name": "Draco Masters of the Tenyi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ monsters, including a Link Monster\nCannot be destroyed by battle with an Effect Monster. If you control no other Effect Monsters: You can destroy Effect Monsters your opponent controls, up to the number of non-Effect Monsters you control and/or in your GY. You can only use this effect of \"Draco Masters of the Tenyi\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23935886.jpg"
   ],
+  "text": "2+ monsters, including a Link Monster\nCannot be destroyed by battle with an Effect Monster. If you control no other Effect Monsters: You can destroy Effect Monsters your opponent controls, up to the number of non-Effect Monsters you control and/or in your GY. You can only use this effect of \"Draco Masters of the Tenyi\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 2600,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Wyrm",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Bottom-Left",
     "Bottom",
     "Bottom-Right"
-  ],
-  "species": "Wyrm",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

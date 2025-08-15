@@ -3,21 +3,21 @@
   "name": "Blue-Eyes Ultimate Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23995346.jpg",
     "https://images.ygoprodeck.com/images/cards/23995347.jpg",
     "https://images.ygoprodeck.com/images/cards/23995348.jpg"
   ],
+  "text": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 4500,
-  "def": 3800,
-  "level": 12,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 3800,
+  "level": 12,
+  "is_tuner": false
 }

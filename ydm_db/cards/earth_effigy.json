@@ -3,19 +3,19 @@
   "name": "Earth Effigy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53461122.jpg"
   ],
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "def": 2000,
-  "level": 4,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

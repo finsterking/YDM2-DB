@@ -3,19 +3,19 @@
   "name": "Angraecum Umbrella",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can discard 1 card, then target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but negate its effects, also for the rest of this turn, you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73979030.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can discard 1 card, then target 1 Level 4 or lower monster in your GY; Special Summon it in Defense Position, but negate its effects, also for the rest of this turn, you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 500,
-  "def": 1500,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 3,
+  "is_tuner": true
 }

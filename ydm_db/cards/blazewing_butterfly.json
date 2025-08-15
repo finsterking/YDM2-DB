@@ -3,19 +3,19 @@
   "name": "Blazewing Butterfly",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can Tribute this card, then target 1 Gemini monster in your Graveyard, except \"Blazewing Butterfly\"; Special Summon that target, and if you do, it becomes an Effect Monster, and gains its effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16984449.jpg"
   ],
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can Tribute this card, then target 1 Gemini monster in your Graveyard, except \"Blazewing Butterfly\"; Special Summon that target, and if you do, it becomes an Effect Monster, and gains its effect.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1500,
-  "def": 1500,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

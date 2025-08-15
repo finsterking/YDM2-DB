@@ -3,10 +3,10 @@
   "name": "Concentrating Current",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up monster you control; it gains ATK equal to its current DEF, until the end of this turn. Other monsters you control cannot attack during the turn you activate this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20501450.jpg"
   ],
+  "text": "Target 1 face-up monster you control; it gains ATK equal to its current DEF, until the end of this turn. Other monsters you control cannot attack during the turn you activate this card.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

@@ -3,10 +3,10 @@
   "name": "Amazoness Fighting Spirit",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If an \"Amazoness\" monster attacks a monster with higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36100154.jpg"
   ],
+  "text": "If an \"Amazoness\" monster attacks a monster with higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

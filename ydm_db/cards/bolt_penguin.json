@@ -3,19 +3,19 @@
   "name": "Bolt Penguin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "With each arm forming an electric whip, this monster paralyzes its enemies with electric shocks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48531733.jpg"
   ],
+  "text": "With each arm forming an electric whip, this monster paralyzes its enemies with electric shocks.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1100,
-  "def": 800,
-  "level": 3,
   "species": "Thunder",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

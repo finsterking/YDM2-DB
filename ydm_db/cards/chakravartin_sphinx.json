@@ -3,19 +3,19 @@
   "name": "Chakravartin Sphinx",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, if the battle position of another monster(s) on the field is changed (except during the Damage Step): You can target 1 card on the field; return it to the hand. You can only use each of the following effects of \"Chakravartin Sphinx\" once per turn. If the battle position of a monster(s) is changed (except during the Damage Step): You can banish 1 Spell from your GY; Special Summon this card from your GY (if it was there when the position changed) or hand (even if not). During your Main Phase: You can Set 1 \"Book of Taiyou\" and/or 1 \"Book of Moon\" from your Deck and/or GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46148485.jpg"
   ],
+  "text": "Once per turn, if the battle position of another monster(s) on the field is changed (except during the Damage Step): You can target 1 card on the field; return it to the hand. You can only use each of the following effects of \"Chakravartin Sphinx\" once per turn. If the battle position of a monster(s) is changed (except during the Damage Step): You can banish 1 Spell from your GY; Special Summon this card from your GY (if it was there when the position changed) or hand (even if not). During your Main Phase: You can Set 1 \"Book of Taiyou\" and/or 1 \"Book of Moon\" from your Deck and/or GY.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2500,
-  "def": 3000,
-  "level": 8,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
 }

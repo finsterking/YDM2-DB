@@ -3,19 +3,19 @@
   "name": "Cosmo Brain",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned by sending 1 non-Effect Monster from your hand or face-up field to the GY. This card gains ATK equal to the Level of the monster sent to the GY this way x 200. You can Tribute 1 Effect Monster; Special Summon 1 Normal Monster from your hand or Deck. You can only use this effect of \"Cosmo Brain\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85679527.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned by sending 1 non-Effect Monster from your hand or face-up field to the GY. This card gains ATK equal to the Level of the monster sent to the GY this way x 200. You can Tribute 1 Effect Monster; Special Summon 1 Normal Monster from your hand or Deck. You can only use this effect of \"Cosmo Brain\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1500,
-  "def": 2450,
-  "level": 7,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2450,
+  "level": 7,
+  "is_tuner": false
 }

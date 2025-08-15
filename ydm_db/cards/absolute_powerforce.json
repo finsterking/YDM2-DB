@@ -3,10 +3,10 @@
   "name": "Absolute Powerforce",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 \"Red Dragon Archfiend\" you control; if it battles an opponent's monster this turn while you control it, apply these effects until the end of the Damage Step.\n● It gains 1000 ATK.\n● Your opponent cannot activate cards or effects.\n● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n● Any battle damage your opponent takes from that battle is doubled.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51779204.jpg"
   ],
+  "text": "Target 1 \"Red Dragon Archfiend\" you control; if it battles an opponent's monster this turn while you control it, apply these effects until the end of the Damage Step.\n● It gains 1000 ATK.\n● Your opponent cannot activate cards or effects.\n● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n● Any battle damage your opponent takes from that battle is doubled.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

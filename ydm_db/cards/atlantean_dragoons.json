@@ -3,19 +3,19 @@
   "name": "Atlantean Dragoons",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except \"Atlantean Dragoons\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74311226.jpg"
   ],
+  "text": "All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except \"Atlantean Dragoons\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1800,
-  "def": 0,
-  "level": 4,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Absolute King - Megaplunder",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''The king of dinosaurs that rules over the Earth. Its mighty roar makes its foes tremble in fear!''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27553701.jpg"
   ],
+  "text": "''The king of dinosaurs that rules over the Earth. Its mighty roar makes its foes tremble in fear!''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2000,
-  "def": 1500,
-  "level": 6,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
 }

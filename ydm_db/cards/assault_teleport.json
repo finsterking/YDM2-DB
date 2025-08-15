@@ -3,10 +3,10 @@
   "name": "Assault Teleport",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Return 1 \"/Assault Mode\" monster from your hand to the Deck. Draw 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29863101.jpg"
   ],
+  "text": "Return 1 \"/Assault Mode\" monster from your hand to the Deck. Draw 2 cards.",
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Brohunder",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can add 1 Level 4 LIGHT Thunder-Type monster from your Deck to your hand, except \"Brohunder\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27217742.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can add 1 Level 4 LIGHT Thunder-Type monster from your Deck to your hand, except \"Brohunder\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 900,
-  "def": 400,
-  "level": 4,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,23 +3,20 @@
   "name": "Appliancer Propelion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. This card can attack directly. Once per turn, during damage calculation, if your monster battles an opponent's monster, while this card is co-linked (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only. Once per turn, during damage calculation, if this monster that is not co-linked battles an opponent's monster (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81769387.jpg"
   ],
+  "text": "1 \"Appliancer\" monster\nCannot be used as Link Material the turn it is Link Summoned. This card can attack directly. Once per turn, during damage calculation, if your monster battles an opponent's monster, while this card is co-linked (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only. Once per turn, during damage calculation, if this monster that is not co-linked battles an opponent's monster (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "WIND",
   "atk": 1200,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Top"
-  ],
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Top"
+  ]
 }

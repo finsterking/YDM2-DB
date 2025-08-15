@@ -3,19 +3,19 @@
   "name": "Chain Thrasher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can attack 1 additional time during the same Battle Phase for each \"Chain Thrasher\" in your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88190453.jpg"
   ],
+  "text": "This card can attack 1 additional time during the same Battle Phase for each \"Chain Thrasher\" in your Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1000,
-  "def": 600,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

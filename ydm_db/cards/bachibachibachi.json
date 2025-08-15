@@ -3,19 +3,19 @@
   "name": "Bachibachibachi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83272895.jpg"
   ],
+  "text": "An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\n● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 800,
-  "def": 800,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

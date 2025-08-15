@@ -3,19 +3,19 @@
   "name": "Anthrosaurus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89904598.jpg"
   ],
+  "text": "Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 850,
-  "level": 3,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 850,
+  "level": 3,
+  "is_tuner": false
 }

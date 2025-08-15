@@ -3,19 +3,19 @@
   "name": "Dipity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A cute little thing who lives in a glass bottle and is said to bring good luck to the one who makes a contract with it. The lid must never be opened, no matter what happens...''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46533533.jpg"
   ],
+  "text": "''A cute little thing who lives in a glass bottle and is said to bring good luck to the one who makes a contract with it. The lid must never be opened, no matter what happens...''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 0,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

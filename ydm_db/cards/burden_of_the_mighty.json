@@ -3,10 +3,10 @@
   "name": "Burden of the Mighty",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each face-up monster your opponent controls loses 100 ATK x its own Level.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44947065.jpg"
   ],
+  "text": "Each face-up monster your opponent controls loses 100 ATK x its own Level.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

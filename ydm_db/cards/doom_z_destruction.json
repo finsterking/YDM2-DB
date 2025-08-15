@@ -3,10 +3,10 @@
   "name": "Doom-Z Destruction",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 \"Doom-Z\" Xyz Monster you control; equip this card to it as an Equip Card with this effect.\n● Your opponent cannot add cards from the Deck to the hand, except by drawing them.\nIf this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 \"Doom-Z\" monster from your Deck to it. You can only use each effect of \"Doom-Z Destruction\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80320877.jpg"
   ],
+  "text": "Target 1 \"Doom-Z\" Xyz Monster you control; equip this card to it as an Equip Card with this effect.\n● Your opponent cannot add cards from the Deck to the hand, except by drawing them.\nIf this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 \"Doom-Z\" monster from your Deck to it. You can only use each effect of \"Doom-Z Destruction\" once per turn.",
   "type": "Trap",
   "trap_type": "Normal"
 }

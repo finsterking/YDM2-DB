@@ -3,19 +3,19 @@
   "name": "Droll Bird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97973387.jpg"
   ],
+  "text": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 600,
-  "def": 500,
-  "level": 2,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

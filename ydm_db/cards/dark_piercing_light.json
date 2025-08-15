@@ -3,10 +3,10 @@
   "name": "Dark-Piercing Light",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Flip all face-down monsters on your opponent's side of the field face-up.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45895206.jpg"
   ],
+  "text": "Flip all face-down monsters on your opponent's side of the field face-up.",
   "type": "Spell",
   "spell_type": "Normal"
 }

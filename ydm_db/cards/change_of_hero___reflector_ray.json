@@ -3,10 +3,10 @@
   "name": "Change of Hero - Reflector Ray",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an \"Elemental HERO\" Fusion Monster you control is destroyed by battle and sent to the Graveyard: Inflict damage to your opponent equal to its original Level x 300.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74095602.jpg"
   ],
+  "text": "When an \"Elemental HERO\" Fusion Monster you control is destroyed by battle and sent to the Graveyard: Inflict damage to your opponent equal to its original Level x 300.",
   "type": "Trap",
   "trap_type": "Normal"
 }

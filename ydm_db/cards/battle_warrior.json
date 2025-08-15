@@ -3,19 +3,19 @@
   "name": "Battle Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A warrior that fights with his bare hands!!!",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55550921.jpg"
   ],
+  "text": "A warrior that fights with his bare hands!!!",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 700,
-  "def": 1000,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
 }

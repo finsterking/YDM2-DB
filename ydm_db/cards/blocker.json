@@ -3,19 +3,19 @@
   "name": "Blocker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Constructed from several components, this monster can launch them in a pincer attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34743446.jpg"
   ],
+  "text": "Constructed from several components, this monster can launch them in a pincer attack.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 850,
-  "def": 1800,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Banner of Courage",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All monsters you control gain 200 ATK during your Battle Phase only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10012614.jpg"
   ],
+  "text": "All monsters you control gain 200 ATK during your Battle Phase only.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

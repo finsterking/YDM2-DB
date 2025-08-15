@@ -3,10 +3,10 @@
   "name": "Crystal Beacon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Special Summon 1 \"Crystal Beast\" monster from your Deck. You must have 2 or more \"Crystal Beast\" cards in your Spell & Trap Card Zone to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95326659.jpg"
   ],
+  "text": "Special Summon 1 \"Crystal Beast\" monster from your Deck. You must have 2 or more \"Crystal Beast\" cards in your Spell & Trap Card Zone to activate and to resolve this effect.",
   "type": "Spell",
   "spell_type": "Normal"
 }

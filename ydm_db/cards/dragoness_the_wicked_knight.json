@@ -3,19 +3,19 @@
   "name": "Dragoness the Wicked Knight",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70681994.jpg"
   ],
+  "text": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WIND",
   "atk": 1200,
-  "def": 900,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 900,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "Backfire",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a face-up FIRE monster(s) you control is destroyed and sent to the GY: Inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82705573.jpg"
   ],
+  "text": "If a face-up FIRE monster(s) you control is destroyed and sent to the GY: Inflict 500 damage to your opponent.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

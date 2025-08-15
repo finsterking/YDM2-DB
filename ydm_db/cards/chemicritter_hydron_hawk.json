@@ -3,19 +3,19 @@
   "name": "Chemicritter Hydron Hawk",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can discard 1 card, then target 1 Gemini monster in your Graveyard; Special Summon it in Defense Position. You can only use this effect of \"Chemicritter Hydron Hawk\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55100740.jpg"
   ],
+  "text": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● You can discard 1 card, then target 1 Gemini monster in your Graveyard; Special Summon it in Defense Position. You can only use this effect of \"Chemicritter Hydron Hawk\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1400,
-  "def": 700,
-  "level": 2,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

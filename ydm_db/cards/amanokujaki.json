@@ -3,19 +3,19 @@
   "name": "Amanokujaki",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You cannot activate the effects of other Special Summoned monsters with the same Attribute as this card. Once per turn, during the Main Phase of this card's owner (Quick Effect): You can give control of this card to your opponent, then you (the activating player) can make this card become any Attribute until the end of the next turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43739056.jpg"
   ],
+  "text": "You cannot activate the effects of other Special Summoned monsters with the same Attribute as this card. Once per turn, during the Main Phase of this card's owner (Quick Effect): You can give control of this card to your opponent, then you (the activating player) can make this card become any Attribute until the end of the next turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 1000,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": true
 }

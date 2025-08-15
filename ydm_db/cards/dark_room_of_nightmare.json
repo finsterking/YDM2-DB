@@ -3,10 +3,10 @@
   "name": "Dark Room of Nightmare",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time your opponent takes damage from a card effect, except \"Dark Room of Nightmare\", inflict 300 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85562745.jpg"
   ],
+  "text": "Each time your opponent takes damage from a card effect, except \"Dark Room of Nightmare\", inflict 300 damage to your opponent.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

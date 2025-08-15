@@ -3,19 +3,19 @@
   "name": "Batteryman AAA",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned or flipped face-up, you can Special Summon 1 \"Batteryman AAA\" from your hand or Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47346845.jpg"
   ],
+  "text": "When this card is Normal Summoned or flipped face-up, you can Special Summon 1 \"Batteryman AAA\" from your hand or Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "def": 0,
-  "level": 4,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

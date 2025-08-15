@@ -3,19 +3,19 @@
   "name": "Dark Tinker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76614003.jpg"
   ],
+  "text": "When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 1300,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 2,
+  "is_tuner": true
 }

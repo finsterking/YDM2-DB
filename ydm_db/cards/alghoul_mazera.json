@@ -3,19 +3,19 @@
   "name": "Alghoul Mazera",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a Zombie monster(s) you control would be destroyed by battle or card effect, you can banish this card from your hand or GY instead. If this card is banished from the hand or GY: You can Special Summon this card in Defense Position, then you can reduce its Level by 1. You can only use each effect of \"Alghoul Mazera\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45154513.jpg"
   ],
+  "text": "If a Zombie monster(s) you control would be destroyed by battle or card effect, you can banish this card from your hand or GY instead. If this card is banished from the hand or GY: You can Special Summon this card in Defense Position, then you can reduce its Level by 1. You can only use each effect of \"Alghoul Mazera\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2800,
-  "def": 2300,
-  "level": 8,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2300,
+  "level": 8,
+  "is_tuner": false
 }

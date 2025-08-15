@@ -3,19 +3,19 @@
   "name": "Dimension Jar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73414375.jpg"
   ],
+  "text": "FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 200,
-  "def": 200,
-  "level": 2,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 2,
+  "is_tuner": false
 }

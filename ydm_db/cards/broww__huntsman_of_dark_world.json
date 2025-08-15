@@ -3,19 +3,19 @@
   "name": "Broww, Huntsman of Dark World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/79126789.jpg"
   ],
+  "text": "If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1400,
-  "def": 800,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Destruction Cyclone",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WIND monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59235795.jpg"
   ],
+  "text": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WIND monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 2000,
-  "def": 1500,
-  "level": 7,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
 }

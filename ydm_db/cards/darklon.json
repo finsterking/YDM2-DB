@@ -3,19 +3,19 @@
   "name": "Darklon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can have all face-up monsters you currently control gain 1 Level, also, they become DARK (these effects last until the End Phase).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76202610.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can have all face-up monsters you currently control gain 1 Level, also, they become DARK (these effects last until the End Phase).",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Blindly Loyal Goblin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "As long as this card remains face-up on the field, control of this card cannot switch.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/35215622.jpg"
   ],
+  "text": "As long as this card remains face-up on the field, control of this card cannot switch.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 1500,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

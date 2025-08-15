@@ -3,19 +3,19 @@
   "name": "Barrel Rock",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''Shouldering a pair of machine guns, this monster is unstoppable.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10476868.jpg"
   ],
+  "text": "''Shouldering a pair of machine guns, this monster is unstoppable.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 1300,
-  "level": 4,
   "species": "Rock",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

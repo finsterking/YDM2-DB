@@ -3,19 +3,19 @@
   "name": "Big Jaws",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Battle Phase, if this card attacked: Banish it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51254277.jpg"
   ],
+  "text": "At the end of the Battle Phase, if this card attacked: Banish it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1800,
-  "def": 300,
-  "level": 3,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
 }

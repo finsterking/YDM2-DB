@@ -3,19 +3,19 @@
   "name": "Dancing Elf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An elf that dances across the sky with wings of razor-sharp blades.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59983499.jpg"
   ],
+  "text": "An elf that dances across the sky with wings of razor-sharp blades.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 300,
-  "def": 200,
-  "level": 1,
   "species": "Fairy",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
 }

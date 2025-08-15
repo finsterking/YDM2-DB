@@ -3,19 +3,19 @@
   "name": "Chaos Goddess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 LIGHT Tuner + 2+ non-Tuner DARK monsters\nOnce per turn: You can send 1 LIGHT monster from your hand to the GY, then target 1 Level 5 or higher DARK monster in your GY; Special Summon that monster, but it cannot be used as Synchro Material.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31385077.jpg"
   ],
+  "text": "1 LIGHT Tuner + 2+ non-Tuner DARK monsters\nOnce per turn: You can send 1 LIGHT monster from your hand to the GY, then target 1 Level 5 or higher DARK monster in your GY; Special Summon that monster, but it cannot be used as Synchro Material.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 1800,
-  "level": 8,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1800,
+  "level": 8,
+  "is_tuner": false
 }

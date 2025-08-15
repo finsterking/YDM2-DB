@@ -3,19 +3,19 @@
   "name": "Blast Asmodian",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11685347.jpg"
   ],
+  "text": "If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1000,
-  "def": 300,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
 }

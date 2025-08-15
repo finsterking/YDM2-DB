@@ -3,19 +3,19 @@
   "name": "Amazoness Sage",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap your opponent controls; destroy that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53162898.jpg"
   ],
+  "text": "At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap your opponent controls; destroy that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 700,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 4,
+  "is_tuner": false
 }

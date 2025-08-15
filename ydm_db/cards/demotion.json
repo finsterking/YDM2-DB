@@ -3,10 +3,10 @@
   "name": "Demotion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Downgrade the monster equipped with this card by 2 Levels.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72575145.jpg"
   ],
+  "text": "Downgrade the monster equipped with this card by 2 Levels.",
   "type": "Spell",
   "spell_type": "Equip"
 }

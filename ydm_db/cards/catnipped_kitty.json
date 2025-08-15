@@ -3,19 +3,19 @@
   "name": "Catnipped Kitty",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be attacked if there is another Beast-Type monster on your side of the field. Once per turn, you can make the DEF of 1 monster on your opponent's side of the field 0 until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96501677.jpg"
   ],
+  "text": "This card cannot be attacked if there is another Beast-Type monster on your side of the field. Once per turn, you can make the DEF of 1 monster on your opponent's side of the field 0 until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 0,
-  "def": 500,
-  "level": 2,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

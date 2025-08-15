@@ -3,19 +3,19 @@
   "name": "Burial Bicorn Carnovorus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nDuring the Main or Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Dinosaur monster using this card you control. When a monster declares an attack: You can Special Summon 1 Dinosaur monster from your hand, ignoring its Summoning conditions, also you cannot Special Summon for the rest of this turn, except Dinosaur monsters. You can only use each effect of \"Burial Bicorn Carnovorus\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34149150.jpg"
   ],
+  "text": "1 Tuner + 1+ non-Tuner monsters\nDuring the Main or Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Dinosaur monster using this card you control. When a monster declares an attack: You can Special Summon 1 Dinosaur monster from your hand, ignoring its Summoning conditions, also you cannot Special Summon for the rest of this turn, except Dinosaur monsters. You can only use each effect of \"Burial Bicorn Carnovorus\" once per turn.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "FIRE",
   "atk": 2000,
-  "def": 200,
-  "level": 6,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 200,
+  "level": 6,
+  "is_tuner": true
 }

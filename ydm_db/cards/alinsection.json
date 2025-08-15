@@ -3,19 +3,19 @@
   "name": "Alinsection",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A stag beetle with a saw-like head and arms.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70924884.jpg"
   ],
+  "text": "A stag beetle with a saw-like head and arms.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 950,
-  "def": 700,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

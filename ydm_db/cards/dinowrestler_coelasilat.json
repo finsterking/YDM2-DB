@@ -3,19 +3,19 @@
   "name": "Dinowrestler Coelasilat",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, this card cannot be used as Link Material, except for the Link Summon of a \"Dinowrestler\" monster. You can only Special Summon \"Dinowrestler Coelasilat\" once per Duel this way.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75366958.jpg"
   ],
+  "text": "If you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, this card cannot be used as Link Material, except for the Link Summon of a \"Dinowrestler\" monster. You can only Special Summon \"Dinowrestler Coelasilat\" once per Duel this way.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "def": 800,
-  "level": 2,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": true
 }

@@ -3,10 +3,10 @@
   "name": "Assault Counter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only while you control an \"/Assault Mode\" monster. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect and destroy it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76407432.jpg"
   ],
+  "text": "Activate only while you control an \"/Assault Mode\" monster. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect and destroy it.",
   "type": "Trap",
   "trap_type": "Counter"
 }

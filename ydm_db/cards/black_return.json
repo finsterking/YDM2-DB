@@ -3,10 +3,10 @@
   "name": "Black Return",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When exactly 1 \"Blackwing\" monster (and no other monster) is Special Summoned: Target 1 face-up monster your opponent controls; gain LP equal to the ATK of that target, and if you do, return it to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72278479.jpg"
   ],
+  "text": "When exactly 1 \"Blackwing\" monster (and no other monster) is Special Summoned: Target 1 face-up monster your opponent controls; gain LP equal to the ATK of that target, and if you do, return it to the hand.",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Black Ptera",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is sent from the field to the GY, except by being destroyed by battle: Return it to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90654356.jpg"
   ],
+  "text": "If this card is sent from the field to the GY, except by being destroyed by battle: Return it to the hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1000,
-  "def": 500,
-  "level": 3,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

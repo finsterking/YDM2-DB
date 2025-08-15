@@ -3,19 +3,19 @@
   "name": "Dark Ruler Ha Des",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53982768.jpg"
   ],
+  "text": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2450,
-  "def": 1600,
-  "level": 6,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
 }

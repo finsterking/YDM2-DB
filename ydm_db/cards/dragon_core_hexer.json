@@ -3,19 +3,19 @@
   "name": "Dragon Core Hexer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Many years of dragonslaying have bathed this huntress in countless amounts of blood. Each drop gave her more power, but at a terrible price, as her cursed body now spreads the dragontaint like an epidemic. No village will take her in, and she no longer even remembers what inspired her crusade in the first place.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38955728.jpg"
   ],
+  "text": "Many years of dragonslaying have bathed this huntress in countless amounts of blood. Each drop gave her more power, but at a terrible price, as her cursed body now spreads the dragontaint like an epidemic. No village will take her in, and she no longer even remembers what inspired her crusade in the first place.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 2300,
-  "def": 3000,
-  "level": 8,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": true
 }

@@ -3,19 +3,22 @@
   "name": "Dharma-Eye Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce per turn: You can reveal 1 Pendulum Monster in your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).\n\n[ Monster Effect ] \nWhile this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent's card effects during the turn this card was Pendulum Summoned.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88757791.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce per turn: You can reveal 1 Pendulum Monster in your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).\n\n[ Monster Effect ] \nWhile this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent's card effects during the turn this card was Pendulum Summoned.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 2500,
-  "level": 7,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 2500,
+  "level": 7,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Once per turn: You can reveal 1 Pendulum Monster in your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
 }

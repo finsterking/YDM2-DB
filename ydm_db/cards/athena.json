@@ -3,19 +3,19 @@
   "name": "Athena",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If another Fairy monster(s) is Summoned: Inflict 600 damage to your opponent. Once per turn: You can send 1 face-up Fairy monster you control to the GY, except \"Athena\", then target 1 Fairy monster in your GY, except \"Athena\"; Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48964966.jpg"
   ],
+  "text": "If another Fairy monster(s) is Summoned: Inflict 600 damage to your opponent. Once per turn: You can send 1 face-up Fairy monster you control to the GY, except \"Athena\", then target 1 Fairy monster in your GY, except \"Athena\"; Special Summon that target.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2600,
-  "def": 800,
-  "level": 7,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 7,
+  "is_tuner": false
 }

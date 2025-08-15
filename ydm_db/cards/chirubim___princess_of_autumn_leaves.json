@@ -3,19 +3,19 @@
   "name": "Chirubimé, Princess of Autumn Leaves",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent cannot target face-up Plant monsters for attacks, except this one. If this card in your possession is sent to your GY by your opponent's card: You can Special Summon 1 Plant monster from your Deck, except \"Chirubimé, Princess of Autumn Leaves\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87294988.jpg"
   ],
+  "text": "Your opponent cannot target face-up Plant monsters for attacks, except this one. If this card in your possession is sent to your GY by your opponent's card: You can Special Summon 1 Plant monster from your Deck, except \"Chirubimé, Princess of Autumn Leaves\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 2800,
-  "level": 8,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
 }

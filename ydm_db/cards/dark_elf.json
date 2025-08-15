@@ -3,19 +3,19 @@
   "name": "Dark Elf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card requires a cost of 1000 of your own Life Points to attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/21417692.jpg"
   ],
+  "text": "This card requires a cost of 1000 of your own Life Points to attack.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2000,
-  "def": 800,
-  "level": 4,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

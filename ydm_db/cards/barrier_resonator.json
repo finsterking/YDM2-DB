@@ -3,19 +3,19 @@
   "name": "Barrier Resonator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Tuner monster you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89127526.jpg"
   ],
+  "text": "During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Tuner monster you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 300,
-  "def": 800,
-  "level": 1,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 1,
+  "is_tuner": true
 }

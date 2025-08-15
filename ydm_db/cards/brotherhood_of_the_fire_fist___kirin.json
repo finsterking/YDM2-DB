@@ -3,19 +3,19 @@
   "name": "Brotherhood of the Fire Fist - Kirin",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 FIRE Tuner + 1 or more non-Tuner \"Fire Fist\" monsters\nWhen this card is Synchro Summoned: You can Set 1 \"Fire Formation\" Spell/Trap Card directly from your Deck. All monsters your opponent controls lose 100 ATK for each face-up Spell/Trap Card you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89856523.jpg"
   ],
+  "text": "1 FIRE Tuner + 1 or more non-Tuner \"Fire Fist\" monsters\nWhen this card is Synchro Summoned: You can Set 1 \"Fire Formation\" Spell/Trap Card directly from your Deck. All monsters your opponent controls lose 100 ATK for each face-up Spell/Trap Card you control.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "FIRE",
   "atk": 2000,
-  "def": 2800,
-  "level": 8,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
 }

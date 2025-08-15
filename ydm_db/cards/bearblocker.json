@@ -3,19 +3,19 @@
   "name": "Bearblocker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent's turn, Set cards in your Spell & Trap Zones cannot be destroyed by card effects. If a Set card(s) in your Spell & Trap Zone is destroyed by an opponent's card effect: This card gains 800 ATK until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80141055.jpg"
   ],
+  "text": "During your opponent's turn, Set cards in your Spell & Trap Zones cannot be destroyed by card effects. If a Set card(s) in your Spell & Trap Zone is destroyed by an opponent's card effect: This card gains 800 ATK until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 0,
-  "level": 3,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Doom Virus Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Must be Special Summoned with \"The Fang of Critias\", using \"Crush Card Virus\". If this card is Special Summoned: Look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this effect's activation, and destroy all those monsters with 1500 or more ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/22804644.jpg"
   ],
+  "text": "Must be Special Summoned with \"The Fang of Critias\", using \"Crush Card Virus\". If this card is Special Summoned: Look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this effect's activation, and destroy all those monsters with 1500 or more ATK.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 1900,
-  "def": 1500,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Blade Bounzer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, if this card attacks and your opponent controls a monster at the end of the Damage Step: You can discard 1 card; this card can attack an opponent's monster once again during this Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70194827.jpg"
   ],
+  "text": "Once per turn, if this card attacks and your opponent controls a monster at the end of the Damage Step: You can discard 1 card; this card can attack an opponent's monster once again during this Battle Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 1400,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Backup @Ignister",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Cyberse monster that was Special Summoned from the Extra Deck: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 DARK Cyberse monster from your Deck to your hand, except \"Backup @Ignister\", then discard 1 card. You can only use each effect of \"Backup @Ignister\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30118811.jpg"
   ],
+  "text": "If you control a Cyberse monster that was Special Summoned from the Extra Deck: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 DARK Cyberse monster from your Deck to your hand, except \"Backup @Ignister\", then discard 1 card. You can only use each effect of \"Backup @Ignister\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 800,
-  "level": 3,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": true
 }

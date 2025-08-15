@@ -3,19 +3,19 @@
   "name": "Dinowrestler Rambrachio",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When your \"Dinowrestler\" monster inflicts battle damage to your opponent: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Dinowrestler Rambrachio\" once per turn. Your opponent cannot target other \"Dinowrestler\" monsters you control with card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/61764082.jpg"
   ],
+  "text": "When your \"Dinowrestler\" monster inflicts battle damage to your opponent: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Dinowrestler Rambrachio\" once per turn. Your opponent cannot target other \"Dinowrestler\" monsters you control with card effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1600,
-  "def": 0,
-  "level": 5,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
 }

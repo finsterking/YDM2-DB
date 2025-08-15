@@ -3,19 +3,19 @@
   "name": "Aqua Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86164529.jpg"
   ],
+  "text": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "WATER",
   "atk": 2250,
-  "def": 1900,
-  "level": 6,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Bujingi Warg",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is in face-up Defense Position, other \"Bujin\" monsters you control cannot be destroyed by card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80555062.jpg"
   ],
+  "text": "While this card is in face-up Defense Position, other \"Bujin\" monsters you control cannot be destroyed by card effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": 1900,
-  "level": 4,
   "species": "Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
 }

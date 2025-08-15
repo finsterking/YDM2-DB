@@ -3,19 +3,19 @@
   "name": "Crimson Sunbird",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Faith Bird\" + \"Skull Red Bird\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46696593.jpg"
   ],
+  "text": "\"Faith Bird\" + \"Skull Red Bird\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "FIRE",
   "atk": 2300,
-  "def": 1800,
-  "level": 6,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1800,
+  "level": 6,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Ancient Gear Wyvern",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can add 1 \"Ancient Gear\" card from your Deck to your hand, except \"Ancient Gear Wyvern\", also you cannot Set cards for the rest of this turn. You can only use this effect of \"Ancient Gear Wyvern\" once per turn. If this card attacks, your opponent's monsters cannot activate their effects until the end of the Damage Step.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17663375.jpg"
   ],
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Ancient Gear\" card from your Deck to your hand, except \"Ancient Gear Wyvern\", also you cannot Set cards for the rest of this turn. You can only use this effect of \"Ancient Gear Wyvern\" once per turn. If this card attacks, your opponent's monsters cannot activate their effects until the end of the Damage Step.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1700,
-  "def": 1200,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,10 +3,10 @@
   "name": "A.I. Contact",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If \"Ignister A.I.Land\" is in your Field Zone: Reveal 1 \"Ignister A.I.Land\" in your hand; place it on the bottom of the Deck, and if you do, draw 3 cards. You can only activate 1 \"A.I. Contact\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10493654.jpg"
   ],
+  "text": "If \"Ignister A.I.Land\" is in your Field Zone: Reveal 1 \"Ignister A.I.Land\" in your hand; place it on the bottom of the Deck, and if you do, draw 3 cards. You can only activate 1 \"A.I. Contact\" per turn.",
   "type": "Spell",
   "spell_type": "Normal"
 }

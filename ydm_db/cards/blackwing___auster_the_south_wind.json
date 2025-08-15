@@ -3,19 +3,19 @@
   "name": "Blackwing - Auster the South Wind",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 of your banished Level 4 or lower \"Blackwing\" monsters; Special Summon it in Defense Position. You can banish this card from the GY to activate 1 of the following effects;\n● Place Black Feather Counter(s) on 1 \"Black-Winged Dragon\" you control, equal to the number of card(s) your opponent controls.\n● Place 1 Wedge Counter on each face-up monster your opponent controls that does not have one.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17465972.jpg"
   ],
+  "text": "Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 of your banished Level 4 or lower \"Blackwing\" monsters; Special Summon it in Defense Position. You can banish this card from the GY to activate 1 of the following effects;\n● Place Black Feather Counter(s) on 1 \"Black-Winged Dragon\" you control, equal to the number of card(s) your opponent controls.\n● Place 1 Wedge Counter on each face-up monster your opponent controls that does not have one.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 0,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": true
 }

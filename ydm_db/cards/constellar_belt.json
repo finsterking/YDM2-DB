@@ -3,10 +3,10 @@
   "name": "Constellar Belt",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The activation of LIGHT monsters' effects cannot be negated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/86825483.jpg"
   ],
+  "text": "The activation of LIGHT monsters' effects cannot be negated.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

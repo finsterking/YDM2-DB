@@ -3,19 +3,19 @@
   "name": "Chopman the Desperate Outlaw",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Flip Summoned, you can equip 1 Equip Spell Card in your Graveyard to this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40884383.jpg"
   ],
+  "text": "When this card is Flip Summoned, you can equip 1 Equip Spell Card in your Graveyard to this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1100,
-  "def": 500,
-  "level": 3,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 3,
+  "is_tuner": false
 }

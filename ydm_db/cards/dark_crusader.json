@@ -3,19 +3,19 @@
   "name": "Dark Crusader",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send 1 DARK monster from your hand to the Graveyard; this card gains 400 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91596726.jpg"
   ],
+  "text": "You can send 1 DARK monster from your hand to the Graveyard; this card gains 400 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 200,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 4,
+  "is_tuner": false
 }

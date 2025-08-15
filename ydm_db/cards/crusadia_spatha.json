@@ -3,24 +3,21 @@
   "name": "Crusadia Spatha",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Effect Monsters, including a \"Crusadia\" monster\nGains ATK equal to the original ATK of any monster this card points to. A monster this card points to cannot attack. Once per turn, if an Effect Monster is Special Summoned to a zone this card points to (except during the Damage Step): You can target 1 monster in either player's Main Monster Zone, except this card; move it to another Main Monster Zone on its controller's field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39528955.jpg"
   ],
+  "text": "2 Effect Monsters, including a \"Crusadia\" monster\nGains ATK equal to the original ATK of any monster this card points to. A monster this card points to cannot attack. Once per turn, if an Effect Monster is Special Summoned to a zone this card points to (except during the Damage Step): You can target 1 monster in either player's Main Monster Zone, except this card; move it to another Main Monster Zone on its controller's field.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 500,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Warrior",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Left",
     "Bottom"
-  ],
-  "species": "Warrior",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

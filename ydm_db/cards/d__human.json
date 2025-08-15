@@ -3,19 +3,19 @@
   "name": "D. Human",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Gifted with the power of dragons, this warrior wields a sword created from a dragon's fang.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81057959.jpg"
   ],
+  "text": "Gifted with the power of dragons, this warrior wields a sword created from a dragon's fang.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1300,
-  "def": 1100,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1100,
+  "level": 4,
+  "is_tuner": false
 }

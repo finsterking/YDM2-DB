@@ -3,19 +3,19 @@
   "name": "Basic Insect",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Usually found traveling in swarms, this creature's ideal environment is the forest.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89091579.jpg"
   ],
+  "text": "Usually found traveling in swarms, this creature's ideal environment is the forest.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 700,
-  "level": 2,
   "species": "Insect",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 2,
+  "is_tuner": false
 }

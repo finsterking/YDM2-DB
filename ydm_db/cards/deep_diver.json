@@ -3,19 +3,19 @@
   "name": "Deep Diver",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Battle Phase, if this card was destroyed by battle and sent to the Graveyard: Choose 1 monster from your Deck and place it on top of your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17559367.jpg"
   ],
+  "text": "At the end of the Battle Phase, if this card was destroyed by battle and sent to the Graveyard: Choose 1 monster from your Deck and place it on top of your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1000,
-  "def": 1100,
-  "level": 3,
   "species": "Aqua",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1100,
+  "level": 3,
+  "is_tuner": false
 }

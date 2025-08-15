@@ -3,19 +3,19 @@
   "name": "Dragunity Militum",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can select 1 \"Dragunity\" card in your Spell & Trap Card Zone, and Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81661951.jpg"
   ],
+  "text": "Once per turn, you can select 1 \"Dragunity\" card in your Spell & Trap Card Zone, and Special Summon it.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1700,
-  "def": 1200,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Allvain the Essence of Vanity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Normal Monsters",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3544583.jpg"
   ],
+  "text": "2 Normal Monsters",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 0,
-  "def": 2100,
-  "level": 2,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2100,
+  "level": 2,
+  "is_tuner": false
 }

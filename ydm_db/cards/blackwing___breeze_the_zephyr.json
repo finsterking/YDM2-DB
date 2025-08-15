@@ -3,19 +3,19 @@
   "name": "Blackwing - Breeze the Zephyr",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Blackwing\" monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89258906.jpg"
   ],
+  "text": "If this card is added from your Deck to your hand by a card effect: You can Special Summon this card from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Blackwing\" monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1100,
-  "def": 300,
-  "level": 3,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": true
 }

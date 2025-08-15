@@ -3,20 +3,20 @@
   "name": "Buster Blader",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78193831.jpg",
     "https://images.ygoprodeck.com/images/cards/78193832.jpg"
   ],
+  "text": "Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2600,
-  "def": 2300,
-  "level": 7,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2300,
+  "level": 7,
+  "is_tuner": false
 }

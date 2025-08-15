@@ -3,19 +3,19 @@
   "name": "Capricious Darklord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the Main Phase (Quick Effect): You can activate this effect; Tribute Summon 1 Fairy monster face-up. If this card is sent to the GY: You can make all monsters your opponent currently controls lose 500 ATK/DEF for each Fairy monster on the field, until the end of this turn. You can only use each effect of \"Capricious Darklord\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55289183.jpg"
   ],
+  "text": "During the Main Phase (Quick Effect): You can activate this effect; Tribute Summon 1 Fairy monster face-up. If this card is sent to the GY: You can make all monsters your opponent currently controls lose 500 ATK/DEF for each Fairy monster on the field, until the end of this turn. You can only use each effect of \"Capricious Darklord\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "def": 1600,
-  "level": 4,
   "species": "Fairy",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Diabellze the White Witch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is always treated as a \"White Forest\" card.)\nMonsters you control cannot be destroyed by your opponent's card effects, while you control 2 or more \"Diabell\" monsters. You can only use each of the following effects of \"Diabellze the White Witch\" once per turn. You can send 1 Spell/Trap from your hand or field to the GY; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Sinful Spoils\" or \"Diabell\" card from your Deck to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/60145298.jpg"
   ],
+  "text": "(This card is always treated as a \"White Forest\" card.)\nMonsters you control cannot be destroyed by your opponent's card effects, while you control 2 or more \"Diabell\" monsters. You can only use each of the following effects of \"Diabellze the White Witch\" once per turn. You can send 1 Spell/Trap from your hand or field to the GY; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 \"Sinful Spoils\" or \"Diabell\" card from your Deck to the GY.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 2100,
-  "level": 8,
   "species": "Illusion",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2100,
+  "level": 8,
+  "is_tuner": false
 }

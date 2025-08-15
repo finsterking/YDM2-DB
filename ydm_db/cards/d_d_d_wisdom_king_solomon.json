@@ -3,19 +3,18 @@
   "name": "D/D/D Wisdom King Solomon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 \"D/D\" monsters\nYou can detach 1 material from this card; add 1 \"D/D\" card from your Deck to your hand. If this card is banished: You can target 1 \"D/D\" Effect Monster you control; that Effect Monster gains this effect until the end of this turn.\n● If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK.\nYou can only use each effect of \"D/D/D Wisdom King Solomon\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32232538.jpg"
   ],
+  "text": "2 Level 4 \"D/D\" monsters\nYou can detach 1 material from this card; add 1 \"D/D\" card from your Deck to your hand. If this card is banished: You can target 1 \"D/D\" Effect Monster you control; that Effect Monster gains this effect until the end of this turn.\n● If this card destroys a monster by battle: Inflict damage to your opponent equal to that monster's original ATK.\nYou can only use each effect of \"D/D/D Wisdom King Solomon\" once per turn.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 1800,
-  "def": 2500,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2500
 }

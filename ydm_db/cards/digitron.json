@@ -3,19 +3,19 @@
   "name": "Digitron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A subspecies found in electronic space. There's little information on it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32295838.jpg"
   ],
+  "text": "A subspecies found in electronic space. There's little information on it.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 0,
-  "level": 2,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
 }

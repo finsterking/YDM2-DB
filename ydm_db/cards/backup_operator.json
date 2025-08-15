@@ -3,19 +3,19 @@
   "name": "Backup Operator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 1 face-up monster that a Link Monster you control points to; Special Summon this card from your hand, and if you do, return that monster to the hand. If Special Summoned this way, banish this card when it leaves the field. You can only use this effect of \"Backup Operator\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97947705.jpg"
   ],
+  "text": "You can target 1 face-up monster that a Link Monster you control points to; Special Summon this card from your hand, and if you do, return that monster to the hand. If Special Summoned this way, banish this card when it leaves the field. You can only use this effect of \"Backup Operator\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": 800,
-  "level": 3,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 3,
+  "is_tuner": false
 }

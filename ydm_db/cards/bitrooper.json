@@ -3,19 +3,19 @@
   "name": "Bitrooper",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send 1 Level 2 or lower monster from your hand to the GY; Special Summon this card from your hand. You can only use this effect of \"Bitrooper\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36694815.jpg"
   ],
+  "text": "You can send 1 Level 2 or lower monster from your hand to the GY; Special Summon this card from your hand. You can only use this effect of \"Bitrooper\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 2000,
-  "level": 4,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

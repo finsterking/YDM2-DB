@@ -3,19 +3,19 @@
   "name": "Acrobat Monkey",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47372349.jpg"
   ],
+  "text": "An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1000,
-  "def": 1800,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
 }

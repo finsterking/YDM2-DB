@@ -3,19 +3,19 @@
   "name": "Battle Ox",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5053103.jpg"
   ],
+  "text": "A monster with tremendous power, it destroys enemies with a swing of its axe.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1700,
-  "def": 1000,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

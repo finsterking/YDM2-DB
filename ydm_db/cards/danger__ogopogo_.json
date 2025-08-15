@@ -3,19 +3,19 @@
   "name": "Danger! Ogopogo!",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Ogopogo!\", Special Summon 1 \"Danger! Ogopogo!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can send 1 \"Danger!\" card from your Deck to the GY, except \"Danger! Ogopogo!\". You can only use this effect of \"Danger! Ogopogo!\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83518674.jpg"
   ],
+  "text": "You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not \"Danger! Ogopogo!\", Special Summon 1 \"Danger! Ogopogo!\" from your hand, and if you do, draw 1 card. If this card is discarded: You can send 1 \"Danger!\" card from your Deck to the GY, except \"Danger! Ogopogo!\". You can only use this effect of \"Danger! Ogopogo!\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 3000,
-  "level": 8,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
 }

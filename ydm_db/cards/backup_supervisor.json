@@ -3,24 +3,21 @@
   "name": "Backup Supervisor",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters\nIf this card was Link Summoned using \"Backup Secretary\" as material, and your monster this card points to battled an opponent's monster, at the end of the Damage Step: You can Special Summon 1 Cyberse monster from your hand. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 \"Backup Secretary\" from your hand, Deck, or GY. You can only use each effect of \"Backup Supervisor\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97677329.jpg"
   ],
+  "text": "2 monsters\nIf this card was Link Summoned using \"Backup Secretary\" as material, and your monster this card points to battled an opponent's monster, at the end of the Damage Step: You can Special Summon 1 Cyberse monster from your hand. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 \"Backup Secretary\" from your hand, Deck, or GY. You can only use each effect of \"Backup Supervisor\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 1200,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Right",
     "Bottom"
-  ],
-  "species": "Cyberse",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

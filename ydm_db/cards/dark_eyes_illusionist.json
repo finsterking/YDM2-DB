@@ -3,19 +3,19 @@
   "name": "Dark-Eyes Illusionist",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Target 1 monster on the field; it cannot attack while this card is face-up on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38247752.jpg"
   ],
+  "text": "FLIP: Target 1 monster on the field; it cannot attack while this card is face-up on the field.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "def": 1400,
-  "level": 2,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 2,
+  "is_tuner": false
 }

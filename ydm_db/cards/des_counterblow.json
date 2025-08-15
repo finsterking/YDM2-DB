@@ -3,10 +3,10 @@
   "name": "Des Counterblow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy any monster that inflicts Battle Damage to a player's Life Points by attacking directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39131963.jpg"
   ],
+  "text": "Destroy any monster that inflicts Battle Damage to a player's Life Points by attacking directly.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

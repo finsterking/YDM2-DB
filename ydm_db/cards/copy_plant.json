@@ -3,19 +3,19 @@
   "name": "Copy Plant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66457407.jpg"
   ],
+  "text": "Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 0,
-  "def": 0,
-  "level": 1,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
 }

@@ -3,19 +3,19 @@
   "name": "Dweller in the Depths",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Gains 300 ATK for each Continuous Spell in your Spell & Trap Zone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46508640.jpg"
   ],
+  "text": "Gains 300 ATK for each Continuous Spell in your Spell & Trap Zone.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 700,
-  "level": 3,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

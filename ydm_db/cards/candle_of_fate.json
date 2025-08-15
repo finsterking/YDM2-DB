@@ -3,19 +3,19 @@
   "name": "Candle of Fate",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Decides the fate of an opponent when the candle on its fingertip burns out.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/47695416.jpg"
   ],
+  "text": "Decides the fate of an opponent when the candle on its fingertip burns out.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 600,
-  "def": 600,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 600,
+  "level": 2,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Cyber Dragon Vier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. If you Normal or Special Summon \"Cyber Dragon\", except during the Damage Step: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Cyber Dragon Vier\" once per turn. Each \"Cyber Dragon\" you control gains 500 ATK/DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29975188.jpg"
   ],
+  "text": "This card's name becomes \"Cyber Dragon\" while on the field or in the GY. If you Normal or Special Summon \"Cyber Dragon\", except during the Damage Step: You can Special Summon this card from your hand in Defense Position. You can only use this effect of \"Cyber Dragon Vier\" once per turn. Each \"Cyber Dragon\" you control gains 500 ATK/DEF.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1100,
-  "def": 1600,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

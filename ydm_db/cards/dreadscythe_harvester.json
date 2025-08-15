@@ -3,19 +3,19 @@
   "name": "Dreadscythe Harvester",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66973070.jpg"
   ],
+  "text": "You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 2300,
-  "def": 1600,
-  "level": 8,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 8,
+  "is_tuner": false
 }

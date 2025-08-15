@@ -3,19 +3,19 @@
   "name": "Balloon Lizard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Put 1 counter on this card during each of your Standby Phases. When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters X 400 points.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39892082.jpg"
   ],
+  "text": "Put 1 counter on this card during each of your Standby Phases. When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters X 400 points.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 1900,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1900,
+  "level": 4,
+  "is_tuner": false
 }

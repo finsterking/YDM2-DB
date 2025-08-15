@@ -3,19 +3,19 @@
   "name": "Brotherhood of the Fire Fist - Wolf",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is flipped face-up: You can Set 1 \"Fire Formation\" Trap Card directly from your Deck, then, if this card was Flip Summoned, you can also Set 1 \"Fire Formation\" Spell Card directly from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93294869.jpg"
   ],
+  "text": "If this card is flipped face-up: You can Set 1 \"Fire Formation\" Trap Card directly from your Deck, then, if this card was Flip Summoned, you can also Set 1 \"Fire Formation\" Spell Card directly from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 0,
-  "def": 1900,
-  "level": 3,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1900,
+  "level": 3,
+  "is_tuner": false
 }

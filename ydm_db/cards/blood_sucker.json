@@ -3,19 +3,19 @@
   "name": "Blood Sucker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97783659.jpg"
   ],
+  "text": "If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 1500,
-  "level": 4,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Ancient One of the Deep Forest",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14015067.jpg"
   ],
+  "text": "This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 1900,
-  "level": 6,
   "species": "Beast",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1900,
+  "level": 6,
+  "is_tuner": false
 }

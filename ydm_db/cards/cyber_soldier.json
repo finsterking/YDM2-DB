@@ -3,19 +3,19 @@
   "name": "Cyber Soldier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''Guardian of the Machine King, it crushes opposition by rolling over them.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44865098.jpg"
   ],
+  "text": "''Guardian of the Machine King, it crushes opposition by rolling over them.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1500,
-  "def": 1700,
-  "level": 5,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1700,
+  "level": 5,
+  "is_tuner": false
 }

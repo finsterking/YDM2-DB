@@ -3,19 +3,22 @@
   "name": "Dinomist Rex",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.\n\n[ Monster Effect ] \nIf this card attacks, at the end of the Damage Step: You can Tribute 1 other \"Dinomist\" monster, then activate 1 of these effects;\n● This card can attack an opponent's monster again in a row, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n● Shuffle 1 card from your opponent's hand (at random) or their side of the field into the Deck, then this card gains 100 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63251695.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nOnce, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.\n\n[ Monster Effect ] \nIf this card attacks, at the end of the Damage Step: You can Tribute 1 other \"Dinomist\" monster, then activate 1 of these effects;\n● This card can attack an opponent's monster again in a row, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n● Shuffle 1 card from your opponent's hand (at random) or their side of the field into the Deck, then this card gains 100 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 2400,
-  "def": 2200,
-  "level": 5,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 2200,
+  "level": 5,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "Once, while this card is in your Pendulum Zone, you can negate an activated card effect that targets another \"Dinomist\" card(s) you control, then destroy this card.",
+  "pendulum_scale_left_blue": 6,
+  "pendulum_scale_right_red": 6
 }

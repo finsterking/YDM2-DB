@@ -3,10 +3,10 @@
   "name": "Dimensional Prison",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/70342110.jpg"
   ],
+  "text": "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
   "type": "Trap",
   "trap_type": "Normal"
 }

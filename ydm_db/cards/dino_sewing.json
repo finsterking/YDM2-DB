@@ -3,19 +3,19 @@
   "name": "Dino-Sewing",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be destroyed by battle. If this card is targeted for an attack: This card gains 1000 ATK and DEF. If this card attacked, after damage calculation: The ATK and DEF gained from this effect returns to 0.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/27143874.jpg"
   ],
+  "text": "Cannot be destroyed by battle. If this card is targeted for an attack: This card gains 1000 ATK and DEF. If this card attacked, after damage calculation: The ATK and DEF gained from this effect returns to 0.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 0,
-  "def": 0,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
 }

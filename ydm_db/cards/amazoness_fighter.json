@@ -3,19 +3,19 @@
   "name": "Amazoness Fighter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You take no battle damage from attacks involving this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55821894.jpg"
   ],
+  "text": "You take no battle damage from attacks involving this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 1300,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

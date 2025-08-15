@@ -3,19 +3,19 @@
   "name": "Dark Driceratops",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65287621.jpg"
   ],
+  "text": "If this card attacks a Defense Position monster, inflict piercing battle damage.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2400,
-  "def": 1500,
-  "level": 6,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 6,
+  "is_tuner": false
 }

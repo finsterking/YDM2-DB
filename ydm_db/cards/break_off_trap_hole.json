@@ -3,10 +3,10 @@
   "name": "Break Off Trap Hole",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56526564.jpg"
   ],
+  "text": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
   "type": "Trap",
   "trap_type": "Normal"
 }

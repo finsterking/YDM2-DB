@@ -3,19 +3,19 @@
   "name": "Abyssal Kingshark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, if this card would be destroyed by an effect that does not target it, it is not destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44223284.jpg"
   ],
+  "text": "Once per turn, if this card would be destroyed by an effect that does not target it, it is not destroyed.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1700,
-  "def": 600,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 600,
+  "level": 4,
+  "is_tuner": false
 }

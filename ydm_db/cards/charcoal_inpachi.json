@@ -3,19 +3,19 @@
   "name": "Charcoal Inpachi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/13179332.jpg"
   ],
+  "text": "A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "FIRE",
   "atk": 100,
-  "def": 2100,
-  "level": 1,
   "species": "Pyro",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2100,
+  "level": 1,
+  "is_tuner": false
 }

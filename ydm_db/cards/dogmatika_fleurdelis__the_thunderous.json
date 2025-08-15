@@ -3,19 +3,19 @@
   "name": "Dogmatika Fleurdelis, the Thunderous",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the Main Phase, if a monster Special Summoned from the Extra Deck is on the field (Quick Effect): You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can Set 1 \"Dogmatika\" Trap from your Deck. It can be activated this turn, while your opponent controls a Fusion, Synchro, Xyz, or Link Monster with 2500 or more ATK. You can only use each effect of \"Dogmatika Fleurdelis, the Thunderous\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73355772.jpg"
   ],
+  "text": "During the Main Phase, if a monster Special Summoned from the Extra Deck is on the field (Quick Effect): You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can Set 1 \"Dogmatika\" Trap from your Deck. It can be activated this turn, while your opponent controls a Fusion, Synchro, Xyz, or Link Monster with 2500 or more ATK. You can only use each effect of \"Dogmatika Fleurdelis, the Thunderous\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2500,
-  "def": 2500,
-  "level": 8,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
 }

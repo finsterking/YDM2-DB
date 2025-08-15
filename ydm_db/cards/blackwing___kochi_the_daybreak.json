@@ -3,19 +3,19 @@
   "name": "Blackwing - Kochi the Daybreak",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card was Special Summoned, it cannot be used as a Synchro Material.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41902352.jpg"
   ],
+  "text": "If this card was Special Summoned, it cannot be used as a Synchro Material.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 700,
-  "def": 1500,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": true
 }

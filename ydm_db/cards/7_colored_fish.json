@@ -3,19 +3,19 @@
   "name": "7 Colored Fish",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A rare rainbow fish that has never been caught by mortal man.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23771716.jpg"
   ],
+  "text": "A rare rainbow fish that has never been caught by mortal man.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1800,
-  "def": 800,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

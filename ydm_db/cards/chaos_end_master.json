@@ -3,19 +3,19 @@
   "name": "Chaos-End Master",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 Level 5 or higher monster with 1600 or less ATK from your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46609443.jpg"
   ],
+  "text": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 Level 5 or higher monster with 1600 or less ATK from your Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1500,
-  "def": 1000,
-  "level": 3,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 3,
+  "is_tuner": true
 }

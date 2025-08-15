@@ -3,19 +3,19 @@
   "name": "Cyber Phoenix",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is in Attack Position, negate any Spell/Trap effects that target 1 Machine monster you control (and no other cards). When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3370104.jpg"
   ],
+  "text": "While this card is in Attack Position, negate any Spell/Trap effects that target 1 Machine monster you control (and no other cards). When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1200,
-  "def": 1600,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }

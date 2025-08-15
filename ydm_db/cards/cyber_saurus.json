@@ -3,19 +3,19 @@
   "name": "Cyber Saurus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Blast Juggler\" + \"Two-Headed King Rex\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89112729.jpg"
   ],
+  "text": "\"Blast Juggler\" + \"Two-Headed King Rex\"",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "EARTH",
   "atk": 1800,
-  "def": 1400,
-  "level": 5,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
 }

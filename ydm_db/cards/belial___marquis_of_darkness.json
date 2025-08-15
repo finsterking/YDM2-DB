@@ -3,19 +3,19 @@
   "name": "Belial - Marquis of Darkness",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent cannot target any face-up monster you control, except \"Belial - Marquis of Darkness\", for an attack, or with Spell/Trap effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33655493.jpg"
   ],
+  "text": "Your opponent cannot target any face-up monster you control, except \"Belial - Marquis of Darkness\", for an attack, or with Spell/Trap effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2800,
-  "def": 2400,
-  "level": 8,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2400,
+  "level": 8,
+  "is_tuner": false
 }

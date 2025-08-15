@@ -3,25 +3,22 @@
   "name": "Berserker of the Tenyi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ monsters, including a Link Monster",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5402805.jpg"
   ],
+  "text": "2+ monsters, including a Link Monster",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 3000,
-  "def": null,
-  "level": null,
-  "link": 3,
+  "species": "Wyrm",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 3,
   "link_arrows": [
     "Top",
     "Top-Right",
     "Bottom-Right"
-  ],
-  "species": "Wyrm",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

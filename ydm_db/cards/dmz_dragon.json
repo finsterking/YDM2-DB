@@ -3,19 +3,19 @@
   "name": "DMZ Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can target 1 Level 4 or lower Dragon monster in your GY and 1 Dragon monster you control; equip that monster in your GY to that monster on the field as an Equip Spell that makes it gain 500 ATK. At the end of the Damage Step, if your monster equipped with an Equip Card attacked: You can banish this card from your GY; destroy as many cards as possible equipped to that monster you control, and if you do, that monster can make a second attack in a row.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98371278.jpg"
   ],
+  "text": "Once per turn: You can target 1 Level 4 or lower Dragon monster in your GY and 1 Dragon monster you control; equip that monster in your GY to that monster on the field as an Equip Spell that makes it gain 500 ATK. At the end of the Damage Step, if your monster equipped with an Equip Card attacked: You can banish this card from your GY; destroy as many cards as possible equipped to that monster you control, and if you do, that monster can make a second attack in a row.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "def": 2000,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

@@ -3,19 +3,19 @@
   "name": "Ancient Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card inflicts battle damage to your opponent by a direct attack: You can increase this card's Level by 1 and ATK by 500.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38520918.jpg"
   ],
+  "text": "When this card inflicts battle damage to your opponent by a direct attack: You can increase this card's Level by 1 and ATK by 500.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1400,
-  "def": 1300,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

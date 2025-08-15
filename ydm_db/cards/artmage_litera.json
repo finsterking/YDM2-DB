@@ -3,19 +3,19 @@
   "name": "Artmage Litera",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You take no damage from battles involving this card. You can only use each of the following effects of \"Artmage Litera\" once per turn. If you control an \"Artmage\" card: You can Special Summon this card from your hand, then you can add 1 \"Artmage\" card from your GY to your hand. During your opponent's Main Phase (Quick Effect): You can Special Summon 1 \"Artmage\" monster from your hand or GY, except \"Artmage Litera\", then return this card from the field to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97434754.jpg"
   ],
+  "text": "You take no damage from battles involving this card. You can only use each of the following effects of \"Artmage Litera\" once per turn. If you control an \"Artmage\" card: You can Special Summon this card from your hand, then you can add 1 \"Artmage\" card from your GY to your hand. During your opponent's Main Phase (Quick Effect): You can Special Summon 1 \"Artmage\" monster from your hand or GY, except \"Artmage Litera\", then return this card from the field to the hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 400,
-  "def": 1800,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 3,
+  "is_tuner": false
 }

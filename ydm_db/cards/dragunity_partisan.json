@@ -3,19 +3,19 @@
   "name": "Dragunity Partisan",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster is treated as a Tuner monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25988873.jpg"
   ],
+  "text": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster is treated as a Tuner monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1200,
-  "def": 800,
-  "level": 2,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 2,
+  "is_tuner": true
 }

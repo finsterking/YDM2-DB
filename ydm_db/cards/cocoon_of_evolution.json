@@ -3,19 +3,19 @@
   "name": "Cocoon of Evolution",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 1 \"Petit Moth\" you control; equip this card from your hand to that target. While equipped by this effect, the original ATK/DEF of that \"Petit Moth\" becomes the ATK/DEF of \"Cocoon of Evolution\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40240595.jpg"
   ],
+  "text": "You can target 1 \"Petit Moth\" you control; equip this card from your hand to that target. While equipped by this effect, the original ATK/DEF of that \"Petit Moth\" becomes the ATK/DEF of \"Cocoon of Evolution\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 0,
-  "def": 2000,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
 }

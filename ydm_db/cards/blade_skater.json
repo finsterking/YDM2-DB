@@ -3,19 +3,19 @@
   "name": "Blade Skater",
   "is_illegal": false,
   "is_custom": false,
-  "text": "An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97023549.jpg"
   ],
+  "text": "An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1400,
-  "def": 1500,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
 }

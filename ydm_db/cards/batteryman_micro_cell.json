@@ -3,19 +3,19 @@
   "name": "Batteryman Micro-Cell",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Special Summon 1 Level 4 or lower \"Batteryman\" monster from your Deck, except \"Batteryman Micro-Cell\". After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56839613.jpg"
   ],
+  "text": "FLIP: Special Summon 1 Level 4 or lower \"Batteryman\" monster from your Deck, except \"Batteryman Micro-Cell\". After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 100,
-  "def": 100,
-  "level": 1,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 100,
+  "level": 1,
+  "is_tuner": false
 }

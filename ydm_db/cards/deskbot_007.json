@@ -3,19 +3,22 @@
   "name": "Deskbot 007",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nThis card gains 500 ATK for each \"Deskbot\" card in your Graveyard. Monsters your opponent controls cannot target face-up \"Deskbot\" monsters for attacks, except this one. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97588916.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nThis card gains 500 ATK for each \"Deskbot\" card in your Graveyard. Monsters your opponent controls cannot target face-up \"Deskbot\" monsters for attacks, except this one. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "def": 500,
-  "level": 7,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 500,
+  "level": 7,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters. This effect cannot be negated.",
+  "pendulum_scale_left_blue": 10,
+  "pendulum_scale_right_red": 10
 }

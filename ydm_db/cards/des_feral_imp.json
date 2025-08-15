@@ -3,19 +3,19 @@
   "name": "Des Feral Imp",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81985784.jpg"
   ],
+  "text": "FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 1800,
-  "level": 4,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

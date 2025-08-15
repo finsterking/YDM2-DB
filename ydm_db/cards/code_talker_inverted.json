@@ -3,24 +3,21 @@
   "name": "Code Talker Inverted",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Cyberse monsters\nIf this card is Link Summoned: You can Special Summon 1 Cyberse monster from your hand to your zone this card points to. You can only use this effect of \"Code Talker Inverted\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/45462149.jpg"
   ],
+  "text": "2 Cyberse monsters\nIf this card is Link Summoned: You can Special Summon 1 Cyberse monster from your hand to your zone this card points to. You can only use this effect of \"Code Talker Inverted\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 1300,
-  "def": null,
-  "level": null,
-  "link": 2,
+  "species": "Cyberse",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Link",
+  "link_rating": 2,
   "link_arrows": [
     "Left",
     "Right"
-  ],
-  "species": "Cyberse",
-  "has_effect": true,
-  "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  ]
 }

@@ -3,19 +3,19 @@
   "name": "Boulder Tortoise",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A stone turtle that is nearly indestructible.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9540040.jpg"
   ],
+  "text": "''A stone turtle that is nearly indestructible.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1450,
-  "def": 2200,
-  "level": 6,
   "species": "Aqua",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
 }

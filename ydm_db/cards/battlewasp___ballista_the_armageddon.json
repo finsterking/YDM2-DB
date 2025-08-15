@@ -3,19 +3,19 @@
   "name": "Battlewasp - Ballista the Armageddon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can banish all Insect monsters from your GY; all monsters your opponent currently controls lose 500 ATK/DEF for each of your banished Insect monsters. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 3 of your banished Level 11 or lower Insect monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/26443791.jpg"
   ],
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned: You can banish all Insect monsters from your GY; all monsters your opponent currently controls lose 500 ATK/DEF for each of your banished Insect monsters. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 3 of your banished Level 11 or lower Insect monsters.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "WIND",
   "atk": 3000,
-  "def": 800,
-  "level": 12,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 800,
+  "level": 12,
+  "is_tuner": false
 }

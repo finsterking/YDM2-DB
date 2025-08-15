@@ -3,19 +3,19 @@
   "name": "Cybernetic Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can discard 1 card to target 1 face-up monster on the field; that target's ATK becomes 2000 until the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59023523.jpg"
   ],
+  "text": "You can discard 1 card to target 1 face-up monster on the field; that target's ATK becomes 2000 until the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2400,
-  "def": 1000,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
 }

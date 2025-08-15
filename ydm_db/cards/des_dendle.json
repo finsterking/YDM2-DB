@@ -3,19 +3,19 @@
   "name": "Des Dendle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your \"Vampiric Orchis\" as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, each time the equipped monster destroys 1 of your opponent's monsters, Special Summon 1 \"Wicked Plant Token\" (Plant-Type/EARTH/Level 1/ATK 800/DEF 800). (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12965761.jpg"
   ],
+  "text": "Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your \"Vampiric Orchis\" as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, each time the equipped monster destroys 1 of your opponent's monsters, Special Summon 1 \"Wicked Plant Token\" (Plant-Type/EARTH/Level 1/ATK 800/DEF 800). (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 300,
-  "def": 2000,
-  "level": 4,
   "species": "Plant",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
 }

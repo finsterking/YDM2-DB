@@ -3,10 +3,10 @@
   "name": "Crystal Promise",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 \"Crystal Beast\" card in your Spell & Trap Card Zone; Special Summon that target.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8275702.jpg"
   ],
+  "text": "Target 1 \"Crystal Beast\" card in your Spell & Trap Card Zone; Special Summon that target.",
   "type": "Spell",
   "spell_type": "Normal"
 }

@@ -3,10 +3,10 @@
   "name": "D - Counter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When a \"Destiny HERO\" monster you control is targeted for an attack: Destroy the attacking monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8698851.jpg"
   ],
+  "text": "When a \"Destiny HERO\" monster you control is targeted for an attack: Destroy the attacking monster.",
   "type": "Trap",
   "trap_type": "Normal"
 }

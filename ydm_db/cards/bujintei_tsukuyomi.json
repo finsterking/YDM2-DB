@@ -3,19 +3,18 @@
   "name": "Bujintei Tsukuyomi",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 LIGHT monsters\nOnce per turn: You can detach 1 material from this card; send your entire hand to the GY (min. 1), and if you do, draw 2 cards. When this card you controlled while face-up leaves the field because of an opponent's card effect: You can target Level 4 Beast-Warrior \"Bujin\" monsters in your GY, up to the number of Xyz Materials this card had on the field; Special Summon those targets. You can only control 1 \"Bujintei Tsukuyomi\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73289035.jpg"
   ],
+  "text": "2 Level 4 LIGHT monsters\nOnce per turn: You can detach 1 material from this card; send your entire hand to the GY (min. 1), and if you do, draw 2 cards. When this card you controlled while face-up leaves the field because of an opponent's card effect: You can target Level 4 Beast-Warrior \"Bujin\" monsters in your GY, up to the number of Xyz Materials this card had on the field; Special Summon those targets. You can only control 1 \"Bujintei Tsukuyomi\".",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 2300,
-  "level": 4,
   "species": "Beast-Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 4,
+  "def": 2300
 }

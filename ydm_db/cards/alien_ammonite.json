@@ -3,19 +3,19 @@
   "name": "Alien Ammonite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower \"Alien\" monster from your Graveyard. Destroy it during the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/652362.jpg"
   ],
+  "text": "When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower \"Alien\" monster from your Graveyard. Destroy it during the End Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 500,
-  "def": 200,
-  "level": 1,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": true
 }

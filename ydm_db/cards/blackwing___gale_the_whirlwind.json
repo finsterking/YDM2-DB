@@ -3,19 +3,19 @@
   "name": "Blackwing - Gale the Whirlwind",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a \"Blackwing\" monster other than \"Blackwing - Gale the Whirlwind\", you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster your opponent controls; that target's ATK and DEF become half its current ATK and DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2009101.jpg"
   ],
+  "text": "If you control a \"Blackwing\" monster other than \"Blackwing - Gale the Whirlwind\", you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster your opponent controls; that target's ATK and DEF become half its current ATK and DEF.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "def": 400,
-  "level": 3,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 3,
+  "is_tuner": true
 }

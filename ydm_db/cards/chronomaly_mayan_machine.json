@@ -3,19 +3,19 @@
   "name": "Chronomaly Mayan Machine",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25163248.jpg"
   ],
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 700,
-  "level": 3,
   "species": "Machine",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

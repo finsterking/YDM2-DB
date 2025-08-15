@@ -3,10 +3,10 @@
   "name": "An Unfortunate Report",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent conducts their next Battle Phase twice.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19763315.jpg"
   ],
+  "text": "Your opponent conducts their next Battle Phase twice.",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Acid Crawler",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A giant caterpillar that secretes an acid mist that melts anything.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77568553.jpg"
   ],
+  "text": "''A giant caterpillar that secretes an acid mist that melts anything.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 900,
-  "def": 700,
-  "level": 3,
   "species": "Insect",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 700,
+  "level": 3,
+  "is_tuner": false
 }

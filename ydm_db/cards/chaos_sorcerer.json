@@ -3,19 +3,19 @@
   "name": "Chaos Sorcerer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can target 1 face-up monster on the field; banish that target. This card cannot attack the turn you activate this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9596126.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can target 1 face-up monster on the field; banish that target. This card cannot attack the turn you activate this effect.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2300,
-  "def": 2000,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
 }

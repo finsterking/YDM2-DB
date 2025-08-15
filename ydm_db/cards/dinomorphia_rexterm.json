@@ -3,19 +3,19 @@
   "name": "Dinomorphia Rexterm",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Dinomorphia\" Fusion Monster + 1 \"Dinomorphia\" monster\nYour opponent cannot activate the effects of monsters they control that have ATK greater than or equal to your LP. You can only use each of the following effects of \"Dinomorphia Rexterm\" once per turn. (Quick Effect): You can pay half your LP; the ATK of all monsters your opponent currently controls become equal to your LP, until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 6 or lower \"Dinomorphia\" monster from your GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92798873.jpg"
   ],
+  "text": "1 \"Dinomorphia\" Fusion Monster + 1 \"Dinomorphia\" monster\nYour opponent cannot activate the effects of monsters they control that have ATK greater than or equal to your LP. You can only use each of the following effects of \"Dinomorphia Rexterm\" once per turn. (Quick Effect): You can pay half your LP; the ATK of all monsters your opponent currently controls become equal to your LP, until the end of this turn. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 6 or lower \"Dinomorphia\" monster from your GY.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 3000,
-  "def": 0,
-  "level": 8,
   "species": "Dinosaur",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
 }

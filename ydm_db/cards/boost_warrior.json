@@ -3,19 +3,19 @@
   "name": "Boost Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a face-up Tuner monster, you can Special Summon this card from your hand in face-up Defense Position. All Warrior-Type monsters you control gain 300 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/80457744.jpg"
   ],
+  "text": "If you control a face-up Tuner monster, you can Special Summon this card from your hand in face-up Defense Position. All Warrior-Type monsters you control gain 300 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 300,
-  "def": 200,
-  "level": 1,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
 }

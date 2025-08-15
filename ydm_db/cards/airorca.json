@@ -3,19 +3,19 @@
   "name": "Airorca",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can banish 1 Fish, Sea Serpent, or Aqua-Type monster from your hand, then target 1 face-up card your opponent controls; destroy that target, then banish this card until your next Standby Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84747429.jpg"
   ],
+  "text": "Once per turn: You can banish 1 Fish, Sea Serpent, or Aqua-Type monster from your hand, then target 1 face-up card your opponent controls; destroy that target, then banish this card until your next Standby Phase.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1400,
-  "def": 300,
-  "level": 3,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 3,
+  "is_tuner": false
 }

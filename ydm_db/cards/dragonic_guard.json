@@ -3,19 +3,19 @@
   "name": "Dragonic Guard",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each time a monster is Normal Summoned or Set, place 1 Dragonic Counter on this card. You can send this face-up card to the Graveyard to Special Summon 1 Dragon-Type monster from your Deck whose Level is less than or equal to the number of Dragonic Counters on this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78009994.jpg"
   ],
+  "text": "Each time a monster is Normal Summoned or Set, place 1 Dragonic Counter on this card. You can send this face-up card to the Graveyard to Special Summon 1 Dragon-Type monster from your Deck whose Level is less than or equal to the number of Dragonic Counters on this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1500,
-  "def": 1800,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
 }

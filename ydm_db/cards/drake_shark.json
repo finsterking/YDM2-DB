@@ -3,19 +3,19 @@
   "name": "Drake Shark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A \"Shark Drake\" Xyz Monster that has this card as material gains this effect.\n● Once per turn: You can detach 2 materials from this card, then target 1 Spell/Trap on the field; attach it to this card as material.\nYou can only use each of the following effects of \"Drake Shark\" once per turn. If this card is added to your hand, except by drawing it: You can Special Summon this card. This card can be treated as 2 materials for the Xyz Summon of a WATER Xyz Monster that requires 3 or more materials.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81096431.jpg"
   ],
+  "text": "A \"Shark Drake\" Xyz Monster that has this card as material gains this effect.\n● Once per turn: You can detach 2 materials from this card, then target 1 Spell/Trap on the field; attach it to this card as material.\nYou can only use each of the following effects of \"Drake Shark\" once per turn. If this card is added to your hand, except by drawing it: You can Special Summon this card. This card can be treated as 2 materials for the Xyz Summon of a WATER Xyz Monster that requires 3 or more materials.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1400,
-  "def": 1050,
-  "level": 4,
   "species": "Fish",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1050,
+  "level": 4,
+  "is_tuner": false
 }

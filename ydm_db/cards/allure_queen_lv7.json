@@ -3,19 +3,19 @@
   "name": "Allure Queen LV7",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during your Main Phase, if this card was Special Summoned by the effect of \"Allure Queen LV5\", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/50140163.jpg"
   ],
+  "text": "Once per turn, during your Main Phase, if this card was Special Summoned by the effect of \"Allure Queen LV5\", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1500,
-  "def": 1500,
-  "level": 7,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
 }

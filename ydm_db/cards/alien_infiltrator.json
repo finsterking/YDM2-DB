@@ -3,19 +3,19 @@
   "name": "Alien Infiltrator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/76573247.jpg"
   ],
+  "text": "Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 800,
-  "def": 500,
-  "level": 2,
   "species": "Reptile",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 2,
+  "is_tuner": false
 }

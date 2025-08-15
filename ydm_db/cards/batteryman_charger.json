@@ -3,19 +3,19 @@
   "name": "Batteryman Charger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned, you can Special Summon 1 \"Batteryman\" monster, except \"Batteryman Charger\", from your hand or Deck. This card gains 300 ATK and DEF for each Thunder-Type monster you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83446909.jpg"
   ],
+  "text": "When this card is Normal Summoned, you can Special Summon 1 \"Batteryman\" monster, except \"Batteryman Charger\", from your hand or Deck. This card gains 300 ATK and DEF for each Thunder-Type monster you control.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1800,
-  "def": 1200,
-  "level": 5,
   "species": "Thunder",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1200,
+  "level": 5,
+  "is_tuner": false
 }

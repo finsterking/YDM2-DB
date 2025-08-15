@@ -3,19 +3,19 @@
   "name": "Bujingi Crane",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During damage calculation (in either player's turn), if a Beast-Warrior-Type \"Bujin\" monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; the ATK of your monster becomes double its original ATK, during that damage calculation only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/68601507.jpg"
   ],
+  "text": "During damage calculation (in either player's turn), if a Beast-Warrior-Type \"Bujin\" monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; the ATK of your monster becomes double its original ATK, during that damage calculation only.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1600,
-  "def": 300,
-  "level": 4,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 300,
+  "level": 4,
+  "is_tuner": false
 }

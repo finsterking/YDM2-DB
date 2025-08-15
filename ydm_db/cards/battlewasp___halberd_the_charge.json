@@ -3,19 +3,19 @@
   "name": "Battlewasp - Halberd the Charge",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Insect Tuner + 1+ non-Tuner monsters\nOnce per battle, during damage calculation, if this card attacks an opponent's monster with equal or higher ATK (Quick Effect): You can halve the ATK of that opponent's monster, during that damage calculation only. When this card inflicts battle damage to your opponent: You can inflict 200 damage to your opponent for each \"Battlewasp\" monster you control. You can only use this effect of \"Battlewasp - Halberd the Charge\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/53950487.jpg"
   ],
+  "text": "1 Insect Tuner + 1+ non-Tuner monsters\nOnce per battle, during damage calculation, if this card attacks an opponent's monster with equal or higher ATK (Quick Effect): You can halve the ATK of that opponent's monster, during that damage calculation only. When this card inflicts battle damage to your opponent: You can inflict 200 damage to your opponent for each \"Battlewasp\" monster you control. You can only use this effect of \"Battlewasp - Halberd the Charge\" once per turn.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "WIND",
   "atk": 2500,
-  "def": 800,
-  "level": 6,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 800,
+  "level": 6,
+  "is_tuner": false
 }

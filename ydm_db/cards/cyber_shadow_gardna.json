@@ -3,10 +3,10 @@
   "name": "Cyber Shadow Gardna",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent's Main Phase: Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK ?/DEF ?). (This card is also still a Trap.) When an opponent's monster declares an attack that targets this card: The ATK/DEF of this card become the ATK/DEF of the attacking monster. Once per turn, during your opponent's End Phase: Set this card in its Spell & Trap Zone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90440725.jpg"
   ],
+  "text": "During your opponent's Main Phase: Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK ?/DEF ?). (This card is also still a Trap.) When an opponent's monster declares an attack that targets this card: The ATK/DEF of this card become the ATK/DEF of the attacking monster. Once per turn, during your opponent's End Phase: Set this card in its Spell & Trap Zone.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

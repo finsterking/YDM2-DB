@@ -3,19 +3,19 @@
   "name": "Card Breaker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell & Trap Card Zone to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51047350.jpg"
   ],
+  "text": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell & Trap Card Zone to the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 100,
-  "def": 900,
-  "level": 2,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 900,
+  "level": 2,
+  "is_tuner": false
 }

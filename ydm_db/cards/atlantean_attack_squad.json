@@ -3,19 +3,19 @@
   "name": "Atlantean Attack Squad",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card gains 800 ATK while you control a face-up Fish, Sea Serpent, or Aqua-Type monster other than this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8078366.jpg"
   ],
+  "text": "This card gains 800 ATK while you control a face-up Fish, Sea Serpent, or Aqua-Type monster other than this card.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1400,
-  "def": 0,
-  "level": 3,
   "species": "Sea Serpent",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
 }

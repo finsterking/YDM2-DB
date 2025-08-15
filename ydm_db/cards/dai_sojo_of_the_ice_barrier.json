@@ -3,19 +3,19 @@
   "name": "Dai-sojo of the Ice Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Flip Summoned, it is changed to Defense Position. Face-up \"Ice Barrier\" monsters you control cannot be destroyed by Spell or Trap Card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/41090784.jpg"
   ],
+  "text": "When this card is Normal or Flip Summoned, it is changed to Defense Position. Face-up \"Ice Barrier\" monsters you control cannot be destroyed by Spell or Trap Card effects.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1600,
-  "def": 2200,
-  "level": 6,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2200,
+  "level": 6,
+  "is_tuner": false
 }

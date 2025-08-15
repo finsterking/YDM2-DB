@@ -3,7 +3,6 @@
   "name": "Dark Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''The ultimate wizard in terms of attack and defense.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46986414.jpg",
     "https://images.ygoprodeck.com/images/cards/46986415.jpg",
@@ -15,15 +14,16 @@
     "https://images.ygoprodeck.com/images/cards/46986420.jpg",
     "https://images.ygoprodeck.com/images/cards/46986421.jpg"
   ],
+  "text": "''The ultimate wizard in terms of attack and defense.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 2500,
-  "def": 2100,
-  "level": 7,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2100,
+  "level": 7,
+  "is_tuner": false
 }

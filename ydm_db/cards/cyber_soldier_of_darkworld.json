@@ -3,19 +3,19 @@
   "name": "Cyber Soldier of Darkworld",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A mechanical soldier that won't stop attacking until all life readings have been extinguished from its sensors.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75559356.jpg"
   ],
+  "text": "A mechanical soldier that won't stop attacking until all life readings have been extinguished from its sensors.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1400,
-  "def": 1200,
-  "level": 4,
   "species": "Machine",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
 }

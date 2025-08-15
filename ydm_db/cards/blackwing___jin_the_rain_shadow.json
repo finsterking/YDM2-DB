@@ -3,19 +3,19 @@
   "name": "Blackwing - Jin the Rain Shadow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card battles a face-up monster with DEF equal to or less than this card's ATK, destroy that monster at the start of the Damage Step (without damage calculation).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38562933.jpg"
   ],
+  "text": "If this card battles a face-up monster with DEF equal to or less than this card's ATK, destroy that monster at the start of the Damage Step (without damage calculation).",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 600,
-  "def": 500,
-  "level": 1,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 500,
+  "level": 1,
+  "is_tuner": true
 }

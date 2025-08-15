@@ -3,19 +3,19 @@
   "name": "Ancient Pixie Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nAfter resolving a Field Spell Card that was activated during your turn: Draw 1 card. You can only use this effect of \"Ancient Pixie Dragon\" once per turn. Once per turn: You can target 1 face-up Attack Position monster on the field; destroy that target. There must be a face-up Field Spell Card on the field to activate and to resolve this effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/4179255.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nAfter resolving a Field Spell Card that was activated during your turn: Draw 1 card. You can only use this effect of \"Ancient Pixie Dragon\" once per turn. Once per turn: You can target 1 face-up Attack Position monster on the field; destroy that target. There must be a face-up Field Spell Card on the field to activate and to resolve this effect.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "DARK",
   "atk": 2100,
-  "def": 3000,
-  "level": 7,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 3000,
+  "level": 7,
+  "is_tuner": false
 }

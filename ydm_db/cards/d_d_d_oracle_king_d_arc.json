@@ -3,19 +3,19 @@
   "name": "D/D/D Oracle King d'Arc",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"D/D\" monsters\nAny effect that would inflict damage to you makes you gain that much LP, instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82956492.jpg"
   ],
+  "text": "2 \"D/D\" monsters\nAny effect that would inflict damage to you makes you gain that much LP, instead.",
   "type": "Monster",
-  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2800,
-  "def": 2000,
-  "level": 7,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Fusion",
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
 }

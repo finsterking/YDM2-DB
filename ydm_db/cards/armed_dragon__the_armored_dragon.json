@@ -3,19 +3,19 @@
   "name": "Armed Dragon, the Armored Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card destroys an opponent's monster by battle: You can Special Summon 1 Level 5 or lower WIND Dragon monster from your hand or Deck, except \"Armed Dragon, the Armored Dragon\", but it cannot attack directly this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/75220074.jpg"
   ],
+  "text": "When this card destroys an opponent's monster by battle: You can Special Summon 1 Level 5 or lower WIND Dragon monster from your hand or Deck, except \"Armed Dragon, the Armored Dragon\", but it cannot attack directly this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1900,
-  "def": 1400,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
 }

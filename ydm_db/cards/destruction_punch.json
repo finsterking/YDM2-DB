@@ -3,10 +3,10 @@
   "name": "Destruction Punch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster you control, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5616412.jpg"
   ],
+  "text": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster you control, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
   "type": "Trap",
   "trap_type": "Normal"
 }

@@ -3,19 +3,19 @@
   "name": "Amores of Prophecy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can reveal 1 \"Spellbook\" Spell Card in your hand; Special Summon 1 Level 4 or lower Spellcaster-Type monster from your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/40213117.jpg"
   ],
+  "text": "Once per turn: You can reveal 1 \"Spellbook\" Spell Card in your hand; Special Summon 1 Level 4 or lower Spellcaster-Type monster from your hand.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 600,
-  "def": 2000,
-  "level": 3,
   "species": "Spellcaster",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 2000,
+  "level": 3,
+  "is_tuner": false
 }

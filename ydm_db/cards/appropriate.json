@@ -3,10 +3,10 @@
   "name": "Appropriate",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate only when your opponent draws a card(s) outside of either Draw Phase. After that, each time your opponent draws a card(s) outside of either Draw Phase, immediately draw 2 cards.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48539234.jpg"
   ],
+  "text": "Activate only when your opponent draws a card(s) outside of either Draw Phase. After that, each time your opponent draws a card(s) outside of either Draw Phase, immediately draw 2 cards.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

@@ -3,19 +3,19 @@
   "name": "Cyberse Converter",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If all monsters you control are Cyberse monsters (min. 1), you can Special Summon this card (from your hand). You can only Special Summon \"Cyberse Converter\" once per turn this way. When this card is Normal Summoned: You can target 1 face-up monster you control; it becomes a Cyberse monster until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14505685.jpg"
   ],
+  "text": "If all monsters you control are Cyberse monsters (min. 1), you can Special Summon this card (from your hand). You can only Special Summon \"Cyberse Converter\" once per turn this way. When this card is Normal Summoned: You can target 1 face-up monster you control; it becomes a Cyberse monster until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "def": 1000,
-  "level": 2,
   "species": "Cyberse",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
 }

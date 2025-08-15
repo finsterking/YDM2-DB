@@ -3,19 +3,19 @@
   "name": "Barrier Statue of the Abyss",
   "is_illegal": false,
   "is_custom": false,
-  "text": "No monsters can be Special Summoned, except for DARK monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84478195.jpg"
   ],
+  "text": "No monsters can be Special Summoned, except for DARK monsters.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1000,
-  "def": 1000,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
 }

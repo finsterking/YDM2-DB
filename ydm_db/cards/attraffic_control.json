@@ -3,10 +3,10 @@
   "name": "Attraffic Control",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls 3 or more monsters, they cannot declare an attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46083380.jpg"
   ],
+  "text": "If your opponent controls 3 or more monsters, they cannot declare an attack.",
   "type": "Spell",
   "spell_type": "Continuous"
 }

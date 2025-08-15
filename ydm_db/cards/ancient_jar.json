@@ -3,19 +3,19 @@
   "name": "Ancient Jar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''A very fragile jar that contains something ancient and dangerous.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81492226.jpg"
   ],
+  "text": "''A very fragile jar that contains something ancient and dangerous.''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 400,
-  "def": 200,
-  "level": 1,
   "species": "Rock",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 200,
+  "level": 1,
+  "is_tuner": false
 }

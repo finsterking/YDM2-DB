@@ -3,10 +3,10 @@
   "name": "Dragoncarnation",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 of your banished Dragon-Type monsters; add that target to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5325424.jpg"
   ],
+  "text": "Target 1 of your banished Dragon-Type monsters; add that target to your hand.",
   "type": "Trap",
   "trap_type": "Normal"
 }

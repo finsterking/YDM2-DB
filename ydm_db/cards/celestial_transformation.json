@@ -3,10 +3,10 @@
   "name": "Celestial Transformation",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Special Summon 1 Fairy monster from your hand. That monster's ATK is halved, also it is destroyed during the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28890974.jpg"
   ],
+  "text": "Special Summon 1 Fairy monster from your hand. That monster's ATK is halved, also it is destroyed during the End Phase.",
   "type": "Spell",
   "spell_type": "Quick-Play"
 }

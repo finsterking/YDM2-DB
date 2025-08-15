@@ -3,19 +3,19 @@
   "name": "Alexandrite Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43096270.jpg"
   ],
+  "text": "Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 2000,
-  "def": 100,
-  "level": 4,
   "species": "Dragon",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 100,
+  "level": 4,
+  "is_tuner": false
 }

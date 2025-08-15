@@ -3,19 +3,18 @@
   "name": "Dragon Master Lords",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 12 monsters\nWhile this Xyz Summoned card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. While you have 25 or more cards in your GY, if this card attacks a Defense Position monster, inflict double piercing battle damage to your opponent. Once per turn, if your opponent has 25 or more cards in their GY: You can detach 1 material from this card; Special Summon 1 monster from your Deck, Extra Deck, or GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58931850.jpg"
   ],
+  "text": "2 Level 12 monsters\nWhile this Xyz Summoned card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. While you have 25 or more cards in your GY, if this card attacks a Defense Position monster, inflict double piercing battle damage to your opponent. Once per turn, if your opponent has 25 or more cards in their GY: You can detach 1 material from this card; Special Summon 1 monster from your Deck, Extra Deck, or GY.",
   "type": "Monster",
-  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 5000,
-  "def": 5000,
-  "level": 12,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Xyz",
+  "rank": 12,
+  "def": 5000
 }

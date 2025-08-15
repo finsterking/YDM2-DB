@@ -3,19 +3,19 @@
   "name": "Destiny HERO - Dunker",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can send 1 \"Destiny HERO\" card from your hand to the Graveyard; inflict 500 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/93431862.jpg"
   ],
+  "text": "You can send 1 \"Destiny HERO\" card from your hand to the Graveyard; inflict 500 damage to your opponent.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1200,
-  "def": 1700,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1700,
+  "level": 4,
+  "is_tuner": false
 }

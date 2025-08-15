@@ -3,19 +3,19 @@
   "name": "Blackwing - Hurricane the Tornado",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can target 1 Synchro Monster on the field; this card's ATK becomes that monster's current ATK, until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36442179.jpg"
   ],
+  "text": "Once per turn: You can target 1 Synchro Monster on the field; this card's ATK becomes that monster's current ATK, until the end of this turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "def": 0,
-  "level": 1,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 1,
+  "is_tuner": true
 }

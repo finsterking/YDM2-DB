@@ -3,19 +3,19 @@
   "name": "Berserk Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"A Deal with Dark Ruler\" and cannot be Special Summoned by other ways. This card can attack all monsters your opponent controls once each. During each of your End Phases, this card loses 500 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/85605684.jpg"
   ],
+  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"A Deal with Dark Ruler\" and cannot be Special Summoned by other ways. This card can attack all monsters your opponent controls once each. During each of your End Phases, this card loses 500 ATK.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 3500,
-  "def": 0,
-  "level": 8,
   "species": "Zombie",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 0,
+  "level": 8,
+  "is_tuner": false
 }

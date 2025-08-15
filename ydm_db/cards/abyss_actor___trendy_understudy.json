@@ -3,19 +3,22 @@
   "name": "Abyss Actor - Trendy Understudy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.\n\n[ Monster Effect ] \nIf you have 2 \"Abyss Actor\" cards in your Pendulum Zones: You can Tribute this card; Special Summon 1 Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your hand or face-up from your Extra Deck. You can only use this effect of \"Abyss Actor - Trendy Understudy\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39024589.jpg"
   ],
+  "text": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.\n\n[ Monster Effect ] \nIf you have 2 \"Abyss Actor\" cards in your Pendulum Zones: You can Tribute this card; Special Summon 1 Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your hand or face-up from your Extra Deck. You can only use this effect of \"Abyss Actor - Trendy Understudy\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 700,
-  "def": 700,
-  "level": 2,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": true,
+  "monster_type": "",
+  "def": 700,
+  "level": 2,
   "is_tuner": false,
-  "ability": ""
+  "pendulum_text": "When you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand.",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
 }

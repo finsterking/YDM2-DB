@@ -3,19 +3,19 @@
   "name": "Dragunity Corsesca",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This effect can only be activated while this card is equipped to a monster. If the equipped monster destroys an opponent's monster by battle, you can add 1 Level 4 or lower monster from your Deck to your hand with the same Type and Attribute as the monster this card is equipped to.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/99594764.jpg"
   ],
+  "text": "This effect can only be activated while this card is equipped to a monster. If the equipped monster destroys an opponent's monster by battle, you can add 1 Level 4 or lower monster from your Deck to your hand with the same Type and Attribute as the monster this card is equipped to.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 800,
-  "def": 700,
-  "level": 1,
   "species": "Dragon",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": true,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 700,
+  "level": 1,
+  "is_tuner": true
 }

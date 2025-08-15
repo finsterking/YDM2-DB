@@ -3,19 +3,19 @@
   "name": "Anotherverse Stratios",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''This war god from the otherworld has trod countless battlefields beneath his armored feet. If you want his glory, come and get it!''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10949074.jpg"
   ],
+  "text": "''This war god from the otherworld has trod countless battlefields beneath his armored feet. If you want his glory, come and get it!''",
   "type": "Monster",
-  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 2500,
-  "def": 2000,
-  "level": 8,
   "species": "Warrior",
+  "ability": "",
   "has_effect": false,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Normal",
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
 }

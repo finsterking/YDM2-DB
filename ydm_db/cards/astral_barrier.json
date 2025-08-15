@@ -3,10 +3,10 @@
   "name": "Astral Barrier",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent's monster attacks a monster you control: You can make the attack a direct attack instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37053871.jpg"
   ],
+  "text": "If your opponent's monster attacks a monster you control: You can make the attack a direct attack instead.",
   "type": "Trap",
   "trap_type": "Continuous"
 }

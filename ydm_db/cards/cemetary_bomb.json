@@ -3,10 +3,10 @@
   "name": "Cemetary Bomb",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Inflict 100 damage to your opponent for each card in their Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51394546.jpg"
   ],
+  "text": "Inflict 100 damage to your opponent for each card in their Graveyard.",
   "type": "Trap",
   "trap_type": "Normal"
 }

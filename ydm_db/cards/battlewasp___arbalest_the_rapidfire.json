@@ -3,19 +3,19 @@
   "name": "Battlewasp - Arbalest the Rapidfire",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 1 Level 3 or lower Insect monster in your GY; Special Summon that monster in Defense Position. If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 \"Battlewasp\" monster from your hand or Deck. You can only use this effect of \"Battlewasp - Arbalest the Rapidfire\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/90161770.jpg"
   ],
+  "text": "When this card is Normal Summoned: You can target 1 Level 3 or lower Insect monster in your GY; Special Summon that monster in Defense Position. If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 \"Battlewasp\" monster from your hand or Deck. You can only use this effect of \"Battlewasp - Arbalest the Rapidfire\" once per turn.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 1800,
-  "def": 800,
-  "level": 4,
   "species": "Insect",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 800,
+  "level": 4,
+  "is_tuner": false
 }

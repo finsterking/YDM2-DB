@@ -3,19 +3,19 @@
   "name": "Beiige, Vanguard of Dark World",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33731070.jpg"
   ],
+  "text": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1600,
-  "def": 1300,
-  "level": 4,
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
 }

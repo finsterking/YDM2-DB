@@ -3,19 +3,19 @@
   "name": "Daigusto Sphreez",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner \"Gusto\" monsters\n When this card is Synchro Summoned: You can target 1 \"Gusto\" card in your Graveyard; add that target to your hand. Your opponent takes any Battle Damage you would have taken from battles involving a face-up \"Gusto\" monster you control. This card cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29552709.jpg"
   ],
+  "text": "1 Tuner + 1 or more non-Tuner \"Gusto\" monsters\n When this card is Synchro Summoned: You can target 1 \"Gusto\" card in your Graveyard; add that target to your hand. Your opponent takes any Battle Damage you would have taken from battles involving a face-up \"Gusto\" monster you control. This card cannot be destroyed by battle.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "WIND",
   "atk": 2000,
-  "def": 1300,
-  "level": 6,
   "species": "Psychic",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 1300,
+  "level": 6,
+  "is_tuner": false
 }

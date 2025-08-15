@@ -3,19 +3,19 @@
   "name": "Assault Blackwing - Sayo the Rain Hider",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 non-Tuner monster\nIf this card is Synchro Summoned using a \"Blackwing\" monster as Material, it is treated as a Tuner while face-up on the field. Twice per turn, this card cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17994645.jpg"
   ],
+  "text": "1 Tuner + 1 non-Tuner monster\nIf this card is Synchro Summoned using a \"Blackwing\" monster as Material, it is treated as a Tuner while face-up on the field. Twice per turn, this card cannot be destroyed by battle.",
   "type": "Monster",
-  "monster_type": "Synchro",
   "attribute": "DARK",
   "atk": 800,
-  "def": 100,
-  "level": 2,
   "species": "Winged Beast",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Synchro",
+  "def": 100,
+  "level": 2,
+  "is_tuner": false
 }

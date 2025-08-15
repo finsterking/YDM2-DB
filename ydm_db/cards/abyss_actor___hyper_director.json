@@ -3,23 +3,20 @@
   "name": "Abyss Actor - Hyper Director",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 \"Abyss Actor\" Pendulum Monster\nYou can target 1 card in your Pendulum Zone; Special Summon it, then place 1 \"Abyss Actor\" Pendulum Monster with a different name, from your Deck or face-up Extra Deck, to your Pendulum Zone, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters. You can only use this effect of \"Abyss Actor - Hyper Director\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2368215.jpg"
   ],
+  "text": "1 \"Abyss Actor\" Pendulum Monster\nYou can target 1 card in your Pendulum Zone; Special Summon it, then place 1 \"Abyss Actor\" Pendulum Monster with a different name, from your Deck or face-up Extra Deck, to your Pendulum Zone, also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters. You can only use this effect of \"Abyss Actor - Hyper Director\" once per turn.",
   "type": "Monster",
-  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 800,
-  "def": null,
-  "level": null,
-  "link": 1,
-  "link_arrows": [
-    "Bottom"
-  ],
   "species": "Fiend",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Link",
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
 }

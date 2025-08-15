@@ -3,19 +3,19 @@
   "name": "Chronomaly Crystal Bones",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). When you do: You can Special Summon 1 \"Chronomaly\" monster from your hand or Graveyard, except \"Chronomaly Crystal Bones\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15941690.jpg"
   ],
+  "text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). When you do: You can Special Summon 1 \"Chronomaly\" monster from your hand or Graveyard, except \"Chronomaly Crystal Bones\".",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1300,
-  "def": 400,
-  "level": 3,
   "species": "Rock",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
 }

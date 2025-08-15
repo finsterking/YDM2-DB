@@ -3,19 +3,19 @@
   "name": "Amazoness Swords Woman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Your opponent takes any battle damage you would have taken from battles involving this card instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/94004268.jpg"
   ],
+  "text": "Your opponent takes any battle damage you would have taken from battles involving this card instead.",
   "type": "Monster",
-  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1500,
-  "def": 1600,
-  "level": 4,
   "species": "Warrior",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "is_tuner": false,
-  "ability": ""
+  "monster_type": "Effect",
+  "def": 1600,
+  "level": 4,
+  "is_tuner": false
 }
