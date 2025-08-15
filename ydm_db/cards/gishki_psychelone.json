@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/30334522.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Ritual",
   "attribute": "WATER",
   "atk": 2150,
-  "species": "Fiend",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Ritual",
   "def": 1650,
   "level": 4,
-  "is_tuner": false
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

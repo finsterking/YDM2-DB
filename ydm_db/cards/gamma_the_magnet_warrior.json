@@ -1,6 +1,6 @@
 {
   "id": 11549357,
-  "name": "Gamma The Magnet Warrior",
+  "name": "Gamma the Magnet Warrior",
   "is_illegal": false,
   "is_custom": false,
   "text": "Alpha, Beta, and Gamma meld as one to form a powerful monster.",
@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/11549357.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1500,
-  "species": "Rock",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1800,
   "level": 4,
-  "is_tuner": false
+  "species": "Rock",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

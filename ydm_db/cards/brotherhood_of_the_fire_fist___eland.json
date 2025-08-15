@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/61472381.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Ritual",
   "attribute": "FIRE",
   "atk": 2400,
-  "species": "Beast-Warrior",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Ritual",
   "def": 2000,
   "level": 6,
-  "is_tuner": false
+  "species": "Beast-Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

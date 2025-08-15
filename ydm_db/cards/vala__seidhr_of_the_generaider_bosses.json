@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/91749600.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 2500,
-  "species": "Fairy",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 2500,
   "level": 9,
-  "is_tuner": false
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

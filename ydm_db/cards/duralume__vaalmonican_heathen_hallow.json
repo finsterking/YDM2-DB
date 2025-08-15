@@ -8,15 +8,18 @@
     "https://images.ygoprodeck.com/images/cards/76821171.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 2500,
-  "species": "Fairy",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 1,
+  "def": null,
+  "level": null,
+  "link": 1,
   "link_arrows": [
     "Bottom-Left"
-  ]
+  ],
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

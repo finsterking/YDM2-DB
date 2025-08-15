@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/57062206.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "species": "Fairy",
-  "ability": "Union",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 200,
   "level": 4,
-  "is_tuner": false
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

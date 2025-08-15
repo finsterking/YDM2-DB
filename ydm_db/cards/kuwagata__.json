@@ -1,6 +1,6 @@
 {
   "id": 60802233,
-  "name": "Kuwagata \u03b1",
+  "name": "Kuwagata α",
   "is_illegal": false,
   "is_custom": false,
   "text": "A very vicious stag beetle that goes for the head.",
@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/60802233.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1250,
-  "species": "Insect",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "species": "Insect",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

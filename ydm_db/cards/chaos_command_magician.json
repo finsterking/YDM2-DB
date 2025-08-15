@@ -3,19 +3,19 @@
   "name": "Chaos Command Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Negate any monster effects that target this 1 card.",
+  "text": "Negate the effect of a Monster Card that targets this 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72630549.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2400,
-  "species": "Spellcaster",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1900,
   "level": 6,
-  "is_tuner": false
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

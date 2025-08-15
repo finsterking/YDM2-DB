@@ -3,9 +3,25 @@
   "name": "Gorgon of Zilofthonia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ Effect Monsters\r\nYou cannot Summon/Set monsters to a zone(s) this card points to. Monsters this card points to cannot attack, also their activated effects are negated. Gains ATK equal to the total original ATK of monsters this card points to. Cannot be destroyed by battle or monster effects, while this card points to no monsters.",
+  "text": "2+ Effect Monsters\nYou cannot Summon/Set monsters to a zone(s) this card points to. Monsters this card points to cannot attack, also their activated effects are negated. Gains ATK equal to the total original ATK of monsters this card points to. Cannot be destroyed by battle or monster effects, while this card points to no monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12067160.jpg"
   ],
-  "type": "Link Monster"
+  "type": "Monster",
+  "monster_type": "Link",
+  "attribute": "DARK",
+  "atk": 100,
+  "def": null,
+  "level": null,
+  "link": 3,
+  "link_arrows": [
+    "Top-Left",
+    "Top",
+    "Top-Right"
+  ],
+  "species": "Reptile",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

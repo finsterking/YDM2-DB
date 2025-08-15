@@ -1,21 +1,14 @@
 {
   "name": "Champion Pack: Game Four",
   "code": "CP04",
-  "type": "Champion Pack",
-  "date": "06-09-2007",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/CP04.jpg",
-  "pull_type": "distribution",
-  "distribution": "champion_pack",
+  "pull_type": "full",
   "cards": [
     {
-      "id": 77936940,
-      "code": "CP04-001",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80604092,
-      "code": "CP04-002",
+      "id": 9156135,
+      "code": "CP04-004",
       "rarity": "Super Rare",
       "image_index": 0
     },
@@ -26,20 +19,26 @@
       "image_index": 0
     },
     {
-      "id": 9156135,
-      "code": "CP04-004",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22587018,
-      "code": "CP04-005",
-      "rarity": "Super Rare",
+      "id": 79853073,
+      "code": "CP04-010",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 17375316,
       "code": "CP04-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48092532,
+      "code": "CP04-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31423101,
+      "code": "CP04-008",
       "rarity": "Rare",
       "image_index": 0
     },
@@ -50,38 +49,14 @@
       "image_index": 0
     },
     {
-      "id": 31423101,
-      "code": "CP04-008",
-      "rarity": "Rare",
+      "id": 77936940,
+      "code": "CP04-001",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 27174286,
-      "code": "CP04-009",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 79853073,
-      "code": "CP04-010",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 50755,
-      "code": "CP04-011",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 68005187,
-      "code": "CP04-012",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 57839750,
-      "code": "CP04-013",
+      "id": 47606319,
+      "code": "CP04-015",
       "rarity": "Common",
       "image_index": 0
     },
@@ -92,15 +67,21 @@
       "image_index": 0
     },
     {
-      "id": 47606319,
-      "code": "CP04-015",
+      "id": 98446407,
+      "code": "CP04-018",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 88279736,
-      "code": "CP04-016",
-      "rarity": "Common",
+      "id": 22587018,
+      "code": "CP04-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50755,
+      "code": "CP04-011",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -110,14 +91,26 @@
       "image_index": 0
     },
     {
-      "id": 98446407,
-      "code": "CP04-018",
+      "id": 57839750,
+      "code": "CP04-013",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 48092532,
-      "code": "CP04-019",
+      "id": 27174286,
+      "code": "CP04-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88279736,
+      "code": "CP04-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "CP04-012",
       "rarity": "Common",
       "image_index": 0
     },
@@ -125,6 +118,12 @@
       "id": 12538374,
       "code": "CP04-020",
       "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80604092,
+      "code": "CP04-002",
+      "rarity": "Super Rare",
       "image_index": 0
     }
   ]

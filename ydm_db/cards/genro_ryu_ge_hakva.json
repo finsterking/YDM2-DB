@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/56499179.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "WIND",
+  "atk": 3000,
+  "def": 1500,
+  "level": 10,
+  "species": "Wyrm",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

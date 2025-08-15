@@ -3,9 +3,19 @@
   "name": "Doll Monster Miss Mädchen",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''Welcome to our house!\r\nHere I live with Cologne, Grandpa Demetto, and all the other dolls!''",
+  "text": "''Welcome to our house!\nHere I live with Cologne, Grandpa Demetto, and all the other dolls!''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72717433.jpg"
   ],
-  "type": "Normal Monster"
+  "type": "Monster",
+  "monster_type": "Normal",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "def": 0,
+  "level": 4,
+  "species": "Fairy",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

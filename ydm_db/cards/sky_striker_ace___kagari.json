@@ -5,18 +5,22 @@
   "is_custom": false,
   "text": "1 non-FIRE \"Sky Striker Ace\" monster\nIf this card is Special Summoned: You can target 1 \"Sky Striker\" Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon \"Sky Striker Ace - Kagari(s)\" once per turn.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/63288573.jpg"
+    "https://images.ygoprodeck.com/images/cards/63288573.jpg",
+    "https://images.ygoprodeck.com/images/cards/63288574.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "FIRE",
   "atk": 1500,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 1,
+  "def": null,
+  "level": null,
+  "link": 1,
   "link_arrows": [
     "Top-Left"
-  ]
+  ],
+  "species": "Machine",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

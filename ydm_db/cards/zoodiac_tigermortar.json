@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/11510448.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": -1,
+  "def": -1,
+  "level": 4,
   "species": "Beast-Warrior",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": -1,
-  "rank": 4
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,9 +3,19 @@
   "name": "Dark Magician of Destruction",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Dark Magician\" + 1 LIGHT or DARK monster\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by banishing 1 Level 6 or higher DARK Spellcaster monster you control during the turn a Spell Card or effect was activated. You can only Special Summon \"Dark Magician of Destruction\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can add 1 \"Dark Magician\" or 1 card that mentions it from your Deck to your hand. This card's name becomes \"Dark Magician\" while on the field or in the GY.",
+  "text": "\"Dark Magician\" + 1 LIGHT or DARK monster\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by banishing 1 Level 6 or higher DARK Spellcaster monster you control during the turn a Spell Card or effect was activated. You can only Special Summon \"Dark Magician of Destruction\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can add 1 \"Dark Magician\" or 1 card that mentions it from your Deck to your hand. This card's name becomes \"Dark Magician\" while on the field or in the GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/59400890.jpg"
   ],
-  "type": "Fusion Monster"
+  "type": "Monster",
+  "monster_type": "Fusion",
+  "attribute": "DARK",
+  "atk": 2800,
+  "def": 2600,
+  "level": 8,
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

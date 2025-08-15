@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/10804018.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Ritual",
   "attribute": "LIGHT",
   "atk": 2550,
-  "species": "Dragon",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Ritual",
   "def": 2450,
   "level": 7,
-  "is_tuner": false
+  "species": "Dragon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

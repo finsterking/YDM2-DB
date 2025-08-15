@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/2766877.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "WIND",
   "atk": 1500,
+  "def": 1100,
+  "level": 2,
   "species": "Pyro",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 1100,
-  "rank": 2
+  "is_tuner": false,
+  "ability": ""
 }

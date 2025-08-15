@@ -3,19 +3,19 @@
   "name": "Galaxy Worm",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 Level 3 or lower \"Galaxy\" Effect Monster from your Deck, but negate its effects.",
+  "text": "When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 Level 3 or lower \"Galaxy\" Effect Monster from your Deck, but it has its effects negated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54507222.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1200,
-  "species": "Insect",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 3,
-  "is_tuner": false
+  "species": "Insect",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

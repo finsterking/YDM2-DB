@@ -1,285 +1,284 @@
 {
   "name": "Duelist Pack: Rivals of the Pharaoh",
   "code": "DPRP",
-  "type": "Duelist Pack",
-  "date": "15-09-2016",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/DPRP.jpg",
-  "pull_type": "distribution",
-  "distribution": "duelist_pack",
+  "pull_type": "full",
   "cards": [
     {
-      "id": 15180041,
-      "code": "DPRP-001",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41175645,
-      "code": "DPRP-002",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 19502505,
-      "code": "DPRP-003",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 18563744,
-      "code": "DPRP-004",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 44968459,
-      "code": "DPRP-005",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80352158,
-      "code": "DPRP-006",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 17841166,
-      "code": "DPRP-007",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43845801,
-      "code": "DPRP-008",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 39238953,
-      "code": "DPRP-009",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80230510,
-      "code": "DPRP-010",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 16625614,
-      "code": "DPRP-011",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 62873545,
-      "code": "DPRP-012",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40737112,
-      "code": "DPRP-013",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 69542930,
-      "code": "DPRP-014",
+      "id": 89041555,
+      "code": "DPRP-EN034",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 24874630,
-      "code": "DPRP-015",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 1995985,
-      "code": "DPRP-016",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 74388798,
-      "code": "DPRP-017",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 37267041,
-      "code": "DPRP-018",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 73665146,
-      "code": "DPRP-019",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 72443568,
-      "code": "DPRP-020",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 41172955,
-      "code": "DPRP-021",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 86445415,
-      "code": "DPRP-022",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 13839120,
-      "code": "DPRP-023",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 13955608,
-      "code": "DPRP-024",
+      "id": 53347303,
+      "code": "DPRP-EN026",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 23995346,
-      "code": "DPRP-025",
+      "code": "DPRP-EN025",
       "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 53347303,
-      "code": "DPRP-026",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 25119460,
-      "code": "DPRP-027",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 71490127,
-      "code": "DPRP-028",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41620959,
-      "code": "DPRP-029",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 87025064,
-      "code": "DPRP-030",
-      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 13513663,
-      "code": "DPRP-031",
+      "code": "DPRP-EN031",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 76052811,
-      "code": "DPRP-032",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 26905245,
-      "code": "DPRP-033",
+      "id": 40737112,
+      "code": "DPRP-EN013",
       "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 89041555,
-      "code": "DPRP-034",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 17484499,
-      "code": "DPRP-035",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 89194033,
-      "code": "DPRP-036",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 29762407,
-      "code": "DPRP-037",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 26202165,
-      "code": "DPRP-038",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 28297833,
-      "code": "DPRP-039",
-      "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 31829185,
-      "code": "DPRP-040",
+      "code": "DPRP-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16625614,
+      "code": "DPRP-EN011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69542930,
+      "code": "DPRP-EN014",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 94212438,
-      "code": "DPRP-041",
+      "code": "DPRP-EN041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62873545,
+      "code": "DPRP-EN012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41620959,
+      "code": "DPRP-EN029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71490127,
+      "code": "DPRP-EN028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17484499,
+      "code": "DPRP-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24874630,
+      "code": "DPRP-EN015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "DPRP-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76052811,
+      "code": "DPRP-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39238953,
+      "code": "DPRP-EN009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17841166,
+      "code": "DPRP-EN007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80352158,
+      "code": "DPRP-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26905245,
+      "code": "DPRP-EN033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89194033,
+      "code": "DPRP-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28297833,
+      "code": "DPRP-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43845801,
+      "code": "DPRP-EN008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "DPRP-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "DPRP-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44968459,
+      "code": "DPRP-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41175645,
+      "code": "DPRP-EN002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73665146,
+      "code": "DPRP-EN019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72443568,
+      "code": "DPRP-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19502505,
+      "code": "DPRP-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18563744,
+      "code": "DPRP-EN004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15180041,
+      "code": "DPRP-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1995985,
+      "code": "DPRP-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74388798,
+      "code": "DPRP-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37267041,
+      "code": "DPRP-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87025064,
+      "code": "DPRP-EN030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94772232,
+      "code": "DPRP-EN044",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 31893528,
-      "code": "DPRP-042",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 67287533,
-      "code": "DPRP-043",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 94772232,
-      "code": "DPRP-044",
+      "code": "DPRP-EN042",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 30170981,
-      "code": "DPRP-045",
+      "code": "DPRP-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67287533,
+      "code": "DPRP-EN043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13955608,
+      "code": "DPRP-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29762407,
+      "code": "DPRP-EN037",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 63519819,
-      "code": "DPRP-046",
+      "code": "DPRP-EN046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80230510,
+      "code": "DPRP-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "DPRP-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25119460,
+      "code": "DPRP-EN027",
       "rarity": "Rare",
       "image_index": 0
     }

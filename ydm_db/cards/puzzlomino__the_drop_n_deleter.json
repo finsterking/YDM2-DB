@@ -8,16 +8,19 @@
     "https://images.ygoprodeck.com/images/cards/84271823.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 1300,
-  "species": "Spellcaster",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 2,
+  "def": null,
+  "level": null,
+  "link": 2,
   "link_arrows": [
     "Right",
     "Bottom"
-  ]
+  ],
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

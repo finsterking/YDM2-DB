@@ -8,17 +8,20 @@
     "https://images.ygoprodeck.com/images/cards/66023650.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 2400,
-  "species": "Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 3,
+  "def": null,
+  "level": null,
+  "link": 3,
   "link_arrows": [
     "Top",
-    "Bottom-Right",
-    "Bottom-Left"
-  ]
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

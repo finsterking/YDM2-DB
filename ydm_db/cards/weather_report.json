@@ -3,19 +3,19 @@
   "name": "Weather Report",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Destroys all opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during opponent's turn).",
+  "text": "FLIP: Destroys all of your opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during your opponent's turn).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72053645.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 950,
-  "species": "Aqua",
-  "ability": "Flip",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1500,
   "level": 4,
-  "is_tuner": false
+  "species": "Aqua",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/50930991.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1700,
-  "species": "Spellcaster",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "species": "Spellcaster",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/30118811.jpg"
   ],
-  "type": "Tuner Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 1200,
+  "def": 800,
+  "level": 3,
+  "species": "Cyberse",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

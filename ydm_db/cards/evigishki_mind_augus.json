@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/11877465.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Ritual",
   "attribute": "WATER",
   "atk": 2500,
-  "species": "Aqua",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Ritual",
   "def": 2000,
   "level": 6,
-  "is_tuner": false
+  "species": "Aqua",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

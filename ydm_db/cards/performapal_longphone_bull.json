@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/92170894.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1600,
-  "species": "Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1200,
   "level": 4,
-  "is_tuner": false
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

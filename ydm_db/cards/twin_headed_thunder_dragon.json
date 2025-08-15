@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/54752875.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2800,
-  "species": "Thunder",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 2100,
   "level": 7,
-  "is_tuner": false
+  "species": "Thunder",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

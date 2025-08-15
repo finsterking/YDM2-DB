@@ -8,18 +8,21 @@
     "https://images.ygoprodeck.com/images/cards/6908161.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "FIRE",
   "atk": 2900,
-  "species": "Reptile",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 4,
+  "def": null,
+  "level": null,
+  "link": 4,
   "link_arrows": [
     "Right",
-    "Bottom-Right",
+    "Bottom-Left",
     "Bottom",
-    "Bottom-Left"
-  ]
+    "Bottom-Right"
+  ],
+  "species": "Reptile",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

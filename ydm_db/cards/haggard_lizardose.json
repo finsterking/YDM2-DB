@@ -8,16 +8,19 @@
     "https://images.ygoprodeck.com/images/cards/9763474.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "WATER",
   "atk": 800,
-  "species": "Reptile",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 2,
+  "def": null,
+  "level": null,
+  "link": 2,
   "link_arrows": [
     "Right",
     "Bottom"
-  ]
+  ],
+  "species": "Reptile",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

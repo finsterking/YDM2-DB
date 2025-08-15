@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/44265115.jpg"
   ],
-  "type": "Tuner Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 100,
+  "def": 200,
+  "level": 1,
+  "species": "Psychic",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

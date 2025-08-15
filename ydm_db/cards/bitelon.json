@@ -3,19 +3,19 @@
   "name": "Bitelon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "text": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/44702857.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 2400,
-  "species": "Reptile",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 6,
-  "is_tuner": false
+  "species": "Reptile",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/1035143.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 300,
+  "def": 200,
+  "level": 1,
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

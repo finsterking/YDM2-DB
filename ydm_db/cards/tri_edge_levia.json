@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/68836428.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "WATER",
   "atk": 1800,
-  "species": "Sea\u00a0Serpent",
-  "ability": "",
+  "def": 1500,
+  "level": 3,
+  "species": "Sea Serpent",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 1500,
-  "rank": 3
+  "is_tuner": false,
+  "ability": ""
 }

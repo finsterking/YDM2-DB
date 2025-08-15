@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/94515289.jpg"
   ],
-  "type": "Synchro Monster"
+  "type": "Monster",
+  "monster_type": "Synchro",
+  "attribute": "WATER",
+  "atk": 2500,
+  "def": 2500,
+  "level": 5,
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

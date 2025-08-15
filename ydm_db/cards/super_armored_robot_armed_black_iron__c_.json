@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/77754169.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 2400,
+  "def": 2000,
+  "level": 8,
   "species": "Insect",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "",
-  "def": 2800,
-  "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,19 +3,19 @@
   "name": "Vision HERO Trinity",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 \"HERO\" monsters\nAfter this card is Fusion Summoned, for the rest of this turn, this card's ATK becomes double its original ATK. This Fusion Summoned card can make up to 3 attacks during each Battle Phase. Cannot attack directly.",
+  "text": "3 \"HERO\" monsters\nAfter this card is Fusion Summoned, for the rest of this turn, this card's ATK becomes double its original ATK. This Fusion Summoned card can make a second and third attack during each Battle Phase. Cannot attack directly.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46759931.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2500,
-  "species": "Warrior",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 2000,
   "level": 8,
-  "is_tuner": false
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

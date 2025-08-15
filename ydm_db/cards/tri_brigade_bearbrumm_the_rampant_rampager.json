@@ -8,16 +8,19 @@
     "https://images.ygoprodeck.com/images/cards/47163170.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "FIRE",
   "atk": 1700,
+  "def": null,
+  "level": null,
+  "link": 2,
+  "link_arrows": [
+    "Left",
+    "Bottom-Right"
+  ],
   "species": "Beast",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 2,
-  "link_arrows": [
-    "Bottom-Right",
-    "Left"
-  ]
+  "is_tuner": false,
+  "ability": ""
 }

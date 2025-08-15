@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/76891401.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "WATER",
   "atk": 2300,
-  "species": "Sea\u00a0Serpent",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 1800,
   "level": 5,
-  "is_tuner": false
+  "species": "Sea Serpent",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

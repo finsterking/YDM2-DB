@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/71166481.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "WIND",
   "atk": 1000,
+  "def": 2600,
+  "level": 3,
   "species": "Spellcaster",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2600,
-  "rank": 3
+  "is_tuner": false,
+  "ability": ""
 }

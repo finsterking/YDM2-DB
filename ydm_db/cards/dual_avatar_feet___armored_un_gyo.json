@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/7631534.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 1700,
-  "species": "Warrior",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 2100,
   "level": 5,
-  "is_tuner": false
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

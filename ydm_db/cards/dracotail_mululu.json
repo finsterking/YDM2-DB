@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/7375867.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 1100,
+  "def": 1500,
+  "level": 3,
+  "species": "Dragon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

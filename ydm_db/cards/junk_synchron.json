@@ -3,19 +3,19 @@
   "name": "Junk Synchron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your GY; Special Summon that target in Defense Position, but negate its effects.",
+  "text": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63977008.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 1300,
-  "species": "Warrior",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 500,
   "level": 3,
-  "is_tuner": true
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

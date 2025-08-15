@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/51085303.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1900,
-  "species": "Plant",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 2000,
   "level": 6,
-  "is_tuner": false
+  "species": "Plant",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

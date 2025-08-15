@@ -3,7 +3,7 @@
   "name": "Crystron Token",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can be used as a \"Crystron Token\".\r\n\r\n\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "text": "This card can be used as a \"Crystron Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55326323.jpg"
   ],

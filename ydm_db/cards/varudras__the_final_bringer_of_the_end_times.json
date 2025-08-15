@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/70636044.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 3000,
+  "def": 3000,
+  "level": 10,
   "species": "Wyrm",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 3000,
-  "rank": 10
+  "is_tuner": false,
+  "ability": ""
 }

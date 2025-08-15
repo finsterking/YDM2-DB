@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/85004150.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2600,
+  "def": 2200,
+  "level": 7,
   "species": "Insect",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2200,
-  "rank": 7
+  "is_tuner": false,
+  "ability": ""
 }

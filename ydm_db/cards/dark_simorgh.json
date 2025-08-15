@@ -3,19 +3,19 @@
   "name": "Dark Simorgh",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While face-up on the field, this card is also WIND-Attribute. If this card is in your hand: You can banish 1 DARK and 1 WIND monster from your GY; Special Summon this card. If this card is in your GY: You can banish 1 DARK and 1 WIND monster from your hand; Special Summon this card. Your opponent cannot Set cards.",
+  "text": "While face-up on the field, this card is also WIND-Attribute. You can banish 1 DARK monster and 1 WIND monster from your Graveyard; Special Summon this card from your hand. You can banish 1 DARK monster and 1 WIND monster from your hand; Special Summon this card from your Graveyard. Your opponent cannot Set any cards on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11366199.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2700,
-  "species": "Winged Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 7,
-  "is_tuner": false
+  "species": "Winged Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

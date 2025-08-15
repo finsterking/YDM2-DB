@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/30128445.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "WIND",
   "atk": 3000,
+  "def": 2300,
+  "level": 6,
   "species": "Dinosaur",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2300,
-  "rank": 6
+  "is_tuner": false,
+  "ability": ""
 }

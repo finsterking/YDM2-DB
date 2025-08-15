@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/11066358.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1000,
-  "species": "Dragon",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 0,
   "level": 2,
-  "is_tuner": true
+  "species": "Dragon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

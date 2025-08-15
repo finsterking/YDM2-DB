@@ -3,19 +3,19 @@
   "name": "Winged Egg of New Life",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Legend has it that this creature can foretell the birth of children.",
+  "text": "''It is said to signal that life is growing in a woman's womb.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42418084.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 1400,
-  "species": "Fairy",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1700,
   "level": 5,
-  "is_tuner": false
+  "species": "Fairy",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

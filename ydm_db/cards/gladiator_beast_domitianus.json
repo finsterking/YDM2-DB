@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/33652635.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 3500,
-  "species": "Sea\u00a0Serpent",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 1200,
   "level": 10,
-  "is_tuner": false
+  "species": "Sea Serpent",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

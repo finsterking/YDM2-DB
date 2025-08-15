@@ -3,19 +3,19 @@
   "name": "Cyber Falcon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A jet-powered hawk that travels at the speed of sound.\n(This card is not treated as a \"Cyber\" card.)",
+  "text": "A jet-powered hawk that travels at the speed of sound.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/30655537.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 1400,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1200,
   "level": 4,
-  "is_tuner": false
+  "species": "Machine",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

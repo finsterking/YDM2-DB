@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/33537328.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 2800,
+  "def": 2400,
+  "level": 10,
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

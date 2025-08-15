@@ -3,18 +3,19 @@
   "name": "Indigo-Eyes Silver Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 8 Dragon monsters\nCannot attack directly unless it has a Normal Monster as material. You can only use each of the following effects of \"Indigo-Eyes Silver Dragon\" once per turn. If this card is Xyz Summoned: You can negate the effects of all face-up cards your opponent currently controls. You can detach 1 material from this card, then target 1 Normal Monster in your GY or banishment; Special Summon it, and if you do, it gains 1000 ATK.",
+  "text": "2 Level 8 Dragon monsters\nCannot attack directly unless this card has a Normal Monster as material. You can only use each of the following effects of \"Indigo-Eyes Silver Dragon\" once per turn. If this card is Xyz Summoned: You can negate the effects of all face-up cards your opponent currently controls. You can detach 1 material from this card, then target 1 Normal Monster in your GY or banishment; Special Summon it, and if you do, it gains 1000 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16699558.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 4000,
+  "def": 0,
+  "level": 8,
   "species": "Dragon",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 0,
-  "rank": 8
+  "is_tuner": false,
+  "ability": ""
 }

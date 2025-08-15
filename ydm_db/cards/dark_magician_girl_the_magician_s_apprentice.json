@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/2501624.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 2000,
+  "def": 1700,
+  "level": 6,
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

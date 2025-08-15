@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/80234301.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "LIGHT",
   "atk": 800,
-  "species": "Rock",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 3,
-  "is_tuner": false
+  "species": "Rock",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

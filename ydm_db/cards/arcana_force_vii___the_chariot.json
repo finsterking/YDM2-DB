@@ -3,19 +3,19 @@
   "name": "Arcana Force VII - The Chariot",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Summoned: Toss a coin.\n\u25cf Heads: When this card destroys an opponent's monster by battle: You can Special Summon that monster to your field.\n\u25cf Tails: Give control of this card to your opponent.",
+  "text": "When this card is Summoned, toss a coin:\n● Heads: If this card destroys an opponent's monster by battle, you can Special Summon that monster to your side of the field.\n● Tails: Your opponent gains control of this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34568403.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1700,
-  "species": "Fairy",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1700,
   "level": 4,
-  "is_tuner": false
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

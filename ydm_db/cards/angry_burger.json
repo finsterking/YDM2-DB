@@ -3,9 +3,19 @@
   "name": "Angry Burger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is always treated as \"Hungry Burger\".)\r\nYou can Ritual Summon this card with a \"Recipe\" card. Monsters your opponent controls that can attack must attack this card. You can only use each of the following effects of \"Angry Burger\" once per turn. You can reveal this card in your hand; add 1 \"Nouvelles\" monster from your Deck to your hand, and if you do, shuffle this card into the Deck. (Quick Effect): You can Tribute 1 Attack Position monster on either field, and if you do, Special Summon 1 \"Hungry Burger\" with 2000 ATK from your hand or Deck.",
+  "text": "(This card is always treated as \"Hungry Burger\".)\nYou can Ritual Summon this card with a \"Recipe\" card. Monsters your opponent controls that can attack must attack this card. You can only use each of the following effects of \"Angry Burger\" once per turn. You can reveal this card in your hand; add 1 \"Nouvelles\" monster from your Deck to your hand, and if you do, shuffle this card into the Deck. (Quick Effect): You can Tribute 1 Attack Position monster on either field, and if you do, Special Summon 1 \"Hungry Burger\" with 2000 ATK from your hand or Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28306253.jpg"
   ],
-  "type": "Ritual Effect Monster"
+  "type": "Monster",
+  "monster_type": "Ritual",
+  "attribute": "DARK",
+  "atk": 2800,
+  "def": 1850,
+  "level": 6,
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

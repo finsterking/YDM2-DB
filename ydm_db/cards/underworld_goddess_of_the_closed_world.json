@@ -8,19 +8,22 @@
     "https://images.ygoprodeck.com/images/cards/98127546.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 3000,
-  "species": "Fiend",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 5,
+  "def": null,
+  "level": null,
+  "link": 5,
   "link_arrows": [
     "Top",
     "Top-Right",
     "Right",
-    "Bottom-Right",
-    "Bottom"
-  ]
+    "Bottom",
+    "Bottom-Right"
+  ],
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

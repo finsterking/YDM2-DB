@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/32872239.jpg"
   ],
-  "type": "Pendulum Normal Monster"
+  "type": "Monster",
+  "monster_type": "Normal",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "def": 2000,
+  "level": 6,
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": false,
+  "ability": ""
 }

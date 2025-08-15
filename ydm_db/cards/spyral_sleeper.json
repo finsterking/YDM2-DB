@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/35699.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2800,
-  "species": "Fiend",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1200,
   "level": 8,
-  "is_tuner": false
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

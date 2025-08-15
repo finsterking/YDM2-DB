@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/61344030.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2000,
+  "def": 1000,
+  "level": 4,
   "species": "Warrior",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 1000,
-  "rank": 4
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,22 +3,19 @@
   "name": "Performapal Radish Horse",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls a Special Summoned monster, and controls at least as many monsters as you, you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster on each player's field; until the end of this turn, that opponent's monster loses ATK equal to this card's ATK, and if it does, that monster you control gains ATK equal to this card's ATK.",
+  "text": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster your opponent controls, and 1 \"Performapal\" monster you control; that opponent's monster loses ATK equal to the ATK of that \"Performapal\" monster you control (even if this card leaves the field).\n\n[ Monster Effect ] \nIf your opponent controls a Special Summoned monster, and controls at least as many monsters as you, you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster on each player's field; until the end of this turn, that opponent's monster loses ATK equal to this card's ATK, and if it does, that monster you control gains ATK equal to this card's ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71863024.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 500,
-  "species": "Plant",
-  "ability": "",
-  "has_effect": true,
-  "monster_type": "",
-  "is_pendulum": true,
-  "pendulum_text": "Once per turn: You can target 1 face-up monster your opponent controls, and 1 \"Performapal\" monster you control; that opponent's monster loses ATK equal to the ATK of that \"Performapal\" monster you control (even if this card leaves the field).",
-  "pendulum_scale_left_blue": 3,
-  "pendulum_scale_right_red": 3,
   "def": 2000,
   "level": 4,
-  "is_tuner": false
+  "species": "Plant",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": false,
+  "ability": ""
 }

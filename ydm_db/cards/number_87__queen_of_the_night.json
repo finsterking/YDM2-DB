@@ -3,18 +3,19 @@
   "name": "Number 87: Queen of the Night",
   "is_illegal": false,
   "is_custom": false,
-  "text": "3 Level 8 monsters\nOnce per turn (Quick Effect): You can detach 1 material from this card, then activate 1 of these effects.\n\u25cf Target 1 Set Spell/Trap your opponent controls; while this card is face-up on the field, that Set card cannot be activated.\n\u25cf Target 1 Plant monster on the field; change that target to face-down Defense Position.\n\u25cf Target 1 face-up monster on the field; that target gains 300 ATK.",
+  "text": "3 Level 8 monsters\nOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects.\n● Target 1 Set Spell/Trap Card your opponent controls; while this card is face-up on the field, that Set card cannot be activated.\n● Target 1 Plant-Type monster on the field; change that target to face-down Defense Position.\n● Target 1 face-up monster on the field; that target gains 300 ATK.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/89516305.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "WATER",
   "atk": 3200,
+  "def": 2800,
+  "level": 8,
   "species": "Plant",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2800,
-  "rank": 8
+  "is_tuner": false,
+  "ability": ""
 }

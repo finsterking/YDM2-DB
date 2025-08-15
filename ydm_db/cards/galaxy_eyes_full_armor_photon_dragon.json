@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/39030163.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 4000,
+  "def": 3500,
+  "level": 8,
   "species": "Dragon",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 3500,
-  "rank": 8
+  "is_tuner": false,
+  "ability": ""
 }

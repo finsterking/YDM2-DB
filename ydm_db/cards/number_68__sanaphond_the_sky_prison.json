@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/23085002.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2100,
+  "def": 2700,
+  "level": 8,
   "species": "Rock",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2700,
-  "rank": 8
+  "is_tuner": false,
+  "ability": ""
 }

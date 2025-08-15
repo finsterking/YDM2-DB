@@ -3,21 +3,24 @@
   "name": "Gladiator Beast Dareios",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 monsters, including a \"Gladiator Beast\" monster\nIf this card is Link Summoned: You can Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or GY, or, if your opponent controls a monster, you can Special Summon 1 \"Gladiator Beast\" monster from your Deck instead, also you cannot use monsters as Link Material for the rest of this turn, except \"Gladiator Beast\" monsters. You can only use this effect of \"Gladiator Beast Dareios\" once per turn. \"Gladiator Beast\" monsters you control cannot be destroyed by battle or card effects during your opponent's Battle Phase.",
+  "text": "2 monsters, including a \"Gladiator Beast\" monster\nDuring your opponent's Battle Phase, \"Gladiator Beast\" monsters you control cannot be destroyed by battle or card effects. If this card is Link Summoned: You can Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or GY, or if your opponent controls a monster, you can Special Summon 1 \"Gladiator Beast\" monster from your Deck instead, also for the rest of this turn, you can only use \"Gladiator Beast\" monsters as Link Material. You can only use this effect of \"Gladiator Beast Dareios\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72246674.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 1700,
+  "def": null,
+  "level": null,
+  "link": 2,
+  "link_arrows": [
+    "Bottom",
+    "Bottom-Right"
+  ],
   "species": "Beast-Warrior",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 2,
-  "link_arrows": [
-    "Bottom-Right",
-    "Bottom"
-  ]
+  "is_tuner": false,
+  "ability": ""
 }

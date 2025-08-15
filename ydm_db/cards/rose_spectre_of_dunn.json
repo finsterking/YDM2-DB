@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/32485271.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2000,
-  "species": "Plant",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 1800,
   "level": 6,
-  "is_tuner": false
+  "species": "Plant",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

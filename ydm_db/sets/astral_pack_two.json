@@ -1,40 +1,15 @@
 {
   "name": "Astral Pack Two",
   "code": "AP02",
-  "type": "Astral Pack",
-  "date": "19-04-2013",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/AP02.jpg",
-  "pull_type": "distribution",
-  "distribution": "astral_pack",
+  "pull_type": "full",
   "cards": [
     {
       "id": 74311226,
       "code": "AP02-001",
       "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 28150174,
-      "code": "AP02-002",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 25123082,
-      "code": "AP02-003",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 25206027,
-      "code": "AP02-004",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 47030842,
-      "code": "AP02-005",
-      "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -44,9 +19,9 @@
       "image_index": 0
     },
     {
-      "id": 84650463,
-      "code": "AP02-007",
-      "rarity": "Super Rare",
+      "id": 6840573,
+      "code": "AP02-018",
+      "rarity": "Short Print",
       "image_index": 0
     },
     {
@@ -62,8 +37,14 @@
       "image_index": 0
     },
     {
-      "id": 75782277,
-      "code": "AP02-010",
+      "id": 3370104,
+      "code": "AP02-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47030842,
+      "code": "AP02-005",
       "rarity": "Super Rare",
       "image_index": 0
     },
@@ -74,50 +55,14 @@
       "image_index": 0
     },
     {
-      "id": 6540606,
-      "code": "AP02-012",
+      "id": 75782277,
+      "code": "AP02-010",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 59616123,
-      "code": "AP02-013",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 30532390,
-      "code": "AP02-014",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 3370104,
-      "code": "AP02-015",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 47297616,
-      "code": "AP02-016",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 26732909,
-      "code": "AP02-017",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 6840573,
-      "code": "AP02-018",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 67169062,
-      "code": "AP02-019",
+      "id": 77778835,
+      "code": "AP02-024",
       "rarity": "Common",
       "image_index": 0
     },
@@ -128,8 +73,20 @@
       "image_index": 0
     },
     {
-      "id": 99995595,
-      "code": "AP02-021",
+      "id": 25206027,
+      "code": "AP02-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26732909,
+      "code": "AP02-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47297616,
+      "code": "AP02-016",
       "rarity": "Common",
       "image_index": 0
     },
@@ -140,21 +97,63 @@
       "image_index": 0
     },
     {
+      "id": 28150174,
+      "code": "AP02-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
       "id": 9354555,
       "code": "AP02-023",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 77778835,
-      "code": "AP02-024",
+      "id": 67169062,
+      "code": "AP02-019",
       "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99995595,
+      "code": "AP02-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30532390,
+      "code": "AP02-014",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 84650463,
+      "code": "AP02-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25123082,
+      "code": "AP02-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6540606,
+      "code": "AP02-012",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 14342283,
       "code": "AP02-025",
       "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59616123,
+      "code": "AP02-013",
+      "rarity": "Super Rare",
       "image_index": 0
     }
   ]

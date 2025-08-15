@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/41517789.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 3200,
-  "species": "Dragon",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 2800,
   "level": 11,
-  "is_tuner": false
+  "species": "Dragon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

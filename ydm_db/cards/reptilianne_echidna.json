@@ -8,16 +8,19 @@
     "https://images.ygoprodeck.com/images/cards/8602351.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 200,
+  "def": null,
+  "level": null,
+  "link": 2,
+  "link_arrows": [
+    "Left",
+    "Bottom-Right"
+  ],
   "species": "Reptile",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 2,
-  "link_arrows": [
-    "Bottom-Right",
-    "Left"
-  ]
+  "is_tuner": false,
+  "ability": ""
 }

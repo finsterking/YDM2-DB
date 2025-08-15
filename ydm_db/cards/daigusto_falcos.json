@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/34109611.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "WIND",
   "atk": 1400,
-  "species": "Psychic",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 1200,
   "level": 4,
-  "is_tuner": false
+  "species": "Psychic",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/28174796.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 100,
-  "species": "Cyberse",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 100,
   "level": 1,
-  "is_tuner": false
+  "species": "Cyberse",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

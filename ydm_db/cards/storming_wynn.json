@@ -3,19 +3,19 @@
   "name": "Storming Wynn",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn: You can Tribute 1 other WIND monster; Special Summon 1 WIND monster from your hand, but destroy it when a face-up \"Storming Wynn\" you control leaves the field.",
+  "text": "Once per turn, you can Tribute 1 WIND monster (except this card) to Special Summon 1 WIND monster from your hand. The monster Special Summoned by this effect is destroyed if \"Storming Wynn\" is removed from your side of the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/29013526.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 800,
-  "species": "Spellcaster",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1500,
   "level": 4,
-  "is_tuner": false
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/91575236.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "DARK",
   "atk": 500,
-  "species": "Zombie",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 2400,
   "level": 6,
-  "is_tuner": true
+  "species": "Zombie",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

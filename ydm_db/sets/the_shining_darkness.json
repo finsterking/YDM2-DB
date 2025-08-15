@@ -1,676 +1,681 @@
 {
   "name": "The Shining Darkness",
   "code": "TSHD",
-  "type": "Booster Pack (Series 6)",
-  "date": "07-05-2010",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/TSHD.jpg",
-  "pull_type": "distribution",
-  "distribution": "booster_pack_old_with_ghost_rare",
+  "pull_type": "full",
   "cards": [
     {
-      "id": 5998840,
-      "code": "TSHD-000",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 26775203,
-      "code": "TSHD-001",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 52869807,
-      "code": "TSHD-002",
+      "id": 38837163,
+      "code": "TSHD-EN085",
       "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 89258906,
-      "code": "TSHD-003",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 89258906,
-      "code": "TSHD-003",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 25652655,
-      "code": "TSHD-004",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 51047350,
-      "code": "TSHD-005",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 88032368,
-      "code": "TSHD-006",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 14430063,
-      "code": "TSHD-007",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 51925772,
-      "code": "TSHD-008",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 87319876,
-      "code": "TSHD-009",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 13708425,
-      "code": "TSHD-010",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 50702124,
-      "code": "TSHD-011",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 86197239,
-      "code": "TSHD-012",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 13582837,
-      "code": "TSHD-013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 49080532,
-      "code": "TSHD-014",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 85475641,
-      "code": "TSHD-015",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 12469386,
-      "code": "TSHD-016",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48868994,
-      "code": "TSHD-017",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 75252099,
-      "code": "TSHD-018",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 11747708,
-      "code": "TSHD-019",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 48742406,
-      "code": "TSHD-020",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 74130411,
-      "code": "TSHD-021",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 525110,
-      "code": "TSHD-022",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 47929865,
-      "code": "TSHD-023",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 73318863,
-      "code": "TSHD-024",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 402568,
-      "code": "TSHD-025",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 46897277,
-      "code": "TSHD-026",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 12296376,
-      "code": "TSHD-027",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 49680980,
-      "code": "TSHD-028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 75675029,
-      "code": "TSHD-029",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 12079734,
-      "code": "TSHD-030",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48568432,
-      "code": "TSHD-031",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 74952447,
-      "code": "TSHD-032",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 1357146,
-      "code": "TSHD-033",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 47346845,
-      "code": "TSHD-034",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 74730899,
-      "code": "TSHD-035",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 135598,
-      "code": "TSHD-036",
-      "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 36629203,
-      "code": "TSHD-037",
+      "code": "TSHD-EN037",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 73018302,
-      "code": "TSHD-038",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 44665365,
-      "code": "TSHD-039",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 44665365,
-      "code": "TSHD-039",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 9012916,
-      "code": "TSHD-040",
-      "rarity": "Ghost Rare",
-      "image_index": 0
-    },
-    {
-      "id": 9012916,
-      "code": "TSHD-040",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 9012916,
-      "code": "TSHD-040",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36407615,
-      "code": "TSHD-041",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36407615,
-      "code": "TSHD-041",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72896720,
-      "code": "TSHD-042",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72896720,
-      "code": "TSHD-042",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4290468,
-      "code": "TSHD-043",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4290468,
-      "code": "TSHD-043",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 31385077,
-      "code": "TSHD-044",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 67779172,
-      "code": "TSHD-045",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 4168871,
-      "code": "TSHD-046",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4168871,
-      "code": "TSHD-046",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 30562585,
-      "code": "TSHD-047",
+      "id": 19204398,
+      "code": "TSHD-EN096",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 66957584,
-      "code": "TSHD-048",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 93946239,
-      "code": "TSHD-049",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 93946239,
-      "code": "TSHD-049",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 39440937,
-      "code": "TSHD-050",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 39440937,
-      "code": "TSHD-050",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 66835946,
-      "code": "TSHD-051",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 92223641,
-      "code": "TSHD-052",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 29228350,
-      "code": "TSHD-053",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 65612454,
-      "code": "TSHD-054",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 91107093,
-      "code": "TSHD-055",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 28506708,
-      "code": "TSHD-056",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 64990807,
-      "code": "TSHD-057",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 91985515,
-      "code": "TSHD-058",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 27383110,
-      "code": "TSHD-059",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 53778229,
-      "code": "TSHD-060",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 90263923,
-      "code": "TSHD-061",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 26257572,
-      "code": "TSHD-062",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 53656677,
-      "code": "TSHD-063",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 89040386,
-      "code": "TSHD-064",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 25435080,
-      "code": "TSHD-065",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 52833089,
-      "code": "TSHD-066",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 88928798,
-      "code": "TSHD-067",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 15313433,
-      "code": "TSHD-068",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 51717541,
-      "code": "TSHD-069",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 87106146,
-      "code": "TSHD-070",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 14550855,
-      "code": "TSHD-071",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40555959,
-      "code": "TSHD-072",
+      "id": 14430063,
+      "code": "TSHD-EN007",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 87043568,
-      "code": "TSHD-073",
+      "code": "TSHD-EN073",
       "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47346845,
+      "code": "TSHD-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74730899,
+      "code": "TSHD-EN035",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74130411,
+      "code": "TSHD-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75252099,
+      "code": "TSHD-EN018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52833089,
+      "code": "TSHD-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9012916,
+      "code": "TSHD-EN040",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9012916,
+      "code": "TSHD-EN040",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9012916,
+      "code": "TSHD-EN040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67779172,
+      "code": "TSHD-EN045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89040386,
+      "code": "TSHD-EN064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25435080,
+      "code": "TSHD-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89258906,
+      "code": "TSHD-EN003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89258906,
+      "code": "TSHD-EN003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26775203,
+      "code": "TSHD-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52869807,
+      "code": "TSHD-EN002",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 13438207,
-      "code": "TSHD-074",
+      "code": "TSHD-EN074",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 49833312,
-      "code": "TSHD-075",
+      "id": 51047350,
+      "code": "TSHD-EN005",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 86821010,
-      "code": "TSHD-076",
+      "id": 4168871,
+      "code": "TSHD-EN046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4168871,
+      "code": "TSHD-EN046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25652655,
+      "code": "TSHD-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31385077,
+      "code": "TSHD-EN044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36407615,
+      "code": "TSHD-EN041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36407615,
+      "code": "TSHD-EN041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11593137,
+      "code": "TSHD-EN080",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 525110,
+      "code": "TSHD-EN022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36560997,
+      "code": "TSHD-EN087",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26257572,
+      "code": "TSHD-EN062",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 49600724,
+      "code": "TSHD-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87106146,
+      "code": "TSHD-EN070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27383110,
+      "code": "TSHD-EN059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12079734,
+      "code": "TSHD-EN030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29228350,
+      "code": "TSHD-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51925772,
+      "code": "TSHD-EN008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91107093,
+      "code": "TSHD-EN055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48742406,
+      "code": "TSHD-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13708425,
+      "code": "TSHD-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68505803,
+      "code": "TSHD-EN090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19182751,
+      "code": "TSHD-EN097",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67483216,
+      "code": "TSHD-EN092",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4904812,
+      "code": "TSHD-EN091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88928798,
+      "code": "TSHD-EN067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44665365,
+      "code": "TSHD-EN039",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44665365,
+      "code": "TSHD-EN039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73018302,
+      "code": "TSHD-EN038",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 47421985,
+      "code": "TSHD-EN095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85475641,
+      "code": "TSHD-EN015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9059700,
+      "code": "TSHD-EN089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49080532,
+      "code": "TSHD-EN014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51717541,
+      "code": "TSHD-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98954375,
+      "code": "TSHD-EN098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72896720,
+      "code": "TSHD-EN042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72896720,
+      "code": "TSHD-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14550855,
+      "code": "TSHD-EN071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66957584,
+      "code": "TSHD-EN048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86197239,
+      "code": "TSHD-EN012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13582837,
+      "code": "TSHD-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15313433,
+      "code": "TSHD-EN068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39440937,
+      "code": "TSHD-EN050",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39440937,
+      "code": "TSHD-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93946239,
+      "code": "TSHD-EN049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93946239,
+      "code": "TSHD-EN049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 135598,
+      "code": "TSHD-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80367387,
+      "code": "TSHD-EN099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91985515,
+      "code": "TSHD-EN058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 176392,
+      "code": "TSHD-EN082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49680980,
+      "code": "TSHD-EN028",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 12216615,
-      "code": "TSHD-077",
+      "code": "TSHD-EN077",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 49600724,
-      "code": "TSHD-078",
+      "id": 90263923,
+      "code": "TSHD-EN061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73318863,
+      "code": "TSHD-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64990807,
+      "code": "TSHD-EN057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47929865,
+      "code": "TSHD-EN023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75675029,
+      "code": "TSHD-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48868994,
+      "code": "TSHD-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49833312,
+      "code": "TSHD-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2843014,
+      "code": "TSHD-EN084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40555959,
+      "code": "TSHD-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86821010,
+      "code": "TSHD-EN076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53656677,
+      "code": "TSHD-EN063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66835946,
+      "code": "TSHD-EN051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12469386,
+      "code": "TSHD-EN016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1357146,
+      "code": "TSHD-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73787254,
+      "code": "TSHD-EN086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88032368,
+      "code": "TSHD-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53778229,
+      "code": "TSHD-EN060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35448319,
+      "code": "TSHD-EN083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4290468,
+      "code": "TSHD-EN043",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4290468,
+      "code": "TSHD-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11747708,
+      "code": "TSHD-EN019",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 75105429,
-      "code": "TSHD-079",
+      "code": "TSHD-EN079",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 11593137,
-      "code": "TSHD-080",
+      "id": 50702124,
+      "code": "TSHD-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74952447,
+      "code": "TSHD-EN032",
       "rarity": "Short Print",
       "image_index": 0
     },
     {
-      "id": 31383545,
-      "code": "TSHD-081",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 31383545,
-      "code": "TSHD-081",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 176392,
-      "code": "TSHD-082",
+      "id": 92223641,
+      "code": "TSHD-EN052",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 35448319,
-      "code": "TSHD-083",
-      "rarity": "Secret Rare",
+      "id": 48568432,
+      "code": "TSHD-EN031",
+      "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 2843014,
-      "code": "TSHD-084",
+      "id": 87319876,
+      "code": "TSHD-EN009",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 38837163,
-      "code": "TSHD-085",
-      "rarity": "Rare",
+      "id": 65612454,
+      "code": "TSHD-EN054",
+      "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 73787254,
-      "code": "TSHD-086",
-      "rarity": "Secret Rare",
+      "id": 46897277,
+      "code": "TSHD-EN026",
+      "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 36560997,
-      "code": "TSHD-087",
+      "id": 402568,
+      "code": "TSHD-EN025",
       "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12296376,
+      "code": "TSHD-EN027",
+      "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 63665606,
-      "code": "TSHD-088",
+      "code": "TSHD-EN088",
       "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 9059700,
-      "code": "TSHD-089",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 68505803,
-      "code": "TSHD-090",
+      "id": 28506708,
+      "code": "TSHD-EN056",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 4904812,
-      "code": "TSHD-091",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 67483216,
-      "code": "TSHD-092",
-      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 96099959,
-      "code": "TSHD-093",
+      "code": "TSHD-EN093",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 23093604,
-      "code": "TSHD-094",
+      "code": "TSHD-EN094",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 47421985,
-      "code": "TSHD-095",
+      "id": 5998840,
+      "code": "TSHD-EN000",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 19204398,
-      "code": "TSHD-096",
+      "id": 5998840,
+      "code": "TSHD-ENSP1",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31383545,
+      "code": "TSHD-EN081",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31383545,
+      "code": "TSHD-EN081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30562585,
+      "code": "TSHD-EN047",
       "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 19182751,
-      "code": "TSHD-097",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 98954375,
-      "code": "TSHD-098",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80367387,
-      "code": "TSHD-099",
-      "rarity": "Secret Rare",
       "image_index": 0
     }
   ]

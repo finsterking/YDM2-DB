@@ -3,19 +3,19 @@
   "name": "Super Vehicroid Jumbo Drill",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Steamroid\" + \"Drillroid\" + \"Submarineroid\"\nA Fusion Summon of this card can only be done with the above Fusion Materials. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "text": "\"Steamroid\" + \"Drillroid\" + \"Submarineroid\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/36256625.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "EARTH",
   "atk": 3000,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 2000,
   "level": 8,
-  "is_tuner": false
+  "species": "Machine",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

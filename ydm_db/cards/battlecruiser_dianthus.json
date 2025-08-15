@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/40424929.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 2100,
+  "def": 1800,
+  "level": 3,
   "species": "Plant",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 1800,
-  "rank": 3
+  "is_tuner": false,
+  "ability": ""
 }

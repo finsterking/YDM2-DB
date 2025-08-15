@@ -3,22 +3,19 @@
   "name": "Antihuman Intelligence ME-PSY-YA",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can reveal this card in your hand; add 1 other Pendulum Monster from your hand, or 1 card from your Pendulum Zone, to its owner's Extra Deck face-up, and if you do, Special Summon this card. You can only use this effect of \"Antihuman Intelligence ME-PSY-YA\" once per turn. If another monster(s) is Normal or Special Summoned while you control this card: Send that monster(s) to the GY during the End Phase of this turn.",
+  "text": "[ Pendulum Effect ] \nAny card sent to the GY is banished instead, except Monster Cards.\n\n[ Monster Effect ] \nYou can reveal this card in your hand; add 1 other Pendulum Monster from your hand, or 1 card from your Pendulum Zone, to its owner's Extra Deck face-up, and if you do, Special Summon this card. You can only use this effect of \"Antihuman Intelligence ME-PSY-YA\" once per turn. If another monster(s) is Normal or Special Summoned while you control this card: Send that monster(s) to the GY during the End Phase of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58844135.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 2500,
-  "species": "Cyberse",
-  "ability": "",
-  "has_effect": true,
-  "monster_type": "",
-  "is_pendulum": true,
-  "pendulum_text": "Any card sent to the GY is banished instead, except Monster Cards.",
-  "pendulum_scale_left_blue": 0,
-  "pendulum_scale_right_red": 0,
   "def": 3000,
   "level": 8,
-  "is_tuner": false
+  "species": "Cyberse",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": false,
+  "ability": ""
 }

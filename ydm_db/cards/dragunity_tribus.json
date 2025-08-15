@@ -3,19 +3,19 @@
   "name": "Dragunity Tribus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal or Special Summoned: You can send 1 Level 3 or lower Dragon monster from your Deck to the GY.",
+  "text": "When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81962318.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "WIND",
   "atk": 500,
-  "species": "Winged Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 300,
   "level": 1,
-  "is_tuner": false
+  "species": "Winged Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

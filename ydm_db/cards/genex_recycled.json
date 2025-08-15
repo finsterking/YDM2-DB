@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/51827737.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 200,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 400,
   "level": 1,
-  "is_tuner": true
+  "species": "Machine",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

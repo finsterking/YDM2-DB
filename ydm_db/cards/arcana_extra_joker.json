@@ -8,17 +8,20 @@
     "https://images.ygoprodeck.com/images/cards/64454614.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "LIGHT",
   "atk": 2800,
-  "species": "Warrior",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 3,
+  "def": null,
+  "level": null,
+  "link": 3,
   "link_arrows": [
     "Top",
-    "Bottom-Right",
-    "Bottom-Left"
-  ]
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

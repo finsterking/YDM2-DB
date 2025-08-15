@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/21915012.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 0,
-  "species": "Fairy",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 600,
   "level": 4,
-  "is_tuner": true
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

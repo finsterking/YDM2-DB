@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/39964797.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "WATER",
   "atk": 1800,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 2000,
   "level": 4,
-  "is_tuner": true
+  "species": "Machine",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

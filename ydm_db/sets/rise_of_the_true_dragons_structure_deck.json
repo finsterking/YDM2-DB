@@ -1,15 +1,81 @@
 {
   "name": "Rise of the True Dragons Structure Deck",
   "code": "SR02",
-  "type": "Structure Deck",
-  "date": "07-07-2016",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/SR02.jpg",
   "pull_type": "full",
   "cards": [
     {
+      "id": 28596933,
+      "code": "SR02-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
       "id": 33282498,
       "code": "SR02-000",
       "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29330706,
+      "code": "SR02-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61901281,
+      "code": "SR02-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78474168,
+      "code": "SR02-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80163754,
+      "code": "SR02-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97077563,
+      "code": "SR02-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85087012,
+      "code": "SR02-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94886282,
+      "code": "SR02-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39343610,
+      "code": "SR02-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57662975,
+      "code": "SR02-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2732323,
+      "code": "SR02-008",
+      "rarity": "Common",
       "image_index": 0
     },
     {
@@ -25,74 +91,14 @@
       "image_index": 0
     },
     {
-      "id": 6075801,
-      "code": "SR02-003",
+      "id": 62265044,
+      "code": "SR02-026",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 33460840,
-      "code": "SR02-004",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 3954901,
-      "code": "SR02-005",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 39343610,
-      "code": "SR02-006",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 66337215,
-      "code": "SR02-007",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 2732323,
-      "code": "SR02-008",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 88264978,
-      "code": "SR02-009",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 67300516,
-      "code": "SR02-010",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 79473793,
-      "code": "SR02-011",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 57662975,
-      "code": "SR02-012",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 29330706,
-      "code": "SR02-013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 3536537,
-      "code": "SR02-014",
+      "id": 20638610,
+      "code": "SR02-035",
       "rarity": "Common",
       "image_index": 0
     },
@@ -103,14 +109,50 @@
       "image_index": 0
     },
     {
-      "id": 99234526,
-      "code": "SR02-016",
+      "id": 44178886,
+      "code": "SR02-021",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 61901281,
-      "code": "SR02-017",
+      "id": 3536537,
+      "code": "SR02-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3954901,
+      "code": "SR02-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "SR02-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33460840,
+      "code": "SR02-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74519184,
+      "code": "SR02-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66337215,
+      "code": "SR02-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96235275,
+      "code": "SR02-020",
       "rarity": "Common",
       "image_index": 0
     },
@@ -127,14 +169,20 @@
       "image_index": 0
     },
     {
-      "id": 96235275,
-      "code": "SR02-020",
+      "id": 84968490,
+      "code": "SR02-037",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 44178886,
-      "code": "SR02-021",
+      "id": 39122311,
+      "code": "SR02-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6075801,
+      "code": "SR02-003",
       "rarity": "Common",
       "image_index": 0
     },
@@ -145,50 +193,14 @@
       "image_index": 0
     },
     {
-      "id": 85087012,
-      "code": "SR02-023",
+      "id": 88264978,
+      "code": "SR02-009",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 69868555,
-      "code": "SR02-024",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 6853254,
-      "code": "SR02-025",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 62265044,
-      "code": "SR02-026",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 28596933,
-      "code": "SR02-027",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 38120068,
-      "code": "SR02-028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 81439173,
-      "code": "SR02-029",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 74519184,
-      "code": "SR02-030",
+      "id": 67300516,
+      "code": "SR02-010",
       "rarity": "Common",
       "image_index": 0
     },
@@ -199,15 +211,15 @@
       "image_index": 0
     },
     {
-      "id": 95281259,
-      "code": "SR02-032",
-      "rarity": "Common",
+      "id": 6853254,
+      "code": "SR02-025",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 94886282,
-      "code": "SR02-033",
-      "rarity": "Common",
+      "id": 69868555,
+      "code": "SR02-024",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -217,38 +229,26 @@
       "image_index": 0
     },
     {
-      "id": 20638610,
-      "code": "SR02-035",
+      "id": 95281259,
+      "code": "SR02-032",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 80163754,
-      "code": "SR02-036",
+      "id": 38120068,
+      "code": "SR02-028",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 84968490,
-      "code": "SR02-037",
+      "id": 99234526,
+      "code": "SR02-016",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 78474168,
-      "code": "SR02-038",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 97077563,
-      "code": "SR02-039",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 39122311,
-      "code": "SR02-040",
+      "id": 79473793,
+      "code": "SR02-011",
       "rarity": "Common",
       "image_index": 0
     }

@@ -3,22 +3,19 @@
   "name": "Performapal Trampolynx",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can target 1 card in either player's Pendulum Zone; return it to the hand.",
+  "text": "[ Pendulum Effect ] \nWhen you Pendulum Summon a monster(s): You can target 1 card in either player's Pendulum Zone; return it to the hand. You can only use this effect of \"Performapal Trampolynx\" once per turn.\n\n[ Monster Effect ] \nWhen this card is Normal Summoned: You can target 1 card in either player's Pendulum Zone; return it to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/43241495.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 300,
-  "species": "Beast",
-  "ability": "",
-  "has_effect": true,
-  "monster_type": "",
-  "is_pendulum": true,
-  "pendulum_text": "When you Pendulum Summon a monster(s): You can target 1 card in either player's Pendulum Zone; return it to the hand. You can only use this effect of \"Performapal Trampolynx\" once per turn.",
-  "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4,
   "def": 300,
   "level": 2,
-  "is_tuner": false
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,19 +3,19 @@
   "name": "Steam Synchron",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.",
+  "text": "During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83295594.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 600,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 800,
   "level": 3,
-  "is_tuner": true
+  "species": "Machine",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

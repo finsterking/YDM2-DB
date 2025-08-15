@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/69931927.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 2900,
+  "def": 2400,
+  "level": 10,
+  "species": "Fish",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

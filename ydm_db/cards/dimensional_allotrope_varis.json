@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/52254878.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 0,
-  "species": "Psychic",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 0,
   "level": 1,
-  "is_tuner": true
+  "species": "Psychic",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

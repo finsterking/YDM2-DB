@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/501000007.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "LIGHT",
+  "atk": 2600,
+  "def": 2600,
+  "level": 8,
+  "species": "Thunder",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

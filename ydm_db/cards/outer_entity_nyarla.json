@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/8809344.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "EARTH",
   "atk": 0,
+  "def": 2600,
+  "level": 4,
   "species": "Fiend",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2600,
-  "rank": 4
+  "is_tuner": false,
+  "ability": ""
 }

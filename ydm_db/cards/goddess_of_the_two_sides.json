@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/50915474.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "LIGHT",
+  "atk": 950,
+  "def": 700,
+  "level": 3,
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

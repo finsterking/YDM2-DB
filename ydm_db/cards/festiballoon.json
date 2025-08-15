@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/6696168.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "def": 0,
+  "level": 8,
+  "species": "Illusion",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

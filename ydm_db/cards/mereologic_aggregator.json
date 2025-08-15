@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/9940036.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2600,
+  "def": 3000,
+  "level": 9,
   "species": "Cyberse",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 3000,
-  "rank": 9
+  "is_tuner": false,
+  "ability": ""
 }

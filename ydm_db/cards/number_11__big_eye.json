@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/80117527.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2600,
+  "def": 2000,
+  "level": 7,
   "species": "Spellcaster",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2000,
-  "rank": 7
+  "is_tuner": false,
+  "ability": ""
 }

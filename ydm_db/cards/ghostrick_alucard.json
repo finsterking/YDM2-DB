@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/75367227.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 1800,
+  "def": 1600,
+  "level": 3,
   "species": "Zombie",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 1600,
-  "rank": 3
+  "is_tuner": false,
+  "ability": ""
 }

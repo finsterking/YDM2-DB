@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/21960890.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 1000,
+  "def": 1400,
+  "level": 4,
+  "species": "Zombie",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

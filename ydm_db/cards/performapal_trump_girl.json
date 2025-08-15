@@ -8,17 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/42002073.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 200,
-  "species": "Spellcaster",
-  "ability": "",
-  "has_effect": true,
-  "monster_type": "",
-  "is_pendulum": true,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 4,
-  "pendulum_scale_right_red": 4,
   "def": 200,
   "level": 2,
-  "is_tuner": false
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": false,
+  "ability": ""
 }

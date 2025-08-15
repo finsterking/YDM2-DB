@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/62873545.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 5000,
-  "species": "Dragon",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 5000,
   "level": 12,
-  "is_tuner": false
+  "species": "Dragon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

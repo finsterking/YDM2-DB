@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/33695750.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 500,
-  "species": "Insect",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 500,
   "level": 3,
-  "is_tuner": false
+  "species": "Insect",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

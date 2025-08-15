@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/23649496.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 2200,
+  "def": 2200,
+  "level": 4,
   "species": "Psychic",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2200,
-  "rank": 4
+  "is_tuner": false,
+  "ability": ""
 }

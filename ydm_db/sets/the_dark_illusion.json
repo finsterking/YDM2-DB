@@ -1,610 +1,639 @@
 {
   "name": "The Dark Illusion",
   "code": "TDIL",
-  "type": "Booster Pack (Series 9)",
-  "date": "04-08-2016",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/TDIL.jpg",
-  "pull_type": "distribution",
-  "distribution": "booster_pack",
+  "pull_type": "full",
   "cards": [
     {
-      "id": 43930492,
-      "code": "TDIL-000",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72708264,
-      "code": "TDIL-001",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 9106362,
-      "code": "TDIL-002",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 45591967,
-      "code": "TDIL-003",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 71985676,
-      "code": "TDIL-004",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 8384771,
-      "code": "TDIL-005",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34379489,
-      "code": "TDIL-006",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 71863024,
-      "code": "TDIL-007",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 7268133,
-      "code": "TDIL-008",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 33656832,
-      "code": "TDIL-009",
+      "code": "TDIL-EN009",
       "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41546,
-      "code": "TDIL-010",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 46035545,
-      "code": "TDIL-011",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 73534250,
-      "code": "TDIL-012",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 9929398,
-      "code": "TDIL-013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 45313993,
-      "code": "TDIL-014",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 72318602,
-      "code": "TDIL-015",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 8706701,
-      "code": "TDIL-016",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 35191415,
-      "code": "TDIL-017",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 71696014,
-      "code": "TDIL-018",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 7084129,
-      "code": "TDIL-019",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34079868,
-      "code": "TDIL-020",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60473572,
-      "code": "TDIL-021",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 7868571,
-      "code": "TDIL-022",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 33256280,
-      "code": "TDIL-023",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 69351984,
-      "code": "TDIL-024",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 96746083,
-      "code": "TDIL-025",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 32134638,
-      "code": "TDIL-026",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 69529337,
-      "code": "TDIL-027",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 95923441,
-      "code": "TDIL-028",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 32912040,
-      "code": "TDIL-029",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 68406755,
-      "code": "TDIL-030",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 94801854,
-      "code": "TDIL-031",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21296502,
-      "code": "TDIL-032",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 67284107,
-      "code": "TDIL-033",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 94689206,
-      "code": "TDIL-034",
-      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 20073910,
-      "code": "TDIL-035",
+      "code": "TDIL-EN035",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 56562619,
-      "code": "TDIL-036",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 93966624,
-      "code": "TDIL-037",
+      "id": 80773359,
+      "code": "TDIL-EN049",
       "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 29951323,
-      "code": "TDIL-038",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 56346071,
-      "code": "TDIL-039",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 82744076,
-      "code": "TDIL-040",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 28139785,
-      "code": "TDIL-041",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 55623480,
-      "code": "TDIL-042",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 81612598,
-      "code": "TDIL-043",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 28016193,
-      "code": "TDIL-044",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 54401832,
-      "code": "TDIL-045",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80896940,
-      "code": "TDIL-046",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 17994645,
-      "code": "TDIL-047",
+      "code": "TDIL-EN047",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 53389254,
-      "code": "TDIL-048",
+      "code": "TDIL-EN048",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 80773359,
-      "code": "TDIL-049",
+      "id": 56562619,
+      "code": "TDIL-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9929398,
+      "code": "TDIL-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17377751,
+      "code": "TDIL-ENSE1",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 16172067,
-      "code": "TDIL-050",
+      "id": 73534250,
+      "code": "TDIL-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94689206,
+      "code": "TDIL-EN034",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
+      "id": 7044562,
+      "code": "TDIL-EN068",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
       "id": 42566602,
-      "code": "TDIL-051",
+      "code": "TDIL-EN051",
       "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 85551711,
-      "code": "TDIL-052",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 11050415,
-      "code": "TDIL-053",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 48444114,
-      "code": "TDIL-054",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 74839123,
-      "code": "TDIL-055",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 10833828,
-      "code": "TDIL-056",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 47222536,
-      "code": "TDIL-057",
+      "id": 8267140,
+      "code": "TDIL-EN065",
       "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 73616671,
-      "code": "TDIL-058",
+      "id": 46035545,
+      "code": "TDIL-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41546,
+      "code": "TDIL-EN010",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 111280,
-      "code": "TDIL-059",
+      "code": "TDIL-EN059",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 46500985,
-      "code": "TDIL-060",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 73594093,
-      "code": "TDIL-061",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 9989792,
-      "code": "TDIL-062",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 45383307,
-      "code": "TDIL-063",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72772445,
-      "code": "TDIL-064",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 8267140,
-      "code": "TDIL-065",
+      "id": 47222536,
+      "code": "TDIL-EN057",
       "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 35261759,
-      "code": "TDIL-066",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 71650854,
-      "code": "TDIL-067",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 7044562,
-      "code": "TDIL-068",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 34449261,
-      "code": "TDIL-069",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 60433216,
-      "code": "TDIL-070",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 7922915,
-      "code": "TDIL-071",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 33327029,
-      "code": "TDIL-072",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 69711728,
-      "code": "TDIL-073",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 96100333,
-      "code": "TDIL-074",
-      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 32104431,
-      "code": "TDIL-075",
+      "code": "TDIL-EN075",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 69599136,
-      "code": "TDIL-076",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95083785,
-      "code": "TDIL-077",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 31472884,
-      "code": "TDIL-078",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 68477598,
-      "code": "TDIL-079",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 94861297,
-      "code": "TDIL-080",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 79324191,
-      "code": "TDIL-081",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 16719140,
-      "code": "TDIL-082",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 42713844,
-      "code": "TDIL-083",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78202553,
-      "code": "TDIL-084",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 5697558,
-      "code": "TDIL-085",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41091257,
-      "code": "TDIL-086",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78080961,
-      "code": "TDIL-087",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4474060,
-      "code": "TDIL-088",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 30979619,
-      "code": "TDIL-089",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 13647631,
-      "code": "TDIL-090",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 49032236,
-      "code": "TDIL-091",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 76136345,
-      "code": "TDIL-092",
+      "id": 32134638,
+      "code": "TDIL-EN026",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 65472618,
-      "code": "TDIL-093",
+      "code": "TDIL-EN093",
       "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85551711,
+      "code": "TDIL-EN052",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 54250060,
-      "code": "TDIL-094",
+      "code": "TDIL-EN094",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 35035481,
-      "code": "TDIL-095",
+      "id": 55623480,
+      "code": "TDIL-EN042",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 69599136,
+      "code": "TDIL-EN076",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10833828,
+      "code": "TDIL-EN056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74839123,
+      "code": "TDIL-EN055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34449261,
+      "code": "TDIL-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13647631,
+      "code": "TDIL-EN090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73616671,
+      "code": "TDIL-EN058",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60433216,
+      "code": "TDIL-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48444114,
+      "code": "TDIL-EN054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71650854,
+      "code": "TDIL-EN067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43930492,
+      "code": "TDIL-EN000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43930492,
+      "code": "TDIL-ENSP1",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7922915,
+      "code": "TDIL-EN071",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35191415,
+      "code": "TDIL-EN017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71696014,
+      "code": "TDIL-EN018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7084129,
+      "code": "TDIL-EN019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34079868,
+      "code": "TDIL-EN020",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81612598,
+      "code": "TDIL-EN043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69711728,
+      "code": "TDIL-EN073",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33327029,
+      "code": "TDIL-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54401832,
+      "code": "TDIL-EN045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73594093,
+      "code": "TDIL-EN061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33256280,
+      "code": "TDIL-EN023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28016193,
+      "code": "TDIL-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7868571,
+      "code": "TDIL-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60473572,
+      "code": "TDIL-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69351984,
+      "code": "TDIL-EN024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46500985,
+      "code": "TDIL-EN060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79324191,
+      "code": "TDIL-EN081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80896940,
+      "code": "TDIL-EN046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49032236,
+      "code": "TDIL-EN091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56832966,
+      "code": "TDIL-ENSE2",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61307542,
+      "code": "TDIL-EN099",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98414735,
+      "code": "TDIL-EN097",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 61420130,
-      "code": "TDIL-096",
+      "code": "TDIL-EN096",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 98414735,
-      "code": "TDIL-097",
+      "id": 35035481,
+      "code": "TDIL-EN095",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 24903843,
-      "code": "TDIL-098",
+      "code": "TDIL-EN098",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 61307542,
-      "code": "TDIL-099",
+      "id": 68477598,
+      "code": "TDIL-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72708264,
+      "code": "TDIL-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34379489,
+      "code": "TDIL-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45591967,
+      "code": "TDIL-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9106362,
+      "code": "TDIL-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8384771,
+      "code": "TDIL-EN005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71985676,
+      "code": "TDIL-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7268133,
+      "code": "TDIL-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71863024,
+      "code": "TDIL-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35261759,
+      "code": "TDIL-EN066",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95083785,
+      "code": "TDIL-EN077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72318602,
+      "code": "TDIL-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8706701,
+      "code": "TDIL-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45313993,
+      "code": "TDIL-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76136345,
+      "code": "TDIL-EN092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67284107,
+      "code": "TDIL-EN033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94801854,
+      "code": "TDIL-EN031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93966624,
+      "code": "TDIL-EN037",
       "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30979619,
+      "code": "TDIL-EN089",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30979619,
+      "code": "TDIL-ENSE4",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4474060,
+      "code": "TDIL-EN088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78080961,
+      "code": "TDIL-EN087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41091257,
+      "code": "TDIL-EN086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78202553,
+      "code": "TDIL-EN084",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42713844,
+      "code": "TDIL-EN083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16719140,
+      "code": "TDIL-EN082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16719140,
+      "code": "TDIL-ENSE3",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11050415,
+      "code": "TDIL-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94861297,
+      "code": "TDIL-EN080",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5697558,
+      "code": "TDIL-EN085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21296502,
+      "code": "TDIL-EN032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56346071,
+      "code": "TDIL-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45383307,
+      "code": "TDIL-EN063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69529337,
+      "code": "TDIL-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9989792,
+      "code": "TDIL-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95923441,
+      "code": "TDIL-EN028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72772445,
+      "code": "TDIL-EN064",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32912040,
+      "code": "TDIL-EN029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96100333,
+      "code": "TDIL-EN074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68406755,
+      "code": "TDIL-EN030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96746083,
+      "code": "TDIL-EN025",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82744076,
+      "code": "TDIL-EN040",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16172067,
+      "code": "TDIL-EN050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31472884,
+      "code": "TDIL-EN078",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 28139785,
+      "code": "TDIL-EN041",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 29951323,
+      "code": "TDIL-EN038",
+      "rarity": "Common",
       "image_index": 0
     }
   ]

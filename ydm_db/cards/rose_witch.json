@@ -3,19 +3,19 @@
   "name": "Rose Witch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Plant monster.",
+  "text": "This card can be treated as 2 Tributes for the Tribute Summon of a Plant-Type monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/23087070.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1600,
-  "species": "Plant",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "species": "Plant",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

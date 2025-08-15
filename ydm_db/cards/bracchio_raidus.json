@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/16507828.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "WATER",
   "atk": 2200,
-  "species": "Dinosaur",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 2000,
   "level": 6,
-  "is_tuner": false
+  "species": "Dinosaur",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,22 +3,19 @@
   "name": "Dragong",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This gong harbors the soul of an untamed dragon. It soars through the skies with an incredible roar, marshaling all those who hear its call to battle.",
+  "text": "''This gong harbors the soul of an untamed dragon. It soars through the skies with an incredible roar, marshaling all those who hear its call to battle.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83980492.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 500,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": false,
-  "monster_type": "",
-  "is_pendulum": true,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 7,
-  "pendulum_scale_right_red": 7,
   "def": 2100,
   "level": 4,
-  "is_tuner": false
+  "species": "Machine",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": false,
+  "ability": ""
 }

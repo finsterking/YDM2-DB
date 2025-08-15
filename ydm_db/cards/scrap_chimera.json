@@ -3,19 +3,19 @@
   "name": "Scrap Chimera",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be used as Synchro Material, except for the Synchro Summon of a \"Scrap\" monster, and all other materials must be \"Scrap\" monsters. When this card is Normal Summoned: You can target 1 \"Scrap\" Tuner in your GY; Special Summon that target.",
+  "text": "This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a \"Scrap\" monster, and all other Synchro Material Monsters must also be \"Scrap\" monsters. When this card is Normal Summoned, you can select 1 \"Scrap\" Tuner monster in your Graveyard and Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/56746202.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1700,
-  "species": "Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 500,
   "level": 4,
-  "is_tuner": false
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

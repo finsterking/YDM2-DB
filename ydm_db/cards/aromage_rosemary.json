@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/58569561.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1800,
-  "species": "Plant",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 700,
   "level": 4,
-  "is_tuner": false
+  "species": "Plant",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

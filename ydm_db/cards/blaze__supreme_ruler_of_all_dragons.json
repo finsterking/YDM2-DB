@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/47132793.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "FIRE",
   "atk": 2800,
+  "def": 1800,
+  "level": 7,
   "species": "Dragon",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 1800,
-  "rank": 7
+  "is_tuner": false,
+  "ability": ""
 }

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/33129626.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2200,
-  "species": "Beast-Warrior",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 1600,
   "level": 6,
-  "is_tuner": false
+  "species": "Beast-Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

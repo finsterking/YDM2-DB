@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/89609515.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1700,
-  "species": "Pyro",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 800,
   "level": 4,
-  "is_tuner": false
+  "species": "Pyro",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

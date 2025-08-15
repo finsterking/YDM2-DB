@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/59771339.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "WIND",
   "atk": 2700,
-  "species": "Warrior",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 1800,
   "level": 7,
-  "is_tuner": false
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

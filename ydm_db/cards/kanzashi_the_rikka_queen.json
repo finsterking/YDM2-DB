@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/6284176.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "WATER",
   "atk": 2400,
+  "def": 2400,
+  "level": 6,
   "species": "Plant",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2400,
-  "rank": 6
+  "is_tuner": false,
+  "ability": ""
 }

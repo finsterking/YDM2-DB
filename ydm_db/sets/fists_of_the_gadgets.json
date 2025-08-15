@@ -1,369 +1,368 @@
 {
   "name": "Fists of the Gadgets",
   "code": "FIGA",
-  "type": "60 Card Set",
-  "date": "22-08-2019",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/FIGA.jpg",
-  "pull_type": "distribution",
-  "distribution": "60_card_set",
+  "pull_type": "full",
   "cards": [
     {
-      "id": 938717,
-      "code": "FIGA-001",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36322312,
-      "code": "FIGA-002",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 63717421,
-      "code": "FIGA-003",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 9715126,
-      "code": "FIGA-004",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 35100834,
-      "code": "FIGA-005",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41172955,
-      "code": "FIGA-006",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 86445415,
-      "code": "FIGA-007",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 13839120,
-      "code": "FIGA-008",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 55010259,
-      "code": "FIGA-009",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 29021114,
-      "code": "FIGA-010",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 62694833,
-      "code": "FIGA-011",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 98093548,
-      "code": "FIGA-012",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 35488287,
-      "code": "FIGA-013",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 61472381,
-      "code": "FIGA-014",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 93877990,
-      "code": "FIGA-015",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 46241344,
-      "code": "FIGA-016",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 20265095,
-      "code": "FIGA-017",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 66750703,
-      "code": "FIGA-018",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 93754402,
-      "code": "FIGA-019",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 29143457,
-      "code": "FIGA-020",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 55538156,
-      "code": "FIGA-021",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 70355994,
-      "code": "FIGA-022",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 6353603,
-      "code": "FIGA-023",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 1662004,
-      "code": "FIGA-024",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 30929786,
-      "code": "FIGA-025",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 58504745,
-      "code": "FIGA-026",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 96381979,
-      "code": "FIGA-027",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57103969,
-      "code": "FIGA-028",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 10719350,
-      "code": "FIGA-029",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36499284,
-      "code": "FIGA-030",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95825679,
-      "code": "FIGA-031",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 64635042,
-      "code": "FIGA-032",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 61248471,
-      "code": "FIGA-033",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 32775808,
-      "code": "FIGA-034",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 3560069,
-      "code": "FIGA-035",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 30968774,
-      "code": "FIGA-036",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 76353872,
-      "code": "FIGA-037",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 39732186,
-      "code": "FIGA-038",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 75130221,
-      "code": "FIGA-039",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 2625939,
-      "code": "FIGA-040",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34010534,
-      "code": "FIGA-041",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 7403341,
-      "code": "FIGA-042",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 53413628,
-      "code": "FIGA-043",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 33897356,
-      "code": "FIGA-044",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60292055,
-      "code": "FIGA-045",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 96380700,
-      "code": "FIGA-046",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 88000953,
-      "code": "FIGA-047",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 74762582,
-      "code": "FIGA-048",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 5697558,
-      "code": "FIGA-049",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 74640994,
-      "code": "FIGA-050",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4334811,
-      "code": "FIGA-051",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95004025,
-      "code": "FIGA-052",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22499034,
-      "code": "FIGA-053",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 58984738,
-      "code": "FIGA-054",
+      "id": 69072185,
+      "code": "FIGA-EN057",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 70917315,
-      "code": "FIGA-055",
+      "code": "FIGA-EN055",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 32687071,
-      "code": "FIGA-056",
+      "code": "FIGA-EN056",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 69072185,
-      "code": "FIGA-057",
+      "id": 61248471,
+      "code": "FIGA-EN033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95825679,
+      "code": "FIGA-EN031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64635042,
+      "code": "FIGA-EN032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32775808,
+      "code": "FIGA-EN034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36322312,
+      "code": "FIGA-EN002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 938717,
+      "code": "FIGA-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63717421,
+      "code": "FIGA-EN003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9715126,
+      "code": "FIGA-EN004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6353603,
+      "code": "FIGA-EN023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58504745,
+      "code": "FIGA-EN026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46241344,
+      "code": "FIGA-EN016",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61472381,
+      "code": "FIGA-EN014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98093548,
+      "code": "FIGA-EN012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70355994,
+      "code": "FIGA-EN022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35488287,
+      "code": "FIGA-EN013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20265095,
+      "code": "FIGA-EN017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62694833,
+      "code": "FIGA-EN011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30929786,
+      "code": "FIGA-EN025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1662004,
+      "code": "FIGA-EN024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93877990,
+      "code": "FIGA-EN015",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96381979,
+      "code": "FIGA-EN027",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 12289247,
-      "code": "FIGA-058",
+      "code": "FIGA-EN058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75130221,
+      "code": "FIGA-EN039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53413628,
+      "code": "FIGA-EN043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7403341,
+      "code": "FIGA-EN042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34010534,
+      "code": "FIGA-EN041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76353872,
+      "code": "FIGA-EN037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58984738,
+      "code": "FIGA-EN054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60292055,
+      "code": "FIGA-EN045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93754402,
+      "code": "FIGA-EN019",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29143457,
+      "code": "FIGA-EN020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "FIGA-EN028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10719350,
+      "code": "FIGA-EN029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36499284,
+      "code": "FIGA-EN030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66750703,
+      "code": "FIGA-EN018",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55010259,
+      "code": "FIGA-EN009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "FIGA-EN006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22499034,
+      "code": "FIGA-EN053",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3560069,
+      "code": "FIGA-EN035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95004025,
+      "code": "FIGA-EN052",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 53842431,
-      "code": "FIGA-059",
+      "code": "FIGA-EN059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35100834,
+      "code": "FIGA-EN005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39732186,
+      "code": "FIGA-EN038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88000953,
+      "code": "FIGA-EN047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86445415,
+      "code": "FIGA-EN007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4334811,
+      "code": "FIGA-EN051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33897356,
+      "code": "FIGA-EN044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29021114,
+      "code": "FIGA-EN010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2625939,
+      "code": "FIGA-EN040",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 41209827,
-      "code": "FIGA-060",
+      "code": "FIGA-EN060",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74762582,
+      "code": "FIGA-EN048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74640994,
+      "code": "FIGA-EN050",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30968774,
+      "code": "FIGA-EN036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96380700,
+      "code": "FIGA-EN046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5697558,
+      "code": "FIGA-EN049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55538156,
+      "code": "FIGA-EN021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13839120,
+      "code": "FIGA-EN008",
       "rarity": "Super Rare",
       "image_index": 0
     }

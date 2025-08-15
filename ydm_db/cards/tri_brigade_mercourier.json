@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/19096726.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 800,
-  "species": "Winged Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 0,
   "level": 4,
-  "is_tuner": false
+  "species": "Winged Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,22 +3,19 @@
   "name": "Performapal Gongato",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; you take no battle damage from that battle.",
+  "text": "[ Pendulum Effect ] \nOnce per turn, when an opponent's monster declares a direct attack: You can activate this effect; you take no battle damage from that battle (even if this card leaves the field).\n\n[ Monster Effect ] \nOnce per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; you take no battle damage from that battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/9106362.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 100,
-  "species": "Beast",
-  "ability": "",
-  "has_effect": true,
-  "monster_type": "",
-  "is_pendulum": true,
-  "pendulum_text": "Once per turn, when an opponent's monster declares a direct attack: You can activate this effect; you take no battle damage from that battle (even if this card leaves the field).",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2,
   "def": 100,
   "level": 1,
-  "is_tuner": false
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": false,
+  "ability": ""
 }

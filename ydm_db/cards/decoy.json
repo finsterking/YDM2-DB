@@ -3,9 +3,19 @@
   "name": "Decoy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "''An angel of happiness that descends on the sacred mound. It's said that he lands along with his partner in order to perform a special ritual known as the Ceremonial First Pitch. After charming everyone with its elegant coat of fur and its cute appearance, he finishes the ritual with a high five.\r\n\r\nThe SHOTIME along with his partner will go on...''",
+  "text": "''An angel of happiness that descends on the sacred mound. It's said that he lands along with his partner in order to perform a special ritual known as the Ceremonial First Pitch. After charming everyone with its elegant coat of fur and its cute appearance, he finishes the ritual with a high five.\n\nThe SHOTIME along with his partner will go on...''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20240828.jpg"
   ],
-  "type": "Normal Monster"
+  "type": "Monster",
+  "monster_type": "Normal",
+  "attribute": "LIGHT",
+  "atk": 50,
+  "def": 50,
+  "level": 1,
+  "species": "Beast",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/51409648.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "DARK",
   "atk": 2500,
-  "species": "Winged Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 2000,
   "level": 8,
-  "is_tuner": false
+  "species": "Winged Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

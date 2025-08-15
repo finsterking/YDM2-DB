@@ -3,7 +3,7 @@
   "name": "Luminous Spark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Increase the ATK of all LIGHT monsters by 500 points and decrease their DEF by 400 points.",
+  "text": "All LIGHT monsters gain 500 ATK and lose 400 DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81777047.jpg"
   ],

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/15248594.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "FIRE",
   "atk": 2500,
-  "species": "Cyberse",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 0,
   "level": 8,
-  "is_tuner": true
+  "species": "Cyberse",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

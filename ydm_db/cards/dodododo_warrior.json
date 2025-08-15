@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/62880279.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "def": 900,
+  "level": 6,
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

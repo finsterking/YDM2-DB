@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/80651316.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1900,
-  "species": "Dinosaur",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1400,
   "level": 4,
-  "is_tuner": false
+  "species": "Dinosaur",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

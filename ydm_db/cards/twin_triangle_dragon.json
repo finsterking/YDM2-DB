@@ -8,16 +8,19 @@
     "https://images.ygoprodeck.com/images/cards/66015185.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 1200,
-  "species": "Dragon",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 2,
+  "def": null,
+  "level": null,
+  "link": 2,
   "link_arrows": [
     "Right",
     "Bottom"
-  ]
+  ],
+  "species": "Dragon",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

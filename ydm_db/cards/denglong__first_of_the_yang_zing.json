@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/65536818.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "LIGHT",
   "atk": 0,
-  "species": "Wyrm",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 2800,
   "level": 5,
-  "is_tuner": true
+  "species": "Wyrm",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

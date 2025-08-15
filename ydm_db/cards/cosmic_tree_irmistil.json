@@ -8,19 +8,22 @@
     "https://images.ygoprodeck.com/images/cards/74139959.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 2000,
+  "def": null,
+  "level": null,
+  "link": 5,
+  "link_arrows": [
+    "Top-Left",
+    "Left",
+    "Bottom-Left",
+    "Bottom",
+    "Bottom-Right"
+  ],
   "species": "Plant",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 5,
-  "link_arrows": [
-    "Bottom-Right",
-    "Bottom",
-    "Bottom-Left",
-    "Left",
-    "Top-Left"
-  ]
+  "is_tuner": false,
+  "ability": ""
 }

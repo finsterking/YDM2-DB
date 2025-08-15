@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/71100270.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "DARK",
   "atk": 2700,
+  "def": 0,
+  "level": 6,
   "species": "Fiend",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 0,
-  "rank": 6
+  "is_tuner": false,
+  "ability": ""
 }

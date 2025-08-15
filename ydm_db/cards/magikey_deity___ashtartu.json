@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/26988374.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 3000,
+  "def": 3000,
+  "level": 8,
   "species": "Fairy",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 3000,
-  "rank": 8
+  "is_tuner": false,
+  "ability": ""
 }

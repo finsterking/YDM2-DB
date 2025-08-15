@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/18861006.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "FIRE",
+  "atk": 2250,
+  "def": 1800,
+  "level": 6,
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

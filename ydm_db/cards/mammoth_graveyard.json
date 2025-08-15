@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/40374923.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1200,
-  "species": "Dinosaur",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 800,
   "level": 3,
-  "is_tuner": false
+  "species": "Dinosaur",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

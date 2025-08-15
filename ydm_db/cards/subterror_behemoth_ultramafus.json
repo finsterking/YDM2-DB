@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/92970404.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 3000,
-  "species": "Pyro",
-  "ability": "Flip",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1800,
   "level": 12,
-  "is_tuner": false
+  "species": "Pyro",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

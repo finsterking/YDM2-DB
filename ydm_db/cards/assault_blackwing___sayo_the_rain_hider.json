@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/17994645.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "DARK",
   "atk": 800,
-  "species": "Winged Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 100,
   "level": 2,
-  "is_tuner": false
+  "species": "Winged Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

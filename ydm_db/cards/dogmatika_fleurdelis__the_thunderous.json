@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/73355772.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "def": 2500,
+  "level": 8,
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

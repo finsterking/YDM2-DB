@@ -8,15 +8,18 @@
     "https://images.ygoprodeck.com/images/cards/8491308.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "WIND",
   "atk": 1500,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 1,
+  "def": null,
+  "level": null,
+  "link": 1,
   "link_arrows": [
     "Bottom-Left"
-  ]
+  ],
+  "species": "Machine",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,22 +3,19 @@
   "name": "Harmonizing Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned from the Extra Deck. Cannot be used as material for a Fusion, Synchro, or Xyz Summon, unless all other materials are \"Magician\" Pendulum Monsters. When this card is Pendulum Summoned from the hand: You can Special Summon 1 \"Magician\" Pendulum Monster from your Deck in Defense Position, except \"Harmonizing Magician\", but negate its effects, also banish it when it leaves the field. You can only use this effect of \"Harmonizing Magician\" once per turn.",
+  "text": "[ Pendulum Effect ] \nAll monsters you control gain 100 ATK and DEF for each face-up \"Magician\" Pendulum Monster with different names in your Extra Deck.\n\n[ Monster Effect ] \nCannot be Special Summoned from the Extra Deck. Cannot be used as material for a Fusion, Synchro, or Xyz Summon, unless all other materials are \"Magician\" Pendulum Monsters. When this card is Pendulum Summoned from the hand: You can Special Summon 1 \"Magician\" Pendulum Monster from your Deck in Defense Position, except \"Harmonizing Magician\", but negate its effects, also banish it when it leaves the field. You can only use this effect of \"Harmonizing Magician\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/73941492.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 0,
-  "species": "Spellcaster",
-  "ability": "",
-  "has_effect": true,
-  "monster_type": "",
-  "is_pendulum": true,
-  "pendulum_text": "All monsters you control gain 100 ATK and DEF for each face-up \"Magician\" Pendulum Monster with different names in your Extra Deck.",
-  "pendulum_scale_left_blue": 8,
-  "pendulum_scale_right_red": 8,
   "def": 0,
   "level": 4,
-  "is_tuner": true
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": true,
+  "ability": ""
 }

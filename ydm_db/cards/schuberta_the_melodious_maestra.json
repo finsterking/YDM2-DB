@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/57594700.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "LIGHT",
   "atk": 2400,
-  "species": "Fairy",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 2000,
   "level": 6,
-  "is_tuner": false
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

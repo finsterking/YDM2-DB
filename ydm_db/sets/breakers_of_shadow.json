@@ -1,610 +1,639 @@
 {
   "name": "Breakers of Shadow",
   "code": "BOSH",
-  "type": "Booster Pack (Series 9)",
-  "date": "14-01-2016",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/BOSH.jpg",
-  "pull_type": "distribution",
-  "distribution": "booster_pack",
+  "pull_type": "full",
   "cards": [
     {
-      "id": 2396042,
-      "code": "BOSH-000",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 54941203,
-      "code": "BOSH-001",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80335817,
-      "code": "BOSH-002",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 17330916,
-      "code": "BOSH-003",
+      "id": 10678778,
+      "code": "BOSH-EN055",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 53724621,
-      "code": "BOSH-004",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 89113320,
-      "code": "BOSH-005",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 16617334,
-      "code": "BOSH-006",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 42002073,
-      "code": "BOSH-007",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 89091772,
-      "code": "BOSH-008",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 15495787,
-      "code": "BOSH-009",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 42880485,
-      "code": "BOSH-010",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 78274190,
-      "code": "BOSH-011",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 14763299,
-      "code": "BOSH-012",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 41767843,
-      "code": "BOSH-013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 77152542,
-      "code": "BOSH-014",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 14541657,
-      "code": "BOSH-015",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 40945356,
-      "code": "BOSH-016",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 76930964,
-      "code": "BOSH-017",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 3428069,
-      "code": "BOSH-018",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 49823708,
-      "code": "BOSH-019",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 76218313,
-      "code": "BOSH-020",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 2602411,
-      "code": "BOSH-021",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 38601126,
-      "code": "BOSH-022",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 75195825,
-      "code": "BOSH-023",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 1580833,
-      "code": "BOSH-024",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 38988538,
-      "code": "BOSH-025",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 64973287,
-      "code": "BOSH-026",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 368382,
-      "code": "BOSH-027",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 37752990,
-      "code": "BOSH-028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 63251695,
-      "code": "BOSH-029",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 645794,
-      "code": "BOSH-030",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36630403,
-      "code": "BOSH-031",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 62038047,
-      "code": "BOSH-032",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 99423156,
-      "code": "BOSH-033",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 35818851,
-      "code": "BOSH-034",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 62312469,
-      "code": "BOSH-035",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 98301564,
-      "code": "BOSH-036",
-      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 25795273,
-      "code": "BOSH-037",
+      "code": "BOSH-EN037",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 61190918,
-      "code": "BOSH-038",
+      "id": 29904964,
+      "code": "BOSH-EN098",
       "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 97588916,
-      "code": "BOSH-039",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 24573625,
-      "code": "BOSH-040",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 50078320,
-      "code": "BOSH-041",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 97466438,
-      "code": "BOSH-042",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 23851033,
-      "code": "BOSH-043",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 59255742,
-      "code": "BOSH-044",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 86240887,
-      "code": "BOSH-045",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22638495,
-      "code": "BOSH-046",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 59123194,
-      "code": "BOSH-047",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 85528209,
-      "code": "BOSH-048",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21516908,
-      "code": "BOSH-049",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 58901502,
-      "code": "BOSH-050",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 84305651,
-      "code": "BOSH-051",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 11790356,
-      "code": "BOSH-052",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57288064,
-      "code": "BOSH-053",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 83283063,
-      "code": "BOSH-054",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 10678778,
-      "code": "BOSH-055",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 46066477,
-      "code": "BOSH-056",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 83461421,
-      "code": "BOSH-057",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 15555120,
-      "code": "BOSH-058",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 41940225,
-      "code": "BOSH-059",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 78348934,
-      "code": "BOSH-060",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 14733538,
-      "code": "BOSH-061",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 41128647,
-      "code": "BOSH-062",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 77116346,
-      "code": "BOSH-063",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 13611090,
-      "code": "BOSH-064",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 40005099,
-      "code": "BOSH-065",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 16494704,
-      "code": "BOSH-066",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43898403,
-      "code": "BOSH-067",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 89883517,
-      "code": "BOSH-068",
-      "rarity": "Short Print",
-      "image_index": 0
-    },
-    {
-      "id": 16278116,
-      "code": "BOSH-069",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 42776855,
-      "code": "BOSH-070",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 78161960,
-      "code": "BOSH-071",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 15155568,
-      "code": "BOSH-072",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 41554273,
-      "code": "BOSH-073",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 78949372,
-      "code": "BOSH-074",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4333086,
-      "code": "BOSH-075",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 40838625,
-      "code": "BOSH-076",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 77826734,
-      "code": "BOSH-077",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 3211439,
-      "code": "BOSH-078",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 40605147,
-      "code": "BOSH-079",
-      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 76004142,
-      "code": "BOSH-080",
+      "code": "BOSH-EN080",
       "rarity": "Short Print",
       "image_index": 0
     },
     {
-      "id": 38891741,
-      "code": "BOSH-081",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 64280356,
-      "code": "BOSH-082",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 1274455,
-      "code": "BOSH-083",
+      "id": 50371210,
+      "code": "BOSH-ENSE3",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 37679169,
-      "code": "BOSH-084",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 64063868,
-      "code": "BOSH-085",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 90452877,
-      "code": "BOSH-086",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36956512,
-      "code": "BOSH-087",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 63941210,
-      "code": "BOSH-088",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 99330325,
-      "code": "BOSH-089",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 47075569,
-      "code": "BOSH-090",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 81035362,
-      "code": "BOSH-091",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21565445,
-      "code": "BOSH-092",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 84058253,
-      "code": "BOSH-093",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 10443957,
-      "code": "BOSH-094",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 53485634,
-      "code": "BOSH-095",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 88757791,
-      "code": "BOSH-096",
+      "id": 72378329,
+      "code": "BOSH-ENSE1",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 92510265,
-      "code": "BOSH-097",
+      "code": "BOSH-EN097",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 29904964,
-      "code": "BOSH-098",
+      "id": 77152542,
+      "code": "BOSH-EN014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3428069,
+      "code": "BOSH-EN018",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86240887,
+      "code": "BOSH-EN045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11790356,
+      "code": "BOSH-EN052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49823708,
+      "code": "BOSH-EN019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84058253,
+      "code": "BOSH-EN093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10443957,
+      "code": "BOSH-EN094",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62312469,
+      "code": "BOSH-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97588916,
+      "code": "BOSH-EN039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24573625,
+      "code": "BOSH-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15155568,
+      "code": "BOSH-EN072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41940225,
+      "code": "BOSH-EN059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88757791,
+      "code": "BOSH-EN096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41128647,
+      "code": "BOSH-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 368382,
+      "code": "BOSH-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37752990,
+      "code": "BOSH-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77116346,
+      "code": "BOSH-EN063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38988538,
+      "code": "BOSH-EN025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64973287,
+      "code": "BOSH-EN026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63251695,
+      "code": "BOSH-EN029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41554273,
+      "code": "BOSH-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1580833,
+      "code": "BOSH-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22638495,
+      "code": "BOSH-EN046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14733538,
+      "code": "BOSH-EN061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76218313,
+      "code": "BOSH-EN020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16278116,
+      "code": "BOSH-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50078320,
+      "code": "BOSH-EN041",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 59123194,
+      "code": "BOSH-EN047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81035362,
+      "code": "BOSH-EN091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42776855,
+      "code": "BOSH-EN070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3211439,
+      "code": "BOSH-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87765315,
+      "code": "BOSH-ENSE4",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36956512,
+      "code": "BOSH-EN087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58901502,
+      "code": "BOSH-EN050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59255742,
+      "code": "BOSH-EN044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84305651,
+      "code": "BOSH-EN051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98301564,
+      "code": "BOSH-EN036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15555120,
+      "code": "BOSH-EN058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21516908,
+      "code": "BOSH-EN049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99330325,
+      "code": "BOSH-EN089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63941210,
+      "code": "BOSH-EN088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78348934,
+      "code": "BOSH-EN060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64063868,
+      "code": "BOSH-EN085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37679169,
+      "code": "BOSH-EN084",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1274455,
+      "code": "BOSH-EN083",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64280356,
+      "code": "BOSH-EN082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90452877,
+      "code": "BOSH-EN086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13611090,
+      "code": "BOSH-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78949372,
+      "code": "BOSH-EN074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 645794,
+      "code": "BOSH-EN030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75195825,
+      "code": "BOSH-EN023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89883517,
+      "code": "BOSH-EN068",
+      "rarity": "Short Print",
+      "image_index": 0
+    },
+    {
+      "id": 21565445,
+      "code": "BOSH-EN092",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66547759,
+      "code": "BOSH-ENSE2",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16494704,
+      "code": "BOSH-EN066",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23851033,
+      "code": "BOSH-EN043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77826734,
+      "code": "BOSH-EN077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83461421,
+      "code": "BOSH-EN057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46066477,
+      "code": "BOSH-EN056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89113320,
+      "code": "BOSH-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53724621,
+      "code": "BOSH-EN004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17330916,
+      "code": "BOSH-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47075569,
+      "code": "BOSH-EN090",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16617334,
+      "code": "BOSH-EN006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42002073,
+      "code": "BOSH-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40838625,
+      "code": "BOSH-EN076",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53485634,
+      "code": "BOSH-EN095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78161960,
+      "code": "BOSH-EN071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38601126,
+      "code": "BOSH-EN022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41767843,
+      "code": "BOSH-EN013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35818851,
+      "code": "BOSH-EN034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57288064,
+      "code": "BOSH-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83283063,
+      "code": "BOSH-EN054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62038047,
+      "code": "BOSH-EN032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36630403,
+      "code": "BOSH-EN031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99423156,
+      "code": "BOSH-EN033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4333086,
+      "code": "BOSH-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40005099,
+      "code": "BOSH-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40605147,
+      "code": "BOSH-EN079",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14763299,
+      "code": "BOSH-EN012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2396042,
+      "code": "BOSH-EN000",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2396042,
+      "code": "BOSH-ENSP1",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85528209,
+      "code": "BOSH-EN048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78274190,
+      "code": "BOSH-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42880485,
+      "code": "BOSH-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89091772,
+      "code": "BOSH-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15495787,
+      "code": "BOSH-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80335817,
+      "code": "BOSH-EN002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61190918,
+      "code": "BOSH-EN038",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 6511113,
-      "code": "BOSH-099",
+      "code": "BOSH-EN099",
       "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54941203,
+      "code": "BOSH-EN001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76930964,
+      "code": "BOSH-EN017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40945356,
+      "code": "BOSH-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14541657,
+      "code": "BOSH-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43898403,
+      "code": "BOSH-EN067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38891741,
+      "code": "BOSH-EN081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2602411,
+      "code": "BOSH-EN021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97466438,
+      "code": "BOSH-EN042",
+      "rarity": "Short Print",
       "image_index": 0
     }
   ]

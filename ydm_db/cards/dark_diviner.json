@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/31919988.jpg"
   ],
-  "type": "Synchro Monster"
+  "type": "Monster",
+  "monster_type": "Synchro",
+  "attribute": "DARK",
+  "atk": 2000,
+  "def": 1000,
+  "level": 4,
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

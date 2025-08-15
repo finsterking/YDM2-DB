@@ -5,17 +5,18 @@
   "is_custom": false,
   "text": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Eria the Water Charmer\" and 1 face-up WATER monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/68881649.jpg"
+    "https://images.ygoprodeck.com/images/cards/68881649.jpg",
+    "https://images.ygoprodeck.com/images/cards/68881650.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "WATER",
   "atk": 1850,
-  "species": "Spellcaster",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1500,
   "level": 4,
-  "is_tuner": false
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,9 +3,24 @@
   "name": "Gouki Sheik Ogre",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 \"Gouki\" monsters\r\nIf a \"Gouki\" monster(s) is added from the Deck to your hand, except by drawing it (except during the Damage Step): You can Special Summon any number of \"Gouki\" monsters from your hand with different Levels from each other, but you cannot Special Summon, except \"Gouki\" monsters, while you control any of those face-up monsters. During your Main Phase: You can Fusion Summon 1 \"Gouki\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Gouki Sheik Ogre\" once per turn.",
+  "text": "2 \"Gouki\" monsters\nIf a \"Gouki\" monster(s) is added from the Deck to your hand, except by drawing it (except during the Damage Step): You can Special Summon any number of \"Gouki\" monsters from your hand with different Levels from each other, but you cannot Special Summon, except \"Gouki\" monsters, while you control any of those face-up monsters. During your Main Phase: You can Fusion Summon 1 \"Gouki\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Gouki Sheik Ogre\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7382007.jpg"
   ],
-  "type": "Link Monster"
+  "type": "Monster",
+  "monster_type": "Link",
+  "attribute": "EARTH",
+  "atk": 1900,
+  "def": null,
+  "level": null,
+  "link": 2,
+  "link_arrows": [
+    "Bottom-Left",
+    "Bottom-Right"
+  ],
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

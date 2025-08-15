@@ -3,19 +3,19 @@
   "name": "Crystal Beast Topaz Tiger",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card attacks an opponent's monster, it gains 400 ATK during the Damage Step only. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.",
+  "text": "If this card attacks an opponent's monster, it gains 400 ATK during the Damage Step only. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95600067.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "EARTH",
   "atk": 1600,
-  "species": "Beast",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

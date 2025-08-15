@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/71068263.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1200,
-  "species": "Warrior",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 900,
   "level": 3,
-  "is_tuner": false
+  "species": "Warrior",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

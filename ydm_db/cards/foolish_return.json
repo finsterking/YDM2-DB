@@ -3,7 +3,7 @@
   "name": "Foolish Return",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 card in your opponent's GY; shuffle it into the Deck.",
+  "text": "Select 1 card in your opponent's Graveyard. Return it to the Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88369727.jpg"
   ],

@@ -3,19 +3,19 @@
   "name": "Waterdragon Fairy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A water fairy that is said to be able to summon a giant sea serpent.",
+  "text": "''A water fairy that is said to be able to summon a giant sea serpent.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/66836598.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1100,
-  "species": "Aqua",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 700,
   "level": 3,
-  "is_tuner": false
+  "species": "Aqua",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

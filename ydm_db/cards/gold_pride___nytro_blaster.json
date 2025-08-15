@@ -8,16 +8,19 @@
     "https://images.ygoprodeck.com/images/cards/58884063.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "DARK",
   "atk": 2300,
-  "species": "Pyro",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 2,
+  "def": null,
+  "level": null,
+  "link": 2,
   "link_arrows": [
     "Top",
     "Bottom"
-  ]
+  ],
+  "species": "Pyro",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

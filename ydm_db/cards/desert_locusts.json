@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/63410069.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Synchro",
   "attribute": "EARTH",
   "atk": 1500,
-  "species": "Insect",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 2400,
   "level": 6,
-  "is_tuner": true
+  "species": "Insect",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

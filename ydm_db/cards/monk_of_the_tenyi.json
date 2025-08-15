@@ -8,15 +8,18 @@
     "https://images.ygoprodeck.com/images/cards/32519092.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 1000,
-  "species": "Wyrm",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 1,
+  "def": null,
+  "level": null,
+  "link": 1,
   "link_arrows": [
     "Bottom"
-  ]
+  ],
+  "species": "Wyrm",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/4019153.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "LIGHT",
   "atk": 1000,
+  "def": 100,
+  "level": 1,
   "species": "Machine",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 100,
-  "rank": 1
+  "is_tuner": false,
+  "ability": ""
 }

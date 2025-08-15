@@ -8,19 +8,22 @@
     "https://images.ygoprodeck.com/images/cards/42307760.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "EARTH",
   "atk": 3300,
+  "def": null,
+  "level": null,
+  "link": 5,
+  "link_arrows": [
+    "Left",
+    "Right",
+    "Bottom-Left",
+    "Bottom",
+    "Bottom-Right"
+  ],
   "species": "Insect",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 5,
-  "link_arrows": [
-    "Right",
-    "Bottom-Right",
-    "Bottom",
-    "Bottom-Left",
-    "Left"
-  ]
+  "is_tuner": false,
+  "ability": ""
 }

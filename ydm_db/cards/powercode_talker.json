@@ -8,17 +8,20 @@
     "https://images.ygoprodeck.com/images/cards/15844566.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Link",
   "attribute": "FIRE",
   "atk": 2300,
+  "def": null,
+  "level": null,
+  "link": 3,
+  "link_arrows": [
+    "Left",
+    "Right",
+    "Bottom-Left"
+  ],
   "species": "Cyberse",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Link",
-  "link_rating": 3,
-  "link_arrows": [
-    "Right",
-    "Bottom-Left",
-    "Left"
-  ]
+  "is_tuner": false,
+  "ability": ""
 }

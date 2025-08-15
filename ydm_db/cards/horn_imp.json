@@ -3,19 +3,19 @@
   "name": "Horn Imp",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A small fiend that dwells in the dark, its single horn makes it a formidable opponent.",
+  "text": "''A small fiend that dwells in the dark, its single horn makes it a formidable opponent.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/69669405.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 1300,
-  "species": "Fiend",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "species": "Fiend",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

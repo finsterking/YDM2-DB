@@ -3,19 +3,19 @@
   "name": "Fiend's Hand",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Arms that reach out from the Swamp of Chaos to drag down the unwary.",
+  "text": "''Arms that reach out from the Swamp of Chaos to drag down the unwary.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52800428.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "DARK",
   "atk": 600,
-  "species": "Zombie",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 600,
   "level": 2,
-  "is_tuner": false
+  "species": "Zombie",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

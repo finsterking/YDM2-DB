@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/28933734.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 900,
-  "species": "Fiend",
-  "ability": "Flip",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 400,
   "level": 2,
-  "is_tuner": false
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

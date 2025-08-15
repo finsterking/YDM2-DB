@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/29251488.jpg"
   ],
-  "type": "Pendulum Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "LIGHT",
+  "atk": 1000,
+  "def": 1850,
+  "level": 3,
+  "species": "Fiend",
+  "has_effect": true,
+  "is_pendulum": true,
+  "is_tuner": false,
+  "ability": ""
 }

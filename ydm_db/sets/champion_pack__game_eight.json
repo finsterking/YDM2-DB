@@ -1,28 +1,39 @@
 {
   "name": "Champion Pack: Game Eight",
   "code": "CP08",
-  "type": "Champion Pack",
-  "date": "05-01-2009",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/CP08.jpg",
-  "pull_type": "distribution",
-  "distribution": "champion_pack",
+  "pull_type": "full",
   "cards": [
     {
-      "id": 56931015,
-      "code": "CP08-001",
-      "rarity": "Ultra Rare",
+      "id": 24104865,
+      "code": "CP08-017",
+      "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 43711255,
-      "code": "CP08-002",
-      "rarity": "Super Rare",
+      "id": 98719226,
+      "code": "CP08-016",
+      "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 15800838,
-      "code": "CP08-003",
-      "rarity": "Super Rare",
+      "id": 16255442,
+      "code": "CP08-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48976825,
+      "code": "CP08-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84491298,
+      "code": "CP08-020",
+      "rarity": "Common",
       "image_index": 0
     },
     {
@@ -32,21 +43,9 @@
       "image_index": 0
     },
     {
-      "id": 95503687,
-      "code": "CP08-005",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80304126,
-      "code": "CP08-006",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 73665146,
-      "code": "CP08-007",
-      "rarity": "Rare",
+      "id": 56931015,
+      "code": "CP08-001",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -62,57 +61,21 @@
       "image_index": 0
     },
     {
-      "id": 48976825,
-      "code": "CP08-010",
+      "id": 95503687,
+      "code": "CP08-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80304126,
+      "code": "CP08-006",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 4906301,
-      "code": "CP08-011",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 14181608,
-      "code": "CP08-012",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 93016201,
-      "code": "CP08-013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 16255442,
-      "code": "CP08-014",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 43237273,
-      "code": "CP08-015",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 98719226,
-      "code": "CP08-016",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 24104865,
-      "code": "CP08-017",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 72634965,
-      "code": "CP08-018",
-      "rarity": "Common",
+      "id": 15800838,
+      "code": "CP08-003",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
@@ -122,8 +85,44 @@
       "image_index": 0
     },
     {
-      "id": 84491298,
-      "code": "CP08-020",
+      "id": 14181608,
+      "code": "CP08-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4906301,
+      "code": "CP08-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43237273,
+      "code": "CP08-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43711255,
+      "code": "CP08-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93016201,
+      "code": "CP08-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73665146,
+      "code": "CP08-007",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72634965,
+      "code": "CP08-018",
       "rarity": "Common",
       "image_index": 0
     }

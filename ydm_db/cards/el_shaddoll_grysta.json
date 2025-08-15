@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/48424886.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Fusion",
   "attribute": "FIRE",
   "atk": 2450,
-  "species": "Rock",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Fusion",
   "def": 1950,
   "level": 7,
-  "is_tuner": false
+  "species": "Rock",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

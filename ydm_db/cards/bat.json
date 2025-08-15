@@ -3,19 +3,19 @@
   "name": "Bat",
   "is_illegal": false,
   "is_custom": false,
-  "text": "A mechanical bat that drops blasts from its wings.",
+  "text": "''A mechanical bat that drops blasts from its wings.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72076281.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 300,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 350,
   "level": 1,
-  "is_tuner": false
+  "species": "Machine",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -3,19 +3,19 @@
   "name": "D.D. Scout Plane",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During the End Phase, if this card is currently banished, and was banished this turn: Special Summon it in face-up Attack Position. This effect can only activate once per turn.",
+  "text": "Once per turn, during the End Phase, if this card is currently banished, and was banished this turn: Special Summon it in face-up Attack Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3773196.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 800,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1200,
   "level": 2,
-  "is_tuner": false
+  "species": "Machine",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

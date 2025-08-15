@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/61374414.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "WATER",
   "atk": 2000,
+  "def": 3000,
+  "level": 6,
   "species": "Aqua",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 3000,
-  "rank": 6
+  "is_tuner": false,
+  "ability": ""
 }

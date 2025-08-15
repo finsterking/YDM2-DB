@@ -8,13 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/11646785.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Xyz",
   "attribute": "WIND",
   "atk": 2200,
+  "def": 2400,
+  "level": 4,
   "species": "Machine",
-  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
-  "monster_type": "Xyz",
-  "def": 2400,
-  "rank": 4
+  "is_tuner": false,
+  "ability": ""
 }

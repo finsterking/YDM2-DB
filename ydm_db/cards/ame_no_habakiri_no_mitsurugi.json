@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/13332685.jpg"
   ],
-  "type": "Ritual Effect Monster"
+  "type": "Monster",
+  "monster_type": "Ritual",
+  "attribute": "DARK",
+  "atk": 2400,
+  "def": 1800,
+  "level": 8,
+  "species": "Reptile",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/18585765.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "DARK",
   "atk": 2500,
-  "species": "Thunder",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 7,
-  "is_tuner": false
+  "species": "Thunder",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

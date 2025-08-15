@@ -3,19 +3,19 @@
   "name": "Beta The Magnet Warrior",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Alpha, Beta, and Gamma meld as one to form a powerful monster.",
+  "text": "''Alpha, Beta, and Gamma meld as one to form a powerful monster.''",
   "images": [
     "https://images.ygoprodeck.com/images/cards/39256679.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "EARTH",
   "atk": 1700,
-  "species": "Rock",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1600,
   "level": 4,
-  "is_tuner": false
+  "species": "Rock",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

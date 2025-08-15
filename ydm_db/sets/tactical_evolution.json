@@ -1,639 +1,656 @@
 {
   "name": "Tactical Evolution",
   "code": "TAEV",
-  "type": "Booster Pack (Series 5)",
-  "date": "15-08-2007",
+  "type": "",
+  "date": "",
   "image": "https://ygoprodeck.com/pics_sets/TAEV.jpg",
-  "pull_type": "distribution",
-  "distribution": "booster_pack_old_with_ghost_rare",
+  "pull_type": "full",
   "cards": [
     {
-      "id": 19041767,
-      "code": "TAEV-000",
+      "id": 44223284,
+      "code": "TAEV-EN084",
       "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 97127906,
-      "code": "TAEV-001",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 33112041,
-      "code": "TAEV-002",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 60606759,
-      "code": "TAEV-003",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 96005454,
-      "code": "TAEV-004",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22499463,
-      "code": "TAEV-005",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 79856792,
-      "code": "TAEV-006",
-      "rarity": "Ghost Rare",
-      "image_index": 0
-    },
-    {
-      "id": 79856792,
-      "code": "TAEV-006",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43751755,
-      "code": "TAEV-007",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 17363041,
-      "code": "TAEV-008",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 29246354,
-      "code": "TAEV-009",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 16241441,
-      "code": "TAEV-010",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 42239546,
-      "code": "TAEV-011",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 4906301,
-      "code": "TAEV-012",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4906301,
-      "code": "TAEV-012",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 8062132,
-      "code": "TAEV-013",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72677437,
-      "code": "TAEV-014",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72677437,
-      "code": "TAEV-014",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 73899015,
-      "code": "TAEV-015",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 9284723,
-      "code": "TAEV-016",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 36278828,
-      "code": "TAEV-017",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 69884162,
-      "code": "TAEV-018",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 69884162,
-      "code": "TAEV-018",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95888876,
-      "code": "TAEV-019",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95888876,
-      "code": "TAEV-019",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22377815,
-      "code": "TAEV-020",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22377815,
-      "code": "TAEV-020",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 68762510,
-      "code": "TAEV-021",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 68762510,
-      "code": "TAEV-021",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95166228,
-      "code": "TAEV-022",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21155323,
-      "code": "TAEV-023",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 57549932,
-      "code": "TAEV-024",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 94944637,
-      "code": "TAEV-025",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 94944637,
-      "code": "TAEV-025",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 20438745,
-      "code": "TAEV-026",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 57827484,
-      "code": "TAEV-027",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 83812099,
-      "code": "TAEV-028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 29216198,
-      "code": "TAEV-029",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 56605802,
-      "code": "TAEV-030",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 82099401,
-      "code": "TAEV-031",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 82099401,
-      "code": "TAEV-031",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 19594506,
-      "code": "TAEV-032",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 55589254,
-      "code": "TAEV-033",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 81977953,
-      "code": "TAEV-034",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 81977953,
-      "code": "TAEV-034",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34334692,
-      "code": "TAEV-035",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 18372968,
-      "code": "TAEV-036",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 54766667,
-      "code": "TAEV-037",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 81755371,
-      "code": "TAEV-038",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 17259470,
-      "code": "TAEV-039",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 17259470,
-      "code": "TAEV-039",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78734254,
-      "code": "TAEV-040",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 5128859,
-      "code": "TAEV-041",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41517968,
-      "code": "TAEV-042",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 41517968,
-      "code": "TAEV-042",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78512663,
-      "code": "TAEV-043",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40391316,
-      "code": "TAEV-044",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 55428811,
-      "code": "TAEV-045",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 55428811,
-      "code": "TAEV-045",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 18302224,
-      "code": "TAEV-046",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 82639107,
-      "code": "TAEV-047",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 80368942,
-      "code": "TAEV-048",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 81913510,
-      "code": "TAEV-049",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 43644025,
-      "code": "TAEV-050",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 54306223,
-      "code": "TAEV-051",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 17189677,
-      "code": "TAEV-052",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60728397,
-      "code": "TAEV-053",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 80033124,
-      "code": "TAEV-054",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 16437822,
-      "code": "TAEV-055",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 43422537,
-      "code": "TAEV-056",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 79816536,
-      "code": "TAEV-057",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 15305240,
-      "code": "TAEV-058",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 42709949,
-      "code": "TAEV-059",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78794994,
-      "code": "TAEV-060",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 5183693,
-      "code": "TAEV-061",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 41587307,
-      "code": "TAEV-062",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 43452193,
-      "code": "TAEV-063",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43452193,
-      "code": "TAEV-063",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 19024706,
-      "code": "TAEV-064",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 56641453,
-      "code": "TAEV-065",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 81791932,
-      "code": "TAEV-066",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 44584775,
-      "code": "TAEV-067",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80678380,
-      "code": "TAEV-068",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 16067089,
-      "code": "TAEV-069",
+      "code": "TAEV-EN001",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 77972406,
-      "code": "TAEV-070",
+      "code": "TAEV-EN070",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 4466015,
-      "code": "TAEV-071",
+      "id": 5183693,
+      "code": "TAEV-EN061",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 40465719,
-      "code": "TAEV-072",
-      "rarity": "Rare",
+      "id": 22377815,
+      "code": "TAEV-EN020",
+      "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 77859858,
-      "code": "TAEV-073",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 3244563,
-      "code": "TAEV-074",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 30643162,
-      "code": "TAEV-075",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 76137276,
-      "code": "TAEV-076",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 2122975,
-      "code": "TAEV-077",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 39526584,
-      "code": "TAEV-078",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 5915629,
-      "code": "TAEV-079",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 42309337,
-      "code": "TAEV-080",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 45045866,
-      "code": "TAEV-081",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 81434470,
-      "code": "TAEV-082",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 18828179,
-      "code": "TAEV-083",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 44223284,
-      "code": "TAEV-084",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 71717923,
-      "code": "TAEV-085",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 17706537,
-      "code": "TAEV-086",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43191636,
-      "code": "TAEV-087",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 70595331,
-      "code": "TAEV-088",
-      "rarity": "Secret Rare",
+      "id": 22377815,
+      "code": "TAEV-EN020",
+      "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
       "id": 16984449,
-      "code": "TAEV-089",
+      "code": "TAEV-EN089",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 16984449,
-      "code": "TAEV-089",
+      "code": "TAEV-EN089",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41587307,
+      "code": "TAEV-EN062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17363041,
+      "code": "TAEV-EN008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16241441,
+      "code": "TAEV-EN010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42239546,
+      "code": "TAEV-EN011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43751755,
+      "code": "TAEV-EN007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29246354,
+      "code": "TAEV-EN009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95888876,
+      "code": "TAEV-EN019",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95888876,
+      "code": "TAEV-EN019",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80368942,
+      "code": "TAEV-EN048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43644025,
+      "code": "TAEV-EN050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56641453,
+      "code": "TAEV-EN065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40465719,
+      "code": "TAEV-EN072",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82639107,
+      "code": "TAEV-EN047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42309337,
+      "code": "TAEV-EN080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18828179,
+      "code": "TAEV-EN083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15305240,
+      "code": "TAEV-EN058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82099401,
+      "code": "TAEV-EN031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82099401,
+      "code": "TAEV-EN031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80033124,
+      "code": "TAEV-EN054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44584775,
+      "code": "TAEV-EN067",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81755371,
+      "code": "TAEV-EN038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57549932,
+      "code": "TAEV-EN024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81977953,
+      "code": "TAEV-EN034",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81977953,
+      "code": "TAEV-EN034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77859858,
+      "code": "TAEV-EN073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94944637,
+      "code": "TAEV-EN025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94944637,
+      "code": "TAEV-EN025",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43422537,
+      "code": "TAEV-EN056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41517968,
+      "code": "TAEV-EN042",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41517968,
+      "code": "TAEV-EN042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78512663,
+      "code": "TAEV-EN043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5128859,
+      "code": "TAEV-EN041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69884162,
+      "code": "TAEV-EN018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69884162,
+      "code": "TAEV-EN018",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55428811,
+      "code": "TAEV-EN045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55428811,
+      "code": "TAEV-EN045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83812099,
+      "code": "TAEV-EN028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16437822,
+      "code": "TAEV-EN055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17706537,
+      "code": "TAEV-EN086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55589254,
+      "code": "TAEV-EN033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19041767,
+      "code": "TAEV-EN000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19041767,
+      "code": "TAEV-ENSP1",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39526584,
+      "code": "TAEV-EN078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21155323,
+      "code": "TAEV-EN023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95166228,
+      "code": "TAEV-EN022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29216198,
+      "code": "TAEV-EN029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19024706,
+      "code": "TAEV-EN064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96005454,
+      "code": "TAEV-EN004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70595331,
+      "code": "TAEV-EN088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20438745,
+      "code": "TAEV-EN026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54766667,
+      "code": "TAEV-EN037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68762510,
+      "code": "TAEV-EN021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68762510,
+      "code": "TAEV-EN021",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48948935,
+      "code": "TAEV-ENSE1",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43452193,
+      "code": "TAEV-EN063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43452193,
+      "code": "TAEV-EN063",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71717923,
+      "code": "TAEV-EN085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4906301,
+      "code": "TAEV-EN012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4906301,
+      "code": "TAEV-EN012",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19594506,
+      "code": "TAEV-EN032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78734254,
+      "code": "TAEV-EN040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81913510,
+      "code": "TAEV-EN049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45045866,
+      "code": "TAEV-EN081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40391316,
+      "code": "TAEV-EN044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42709949,
+      "code": "TAEV-EN059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56605802,
+      "code": "TAEV-EN030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43191636,
+      "code": "TAEV-EN087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79856792,
+      "code": "TAEV-EN006",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79856792,
+      "code": "TAEV-EN006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18372968,
+      "code": "TAEV-EN036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60606759,
+      "code": "TAEV-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18302224,
+      "code": "TAEV-EN046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16067089,
+      "code": "TAEV-EN069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34334692,
+      "code": "TAEV-EN035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57827484,
+      "code": "TAEV-EN027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3244563,
+      "code": "TAEV-EN074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80678380,
+      "code": "TAEV-EN068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17189677,
+      "code": "TAEV-EN052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81791932,
+      "code": "TAEV-EN066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76137276,
+      "code": "TAEV-EN076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30643162,
+      "code": "TAEV-EN075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79816536,
+      "code": "TAEV-EN057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78794994,
+      "code": "TAEV-EN060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5915629,
+      "code": "TAEV-EN079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22610082,
+      "code": "TAEV-ENSE2",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81434470,
+      "code": "TAEV-EN082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2122975,
+      "code": "TAEV-EN077",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8062132,
+      "code": "TAEV-EN013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72677437,
+      "code": "TAEV-EN014",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72677437,
+      "code": "TAEV-EN014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9284723,
+      "code": "TAEV-EN016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4466015,
+      "code": "TAEV-EN071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22499463,
+      "code": "TAEV-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36278828,
+      "code": "TAEV-EN017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60728397,
+      "code": "TAEV-EN053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73899015,
+      "code": "TAEV-EN015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54306223,
+      "code": "TAEV-EN051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33112041,
+      "code": "TAEV-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17259470,
+      "code": "TAEV-EN039",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17259470,
+      "code": "TAEV-EN039",
       "rarity": "Ultimate Rare",
       "image_index": 0
     }

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/98093548.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "FIRE",
   "atk": 1000,
-  "species": "Beast-Warrior",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1800,
   "level": 4,
-  "is_tuner": false
+  "species": "Beast-Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

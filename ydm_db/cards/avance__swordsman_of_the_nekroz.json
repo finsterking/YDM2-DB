@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/51618973.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "WATER",
+  "atk": 1500,
+  "def": 800,
+  "level": 4,
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

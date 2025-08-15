@@ -7,5 +7,15 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/26582143.jpg"
   ],
-  "type": "Effect Monster"
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "def": 2000,
+  "level": 3,
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

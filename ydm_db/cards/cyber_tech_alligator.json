@@ -3,19 +3,19 @@
   "name": "Cyber-Tech Alligator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.\n(This card is not treated as a \"Cyber\" card.)",
+  "text": "Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48766543.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "WIND",
   "atk": 2500,
-  "species": "Machine",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1600,
   "level": 5,
-  "is_tuner": false
+  "species": "Machine",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }

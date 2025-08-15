@@ -3,19 +3,19 @@
   "name": "The Agent of Mystery - Earth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When this card is Normal Summoned: You can add 1 \"The Agent\" monster from your Deck to your hand, except \"The Agent of Mystery - Earth\" or, if \"The Sanctuary in the Sky\" is on the field, you can add 1 \"Master Hyperion\" from your Deck to your hand instead.",
+  "text": "When this card is Normal Summoned, you can add 1 \"The Agent\" monster from your Deck to your hand, except \"The Agent of Mystery - Earth\". While \"The Sanctuary in the Sky\" is face-up on the field, you can add 1 \"Master Hyperion\" from your Deck to your hand instead.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91188343.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Effect",
   "attribute": "LIGHT",
   "atk": 1000,
-  "species": "Fairy",
-  "ability": "",
-  "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 800,
   "level": 2,
-  "is_tuner": true
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": true,
+  "ability": ""
 }

@@ -8,14 +8,14 @@
     "https://images.ygoprodeck.com/images/cards/49003308.jpg"
   ],
   "type": "Monster",
+  "monster_type": "Normal",
   "attribute": "WATER",
   "atk": 1850,
-  "species": "Reptile",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1000,
   "level": 4,
-  "is_tuner": false
+  "species": "Reptile",
+  "has_effect": false,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
 }
