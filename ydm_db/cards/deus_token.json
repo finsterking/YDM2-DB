@@ -1,0 +1,11 @@
+{
+  "id": 85771021,
+  "name": "Deus Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Darklord Asmodeus\". This Token cannot be destroyed by battle.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/85771021.jpg"
+  ],
+  "type": "Token"
+}

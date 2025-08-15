@@ -1,0 +1,11 @@
+{
+  "id": 29491335,
+  "name": "DOG Fighter Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Summoned by the effect of \"Kozmo DOG Fighter\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/29491335.jpg"
+  ],
+  "type": "Token"
+}

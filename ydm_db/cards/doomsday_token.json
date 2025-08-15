@@ -1,0 +1,12 @@
+{
+  "id": 46173680,
+  "name": "Doomsday Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can be used as any Token.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/46173680.jpg",
+    "https://images.ygoprodeck.com/images/cards/46173681.jpg"
+  ],
+  "type": "Token"
+}

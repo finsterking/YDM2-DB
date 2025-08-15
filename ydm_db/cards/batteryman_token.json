@@ -1,0 +1,11 @@
+{
+  "id": 44586427,
+  "name": "Batteryman Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Batteryman Solar\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44586427.jpg"
+  ],
+  "type": "Token"
+}

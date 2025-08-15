@@ -1,0 +1,11 @@
+{
+  "id": 100348002,
+  "name": "Anchorbolt Hedgehog",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control \"Junk Warrior\", or a monster that mentions it other than \"Anchorbolt Hedgehog\", and this card is in your GY (Quick Effect): You can Special Summon this card in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of \"Anchorbolt Hedgehog\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100348002.jpg"
+  ],
+  "type": "Effect Monster"
+}

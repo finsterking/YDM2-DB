@@ -1,0 +1,11 @@
+{
+  "id": 300302065,
+  "name": "Fog Warning",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Each time you place a Fog Counter(s) on a monster(s), give it an additional Fog Counter.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302065.jpg"
+  ],
+  "type": "Skill Card"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 85771020,
+  "name": "Asmo Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Darklord Asmodeus\". This Token cannot be destroyed by a card effect.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/85771020.jpg"
+  ],
+  "type": "Token"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 100348001,
+  "name": "Fullspeed Warrior",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Junk Synchron\" or 1 Spell/Trap that mentions \"Junk Warrior\" from your Deck to your hand. You can only use this effect of \"Fullspeed Warrior\" once per turn. Monsters that mention \"Junk Warrior\", and Synchro Monsters with \"Warrior\" in their original names, that you control gain 900 ATK during your Battle Phase only.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100348001.jpg"
+  ],
+  "type": "Effect Monster"
+}
