@@ -1,0 +1,16 @@
+{
+  "name": "Yu-Gi-Oh! ARC-V Volume 6 promotional card",
+  "code": "YA06",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/YA06.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 67508932,
+      "code": "YA06-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

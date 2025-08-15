@@ -1,0 +1,40 @@
+{
+  "name": "Legendary Collection 5D's",
+  "code": "LC05",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/LC05.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 73580471,
+      "code": "LC05-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91697229,
+      "code": "LC05-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64203620,
+      "code": "LC05-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35952884,
+      "code": "LC05-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27196937,
+      "code": "LC05-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

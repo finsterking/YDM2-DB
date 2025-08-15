@@ -1,0 +1,28 @@
+{
+  "name": "Duelist Pack: Special Edition",
+  "code": "DPK",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/DPK.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 48115277,
+      "code": "DPK-ENSE1",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81167171,
+      "code": "DPK-ENSE3",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54762426,
+      "code": "DPK-ENSE2",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

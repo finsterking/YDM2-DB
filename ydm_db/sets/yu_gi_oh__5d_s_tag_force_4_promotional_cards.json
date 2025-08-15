@@ -1,0 +1,46 @@
+{
+  "name": "Yu-Gi-Oh! 5D's Tag Force 4 promotional cards",
+  "code": "TF04",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/TF04.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 79544790,
+      "code": "TF04-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79544790,
+      "code": "TF04-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16751086,
+      "code": "TF04-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16751086,
+      "code": "TF04-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43140791,
+      "code": "TF04-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43140791,
+      "code": "TF04-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Yu-Gi-Oh! 5D's volume 8 promotional card",
+  "code": "YF08",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/YF08.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 8763963,
+      "code": "YF08-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

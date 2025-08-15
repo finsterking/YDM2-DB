@@ -1,0 +1,16 @@
+{
+  "name": "Yu-Gi-Oh! ARC-V Volume 3 promotional card",
+  "code": "YA03",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/YA03.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 21686473,
+      "code": "YA03-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

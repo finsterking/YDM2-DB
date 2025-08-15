@@ -1,0 +1,21 @@
+{
+  "id": 100446005,
+  "name": "Hecahands Breus",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of \"Hecahands Breus\" once per turn. If a card(s) is added to your opponent's hand, except during the Draw Phase: You can Special Summon this card from your hand. During your Main Phase: You can look at 1 random card in your opponent's hand, and if it is a monster, you can Special Summon it to your field.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100446005.jpg"
+  ],
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "DARK",
+  "atk": 2800,
+  "def": 1300,
+  "level": 7,
+  "species": "Illusion",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": 100348032,
+  "name": "Junk Warrior Extreme",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Junk Synchron\" + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can Special Summon as many Level 2 or lower monsters from your GY as possible, but they cannot activate their effects this turn, also you can only Special Summon once for the rest of this turn. When this card destroys an opponent's monster by battle: You can banish this card; Special Summon 1 \"Junk\" Synchro Monster from your Extra Deck (this is treated as a Synchro Summon). You can only use each effect of \"Junk Warrior Extreme\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100348032.jpg"
+  ],
+  "type": "Monster",
+  "monster_type": "Synchro",
+  "attribute": "DARK",
+  "atk": 2900,
+  "def": 2300,
+  "level": 8,
+  "species": "Warrior",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
+}

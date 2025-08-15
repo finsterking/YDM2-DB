@@ -1,0 +1,76 @@
+{
+  "name": "Mattel Action Figure promotional cards: Series 3",
+  "code": "MF03",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/MF03.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 83104731,
+      "code": "MF03-008",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50916353,
+      "code": "MF03-011",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70095154,
+      "code": "MF03-009",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21844576,
+      "code": "MF03-001",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59793705,
+      "code": "MF03-005",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79979666,
+      "code": "MF03-007",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58932615,
+      "code": "MF03-002",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84327329,
+      "code": "MF03-003",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35809262,
+      "code": "MF03-006",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20721928,
+      "code": "MF03-004",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98585345,
+      "code": "MF03-EN0??",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    }
+  ]
+}

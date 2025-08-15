@@ -1,0 +1,11 @@
+{
+  "id": 43140792,
+  "name": "Worm Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Worm Bait\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/43140792.jpg"
+  ],
+  "type": "Token"
+}

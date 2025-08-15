@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! World Championship Qualifier National Championships 2011 prize cards",
+  "code": "WQ11",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/WQ11.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 63468625,
+      "code": "WQ11-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4545683,
+      "code": "WQ11-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90953320,
+      "code": "WQ11-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

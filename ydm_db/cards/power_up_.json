@@ -1,0 +1,11 @@
+{
+  "id": 300302021,
+  "name": "Power Up!",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Activate this Skill during your Main Phase.\nOnce per Duel, you can make 1 face-up monster on the field gain 500 ATK until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302021.jpg"
+  ],
+  "type": "Skill Card"
+}

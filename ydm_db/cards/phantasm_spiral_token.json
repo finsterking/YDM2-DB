@@ -1,0 +1,11 @@
+{
+  "id": 2819436,
+  "name": "Phantasm Spiral Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Summoned by the effect of \"Pacifis, the Phantasm City\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/2819436.jpg"
+  ],
+  "type": "Token"
+}

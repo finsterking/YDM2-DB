@@ -1,0 +1,12 @@
+{
+  "id": 100446041,
+  "name": "Killer Tune Playlist",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 \"Killer Tune\" monster in your field or GY; apply these effects, in sequence, also you cannot Special Summon for the rest of this turn after this card resolves, except Tuners.\n● Apply its effect that activates if sent to the GY as Synchro Material.\n● Return it to the hand.\nYou can only activate 2 \"Killer Tune Playlist\" per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100446041.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

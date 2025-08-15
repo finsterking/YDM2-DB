@@ -1,0 +1,11 @@
+{
+  "id": 60406592,
+  "name": "Sinister Seed Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Sinister Seeds\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/60406592.jpg"
+  ],
+  "type": "Token"
+}

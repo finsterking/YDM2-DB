@@ -1,0 +1,160 @@
+{
+  "name": "OTS Tournament Pack 22",
+  "code": "OP22",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/OP22.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 57624336,
+      "code": "OP22-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92729410,
+      "code": "OP22-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44362883,
+      "code": "OP22-002",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82738008,
+      "code": "OP22-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18973184,
+      "code": "OP22-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21570001,
+      "code": "OP22-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32441317,
+      "code": "OP22-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88760522,
+      "code": "OP22-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5338223,
+      "code": "OP22-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88095331,
+      "code": "OP22-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 897409,
+      "code": "OP22-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94016752,
+      "code": "OP22-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55749927,
+      "code": "OP22-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77656797,
+      "code": "OP22-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57108202,
+      "code": "OP22-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88686573,
+      "code": "OP22-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47120245,
+      "code": "OP22-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53701457,
+      "code": "OP22-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68084557,
+      "code": "OP22-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82105704,
+      "code": "OP22-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79933029,
+      "code": "OP22-001",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66712905,
+      "code": "OP22-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23516703,
+      "code": "OP22-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35269904,
+      "code": "OP22-003",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29479265,
+      "code": "OP22-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

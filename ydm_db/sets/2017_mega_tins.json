@@ -1,0 +1,58 @@
+{
+  "name": "2017 Mega-Tins",
+  "code": "CT14",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/CT14.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "CT14-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "CT14-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26920296,
+      "code": "CT14-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80532587,
+      "code": "CT14-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23085002,
+      "code": "CT14-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59479050,
+      "code": "CT14-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 35261759,
+      "code": "CT14-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22862454,
+      "code": "CT14-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

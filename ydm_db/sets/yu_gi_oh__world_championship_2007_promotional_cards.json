@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! World Championship 2007 promotional cards",
+  "code": "WC07",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/WC07.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 56570271,
+      "code": "WC07-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20586572,
+      "code": "WC07-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93187568,
+      "code": "WC07-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

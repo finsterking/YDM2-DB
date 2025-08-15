@@ -1,0 +1,34 @@
+{
+  "name": "Yu-Gi-Oh! Elemental Hero Collection 2",
+  "code": "EHC2",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/EHC2.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 84327329,
+      "code": "EHC2-EN002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20721928,
+      "code": "EHC2-EN001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61204971,
+      "code": "EHC2-EN004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86188410,
+      "code": "EHC2-EN003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

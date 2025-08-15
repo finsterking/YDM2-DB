@@ -1,0 +1,11 @@
+{
+  "id": 69890968,
+  "name": "Phantasm Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can be used as a \"Phantasm Token\".\n\n\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/69890968.jpg"
+  ],
+  "type": "Token"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Speed Duel: Scars of Battle Launch Event participation card",
+  "code": "EVSD",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/EVSD.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 300103003,
+      "code": "EVSD-ENS02",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "EVSD-EN001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302021,
+      "code": "EVSD-ENS01",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91939608,
+      "code": "EVSD-EN002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33904024,
+      "code": "EVSD-EN003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 126218,
+      "code": "EVSD-EN004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59744639,
+      "code": "EVSD-EN005",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 31986289,
+  "name": "Regenerating Rose Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Regenerating Rose\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/31986289.jpg"
+  ],
+  "type": "Token"
+}

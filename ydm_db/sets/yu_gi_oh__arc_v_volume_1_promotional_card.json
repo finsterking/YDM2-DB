@@ -1,0 +1,16 @@
+{
+  "name": "Yu-Gi-Oh! ARC-V Volume 1 promotional card",
+  "code": "YA01",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/YA01.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 93149655,
+      "code": "YA01-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

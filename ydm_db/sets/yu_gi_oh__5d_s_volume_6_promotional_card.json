@@ -1,0 +1,16 @@
+{
+  "name": "Yu-Gi-Oh! 5D's Volume 6 promotional card",
+  "code": "YF06",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/YF06.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 39765958,
+      "code": "YF06-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

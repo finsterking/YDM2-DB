@@ -1,0 +1,46 @@
+{
+  "name": "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator promotional cards",
+  "code": "WC09",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/WC09.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 99177923,
+      "code": "WC09-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99177923,
+      "code": "WC09-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25171661,
+      "code": "WC09-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25171661,
+      "code": "WC09-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51566770,
+      "code": "WC09-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51566770,
+      "code": "WC09-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 71410542,
+  "name": "WAKE CUP! Macchi",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Once per turn, during your End Phase: You can target 1 face-down card on the field; send it to the GY. You can only use each of the following effects of \"WAKE CUP! Macchi\" once per turn. You can reveal this card and 1 other Flip monster in your hand; Special Summon both in face-down Defense Position. If this card is flipped face-up: Target 1 face-down Defense Position monster on the field; change it to face-up Attack Position.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71410542.jpg"
+  ],
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "WIND",
+  "atk": 1000,
+  "def": 100,
+  "level": 3,
+  "species": "Aqua",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
+}

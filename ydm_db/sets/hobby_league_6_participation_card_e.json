@@ -1,0 +1,46 @@
+{
+  "name": "Hobby League 6 participation card E",
+  "code": "HL06",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/HL06.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 97077563,
+      "code": "HL06-005",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7572887,
+      "code": "HL06-003",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23171610,
+      "code": "HL06-002",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71044499,
+      "code": "HL06-001",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "HL06-004",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95956346,
+      "code": "HL06-006",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    }
+  ]
+}

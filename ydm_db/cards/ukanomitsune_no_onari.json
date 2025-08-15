@@ -1,0 +1,26 @@
+{
+  "id": 49451215,
+  "name": "Ukanomitsune-no-Onari",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 LIGHT monsters, including a Beast monster\nYour opponent cannot target cards in the Field Zones with card effects. You can only use each of the following effects of \"Ukanomitsune-no-Onari\" once per turn. If this card is Link Summoned: You can target 1 Quick-Play Spell in your GY; Set it. If this card is destroyed: For each card in a Field Zone, you can apply 1 of these effects. (If both, apply them in sequence.)\n● Destroy 1 card your opponent controls.\n● Inflict 1500 damage to your opponent.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/49451215.jpg"
+  ],
+  "type": "Monster",
+  "monster_type": "Link",
+  "attribute": "LIGHT",
+  "atk": 1500,
+  "def": null,
+  "level": null,
+  "link": 2,
+  "link_arrows": [
+    "Right",
+    "Bottom"
+  ],
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": 27755794,
+  "name": "Magnifistorming Megala",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand). You can only Special Summon \"Magnifistorming Megala\" once per turn this way. If a \"Magnifistorm\" Quick-Play Spell Card or \"Mystical Space Typhoon\" is activated: You can Special Summon 1 \"Magnifistorm\" monster from your Deck with a different name from the monsters you control, also you cannot Special Summon for the rest of this turn, except WIND monsters. You can only use this effect of \"Magnifistorming Megala\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/27755794.jpg"
+  ],
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "WIND",
+  "atk": 500,
+  "def": 1500,
+  "level": 3,
+  "species": "Fairy",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
+}

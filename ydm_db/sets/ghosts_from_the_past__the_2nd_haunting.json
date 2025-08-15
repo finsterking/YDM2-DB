@@ -1,0 +1,28 @@
+{
+  "name": "Ghosts From the Past: The 2nd Haunting",
+  "code": "GTP2",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/GTP2.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 65192027,
+      "code": "GTP2-EN178",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38033121,
+      "code": "GTP2-EN177",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70902743,
+      "code": "GTP2-EN182",
+      "rarity": "Ghost Rare",
+      "image_index": 0
+    }
+  ]
+}

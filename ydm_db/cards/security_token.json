@@ -1,0 +1,11 @@
+{
+  "id": 93104633,
+  "name": "Security Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can be used as a \"Security Token\".\n\n\n● If used for another Token, apply that Token's Type / Attribute / Level / ATK / DEF.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/93104633.jpg"
+  ],
+  "type": "Token"
+}

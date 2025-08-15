@@ -1,0 +1,29 @@
+{
+  "id": 662854,
+  "name": "Noritoshi in Darkest Rainment",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "3+ Spellcaster Effect Monsters\nMust be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/662854.jpg"
+  ],
+  "type": "Monster",
+  "monster_type": "Link",
+  "attribute": "DARK",
+  "atk": 2500,
+  "def": null,
+  "level": null,
+  "link": 5,
+  "link_arrows": [
+    "Left",
+    "Right",
+    "Bottom-Left",
+    "Bottom",
+    "Bottom-Right"
+  ],
+  "species": "Spellcaster",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
+}

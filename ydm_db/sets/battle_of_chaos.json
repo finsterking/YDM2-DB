@@ -1,0 +1,16 @@
+{
+  "name": "Battle of Chaos",
+  "code": "25TH",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/25TH.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 46986414,
+      "code": "25TH-EN001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

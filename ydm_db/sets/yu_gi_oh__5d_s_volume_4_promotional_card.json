@@ -1,0 +1,16 @@
+{
+  "name": "Yu-Gi-Oh! 5D's Volume 4 promotional card",
+  "code": "YF04",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/YF04.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 17377751,
+      "code": "YF04-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

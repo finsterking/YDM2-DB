@@ -1,0 +1,34 @@
+{
+  "name": "Mattel Action Figure promotional cards: Series 2",
+  "code": "MF02",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/MF02.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 1546123,
+      "code": "MF02-003",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83121692,
+      "code": "MF02-001",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10526791,
+      "code": "MF02-002",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85066822,
+      "code": "MF02-004",
+      "rarity": "Normal Parallel Rare",
+      "image_index": 0
+    }
+  ]
+}

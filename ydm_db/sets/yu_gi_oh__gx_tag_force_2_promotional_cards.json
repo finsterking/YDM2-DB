@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! GX Tag Force 2 promotional cards",
+  "code": "GX04",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/GX04.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 4923662,
+      "code": "GX04-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77538567,
+      "code": "GX04-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31034919,
+      "code": "GX04-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

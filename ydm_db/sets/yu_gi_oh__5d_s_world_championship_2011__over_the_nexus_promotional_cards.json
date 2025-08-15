@@ -1,0 +1,46 @@
+{
+  "name": "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards",
+  "code": "WC11",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/WC11.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 99000151,
+      "code": "WC11-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99000151,
+      "code": "WC11-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36405256,
+      "code": "WC11-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36405256,
+      "code": "WC11-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62499965,
+      "code": "WC11-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62499965,
+      "code": "WC11-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

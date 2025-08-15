@@ -1,0 +1,58 @@
+{
+  "name": "25th Anniversary Tin: Dueling Heroes",
+  "code": "TN23",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/TN23.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 73580471,
+      "code": "TN23-014",
+      "rarity": "Quarter Century Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69031175,
+      "code": "TN23-015",
+      "rarity": "Quarter Century Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70095154,
+      "code": "TN23-005",
+      "rarity": "Quarter Century Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59123194,
+      "code": "TN23-010",
+      "rarity": "Quarter Century Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33396948,
+      "code": "TN23-002",
+      "rarity": "Quarter Century Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93717133,
+      "code": "TN23-012",
+      "rarity": "Quarter Century Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79856792,
+      "code": "TN23-004",
+      "rarity": "Quarter Century Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9608555,
+      "code": "TN23-007",
+      "rarity": "Quarter Century Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

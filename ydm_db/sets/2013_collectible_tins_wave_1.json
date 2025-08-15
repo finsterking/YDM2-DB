@@ -1,0 +1,118 @@
+{
+  "name": "2013 Collectible Tins Wave 1",
+  "code": "CT10",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/CT10.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 26593852,
+      "code": "CT10-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72989439,
+      "code": "CT10-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53804307,
+      "code": "CT10-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6353603,
+      "code": "CT10-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95169481,
+      "code": "CT10-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12014404,
+      "code": "CT10-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28912357,
+      "code": "CT10-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23874409,
+      "code": "CT10-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75433814,
+      "code": "CT10-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51735257,
+      "code": "CT10-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48995978,
+      "code": "CT10-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47660516,
+      "code": "CT10-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90411554,
+      "code": "CT10-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56981417,
+      "code": "CT10-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56910167,
+      "code": "CT10-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89399912,
+      "code": "CT10-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48049769,
+      "code": "CT10-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26400609,
+      "code": "CT10-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

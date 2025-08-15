@@ -1,0 +1,21 @@
+{
+  "id": 85315450,
+  "name": "Magnifistorm Great Pyre Phonix",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If a Quick-Play Spell Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If a Quick-Play Spell Card is activated (except during the Damage Step): You can target up to 2 cards your opponent controls; shuffle them into the Deck. If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Magnifistorm Great Pyre Phonix\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/85315450.jpg"
+  ],
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "WIND",
+  "atk": 3000,
+  "def": 0,
+  "level": 9,
+  "species": "Pyro",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
+}

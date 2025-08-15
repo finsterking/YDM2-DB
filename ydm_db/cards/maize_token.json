@@ -1,0 +1,11 @@
+{
+  "id": 74983882,
+  "name": "Maize Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Sweet Corn\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/74983882.jpg"
+  ],
+  "type": "Token"
+}

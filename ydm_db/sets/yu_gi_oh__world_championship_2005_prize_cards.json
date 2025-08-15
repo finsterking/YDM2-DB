@@ -1,0 +1,40 @@
+{
+  "name": "Yu-Gi-Oh! World Championship 2005 prize cards",
+  "code": "WCS",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/WCS.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 501000002,
+      "code": "WCS-EN501",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 501000001,
+      "code": "WCS-EN402",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 501000003,
+      "code": "WCS-EN502",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76232340,
+      "code": "WCS-EN403",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 501000000,
+      "code": "WCS-EN401",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

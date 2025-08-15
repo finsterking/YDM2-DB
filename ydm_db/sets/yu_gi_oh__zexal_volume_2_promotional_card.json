@@ -1,0 +1,16 @@
+{
+  "name": "Yu-Gi-Oh! ZEXAL Volume 2 promotional card",
+  "code": "YZ02",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/YZ02.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 51735257,
+      "code": "YZ02-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

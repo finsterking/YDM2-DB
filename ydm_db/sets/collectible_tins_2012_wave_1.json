@@ -1,0 +1,148 @@
+{
+  "name": "Collectible Tins 2012 Wave 1",
+  "code": "CT09",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/CT09.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 28348537,
+      "code": "CT09-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75326861,
+      "code": "CT09-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7845138,
+      "code": "CT09-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42752141,
+      "code": "CT09-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74294676,
+      "code": "CT09-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19182751,
+      "code": "CT09-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60645181,
+      "code": "CT09-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64332231,
+      "code": "CT09-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9059700,
+      "code": "CT09-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95992081,
+      "code": "CT09-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37115575,
+      "code": "CT09-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23434538,
+      "code": "CT09-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95027497,
+      "code": "CT09-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54719828,
+      "code": "CT09-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92661479,
+      "code": "CT09-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56174248,
+      "code": "CT09-019",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85138716,
+      "code": "CT09-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76774528,
+      "code": "CT09-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37926346,
+      "code": "CT09-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10802915,
+      "code": "CT09-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42874792,
+      "code": "CT09-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78156759,
+      "code": "CT09-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63612442,
+      "code": "CT09-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

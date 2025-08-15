@@ -1,0 +1,11 @@
+{
+  "id": 67949764,
+  "name": "Umbral Horror Mirage Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summon with the effect of \"Corrupted Keys\". When Summoned, this Token's ATK becomes equal to the current ATK of the Xyz Monster targeted by \"Corrupted Keys\". This Token cannot attack your opponent directly or be Tributed, except for a Tribute Summon. When that face-up Xyz Monster leaves the field, destroy this Token.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/67949764.jpg"
+  ],
+  "type": "Token"
+}

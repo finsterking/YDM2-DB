@@ -1,0 +1,11 @@
+{
+  "id": 21179144,
+  "name": "Reptilianne Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Reptilianne Spawn\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/21179144.jpg"
+  ],
+  "type": "Token"
+}

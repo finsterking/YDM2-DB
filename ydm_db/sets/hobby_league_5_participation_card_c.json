@@ -1,0 +1,46 @@
+{
+  "name": "Hobby League 5 participation card C",
+  "code": "HL05",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/HL05.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 95326659,
+      "code": "HL05-003",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32710364,
+      "code": "HL05-001",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87621407,
+      "code": "HL05-004",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41172955,
+      "code": "HL05-002",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "HL05-006",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95519486,
+      "code": "HL05-005",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    }
+  ]
+}

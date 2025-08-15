@@ -1,0 +1,22 @@
+{
+  "name": "Power of the Duelist Sneak Peek Participation Card",
+  "code": "SP02",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/SP02.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 2047519,
+      "code": "SP02-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62271284,
+      "code": "SP02-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 63442605,
+  "name": "Mirage Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Physical Double\". Destroy this Token at the end of the turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/63442605.jpg"
+  ],
+  "type": "Token"
+}

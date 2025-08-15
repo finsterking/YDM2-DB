@@ -1,0 +1,12 @@
+{
+  "id": 81143465,
+  "name": "Tragic Twin Threads",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Equip only to a monster you control that was Special Summoned from the Extra Deck. If your opponent Special Summons a monster(s) from the Extra Deck with higher ATK than the equipped monster: You can target 1 of them; destroy it, also the equipped monster, and if you do, take damage equal to the total original ATK of the destroyed monsters, then inflict damage to your opponent equal to the damage you took.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/81143465.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

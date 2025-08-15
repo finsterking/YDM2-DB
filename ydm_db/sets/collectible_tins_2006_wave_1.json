@@ -1,0 +1,46 @@
+{
+  "name": "Collectible Tins 2006 Wave 1",
+  "code": "CT03",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/CT03.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 70095154,
+      "code": "CT03-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89943723,
+      "code": "CT03-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25366484,
+      "code": "CT03-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32491822,
+      "code": "CT03-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69890967,
+      "code": "CT03-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6007213,
+      "code": "CT03-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

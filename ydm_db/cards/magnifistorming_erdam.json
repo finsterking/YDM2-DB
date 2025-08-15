@@ -1,0 +1,21 @@
+{
+  "id": 54143349,
+  "name": "Magnifistorming Erdam",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand). You can only Special Summon \"Magnifistorming Erdam\" once per turn this way. If this card is Normal or Special Summoned: You can add 1 \"Magnifistorm\" monster or 1 \"Mystical Space Typhoon\" from your Deck to your hand, except \"Magnifistorming Erdam\". You can only use this effect of \"Magnifistorming Erdam\" once per turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/54143349.jpg"
+  ],
+  "type": "Monster",
+  "monster_type": "Effect",
+  "attribute": "WIND",
+  "atk": 1300,
+  "def": 800,
+  "level": 3,
+  "species": "Beast",
+  "has_effect": true,
+  "is_pendulum": false,
+  "is_tuner": false,
+  "ability": ""
+}

@@ -1,0 +1,11 @@
+{
+  "id": 176393,
+  "name": "Koa'ki Meiru Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Koa'ki Meiru Prototype\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/176393.jpg"
+  ],
+  "type": "Token"
+}

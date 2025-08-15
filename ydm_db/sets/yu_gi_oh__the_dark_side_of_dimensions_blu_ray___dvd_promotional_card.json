@@ -1,0 +1,22 @@
+{
+  "name": "Yu-Gi-Oh! The Dark Side of Dimensions Blu-ray & DVD promotional card",
+  "code": "MVPC",
+  "type": "",
+  "date": "",
+  "image": "https://ygoprodeck.com/pics_sets/MVPC.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 10000000,
+      "code": "MVPC-EN001",
+      "rarity": "Gold Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000000,
+      "code": "MVPC-EN001",
+      "rarity": "Gold Secret Rare",
+      "image_index": 0
+    }
+  ]
+}
