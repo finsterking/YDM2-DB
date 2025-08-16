@@ -1,591 +1,574 @@
 {
   "name": "Force of the Breaker",
   "code": "FOTB",
-  "type": "",
-  "date": "",
+  "type": "Booster Pack (Series 5)",
+  "date": "16-05-2007",
   "image": "https://ygoprodeck.com/pics_sets/FOTB.jpg",
-  "pull_type": "full",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
   "cards": [
     {
-      "id": 34541863,
-      "code": "FOTB-EN043",
-      "rarity": "Common",
+      "id": 76459806,
+      "code": "FOTB-000",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 34487429,
-      "code": "FOTB-EN045",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34487429,
-      "code": "FOTB-EN045",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48675364,
-      "code": "FOTB-EN019",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48675364,
-      "code": "FOTB-EN019",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 32603633,
-      "code": "FOTB-EN052",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 69537999,
-      "code": "FOTB-EN040",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 96218085,
-      "code": "FOTB-EN051",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 72881007,
-      "code": "FOTB-EN035",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 95326659,
-      "code": "FOTB-EN032",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 69937550,
-      "code": "FOTB-EN005",
+      "id": 32710364,
+      "code": "FOTB-001",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 32933942,
-      "code": "FOTB-EN002",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 21698716,
-      "code": "FOTB-EN006",
+      "code": "FOTB-002",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 68215963,
-      "code": "FOTB-EN003",
+      "code": "FOTB-003",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 32710364,
-      "code": "FOTB-EN001",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 7093411,
-      "code": "FOTB-EN007",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 7093411,
-      "code": "FOTB-EN007",
-      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 95600067,
-      "code": "FOTB-EN004",
+      "code": "FOTB-004",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 95600067,
-      "code": "FOTB-EN004",
+      "code": "FOTB-004",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
+      "id": 69937550,
+      "code": "FOTB-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21698716,
+      "code": "FOTB-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7093411,
+      "code": "FOTB-007",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7093411,
+      "code": "FOTB-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32543380,
+      "code": "FOTB-008",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32543380,
+      "code": "FOTB-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33365932,
+      "code": "FOTB-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33365932,
+      "code": "FOTB-009",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69750546,
+      "code": "FOTB-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81020140,
+      "code": "FOTB-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17415895,
+      "code": "FOTB-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17415895,
+      "code": "FOTB-012",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54514594,
+      "code": "FOTB-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80908502,
+      "code": "FOTB-014",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80908502,
+      "code": "FOTB-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17393207,
+      "code": "FOTB-015",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17393207,
+      "code": "FOTB-015",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43797906,
+      "code": "FOTB-016",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43797906,
+      "code": "FOTB-016",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80186010,
+      "code": "FOTB-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80186010,
+      "code": "FOTB-017",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12171659,
+      "code": "FOTB-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12171659,
+      "code": "FOTB-018",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48675364,
+      "code": "FOTB-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48675364,
+      "code": "FOTB-019",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75064463,
+      "code": "FOTB-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75064463,
+      "code": "FOTB-020",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11458071,
+      "code": "FOTB-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11458071,
+      "code": "FOTB-021",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48453776,
+      "code": "FOTB-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48453776,
+      "code": "FOTB-022",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74841885,
+      "code": "FOTB-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74841885,
+      "code": "FOTB-023",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10236520,
+      "code": "FOTB-024",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10236520,
+      "code": "FOTB-024",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47731128,
+      "code": "FOTB-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73125233,
+      "code": "FOTB-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73125233,
+      "code": "FOTB-026",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 114932,
+      "code": "FOTB-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46508640,
+      "code": "FOTB-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72903645,
+      "code": "FOTB-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9391354,
+      "code": "FOTB-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95026693,
+      "code": "FOTB-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95026693,
+      "code": "FOTB-031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95326659,
+      "code": "FOTB-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60876124,
+      "code": "FOTB-033",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60876124,
+      "code": "FOTB-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
       "id": 35486099,
-      "code": "FOTB-EN034",
+      "code": "FOTB-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72881007,
+      "code": "FOTB-035",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 8275702,
-      "code": "FOTB-EN036",
+      "code": "FOTB-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34664411,
+      "code": "FOTB-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34664411,
+      "code": "FOTB-037",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61068510,
+      "code": "FOTB-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68815401,
+      "code": "FOTB-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69537999,
+      "code": "FOTB-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21420702,
+      "code": "FOTB-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21420702,
+      "code": "FOTB-041",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7153114,
+      "code": "FOTB-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34541863,
+      "code": "FOTB-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60946968,
+      "code": "FOTB-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34487429,
+      "code": "FOTB-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34487429,
+      "code": "FOTB-045",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96148285,
+      "code": "FOTB-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96148285,
+      "code": "FOTB-046",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97970833,
+      "code": "FOTB-047",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 96331676,
-      "code": "FOTB-EN048",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 80186010,
-      "code": "FOTB-EN017",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80186010,
-      "code": "FOTB-EN017",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 29424328,
-      "code": "FOTB-EN061",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 46508640,
-      "code": "FOTB-EN028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 80908502,
-      "code": "FOTB-EN014",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 80908502,
-      "code": "FOTB-EN014",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 54974237,
-      "code": "FOTB-EN068",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 7153114,
-      "code": "FOTB-EN042",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 94804055,
-      "code": "FOTB-EN060",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 94804055,
-      "code": "FOTB-EN060",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57753602,
-      "code": "FOTB-EN059",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 10236520,
-      "code": "FOTB-EN024",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 10236520,
-      "code": "FOTB-EN024",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 17393207,
-      "code": "FOTB-EN015",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 17393207,
-      "code": "FOTB-EN015",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 9391354,
-      "code": "FOTB-EN030",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 68875140,
-      "code": "FOTB-EN056",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 94374859,
-      "code": "FOTB-EN057",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 75064463,
-      "code": "FOTB-EN020",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 75064463,
-      "code": "FOTB-EN020",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 69091732,
-      "code": "FOTB-EN053",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 97970833,
-      "code": "FOTB-EN047",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 55818463,
-      "code": "FOTB-EN062",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34664411,
-      "code": "FOTB-EN037",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34664411,
-      "code": "FOTB-EN037",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72903645,
-      "code": "FOTB-EN029",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 21768554,
-      "code": "FOTB-EN058",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 47731128,
-      "code": "FOTB-EN025",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 28601770,
-      "code": "FOTB-EN064",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60946968,
-      "code": "FOTB-EN044",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 70969517,
-      "code": "FOTB-ENSE1",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 55696885,
-      "code": "FOTB-EN065",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 82213171,
-      "code": "FOTB-EN063",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21481146,
-      "code": "FOTB-EN055",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21481146,
-      "code": "FOTB-EN055",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 73125233,
-      "code": "FOTB-EN026",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 73125233,
-      "code": "FOTB-EN026",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60876124,
-      "code": "FOTB-EN033",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60876124,
-      "code": "FOTB-EN033",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 81191584,
-      "code": "FOTB-EN066",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95096437,
-      "code": "FOTB-EN054",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 114932,
-      "code": "FOTB-EN027",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 11458071,
-      "code": "FOTB-EN021",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 11458071,
-      "code": "FOTB-EN021",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 74841885,
-      "code": "FOTB-EN023",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 74841885,
-      "code": "FOTB-EN023",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48453776,
-      "code": "FOTB-EN022",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48453776,
-      "code": "FOTB-EN022",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95026693,
-      "code": "FOTB-EN031",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95026693,
-      "code": "FOTB-EN031",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 17589298,
-      "code": "FOTB-EN067",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 69724380,
-      "code": "FOTB-EN050",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 61068510,
-      "code": "FOTB-EN038",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 21420702,
-      "code": "FOTB-EN041",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21420702,
-      "code": "FOTB-EN041",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 96148285,
-      "code": "FOTB-EN046",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 96148285,
-      "code": "FOTB-EN046",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 81020140,
-      "code": "FOTB-EN011",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 32543380,
-      "code": "FOTB-EN008",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 32543380,
-      "code": "FOTB-EN008",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 54514594,
-      "code": "FOTB-EN013",
+      "code": "FOTB-048",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 33725271,
-      "code": "FOTB-EN049",
+      "code": "FOTB-049",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 76459806,
-      "code": "FOTB-EN000",
+      "id": 69724380,
+      "code": "FOTB-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96218085,
+      "code": "FOTB-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32603633,
+      "code": "FOTB-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69091732,
+      "code": "FOTB-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95096437,
+      "code": "FOTB-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21481146,
+      "code": "FOTB-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21481146,
+      "code": "FOTB-055",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68875140,
+      "code": "FOTB-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94374859,
+      "code": "FOTB-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21768554,
+      "code": "FOTB-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57753602,
+      "code": "FOTB-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94804055,
+      "code": "FOTB-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94804055,
+      "code": "FOTB-060",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29424328,
+      "code": "FOTB-061",
       "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 76459806,
-      "code": "FOTB-ENSP1",
-      "rarity": "Super Rare",
+      "id": 55818463,
+      "code": "FOTB-062",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 69750546,
-      "code": "FOTB-EN010",
-      "rarity": "Common",
+      "id": 82213171,
+      "code": "FOTB-063",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 33365932,
-      "code": "FOTB-EN009",
-      "rarity": "Rare",
+      "id": 28601770,
+      "code": "FOTB-064",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 33365932,
-      "code": "FOTB-EN009",
-      "rarity": "Ultimate Rare",
+      "id": 55696885,
+      "code": "FOTB-065",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 17415895,
-      "code": "FOTB-EN012",
-      "rarity": "Rare",
+      "id": 81191584,
+      "code": "FOTB-066",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 17415895,
-      "code": "FOTB-EN012",
-      "rarity": "Ultimate Rare",
+      "id": 17589298,
+      "code": "FOTB-067",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 43797906,
-      "code": "FOTB-EN016",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43797906,
-      "code": "FOTB-EN016",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 68815401,
-      "code": "FOTB-EN039",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 18430390,
-      "code": "FOTB-ENSE2",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 12171659,
-      "code": "FOTB-EN018",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 12171659,
-      "code": "FOTB-EN018",
-      "rarity": "Ultimate Rare",
+      "id": 54974237,
+      "code": "FOTB-068",
+      "rarity": "Secret Rare",
       "image_index": 0
     }
   ]

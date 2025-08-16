@@ -1,663 +1,640 @@
 {
   "name": "Ignition Assault",
   "code": "IGAS",
-  "type": "",
-  "date": "",
+  "type": "Booster Pack (Series 10)",
+  "date": "31-01-2020",
   "image": "https://ygoprodeck.com/pics_sets/IGAS.jpg",
-  "pull_type": "full",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_with_starlight_rare",
   "cards": [
     {
-      "id": 59332125,
-      "code": "IGAS-EN053",
+      "id": 29603180,
+      "code": "IGAS-000",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 77421977,
-      "code": "IGAS-EN069",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 85327820,
-      "code": "IGAS-EN054",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 22933016,
-      "code": "IGAS-EN052",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 1966438,
-      "code": "IGAS-EN019",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 15808381,
-      "code": "IGAS-EN004",
+      "id": 16020923,
+      "code": "IGAS-001",
       "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 13923256,
-      "code": "IGAS-EN010",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 77539547,
-      "code": "IGAS-EN009",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 76416959,
-      "code": "IGAS-EN012",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40140448,
-      "code": "IGAS-EN008",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 2801664,
-      "code": "IGAS-EN013",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40428851,
-      "code": "IGAS-EN011",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4810585,
-      "code": "IGAS-EN070",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 58116537,
-      "code": "IGAS-EN056",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 11711438,
-      "code": "IGAS-EN055",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 29603180,
-      "code": "IGAS-EN000",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 38173725,
-      "code": "IGAS-EN017",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 38960450,
-      "code": "IGAS-EN077",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 97661969,
-      "code": "IGAS-EN048",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 97661969,
-      "code": "IGAS-EN048",
-      "rarity": "Starlight Rare",
-      "image_index": 0
-    },
-    {
-      "id": 64178868,
-      "code": "IGAS-EN032",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 22953211,
-      "code": "IGAS-EN095",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 67647362,
-      "code": "IGAS-EN089",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 42429678,
-      "code": "IGAS-EN002",
+      "code": "IGAS-002",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 9028399,
-      "code": "IGAS-EN025",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 84482694,
-      "code": "IGAS-EN060",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 2089016,
-      "code": "IGAS-EN016",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 45462149,
-      "code": "IGAS-EN096",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57093995,
-      "code": "IGAS-EN059",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 50277355,
-      "code": "IGAS-EN047",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 1566817,
-      "code": "IGAS-EN033",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 89238128,
-      "code": "IGAS-ENSE1",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 97383507,
-      "code": "IGAS-EN045",
+      "id": 88413677,
+      "code": "IGAS-003",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 35394356,
-      "code": "IGAS-EN029",
-      "rarity": "Common",
+      "id": 15808381,
+      "code": "IGAS-004",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 42149850,
-      "code": "IGAS-EN065",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 14146794,
-      "code": "IGAS-EN007",
+      "id": 41306080,
+      "code": "IGAS-005",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 78751195,
-      "code": "IGAS-EN006",
+      "code": "IGAS-006",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 41927278,
-      "code": "IGAS-EN068",
+      "id": 14146794,
+      "code": "IGAS-007",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 88413677,
-      "code": "IGAS-EN003",
+      "id": 40140448,
+      "code": "IGAS-008",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 15754711,
-      "code": "IGAS-EN064",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 62111090,
-      "code": "IGAS-EN041",
+      "id": 77539547,
+      "code": "IGAS-009",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 55976207,
-      "code": "IGAS-EN084",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 92597893,
-      "code": "IGAS-EN082",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 1759808,
-      "code": "IGAS-EN079",
+      "id": 13923256,
+      "code": "IGAS-010",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 24882256,
-      "code": "IGAS-EN046",
-      "rarity": "Rare",
+      "id": 40428851,
+      "code": "IGAS-011",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 83266006,
-      "code": "IGAS-EN063",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 36239585,
-      "code": "IGAS-EN023",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 63633694,
-      "code": "IGAS-EN024",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 88406570,
-      "code": "IGAS-ENSE2",
+      "id": 76416959,
+      "code": "IGAS-012",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 7540107,
-      "code": "IGAS-ENSE3",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 23656668,
-      "code": "IGAS-EN049",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 56198785,
-      "code": "IGAS-EN081",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 38143903,
-      "code": "IGAS-EN080",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 41306080,
-      "code": "IGAS-EN005",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 62411042,
-      "code": "IGAS-EN027",
+      "id": 2801664,
+      "code": "IGAS-013",
       "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 59054773,
-      "code": "IGAS-EN050",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36016907,
-      "code": "IGAS-EN026",
-      "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 49296203,
-      "code": "IGAS-EN014",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 3693034,
-      "code": "IGAS-EN073",
+      "code": "IGAS-014",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 75690317,
-      "code": "IGAS-EN015",
+      "code": "IGAS-015",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 11699941,
-      "code": "IGAS-EN058",
+      "id": 2089016,
+      "code": "IGAS-016",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 25904894,
-      "code": "IGAS-EN043",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78543464,
-      "code": "IGAS-EN066",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 61399402,
-      "code": "IGAS-EN044",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 14532163,
-      "code": "IGAS-EN067",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 14532163,
-      "code": "IGAS-EN067",
-      "rarity": "Starlight Rare",
-      "image_index": 0
-    },
-    {
-      "id": 24842059,
-      "code": "IGAS-EN097",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 68957925,
-      "code": "IGAS-EN098",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 99885917,
-      "code": "IGAS-EN093",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 94446564,
-      "code": "IGAS-EN099",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 25726386,
-      "code": "IGAS-EN040",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 99628747,
-      "code": "IGAS-EN039",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 76209339,
-      "code": "IGAS-EN072",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 90444325,
-      "code": "IGAS-EN036",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 36849933,
-      "code": "IGAS-EN037",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 63056220,
-      "code": "IGAS-EN035",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 63233638,
-      "code": "IGAS-EN038",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 84504242,
-      "code": "IGAS-EN057",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 40204620,
-      "code": "IGAS-EN071",
+      "id": 38173725,
+      "code": "IGAS-017",
       "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 75364199,
-      "code": "IGAS-EN078",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 28981598,
-      "code": "IGAS-EN083",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 98806751,
-      "code": "IGAS-EN028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 16020923,
-      "code": "IGAS-EN001",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 20426176,
-      "code": "IGAS-EN091",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 93031067,
-      "code": "IGAS-EN090",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 94253655,
-      "code": "IGAS-EN087",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 20248754,
-      "code": "IGAS-EN088",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 68769900,
-      "code": "IGAS-EN086",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 49082032,
-      "code": "IGAS-EN074",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 2971446,
-      "code": "IGAS-EN076",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4148264,
-      "code": "IGAS-EN092",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 37351133,
-      "code": "IGAS-EN020",
-      "rarity": "Starlight Rare",
-      "image_index": 0
-    },
-    {
-      "id": 37351133,
-      "code": "IGAS-EN020",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 46271408,
-      "code": "IGAS-EN062",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 46271408,
-      "code": "IGAS-ENSP1",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 38783169,
-      "code": "IGAS-EN031",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 86449372,
-      "code": "IGAS-EN051",
-      "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 74578720,
-      "code": "IGAS-EN018",
+      "code": "IGAS-018",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 59208943,
-      "code": "IGAS-EN094",
-      "rarity": "Starlight Rare",
-      "image_index": 0
-    },
-    {
-      "id": 59208943,
-      "code": "IGAS-EN094",
+      "id": 1966438,
+      "code": "IGAS-019",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 76587747,
-      "code": "IGAS-EN075",
-      "rarity": "Common",
+      "id": 37351133,
+      "code": "IGAS-020",
+      "rarity": "Starlight Rare",
       "image_index": 0
     },
     {
-      "id": 10877309,
-      "code": "IGAS-EN061",
-      "rarity": "Common",
+      "id": 37351133,
+      "code": "IGAS-020",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 1799464,
-      "code": "IGAS-EN030",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 31588572,
-      "code": "IGAS-ENSE4",
+      "id": 64756282,
+      "code": "IGAS-021",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 744887,
-      "code": "IGAS-EN022",
+      "code": "IGAS-022",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
+      "id": 36239585,
+      "code": "IGAS-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63633694,
+      "code": "IGAS-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9028399,
+      "code": "IGAS-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36016907,
+      "code": "IGAS-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62411042,
+      "code": "IGAS-027",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98806751,
+      "code": "IGAS-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35394356,
+      "code": "IGAS-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1799464,
+      "code": "IGAS-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38783169,
+      "code": "IGAS-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64178868,
+      "code": "IGAS-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1566817,
+      "code": "IGAS-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
       "id": 37061511,
-      "code": "IGAS-EN034",
+      "code": "IGAS-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63056220,
+      "code": "IGAS-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90444325,
+      "code": "IGAS-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36849933,
+      "code": "IGAS-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63233638,
+      "code": "IGAS-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99628747,
+      "code": "IGAS-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25726386,
+      "code": "IGAS-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62111090,
+      "code": "IGAS-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98506199,
+      "code": "IGAS-042",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25904894,
+      "code": "IGAS-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61399402,
+      "code": "IGAS-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97383507,
+      "code": "IGAS-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24882256,
+      "code": "IGAS-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50277355,
+      "code": "IGAS-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97661969,
+      "code": "IGAS-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97661969,
+      "code": "IGAS-048",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23656668,
+      "code": "IGAS-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59054773,
+      "code": "IGAS-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86449372,
+      "code": "IGAS-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22933016,
+      "code": "IGAS-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59332125,
+      "code": "IGAS-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85327820,
+      "code": "IGAS-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85327820,
+      "code": "IGAS-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11711438,
+      "code": "IGAS-055",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58116537,
+      "code": "IGAS-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84504242,
+      "code": "IGAS-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11699941,
+      "code": "IGAS-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57093995,
+      "code": "IGAS-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84482694,
+      "code": "IGAS-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10877309,
+      "code": "IGAS-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46271408,
+      "code": "IGAS-062",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83266006,
+      "code": "IGAS-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15754711,
+      "code": "IGAS-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42149850,
+      "code": "IGAS-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78543464,
+      "code": "IGAS-066",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14532163,
+      "code": "IGAS-067",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14532163,
+      "code": "IGAS-067",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41927278,
+      "code": "IGAS-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77421977,
+      "code": "IGAS-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4810585,
+      "code": "IGAS-070",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40204620,
+      "code": "IGAS-071",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76209339,
+      "code": "IGAS-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3693034,
+      "code": "IGAS-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49082032,
+      "code": "IGAS-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76587747,
+      "code": "IGAS-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2971446,
+      "code": "IGAS-076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38960450,
+      "code": "IGAS-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75364199,
+      "code": "IGAS-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1759808,
+      "code": "IGAS-079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38143903,
+      "code": "IGAS-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56198785,
+      "code": "IGAS-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92597893,
+      "code": "IGAS-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28981598,
+      "code": "IGAS-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55976207,
+      "code": "IGAS-084",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 31374201,
-      "code": "IGAS-EN085",
+      "code": "IGAS-085",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 98506199,
-      "code": "IGAS-EN042",
+      "id": 68769900,
+      "code": "IGAS-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94253655,
+      "code": "IGAS-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20248754,
+      "code": "IGAS-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67647362,
+      "code": "IGAS-089",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93031067,
+      "code": "IGAS-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20426176,
+      "code": "IGAS-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4148264,
+      "code": "IGAS-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99885917,
+      "code": "IGAS-093",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 64756282,
-      "code": "IGAS-EN021",
+      "id": 59208943,
+      "code": "IGAS-094",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59208943,
+      "code": "IGAS-094",
       "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22953211,
+      "code": "IGAS-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45462149,
+      "code": "IGAS-096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24842059,
+      "code": "IGAS-097",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68957925,
+      "code": "IGAS-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94446564,
+      "code": "IGAS-099",
+      "rarity": "Common",
       "image_index": 0
     }
   ]

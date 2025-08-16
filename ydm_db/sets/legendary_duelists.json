@@ -1,320 +1,321 @@
 {
   "name": "Legendary Duelists",
   "code": "LEDU",
-  "type": "",
-  "date": "",
+  "type": "Legendary Duelists",
+  "date": "07-09-2017",
   "image": "https://ygoprodeck.com/pics_sets/LEDU.jpg",
-  "pull_type": "full",
+  "pull_type": "distribution",
+  "distribution": "legendary_duelists",
   "cards": [
     {
-      "id": 295517,
-      "code": "LEDU-EN021",
+      "id": 74677422,
+      "code": "LEDU-000",
       "rarity": "Common",
-      "image_index": 0
+      "image_index": 3
     },
     {
-      "id": 91869203,
-      "code": "LEDU-EN012",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 10928224,
-      "code": "LEDU-EN009",
+      "id": 58257569,
+      "code": "LEDU-001",
       "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57312333,
-      "code": "LEDU-EN010",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 83407038,
-      "code": "LEDU-EN011",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 84539520,
-      "code": "LEDU-EN008",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 94004268,
-      "code": "LEDU-EN013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 712559,
-      "code": "LEDU-EN014",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 73333463,
-      "code": "LEDU-EN034",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 79402185,
-      "code": "LEDU-EN038",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 6890729,
-      "code": "LEDU-EN039",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 45898858,
-      "code": "LEDU-EN051",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 46290741,
-      "code": "LEDU-EN016",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 45078193,
-      "code": "LEDU-EN022",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 82562802,
-      "code": "LEDU-EN023",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 77625948,
-      "code": "LEDU-EN027",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 41230939,
-      "code": "LEDU-EN026",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 44352516,
-      "code": "LEDU-EN025",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 3019642,
-      "code": "LEDU-EN028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 18967507,
-      "code": "LEDU-EN024",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43017476,
-      "code": "LEDU-EN037",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 70628672,
-      "code": "LEDU-EN032",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 984114,
-      "code": "LEDU-EN033",
-      "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 85651167,
-      "code": "LEDU-EN002",
+      "code": "LEDU-002",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 22587018,
-      "code": "LEDU-EN040",
+      "id": 21140872,
+      "code": "LEDU-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57135971,
+      "code": "LEDU-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53485634,
+      "code": "LEDU-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6172122,
+      "code": "LEDU-006",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 52684508,
-      "code": "LEDU-EN007",
+      "code": "LEDU-007",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 98225108,
-      "code": "LEDU-EN045",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 44139064,
-      "code": "LEDU-EN031",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 71340250,
-      "code": "LEDU-EN029",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 74848038,
-      "code": "LEDU-EN048",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 58071123,
-      "code": "LEDU-EN041",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 82685480,
-      "code": "LEDU-EN017",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 58257569,
-      "code": "LEDU-EN001",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 74677422,
-      "code": "LEDU-EN000",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 57135971,
-      "code": "LEDU-EN004",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 6172122,
-      "code": "LEDU-EN006",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 53485634,
-      "code": "LEDU-EN005",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 21140872,
-      "code": "LEDU-EN003",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34016756,
-      "code": "LEDU-EN047",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 19089195,
-      "code": "LEDU-EN018",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43359262,
-      "code": "LEDU-EN046",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 33245030,
-      "code": "LEDU-EN043",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 17745969,
-      "code": "LEDU-EN030",
+      "id": 84539520,
+      "code": "LEDU-008",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 42671151,
-      "code": "LEDU-EN050",
+      "id": 10928224,
+      "code": "LEDU-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57312333,
+      "code": "LEDU-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83407038,
+      "code": "LEDU-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91869203,
+      "code": "LEDU-012",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 3643300,
-      "code": "LEDU-EN019",
+      "id": 94004268,
+      "code": "LEDU-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 712559,
+      "code": "LEDU-014",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 19801646,
-      "code": "LEDU-EN015",
+      "code": "LEDU-015",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
+      "id": 46290741,
+      "code": "LEDU-016",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82685480,
+      "code": "LEDU-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19089195,
+      "code": "LEDU-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3643300,
+      "code": "LEDU-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
       "id": 44968687,
-      "code": "LEDU-EN020",
+      "code": "LEDU-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 295517,
+      "code": "LEDU-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45078193,
+      "code": "LEDU-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82562802,
+      "code": "LEDU-023",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18967507,
+      "code": "LEDU-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44352516,
+      "code": "LEDU-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41230939,
+      "code": "LEDU-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77625948,
+      "code": "LEDU-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3019642,
+      "code": "LEDU-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71340250,
+      "code": "LEDU-029",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17745969,
+      "code": "LEDU-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44139064,
+      "code": "LEDU-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70628672,
+      "code": "LEDU-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 984114,
+      "code": "LEDU-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73333463,
+      "code": "LEDU-034",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 23299957,
-      "code": "LEDU-EN035",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 85066822,
-      "code": "LEDU-EN042",
+      "code": "LEDU-035",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 6022371,
-      "code": "LEDU-EN036",
+      "code": "LEDU-036",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 78574395,
-      "code": "LEDU-EN049",
+      "id": 43017476,
+      "code": "LEDU-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79402185,
+      "code": "LEDU-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6890729,
+      "code": "LEDU-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22587018,
+      "code": "LEDU-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58071123,
+      "code": "LEDU-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85066822,
+      "code": "LEDU-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33245030,
+      "code": "LEDU-043",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 51534754,
-      "code": "LEDU-EN044",
+      "code": "LEDU-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98225108,
+      "code": "LEDU-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43359262,
+      "code": "LEDU-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34016756,
+      "code": "LEDU-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74848038,
+      "code": "LEDU-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78574395,
+      "code": "LEDU-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42671151,
+      "code": "LEDU-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45898858,
+      "code": "LEDU-051",
       "rarity": "Common",
       "image_index": 0
     }

@@ -1,266 +1,21 @@
 {
   "name": "OTS Tournament Pack 9",
   "code": "OP09",
-  "type": "",
-  "date": "",
+  "type": "OTS Tournament Pack",
+  "date": "06-12-2018",
   "image": "https://ygoprodeck.com/pics_sets/OP09.jpg",
-  "pull_type": "full",
+  "pull_type": "distribution",
+  "distribution": "ots_tournament_pack",
   "cards": [
     {
-      "id": 72892473,
-      "code": "OP09-008",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72892473,
-      "code": "OP09-008",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40418351,
-      "code": "OP09-027",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 69884162,
-      "code": "OP09-013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 69884162,
-      "code": "OP09-013",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 40044918,
       "code": "OP09-001",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
-      "id": 40044918,
-      "code": "OP09-001",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 74335036,
-      "code": "OP09-022",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 74335036,
-      "code": "OP09-022",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 60222582,
-      "code": "OP09-010",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60222582,
-      "code": "OP09-010",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 98555327,
-      "code": "OP09-005",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 98555327,
-      "code": "OP09-005",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 61740673,
-      "code": "OP09-023",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 61740673,
-      "code": "OP09-023",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 90434657,
-      "code": "OP09-024",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 90434657,
-      "code": "OP09-024",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 11913700,
-      "code": "OP09-020",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 11913700,
-      "code": "OP09-020",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 9742784,
-      "code": "OP09-018",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 9742784,
-      "code": "OP09-018",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 33508719,
-      "code": "OP09-004",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 33508719,
-      "code": "OP09-004",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 88177324,
-      "code": "OP09-019",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 88177324,
-      "code": "OP09-019",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 53936268,
-      "code": "OP09-012",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 53936268,
-      "code": "OP09-012",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34989413,
-      "code": "OP09-007",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34989413,
-      "code": "OP09-007",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 45815891,
-      "code": "OP09-036",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 56746202,
-      "code": "OP09-028",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 28388296,
-      "code": "OP09-035",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 83135907,
-      "code": "OP09-029",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 82012319,
-      "code": "OP09-030",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 64550682,
-      "code": "OP09-032",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 65503206,
-      "code": "OP09-031",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 48445393,
-      "code": "OP09-034",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 1050684,
-      "code": "OP09-033",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 24940422,
-      "code": "OP09-011",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 24940422,
-      "code": "OP09-011",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 53778229,
-      "code": "OP09-021",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 53778229,
-      "code": "OP09-021",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 90673288,
-      "code": "OP09-003",
+      "id": 35199656,
+      "code": "OP09-002",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
@@ -271,8 +26,32 @@
       "image_index": 0
     },
     {
-      "id": 48130397,
-      "code": "OP09-009",
+      "id": 33508719,
+      "code": "OP09-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98555327,
+      "code": "OP09-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20318029,
+      "code": "OP09-006",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34989413,
+      "code": "OP09-007",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72892473,
+      "code": "OP09-008",
       "rarity": "Super Rare",
       "image_index": 0
     },
@@ -283,32 +62,32 @@
       "image_index": 0
     },
     {
-      "id": 64910482,
-      "code": "OP09-014",
+      "id": 60222582,
+      "code": "OP09-010",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24940422,
+      "code": "OP09-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53936268,
+      "code": "OP09-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69884162,
+      "code": "OP09-013",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 64910482,
       "code": "OP09-014",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 36687247,
-      "code": "OP09-017",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 36687247,
-      "code": "OP09-017",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 1315120,
-      "code": "OP09-015",
       "rarity": "Common",
       "image_index": 0
     },
@@ -325,8 +104,50 @@
       "image_index": 0
     },
     {
-      "id": 293542,
-      "code": "OP09-016",
+      "id": 36687247,
+      "code": "OP09-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9742784,
+      "code": "OP09-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88177324,
+      "code": "OP09-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11913700,
+      "code": "OP09-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53778229,
+      "code": "OP09-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74335036,
+      "code": "OP09-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61740673,
+      "code": "OP09-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90434657,
+      "code": "OP09-024",
       "rarity": "Common",
       "image_index": 0
     },
@@ -334,36 +155,6 @@
       "id": 8038143,
       "code": "OP09-025",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 8038143,
-      "code": "OP09-025",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 20318029,
-      "code": "OP09-006",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 20318029,
-      "code": "OP09-006",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 35199656,
-      "code": "OP09-002",
-      "rarity": "Ultimate Rare",
-      "image_index": 0
-    },
-    {
-      "id": 35199656,
-      "code": "OP09-002",
-      "rarity": "Ultimate Rare",
       "image_index": 0
     }
   ]
